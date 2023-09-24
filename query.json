@@ -1,0 +1,919 @@
+{
+    "search_metadata": {
+        "id": "6510460e0f98668b87e9b9a4",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/c47ff8bcc189d27d/6510460e0f98668b87e9b9a4.json",
+        "created_at": "2023-09-24 14:22:06 UTC",
+        "processed_at": "2023-09-24 14:22:06 UTC",
+        "google_url": "https://www.google.com/search?q=Inglorious+Basterds&oq=Inglorious+Basterds&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/c47ff8bcc189d27d/6510460e0f98668b87e9b9a4.html",
+        "total_time_taken": 1.85
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Inglorious Basterds",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "Inglorious Basterds",
+        "total_results": 44200000,
+        "time_taken_displayed": 0.43,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=568007022&q=Inglourious+Basterds&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQ0pQJegQIDxAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=Inglourious+Basterds"
+            },
+            {
+                "position": 2,
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=568007022&q=Inglourious+Basterds&tbm=vid&source=lnms&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQ0pQJegQIDhAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=Inglourious+Basterds"
+            },
+            {
+                "position": 3,
+                "title": "Watch",
+                "link": "https://www.google.com/search?sca_esv=568007022&q=Watch+Inglourious+Basterds&uds=H4sIAAAAAAAA_-Oy4mINTyxJzhAS9sxLz8kvyswvLVZwSiwuSS1KKTZgLJICyyqAJUtRZY2waQEACLRG11EAAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQxKsJegQIDRAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Watch+Inglourious+Basterds"
+            },
+            {
+                "position": 4,
+                "title": "Full movie",
+                "link": "https://www.google.com/search?sca_esv=568007022&q=Inglourious+Basterds+full+movie&uds=H4sIAAAAAAAA_-Ny4eJyK83JUcjNL8tMFRL2zEvPyS_KzC8tVnBKLC5JLUopNmAqkgcLl6KKK6TB9Rlh0wcA3y2i4lsAAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQxKsJegQIDBAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inglourious+Basterds+full+movie"
+            },
+            {
+                "position": 5,
+                "title": "Netflix",
+                "link": "https://www.google.com/search?sca_esv=568007022&q=Inglourious+Basterds+Netflix&uds=H4sIAAAAAAAA_-Oy42L3Sy1Jy8msEBL2zEvPyS_KzC8tVnBKLC5JLUopNmAqkgELl6KKK0A1GWHTBAA7W2BMVQAAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQxKsJegUIkAEQAQ&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inglourious+Basterds+Netflix"
+            },
+            {
+                "position": 6,
+                "title": "Review",
+                "link": "https://www.google.com/search?sca_esv=568007022&q=Inglourious+Basterds+review&uds=H4sIAAAAAAAA_-Oy4WILSi3LTC0XEvbMS8_JL8rMLy1WcEosLkktSik2YCySBguXooorFIH1GGHTAwBBkL36UwAAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQxKsJegUIkwEQAQ&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inglourious+Basterds+review"
+            },
+            {
+                "position": 7,
+                "title": "2",
+                "link": "https://www.google.com/search?sca_esv=568007022&q=Inglourious+Basterds+2&uds=H4sIAAAAAAAA_-My4mI0EhL2zEvPyS_KzC8tVnBKLC5JLUopNmAqEgMLl6KKKxgZYVMOAMBn--JJAAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQxKsJegUIlAEQAQ&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inglourious+Basterds+2"
+            },
+            {
+                "position": 8,
+                "title": "Imdb",
+                "link": "https://www.google.com/search?sca_esv=568007022&q=Imdb+Inglourious+Basterds+cast&uds=H4sIAAAAAAAA_-Oy5WLxzE1JEhL2zEvPyS_KzC8tVnBKLC5JLUopNmAqkgNJKoDlSlElFZKBDCNs2gCYZhQiVAAAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQxKsJegUIkgEQAQ&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Imdb+Inglourious+Basterds+cast"
+            },
+            {
+                "position": 9,
+                "title": "Trailer",
+                "link": "https://www.google.com/search?sca_esv=568007022&q=Inglourious+Basterds+Trailer&uds=H4sIAAAAAAAA_-Oy42IPKUrMzEktEhL2zEvPyS_KzC8tVnBKLC5JLUopNmAqkgELl6KKK0A1GWHTBAAOeLp0VQAAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQxKsJegUIkQEQAQ&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inglourious+Basterds+Trailer"
+            }
+        ],
+        "organic_results_state": "Some results for exact spelling but showing fixed spelling",
+        "spelling_fix": "Inglourious Basterds",
+        "showing_results_for": "Inglourious Basterds"
+    },
+    "available_on": [
+        {
+            "name": "YouTube",
+            "link": "http://www.youtube.com/watch?v=fQgY49vPTzs",
+            "price": "From $3.99",
+            "thumbnail": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/c14ccd4b64ec676626b9e5f816e712f99caad35a8a40dbd3b84b2c0cfae2f85d.png"
+        },
+        {
+            "name": "Google Play Movies & TV",
+            "link": "https://play.google.com/store/movies/details?id=U5GbFl6C47c.P",
+            "price": "From $3.99",
+            "thumbnail": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/c14ccd4b64ec6766576532d87586170c007141d4bfc0b97fb2885e50220084a4.png"
+        },
+        {
+            "name": "Apple TV",
+            "link": "https://tv.apple.com/us/movie/inglourious-basterds/umc.cmc.3r1vekw1q5380qojcz9t1ie6a?action=play",
+            "price": "$3.99",
+            "thumbnail": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/c14ccd4b64ec6766696a3ace52b55ca8b47d5e4d6d95f4087fe3749f56475345.png"
+        }
+    ],
+    "knowledge_graph": {
+        "title": "Inglourious Basterds",
+        "type": "R 2009 \u2027 War/Action \u2027 2h 33m",
+        "main_tab_text": "Overview",
+        "kgmid": "/m/02yvct",
+        "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/02yvct&hl=en-US&q=Inglourious+Basterds&kgs=686d7daa3a35b578&shndl=17&source=sh/x",
+        "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F02yvct&q=Inglourious+Basterds",
+        "tabs": [
+            {
+                "text": "Cast",
+                "si": "ALGXSlYCCh7qEDaDcHEBy5zKn4mkH3oZ-vFcATGQzqRUetzvmqzH08N8RHPwF4sfRmP_5s8G6k30TIPBfQNo8xB9qp8pyy9sz7uxVeSdZ0eCwDUB3nA6waKUFwjYLxylz5U54hiUn-U35zCkX8sZ248kSzJisPo4upcUhfNPaoPkuChDAoeWp_dv2e6INb3zjh_vCyc9_1Sj4YiCDhjTAQkQLpIjqEmXCZBFWPiwn_F-LY8iZKVHf1gGPQ1U09nNrLVC8HWpbfPMCkJUJLwDMKWOwO_s6_Aakw==",
+                "link": "https://www.google.com/search?si=ALGXSlYCCh7qEDaDcHEBy5zKn4mkH3oZ-vFcATGQzqRUetzvmqzH08N8RHPwF4sfRmP_5s8G6k30TIPBfQNo8xB9qp8pyy9sz7uxVeSdZ0eCwDUB3nA6waKUFwjYLxylz5U54hiUn-U35zCkX8sZ248kSzJisPo4upcUhfNPaoPkuChDAoeWp_dv2e6INb3zjh_vCyc9_1Sj4YiCDhjTAQkQLpIjqEmXCZBFWPiwn_F-LY8iZKVHf1gGPQ1U09nNrLVC8HWpbfPMCkJUJLwDMKWOwO_s6_Aakw==",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inglorious+Basterds&si=ALGXSlYCCh7qEDaDcHEBy5zKn4mkH3oZ-vFcATGQzqRUetzvmqzH08N8RHPwF4sfRmP_5s8G6k30TIPBfQNo8xB9qp8pyy9sz7uxVeSdZ0eCwDUB3nA6waKUFwjYLxylz5U54hiUn-U35zCkX8sZ248kSzJisPo4upcUhfNPaoPkuChDAoeWp_dv2e6INb3zjh_vCyc9_1Sj4YiCDhjTAQkQLpIjqEmXCZBFWPiwn_F-LY8iZKVHf1gGPQ1U09nNrLVC8HWpbfPMCkJUJLwDMKWOwO_s6_Aakw%3D%3D"
+            },
+            {
+                "text": "Watch movie",
+                "si": "ALGXSlYkQDdBSV9uI-V3DYQyIqPcrbk33E1yLtocPVjAx6hCI_SIBvyAWuPDL5slf71OwsMWFbuict9LiyzYHUZlGjttURTIdzbN3RSJcJpsnLafvu5Ee1n2XN0pvlkVnTrJT59u10fNs80PPmSd5z_i9XOCFWSsy93KfxhggMsS4JFt-y6R4Bo=",
+                "link": "https://www.google.com/search?si=ALGXSlYkQDdBSV9uI-V3DYQyIqPcrbk33E1yLtocPVjAx6hCI_SIBvyAWuPDL5slf71OwsMWFbuict9LiyzYHUZlGjttURTIdzbN3RSJcJpsnLafvu5Ee1n2XN0pvlkVnTrJT59u10fNs80PPmSd5z_i9XOCFWSsy93KfxhggMsS4JFt-y6R4Bo=",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inglorious+Basterds&si=ALGXSlYkQDdBSV9uI-V3DYQyIqPcrbk33E1yLtocPVjAx6hCI_SIBvyAWuPDL5slf71OwsMWFbuict9LiyzYHUZlGjttURTIdzbN3RSJcJpsnLafvu5Ee1n2XN0pvlkVnTrJT59u10fNs80PPmSd5z_i9XOCFWSsy93KfxhggMsS4JFt-y6R4Bo%3D"
+            },
+            {
+                "text": "Reviews",
+                "si": "ALGXSlaD69LsqbJjW98OWcjCC_LsZKjzBUvey-W6anOmDt28jM2QCu7QrvCDaZcZQuf80cecbsUWXTGGZ74Y8E1ikwQLW1Lx1XourcQhrdkhIcTyaaYHvzIks3Z_1zCEWnZ8F32ZEctyHZb-YcF5IAoY6FM9BIBgy_1vCYZymX5NCmHkXNKLztBy2zfPZTnwq8_8P50wkStj",
+                "link": "https://www.google.com/search?si=ALGXSlaD69LsqbJjW98OWcjCC_LsZKjzBUvey-W6anOmDt28jM2QCu7QrvCDaZcZQuf80cecbsUWXTGGZ74Y8E1ikwQLW1Lx1XourcQhrdkhIcTyaaYHvzIks3Z_1zCEWnZ8F32ZEctyHZb-YcF5IAoY6FM9BIBgy_1vCYZymX5NCmHkXNKLztBy2zfPZTnwq8_8P50wkStj",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inglorious+Basterds&si=ALGXSlaD69LsqbJjW98OWcjCC_LsZKjzBUvey-W6anOmDt28jM2QCu7QrvCDaZcZQuf80cecbsUWXTGGZ74Y8E1ikwQLW1Lx1XourcQhrdkhIcTyaaYHvzIks3Z_1zCEWnZ8F32ZEctyHZb-YcF5IAoY6FM9BIBgy_1vCYZymX5NCmHkXNKLztBy2zfPZTnwq8_8P50wkStj"
+            },
+            {
+                "text": "Trailers & clips",
+                "si": "ALGXSlaD69LsqbJjW98OWcjCC_LsZKjzBUvey-W6anOmDt28jM2QCu7QrvCDaZcZQuf80cecbsUWXTGGZ74Y8E1ikwQLW1Lx1XourcQhrdkhIcTyaaYHvzIks3Z_1zCEWnZ8F32ZEctyHZb-YcF5IAoY6FM9BIBgy_1vCYZymX5NCmHkXNKLztBy2zfPZTnwq8_8P50wkStj",
+                "link": "https://www.google.com/search?si=ALGXSlaD69LsqbJjW98OWcjCC_LsZKjzBUvey-W6anOmDt28jM2QCu7QrvCDaZcZQuf80cecbsUWXTGGZ74Y8E1ikwQLW1Lx1XourcQhrdkhIcTyaaYHvzIks3Z_1zCEWnZ8F32ZEctyHZb-YcF5IAoY6FM9BIBgy_1vCYZymX5NCmHkXNKLztBy2zfPZTnwq8_8P50wkStj",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inglorious+Basterds&si=ALGXSlaD69LsqbJjW98OWcjCC_LsZKjzBUvey-W6anOmDt28jM2QCu7QrvCDaZcZQuf80cecbsUWXTGGZ74Y8E1ikwQLW1Lx1XourcQhrdkhIcTyaaYHvzIks3Z_1zCEWnZ8F32ZEctyHZb-YcF5IAoY6FM9BIBgy_1vCYZymX5NCmHkXNKLztBy2zfPZTnwq8_8P50wkStj"
+            },
+            {
+                "text": "Quotes",
+                "si": "ALGXSlZnrJYyd6tgOkfzKCpUhvKPtKnJr9na4hBHKNSTf4QfP_cVmmoutUldCKzaMGNf4V6GxZ-FzC-czbO1CSTjf1A6BiRLBlcgrcqcwj2OVN0JiRMhT6BAi6SRs2-4gYciox8KcQEB2RI5FfdIDUrVv_qDGZ5Db-xNXWXL7vkCkEGXSrHSzYZvOaE9QqQ_uyozMj-X3HX_",
+                "link": "https://www.google.com/search?si=ALGXSlZnrJYyd6tgOkfzKCpUhvKPtKnJr9na4hBHKNSTf4QfP_cVmmoutUldCKzaMGNf4V6GxZ-FzC-czbO1CSTjf1A6BiRLBlcgrcqcwj2OVN0JiRMhT6BAi6SRs2-4gYciox8KcQEB2RI5FfdIDUrVv_qDGZ5Db-xNXWXL7vkCkEGXSrHSzYZvOaE9QqQ_uyozMj-X3HX_",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inglorious+Basterds&si=ALGXSlZnrJYyd6tgOkfzKCpUhvKPtKnJr9na4hBHKNSTf4QfP_cVmmoutUldCKzaMGNf4V6GxZ-FzC-czbO1CSTjf1A6BiRLBlcgrcqcwj2OVN0JiRMhT6BAi6SRs2-4gYciox8KcQEB2RI5FfdIDUrVv_qDGZ5Db-xNXWXL7vkCkEGXSrHSzYZvOaE9QqQ_uyozMj-X3HX_"
+            }
+        ],
+        "description": "It is the first year of Germany's occupation of France. Allied officer Lt. Aldo Raine (Brad Pitt) assembles a team of Jewish soldiers to commit violent acts of retribution against the Nazis, including the taking of their scalps. He and his men join forces with Bridget von Hammersmark, a German actress and undercover agent, to bring down the leaders of the Third Reich. Their fates converge with theater owner Shosanna Dreyfus, who seeks to avenge the Nazis' execution of her family.\u2026 MORE",
+        "release_date": "August 21, 2009 (USA)",
+        "release_date_links": [
+            {
+                "text": "USA",
+                "link": "https://www.google.com/search?sca_esv=568007022&q=United+States&stick=H4sIAAAAAAAAAOPgE-LUz9U3MKosSy5RAjMtk83LDbSMspOt9NMyc3LBhFVJRmpiSVFmcmKOQlFqemZ-nkJieWJRKpCTk5pYnKqQkliSuoiVNzQvsyQ1RSG4BMgt3sHKuIudiYMBAL4Fee9kAAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQmxMoAHoECCkQAg"
+            }
+        ],
+        "director": "Quentin Tarantino",
+        "director_links": [
+            {
+                "text": "Quentin Tarantino",
+                "link": "https://www.google.com/search?sca_esv=568007022&q=Quentin+Tarantino&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2mVxaZ_tg9fdXSNhyDbEFJhXfet0EfELh5dWTsuh2RDm0GHyCfgaO8-jyXvKdqwF3zTfDYBzacdD6ZPlClg8yqwAtRMLOlAy-QmEBrIcoODXIX0cjv1525BurTzHG0umAxZwQPXTbflzCGIZ_K8owuUzHfR-D4U-6HfDTPVLW-S2DWR6jmw%3D%3D&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQmxMoAHoECCQQAg"
+            }
+        ],
+        "box_office": "321.5 million USD",
+        "distributed_by": "Universal Pictures, Universal Pictures Home Entertainment, The Weinstein Company",
+        "distributed_by_links": [
+            {
+                "text": "Universal Pictures",
+                "link": "https://www.google.com/search?sca_esv=568007022&q=Universal+Pictures&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stJCUf90xbUcDP0ePRfGRUT5KC24_sneq6QnKxDvpJL0wljHrg3pOwk7i6phnsFjFqhC3q4nrAwvn9Oijttb_EvI8G9w2BsqOYhRZJBgB8uo-pUJ89yD72V3SDAR9fUdPfIk-pKxQH_8DOHfpERfQMkxh-XHcxfPR3qCD4VH_VtXnnFVMaQ%3D%3D&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQmxMoAHoECCwQAg"
+            },
+            {
+                "text": "Universal Pictures Home Entertainment",
+                "link": "https://www.google.com/search?sca_esv=568007022&q=Universal+Pictures+Home+Entertainment&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFK7EyOKOcAhmh6R8Yd7XaIKXx7z70yzvJqFsucJToCSJnWV5Uq-Rau4EFYvhBSRNh5AGoKRyedljYHG342TLZV__UdY-AmV3CU4OJd2R88VixvRH_ZMRLi3-nkhSaouvyD9ETrDc5wd-mCUVS4-8qYIDwjDxKRRmeZ8NNFhZRZAwE_1064mqLq43v0S9tUFtPeg_DAA%3D&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQmxMoAXoECCwQAw"
+            },
+            {
+                "text": "The Weinstein Company",
+                "link": "https://www.google.com/search?sca_esv=568007022&q=The+Weinstein+Company&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stA_sNwA2xmDpOET-PCfxCO06nlZQbykxOOLnkkltH9Px168oC7uuNKdtEF3LwjpsbXujj53g7-B9aACkGPw-b843o5qf7sYUNiAYrNNOTSRvucpWpdNfz5XMipk92A6kv9ofA3wzPWUPv_9gy5d2Q_0-oQ37L1ILpasozgw-R51cAJac9w%3D%3D&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQmxMoAnoECCwQBA"
+            }
+        ],
+        "languages": "English; German; French",
+        "languages_links": [
+            {
+                "text": "German",
+                "link": "https://www.google.com/search?sca_esv=568007022&q=German&stick=H4sIAAAAAAAAAONgVuLQz9U3MDYxzVjEyuaeWpSbmAcA2HIm4hUAAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQmxMoAHoECC4QAg"
+            },
+            {
+                "text": "French",
+                "link": "https://www.google.com/search?sca_esv=568007022&q=French&stick=H4sIAAAAAAAAAONgVuLUz9U3SLPIsUxexMrmVpSal5wBAMoRpm4WAAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQmxMoAXoECC4QAw"
+            }
+        ],
+        "produced_by": "Lawrence Bender",
+        "produced_by_links": [
+            {
+                "text": "Lawrence Bender",
+                "link": "https://www.google.com/search?sca_esv=568007022&q=Lawrence+Bender&stick=H4sIAAAAAAAAAONgVuLUz9U3MDWJz61axMrvk1helJqXnKrglJqXkloEAEmy0oAfAAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQmxMoAHoECCEQAg"
+            }
+        ],
+        "editorial_reviews": [
+            {
+                "title": "IMDb",
+                "rating": "8.3/10",
+                "link": "https://www.imdb.com/title/tt0361748/"
+            },
+            {
+                "title": "Rotten Tomatoes",
+                "rating": "89%",
+                "link": "https://www.rottentomatoes.com/m/inglourious_basterds"
+            },
+            {
+                "title": "Common Sense Media",
+                "rating": "4/5",
+                "link": "https://www.commonsensemedia.org/movie-reviews/inglourious-basterds"
+            }
+        ],
+        "clip": {
+            "title": "Inglourious Basterds Official Trailer #1 - Brad Pitt Movie (2009) HD1:46",
+            "link": "https://www.youtube.com/watch?v=KnrRy6kSFF0",
+            "duration": "1:46",
+            "image": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/7cca592e5484b672ff4157a45227d2ebd8aec1477e937a7b53e843c01983c375.jpeg"
+        },
+        "user_statistics": {
+            "platform": "Google users",
+            "statistic": "88% liked this movie"
+        },
+        "cast": [
+            {
+                "name": "Quentin Tarantino",
+                "extensions": [
+                    "First Scalped Nazi"
+                ],
+                "link": "https://www.google.com/search?sca_esv=568007022&q=Quentin+Tarantino&stick=H4sIAAAAAAAAAONgFuLUz9U3MKosSy5R4gAxzSyNc7SEspOt9NMyc3LBhFVyYnHJIlbBwNLUvJLMPIWQxKJEECN_BysjANAMub1CAAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQgOQBegQIKxAE",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Quentin+Tarantino&stick=H4sIAAAAAAAAAONgFuLUz9U3MKosSy5R4gAxzSyNc7SEspOt9NMyc3LBhFVyYnHJIlbBwNLUvJLMPIWQxKJEECN_BysjANAMub1CAAAA",
+                "image": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/7cca592e5484b672ff4157a45227d2eb35f1b1dfed0a15e1ddcd705aa8ebcabe.jpeg"
+            },
+            {
+                "name": "Christoph Waltz",
+                "extensions": [
+                    "Hans Landa"
+                ],
+                "link": "https://www.google.com/search?sca_esv=568007022&q=Christoph+Waltz&stick=H4sIAAAAAAAAAONgFuLUz9U3MKosSy5R4gIzzYpy4yu1hLKTrfTTMnNywYRVcmJxySJWfueMoszikvyCDIXwxJySqh2sjAAsEMR0QgAAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQgOQBegQIKxAG",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Christoph+Waltz&stick=H4sIAAAAAAAAAONgFuLUz9U3MKosSy5R4gIzzYpy4yu1hLKTrfTTMnNywYRVcmJxySJWfueMoszikvyCDIXwxJySqh2sjAAsEMR0QgAAAA",
+                "image": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/7cca592e5484b672ff4157a45227d2eba87e48af12d0b0bccf5f7f0ec46763b0.jpeg"
+            },
+            {
+                "name": "Brad Pitt",
+                "extensions": [
+                    "Lt. Aldo Raine"
+                ],
+                "link": "https://www.google.com/search?sca_esv=568007022&q=Brad+Pitt&stick=H4sIAAAAAAAAAONgFuLUz9U3MKosSy5R4gAxk80KM7SEspOt9NMyc3LBhFVyYnHJIlZOp6LEFIWAzJKSHayMACRs8H86AAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQgOQBegQIKxAI",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Brad+Pitt&stick=H4sIAAAAAAAAAONgFuLUz9U3MKosSy5R4gAxk80KM7SEspOt9NMyc3LBhFVyYnHJIlZOp6LEFIWAzJKSHayMACRs8H86AAAA",
+                "image": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/7cca592e5484b672ff4157a45227d2eb0286f937fa7a8efa911f0005b445dfb7.jpeg"
+            },
+            {
+                "name": "Eli Roth",
+                "extensions": [
+                    "Sgt. Donny Donowitz"
+                ],
+                "link": "https://www.google.com/search?sca_esv=568007022&q=Eli+Roth&stick=H4sIAAAAAAAAAONgFuLUz9U3MKosSy5RAjNNLbILK7WEspOt9NMyc3LBhFVyYnHJIlYO15xMhaD8kowdrIwAIel6KzoAAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQgOQBegQIKxAK",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Eli+Roth&stick=H4sIAAAAAAAAAONgFuLUz9U3MKosSy5RAjNNLbILK7WEspOt9NMyc3LBhFVyYnHJIlYO15xMhaD8kowdrIwAIel6KzoAAAA",
+                "image": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/7cca592e5484b672ff4157a45227d2eb2eb2e0d9c0e5171d5e023de13a473714.jpeg"
+            },
+            {
+                "name": "M\u00e9lanie Laurent",
+                "extensions": [
+                    "Shosanna Dreyfus"
+                ],
+                "link": "https://www.google.com/search?sca_esv=568007022&q=M%C3%A9lanie+Laurent&stick=H4sIAAAAAAAAAONgFuLUz9U3MKosSy5R4gIxTXJSMpJMtYSyk6300zJzcsGEVXJicckiVgHfwytzEvMyUxV8EkuLUvNKdrAyAgAg18fnQwAAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQgOQBegQIKxAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=M%C3%A9lanie+Laurent&stick=H4sIAAAAAAAAAONgFuLUz9U3MKosSy5R4gIxTXJSMpJMtYSyk6300zJzcsGEVXJicckiVgHfwytzEvMyUxV8EkuLUvNKdrAyAgAg18fnQwAAAA",
+                "image": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/7cca592e5484b672ff4157a45227d2ebedd056b080eca0948006c76c57081d82.jpeg"
+            },
+            {
+                "name": "Diane Kruger",
+                "extensions": [
+                    "Bridget von Hammersmark"
+                ],
+                "link": "https://www.google.com/search?sca_esv=568007022&q=Diane+Kruger&stick=H4sIAAAAAAAAAONgFuLUz9U3MKosSy5RAjONjc1yk7WEspOt9NMyc3LBhFVyYnHJIlYel8zEvFQF76LS9NSiHayMAGBFtdI-AAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQgOQBegQIKxAO",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Diane+Kruger&stick=H4sIAAAAAAAAAONgFuLUz9U3MKosSy5RAjONjc1yk7WEspOt9NMyc3LBhFVyYnHJIlYel8zEvFQF76LS9NSiHayMAGBFtdI-AAAA",
+                "image": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/7cca592e5484b672ff4157a45227d2eb7063a3168eeea8ce949a5788d3e72501.jpeg"
+            },
+            {
+                "name": "Daniel Br\u00fchl",
+                "extensions": [
+                    "Frederick Zoller"
+                ],
+                "link": "https://www.google.com/search?sca_esv=568007022&q=Daniel+Br%C3%BChl&stick=H4sIAAAAAAAAAONgFuLUz9U3MKosSy5RAjPNCstMKrWEspOt9NMyc3LBhFVyYnHJIlZel8S8zNQcBaeiw3sycnawMgIA3bGSVz8AAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQgOQBegQIKxAQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Daniel+Br%C3%BChl&stick=H4sIAAAAAAAAAONgFuLUz9U3MKosSy5RAjPNCstMKrWEspOt9NMyc3LBhFVyYnHJIlZel8S8zNQcBaeiw3sycnawMgIA3bGSVz8AAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8v-kTk4dBnu9COPJ4fT2xNyPfTYT0MX02xa4s_2Tf4Y5cXoZg-akngjiEiw&s=10"
+            }
+        ],
+        "watch_now": [
+            {
+                "name": "Watch now Subscription",
+                "link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f0a9f6f5-b03c-7f8b-4c2e-f75b28de08a4?autoplay=0&ref_=atv_cf_strg_wb",
+                "image": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/7cca592e5484b672ff4157a45227d2ebbdb249ad5ad2381eb884fb6b6d6f178277bed67ae3023dc6.png"
+            }
+        ],
+        "people_also_search_for": [
+            {
+                "name": "Django Unchained (2012)",
+                "extensions": [
+                    "2012"
+                ],
+                "link": "https://www.google.com/search?sca_esv=568007022&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFN9EUpnmPBhkUFwmbzQv3CBWuGepa9_-oCSZkac4I-ItS3gzsqYAxw2YkLpioJ0stPIeOzhjzDJth4Sbb9Wkbt07zJK5zY-rdEKu2UvbOhZxcI5OS8aQqDsgEev2WqMozwAWkEZYozF9MPB7H0vyR7_TEeG8VOBCnh982g4U_7H1EOGcRkrdJjJw1d55YTG5dk1HFJsZK6lrs6E4FE3HHCpkywU71CpT7tdmzanHO47rswD01YqreT-aw4TR2IJAI5xFlQ4%3D&q=Django+Unchained&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQs9oBKAB6BAgaEAI",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Django+Unchained&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFN9EUpnmPBhkUFwmbzQv3CBWuGepa9_-oCSZkac4I-ItS3gzsqYAxw2YkLpioJ0stPIeOzhjzDJth4Sbb9Wkbt07zJK5zY-rdEKu2UvbOhZxcI5OS8aQqDsgEev2WqMozwAWkEZYozF9MPB7H0vyR7_TEeG8VOBCnh982g4U_7H1EOGcRkrdJjJw1d55YTG5dk1HFJsZK6lrs6E4FE3HHCpkywU71CpT7tdmzanHO47rswD01YqreT-aw4TR2IJAI5xFlQ4%3D",
+                "image": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/7cca592e5484b672ff4157a45227d2eb720b3568c8127ef7205905ecb504b542efcbe42077c187205d69ee6529833a42.jpeg"
+            },
+            {
+                "name": "Pulp Fiction (1994)",
+                "extensions": [
+                    "1994"
+                ],
+                "link": "https://www.google.com/search?sca_esv=568007022&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2md2cB191-7Ba9l1qCeBp_Sden7Z4Fx7eFlCLpnhbFC3zljgfCYVNVEfVSGDOqpMxLjfbM8Fqa90pslxKWilYASL6lU256UIr3UaXeTFHv8mknLbJT6o1F7DVPwOs0glXcH2fjy0xEA-uZgB2VLBVOkB4ywez2TW6INNLJBvTmVdEUZqAoWOFRNCGtaJYeIrv3idIifZkJ_GuBVvE1ZnZiTxFcO0Ga10bvbEAOvFwr_A4JXglEbo-7NN30YaLVpgY1guPagc%3D&q=Pulp+Fiction&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQs9oBKAF6BAgaEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pulp+Fiction&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2md2cB191-7Ba9l1qCeBp_Sden7Z4Fx7eFlCLpnhbFC3zljgfCYVNVEfVSGDOqpMxLjfbM8Fqa90pslxKWilYASL6lU256UIr3UaXeTFHv8mknLbJT6o1F7DVPwOs0glXcH2fjy0xEA-uZgB2VLBVOkB4ywez2TW6INNLJBvTmVdEUZqAoWOFRNCGtaJYeIrv3idIifZkJ_GuBVvE1ZnZiTxFcO0Ga10bvbEAOvFwr_A4JXglEbo-7NN30YaLVpgY1guPagc%3D",
+                "image": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/7cca592e5484b672ff4157a45227d2eb720b3568c8127ef7205905ecb504b542a04ed1e0de7db400bf1c91d0030c7332.jpeg"
+            },
+            {
+                "name": "The Hateful Eight (2015)",
+                "extensions": [
+                    "2015"
+                ],
+                "link": "https://www.google.com/search?sca_esv=568007022&si=ALGXSlYPkF2MKlZLFV56Lmj_Zy6ZT1rGy73vWpQufutnylBobbe8KJwshNHxCq9Axqe4dSTGwQwE91Iap9VC4bHym3DoWfGw-s_DgBZoO27T5m7EOypRZt_c-OUf8evfby8b4BD5_0_k28Ld0raCjLzcf7m_2h1RnlchX5p9FUl9eeeWG1l2z1HSVEfvWw4Z5vY8Oy-DXvWNn5E-nFfrZwRTPPVbKiSMO2tCvh_WVepldOqAys7fcMiSZ03Vd3dkfmGGCLqJ0fVQIQtjIpkDnMy8wfQdNhHoLujE6P1KeFWWNrj-9jlLFTWTqMfUlGFX42D5qF61lv_e&q=The+Hateful+Eight&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQs9oBKAJ6BAgaEAQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Hateful+Eight&si=ALGXSlYPkF2MKlZLFV56Lmj_Zy6ZT1rGy73vWpQufutnylBobbe8KJwshNHxCq9Axqe4dSTGwQwE91Iap9VC4bHym3DoWfGw-s_DgBZoO27T5m7EOypRZt_c-OUf8evfby8b4BD5_0_k28Ld0raCjLzcf7m_2h1RnlchX5p9FUl9eeeWG1l2z1HSVEfvWw4Z5vY8Oy-DXvWNn5E-nFfrZwRTPPVbKiSMO2tCvh_WVepldOqAys7fcMiSZ03Vd3dkfmGGCLqJ0fVQIQtjIpkDnMy8wfQdNhHoLujE6P1KeFWWNrj-9jlLFTWTqMfUlGFX42D5qF61lv_e",
+                "image": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/7cca592e5484b672ff4157a45227d2eb720b3568c8127ef7205905ecb504b542bcf7215d51debb6d9bc59c6bef05aabc.jpeg"
+            },
+            {
+                "name": "Reservoir Dogs (1992)",
+                "extensions": [
+                    "1992"
+                ],
+                "link": "https://www.google.com/search?sca_esv=568007022&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFIuOWz7-7O1AE63Ke_usW-FH7eBBebpDLlhMOmpOkVC7gyYfgKDjsCSDSGF2cn0g4Jimj_cwWd4Z8wc9xi3MXFp9zRbMksa81lu384uDJDM3FNxExnJz0WBVUwH4fDHa2YIZIufTu7sDVEcHbyGycdvPd4pVIcIUFok1r1RcdC6i6F5fpeBFNLSo8SOrJqLwUN9twx1azhRpv0CtdxqeMCSdTLfrVAdd_P0jYDWA6VfdWzOeZhoKFg5-YMQNM1SlV2EBN3g%3D&q=Reservoir+Dogs&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQs9oBKAN6BAgaEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Reservoir+Dogs&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFIuOWz7-7O1AE63Ke_usW-FH7eBBebpDLlhMOmpOkVC7gyYfgKDjsCSDSGF2cn0g4Jimj_cwWd4Z8wc9xi3MXFp9zRbMksa81lu384uDJDM3FNxExnJz0WBVUwH4fDHa2YIZIufTu7sDVEcHbyGycdvPd4pVIcIUFok1r1RcdC6i6F5fpeBFNLSo8SOrJqLwUN9twx1azhRpv0CtdxqeMCSdTLfrVAdd_P0jYDWA6VfdWzOeZhoKFg5-YMQNM1SlV2EBN3g%3D",
+                "image": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/7cca592e5484b672ff4157a45227d2eb720b3568c8127ef7205905ecb504b542b9fc24591782a870b5752ee1e7bac571.jpeg"
+            }
+        ],
+        "people_also_search_for_link": "https://www.google.com/search?sca_esv=568007022&q=Inglourious+Basterds&stick=H4sIAAAAAAAAAONgFuLUz9U3MKosSy5RQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFfHMS8_JLy3KzC8tVnBKLC5JLUop3sHKeItNkuHAlcwl7kvn1ITYGD_nXBVpdizoGneU5E4jAEuszxd6AAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQ4qYDegQIGhAG",
+        "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3MKosSy5RQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFfHMS8_JLy3KzC8tVnBKLC5JLUop3sHKeItNkuHAlcwl7kvn1ITYGD_nXBVpdizoGneU5E4jAEuszxd6AAAA"
+    },
+    "inline_images": [
+        {
+            "source": "https://www.imdb.com/title/tt0361748/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTffUkxW5Ew8IcK3wrqtHsDqcdWDKhET3h3r_kKEeHyEkjznQxw5N8cOWG-&s",
+            "original": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+            "title": "Inglourious Basterds (2009) - IMDb",
+            "source_name": "IMDb"
+        },
+        {
+            "source": "https://www.brightwalldarkroom.com/2020/10/07/inglourious-basterds-alternate-histories-possible-futures/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiXL_oOTy182jpb5Ou2yGGQWiaG1Ughu8ZUAsoTXUDF987_aSlL61kejIrdw&s",
+            "original": "https://www.brightwalldarkroom.com/wp-content/uploads/2020/10/christoph-waltz-inglourious-basterds.jpg",
+            "title": "On Inglourious Basterds, Alternate Histories, and Possible ...",
+            "source_name": "Bright Wall/Dark Room"
+        },
+        {
+            "source": "https://www.amazon.com/Inglourious-Basterds-Brad-Pitt/dp/B002UEW31I",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6U_9EVw7MfLxvTDjEwtzQv6SaPUrVzABh17xbrQKB7yu1-mAv7e1aM-ZNKA&s",
+            "original": "https://m.media-amazon.com/images/S/pv-target-images/94e1a617100bf2641cb34cc4e3e38bdc499eb33b70f1e24886748f0978871ec6.jpg",
+            "title": "Watch Inglourious Basterds | Prime Video",
+            "source_name": "Amazon"
+        },
+        {
+            "source": "https://www.primevideo.com/detail/Inglourious-Basterds/0OO2I8SGWJ128GHUY1404Z1V5P",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt-OZXmQSWcmC361gfygOm8nenpq7nKJ5XkKAehp4Dm6pIioTTgIU0gsvgZQ&s",
+            "original": "https://m.media-amazon.com/images/S/pv-target-images/53efa234be482ccdd95f9bc6582d85b6f0cbc26b4d285ba765997a95b9612ac6.jpg",
+            "title": "Prime Video: Inglourious Basterds",
+            "source_name": "Prime Video: Inglourious Basterds"
+        }
+    ],
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Inglourious Basterds Official Trailer #1 - Brad Pitt Movie (2009 ...",
+            "link": "https://www.youtube.com/watch?v=KnrRy6kSFF0",
+            "thumbnail": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/4ae482de4c56348a8d2ae1474c936a0520f862ea109eafb5a79f543f36efdfdc.jpeg",
+            "channel": "Rotten Tomatoes Classic Trailers",
+            "platform": "YouTube",
+            "date": "Dec 13, 2011"
+        },
+        {
+            "position": 2,
+            "title": "Inglourious Basterds | Christoph Waltz's Iconic Opening Scene ...",
+            "link": "https://www.youtube.com/watch?v=coS2CdNd7Io",
+            "thumbnail": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/4ae482de4c56348a34812dc6f91e0fd3280775927f8cf1947742d82130737486.jpeg",
+            "channel": "Universal Pictures All-Access",
+            "platform": "YouTube",
+            "date": "Dec 25, 2021"
+        },
+        {
+            "position": 3,
+            "title": "\"I'm going to give you something you can't take off ...",
+            "link": "https://www.youtube.com/watch?v=YissPv9Ycjs",
+            "thumbnail": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/4ae482de4c56348a3bf69ec99a11e652904099f615add81f99da83b4ae496c28.jpeg",
+            "channel": "Screen Bites",
+            "platform": "YouTube",
+            "date": "Oct 16, 2020"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What is Inglourious Basterds based on a true story?",
+            "snippet": "Summary. Quentin Tarantino's Inglourious Basterds is an alternate version of World War II, with fictional characters based on real people, like Frederick Zoller. Matth\u00e4us Hetzenauer and Audie Murphy, real-life soldiers, served as the inspiration for Zoller's remarkable military achievements in the movie.",
+            "title": "Inglourious Basterds True Story: Real Life Inspirations For Fredrick Zoller",
+            "date": "Sep 7, 2023",
+            "link": "https://screenrant.com/inglourious-basterds-movie-frederick-zoller-true-story-inspirations/#:~:text=Summary,military%20achievements%20in%20the%20movie.",
+            "displayed_link": "https://screenrant.com \u203a inglourious-basterds-movie-fred...",
+            "thumbnail": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/e22961732200ff4d67f4a0cce6a9fb9979b5860b9791d32bd75424847be6ec9b.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlExTjVhRGhGTTI1UFRrWjVSME5uWTJkUFFXOHpla05JWDA5WmNqTkRMVmh5UTBOT2NWSjJUVTFKY0U1RmNUTklOSGhuTlRsYVZrNUJiMWwxY0ZSck1rSnlhRmx3RWhkRU1GbFJXbUY1VUVwZmVuUndkRkZRTVU0Mk5tOUJkeG9pUVVwM2F5MDRaSGhsTkhaMU9GOURRMFZMY2t0cWVsSm1lRGh5TFROeFNrTmpRUSIsImZjdiI6IjMiLCJlaSI6IkQwWVFaYXlQSl96dHB0UVAxTjY2b0F3IiwicWMiOiJDaFJwYm1kc2IzVnlhVzkxY3lCaVlYTjBaWEprY3hBQWZaZmJKRDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgSW5nbG91cmlvdXMgQmFzdGVyZHMgYmFzZWQgb24gYSB0cnVlIHN0b3J5PyIsImxrIjoiYzVNeUtzOUlMRkhJTEZiSXpFdlB5Uzh0eXN3dkxWWklTaXd1U1MxS0FUTlNVeFR5OHhRU0ZVcUtTbE1WaWt2eWl5b0IiLCJicyI6ImMtT3k0RElPejBnc1VjZ3NWdkRNUzhfSkx5M0t6Qzh0Vm5CS0xDNUpMVW9wVmtoS0xFNU5VY2pQVTBoVUtDa3FUVlVvTHNrdnFyU1g2QW5rTXVVeWdPa3N5VWhWeUUxTnpNdk1TMWRJU3MzSXpFdkJhcGk5eEZVVkFVWUEiLCJpZCI6ImZjXzIifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlExTjVhRGhGTTI1UFRrWjVSME5uWTJkUFFXOHpla05JWDA5WmNqTkRMVmh5UTBOT2NWSjJUVTFKY0U1RmNUTklOSGhuTlRsYVZrNUJiMWwxY0ZSck1rSnlhRmx3RWhkRU1GbFJXbUY1VUVwZmVuUndkRkZRTVU0Mk5tOUJkeG9pUVVwM2F5MDRaSGhsTkhaMU9GOURRMFZMY2t0cWVsSm1lRGh5TFROeFNrTmpRUSIsImZjdiI6IjMiLCJlaSI6IkQwWVFaYXlQSl96dHB0UVAxTjY2b0F3IiwicWMiOiJDaFJwYm1kc2IzVnlhVzkxY3lCaVlYTjBaWEprY3hBQWZaZmJKRDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgSW5nbG91cmlvdXMgQmFzdGVyZHMgYmFzZWQgb24gYSB0cnVlIHN0b3J5PyIsImxrIjoiYzVNeUtzOUlMRkhJTEZiSXpFdlB5Uzh0eXN3dkxWWklTaXd1U1MxS0FUTlNVeFR5OHhRU0ZVcUtTbE1WaWt2eWl5b0IiLCJicyI6ImMtT3k0RElPejBnc1VjZ3NWdkRNUzhfSkx5M0t6Qzh0Vm5CS0xDNUpMVW9wVmtoS0xFNU5VY2pQVTBoVUtDa3FUVlVvTHNrdnFyU1g2QW5rTXVVeWdPa3N5VWhWeUUxTnpNdk1TMWRJU3MzSXpFdkJhcGk5eEZVVkFVWUEiLCJpZCI6ImZjXzIifQ%3D%3D"
+        },
+        {
+            "question": "What is the meaning behind Inglourious Basterds?",
+            "snippet": "Violence aside, the central message of Inglourious Basterds is one that should motivate all of us, Jewish or not, to prevent hate from taking over. As Dreyfus hijacks the movie premier and her face fills our screen, surrounded by flames, she exclaims, \u201cThis is the face of Jewish vengeance!\u201d",
+            "title": "'Inglourious Basterds' Rewrites History to Reshape Our Future",
+            "date": "Jan 18, 2021",
+            "link": "http://www.34st.com/article/2021/01/inglourious-basterds-quentin-tarantino-antisemitism-jewish-justice-vengeance#:~:text=Violence%20aside%2C%20the%20central%20message,the%20face%20of%20Jewish%20vengeance!%E2%80%9D",
+            "displayed_link": "http://www.34st.com \u203a article \u203a 2021/01 \u203a inglourious-b...",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlExTjVhRGhGTTI1UFRrWjVSME5uWTJkUFFXOHpla05JWDA5WmNqTkRMVmh5UTBOT2NWSjJUVTFKY0U1RmNUTklOSGhuTlRsYVZrNUJiMWwxY0ZSck1rSnlhRmx3RWhkRU1GbFJXbUY1VUVwZmVuUndkRkZRTVU0Mk5tOUJkeG9pUVVwM2F5MDRaSGhsTkhaMU9GOURRMFZMY2t0cWVsSm1lRGh5TFROeFNrTmpRUSIsImZjdiI6IjMiLCJlaSI6IkQwWVFaYXlQSl96dHB0UVAxTjY2b0F3IiwicWMiOiJDaFJwYm1kc2IzVnlhVzkxY3lCaVlYTjBaWEprY3hBQWZaZmJKRDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG1lYW5pbmcgYmVoaW5kIEluZ2xvdXJpb3VzIEJhc3RlcmRzPyIsImxrIjoiR2lOdFpXRnVhVzVuSUdKbGFHbHVaQ0JwYm1kc2IzVnlhVzkxY3lCaVlYTjBaWEprY3ciLCJicyI6ImMtT3k0RElPejBnc1VjZ3NWdkRNUzhfSkx5M0t6Qzh0Vm5CS0xDNUpMVW9wVmtoS0xFNU5VY2pQVTBoVUtDa3FUVlVvTHNrdnFyU1g2QW5rTXVVeWdPa3N5VWhWeUUxTnpNdk1TMWRJU3MzSXpFdkJhcGk5eEZVVkFVWUEiLCJpZCI6ImZjXzIifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlExTjVhRGhGTTI1UFRrWjVSME5uWTJkUFFXOHpla05JWDA5WmNqTkRMVmh5UTBOT2NWSjJUVTFKY0U1RmNUTklOSGhuTlRsYVZrNUJiMWwxY0ZSck1rSnlhRmx3RWhkRU1GbFJXbUY1VUVwZmVuUndkRkZRTVU0Mk5tOUJkeG9pUVVwM2F5MDRaSGhsTkhaMU9GOURRMFZMY2t0cWVsSm1lRGh5TFROeFNrTmpRUSIsImZjdiI6IjMiLCJlaSI6IkQwWVFaYXlQSl96dHB0UVAxTjY2b0F3IiwicWMiOiJDaFJwYm1kc2IzVnlhVzkxY3lCaVlYTjBaWEprY3hBQWZaZmJKRDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG1lYW5pbmcgYmVoaW5kIEluZ2xvdXJpb3VzIEJhc3RlcmRzPyIsImxrIjoiR2lOdFpXRnVhVzVuSUdKbGFHbHVaQ0JwYm1kc2IzVnlhVzkxY3lCaVlYTjBaWEprY3ciLCJicyI6ImMtT3k0RElPejBnc1VjZ3NWdkRNUzhfSkx5M0t6Qzh0Vm5CS0xDNUpMVW9wVmtoS0xFNU5VY2pQVTBoVUtDa3FUVlVvTHNrdnFyU1g2QW5rTXVVeWdPa3N5VWhWeUUxTnpNdk1TMWRJU3MzSXpFdkJhcGk5eEZVVkFVWUEiLCJpZCI6ImZjXzIifQ%3D%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Inglourious Basterds",
+            "link": "https://en.wikipedia.org/wiki/Inglourious_Basterds",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Inglourious_Basterds",
+            "favicon": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/ed2e896d852509b9a7339bcf273e1ead1984213b98feb1aafab52b74b7ce18b6.png",
+            "snippet": "For the 1978 film, see The Inglorious Bastards. Inglourious Basterds is a 2009 war film written and directed by Quentin Tarantino, starring Brad Pitt, Christoph ...",
+            "snippet_highlighted_words": [
+                "Inglourious Basterds"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "The Inglorious Bastards",
+                        "link": "https://en.wikipedia.org/wiki/The_Inglorious_Bastards"
+                    },
+                    {
+                        "title": "Soundtrack",
+                        "link": "https://en.wikipedia.org/wiki/Inglourious_Basterds_(soundtrack)"
+                    },
+                    {
+                        "title": "List of accolades received by...",
+                        "link": "https://en.wikipedia.org/wiki/List_of_accolades_received_by_Inglourious_Basterds"
+                    },
+                    {
+                        "title": "Hans Landa",
+                        "link": "https://en.wikipedia.org/wiki/Hans_Landa"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "keywords": [
+                    "inglourious",
+                    "basterds"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Inglourious_Basterds&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FInglourious_Basterds",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CBN9L4hlPjMJ:https://en.wikipedia.org/wiki/Inglourious_Basterds&cd=25&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?sca_esv=568007022&q=related:https://en.wikipedia.org/wiki/Inglourious_Basterds+Inglourious+Basterds",
+            "source": "Wikipedia"
+        },
+        {
+            "position": 2,
+            "title": "Inglourious Basterds (2009)",
+            "link": "https://www.imdb.com/title/tt0361748/",
+            "displayed_link": "https://www.imdb.com \u203a title",
+            "favicon": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/ed2e896d852509b9a7339bcf273e1eadcb4cab603faf48134ac9a50fe92d256a.png",
+            "snippet": "Inglourious Basterds: Directed by Quentin Tarantino. With Brad Pitt, M\u00e9lanie Laurent, Christoph Waltz, Eli Roth. In Nazi-occupied France during World War II ...",
+            "snippet_highlighted_words": [
+                "Inglourious Basterds"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Cast (86)",
+                        "link": "https://m.imdb.com/title/tt0361748/fullcredits/cast"
+                    },
+                    {
+                        "title": "Full Cast & Crew",
+                        "link": "https://www.imdb.com/title/tt0361748/fullcredits"
+                    },
+                    {
+                        "title": "International Trailer",
+                        "link": "https://www.imdb.com/video/vi3738173977/"
+                    },
+                    {
+                        "title": "Trivia",
+                        "link": "https://www.imdb.com/title/tt0361748/trivia/"
+                    }
+                ]
+            },
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 8.3,
+                        "votes": 1525854
+                    },
+                    "extensions": [
+                        "Rating: 8.3/10",
+                        "\u200e1,525,854 votes"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "keywords": [
+                    "inglourious",
+                    "basterds"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.imdb.com/title/tt0361748/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0361748%2F",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:GtBf1RCJzTYJ:https://www.imdb.com/title/tt0361748/&cd=30&hl=en&ct=clnk&gl=us",
+            "source": "IMDb"
+        },
+        {
+            "position": 3,
+            "title": "Watch Inglourious Basterds | Prime Video",
+            "link": "https://www.amazon.com/Inglourious-Basterds-Brad-Pitt/dp/B002UEW31I",
+            "displayed_link": "https://www.amazon.com \u203a Inglourious-Basterds-Brad...",
+            "favicon": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/ed2e896d852509b9a7339bcf273e1eadd5e49c24bc5628f81f907d99b9f96797.png",
+            "snippet": "Inglourious Basterds. In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a ...",
+            "snippet_highlighted_words": [
+                "Inglourious Basterds"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 4.7,
+                        "reviews": 22383,
+                        "price": 14.99,
+                        "currency": "$",
+                        "unknown": 30
+                    },
+                    "extensions": [
+                        "Rating: 4.7",
+                        "\u200e22,383 reviews",
+                        "\u200e$14.99",
+                        "\u200e30",
+                        "day returns"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "keywords": [
+                    "inglourious",
+                    "basterds"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.amazon.com/Inglourious-Basterds-Brad-Pitt/dp/B002UEW31I&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FInglourious-Basterds-Brad-Pitt%2Fdp%2FB002UEW31I",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:A8jBQTWCgOgJ:https://www.amazon.com/Inglourious-Basterds-Brad-Pitt/dp/B002UEW31I&cd=34&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?sca_esv=568007022&q=related:https://www.amazon.com/Inglourious-Basterds-Brad-Pitt/dp/B002UEW31I+Inglourious+Basterds",
+            "source": "Amazon"
+        },
+        {
+            "position": 4,
+            "title": "Watch Inglourious Basterds",
+            "link": "https://www.netflix.com/mt/title/70108777",
+            "displayed_link": "https://www.netflix.com \u203a title",
+            "favicon": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/ed2e896d852509b9a7339bcf273e1ead69ed04544690104dd799088b4b2c91fd.png",
+            "snippet": "Inglourious Basterds. 2009 | Maturity Rating:18+ | 2h 33m | Action. In Nazi-occupied France, a squad of American soldiers plans a fateful ...",
+            "snippet_highlighted_words": [
+                "Inglourious Basterds"
+            ],
+            "about_this_result": {
+                "keywords": [
+                    "inglourious",
+                    "basterds"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.netflix.com/mt/title/70108777&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.netflix.com%2Fmt%2Ftitle%2F70108777",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:UwahCJquXVsJ:https://www.netflix.com/mt/title/70108777&cd=39&hl=en&ct=clnk&gl=us",
+            "source": "Netflix"
+        },
+        {
+            "position": 5,
+            "title": "Inglourious Basterds",
+            "link": "https://www.rottentomatoes.com/m/inglourious_basterds",
+            "displayed_link": "https://www.rottentomatoes.com \u203a inglourious_basterds",
+            "favicon": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/ed2e896d852509b9a7339bcf273e1eada74ab772fed0afc63e9215183a10e6ac.png",
+            "snippet": "Inglourious Basterds shows the power of film as both a wartime weapon and an elemental force \u2013 dangerous as propaganda, incendiary when ignited. July 26, 2023 | ...",
+            "snippet_highlighted_words": [
+                "Inglourious Basterds"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 89,
+                        "votes": 335
+                    },
+                    "extensions": [
+                        "Rating: 89%",
+                        "\u200e335 votes"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "keywords": [
+                    "inglourious",
+                    "basterds"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.rottentomatoes.com/m/inglourious_basterds&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.rottentomatoes.com%2Fm%2Finglourious_basterds",
+            "source": "Rotten Tomatoes"
+        },
+        {
+            "position": 6,
+            "title": "Inglourious Basterds - Movies on Google Play",
+            "link": "https://play.google.com/store/movies/details/Inglourious_Basterds?id=LO78cZXiyHc&hl=en_US&gl=US",
+            "displayed_link": "https://play.google.com \u203a store \u203a movies \u203a details \u203a In...",
+            "favicon": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/ed2e896d852509b9a7339bcf273e1ead4cbe06e3bbd25c6db87afa8806924a9c.png",
+            "snippet": "Brad Pitt takes no prisoners in Quentin Tarantino's high-octane WWII revenge fantasy Inglourious Basterds. As war rages in Europe, a Nazi-scalping squad of ...",
+            "snippet_highlighted_words": [
+                "Inglourious Basterds"
+            ],
+            "about_this_result": {
+                "keywords": [
+                    "inglourious",
+                    "basterds"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://play.google.com/store/movies/details/Inglourious_Basterds?id%3DLO78cZXiyHc%26hl%3Den_US%26gl%3DUS&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fplay.google.com%2Fstore%2Fmovies%2Fdetails%2FInglourious_Basterds%3Fid%3DLO78cZXiyHc%26hl%3Den_US%26gl%3DUS",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4Wyg65UMmsQJ:https://play.google.com/store/movies/details/Inglourious_Basterds%3Fid%3DLO78cZXiyHc%26hl%3Den_US%26gl%3DUS&cd=42&hl=en&ct=clnk&gl=us",
+            "source": "Google Play"
+        },
+        {
+            "position": 7,
+            "title": "Inglourious Basterds",
+            "link": "https://www.metacritic.com/movie/inglourious-basterds/",
+            "displayed_link": "https://www.metacritic.com \u203a movie \u203a inglourious-bast...",
+            "favicon": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/ed2e896d852509b9a7339bcf273e1eadeda331918474e204213327ebd8c6c812.png",
+            "snippet": "It's not enough to say that Inglourious Basterds is Quentin Tarantino's best movie. It's the first movie of his artistic maturity, the film his talent has been ...",
+            "snippet_highlighted_words": [
+                "Inglourious Basterds"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "price": 2.99,
+                        "currency": "$"
+                    },
+                    "extensions": [
+                        "$2.99"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "keywords": [
+                    "inglourious",
+                    "basterds"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.metacritic.com/movie/inglourious-basterds/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.metacritic.com%2Fmovie%2Finglourious-basterds%2F",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MwKlrO5XjdUJ:https://www.metacritic.com/movie/inglourious-basterds/&cd=43&hl=en&ct=clnk&gl=us",
+            "source": "Metacritic"
+        },
+        {
+            "position": 8,
+            "title": "Inglourious Basterds Movie Review",
+            "link": "https://www.commonsensemedia.org/movie-reviews/inglourious-basterds",
+            "displayed_link": "https://www.commonsensemedia.org \u203a movie-reviews",
+            "favicon": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/ed2e896d852509b9a7339bcf273e1eade1ec18a520d2463ed6e30560663bee72.png",
+            "snippet": "Aug 11, 2023 \u2014",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 4
+                    },
+                    "extensions": [
+                        "Rating: 4",
+                        "\u200eReview by James Rocchi"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "keywords": [
+                    "inglourious",
+                    "basterds"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.commonsensemedia.org/movie-reviews/inglourious-basterds&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.commonsensemedia.org%2Fmovie-reviews%2Finglourious-basterds",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:IcTYdLn5D9oJ:https://www.commonsensemedia.org/movie-reviews/inglourious-basterds&cd=44&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?sca_esv=568007022&q=related:https://www.commonsensemedia.org/movie-reviews/inglourious-basterds+Inglourious+Basterds",
+            "source": "Common Sense Media"
+        },
+        {
+            "position": 9,
+            "title": "Inglourious Basterds",
+            "link": "https://www.boxofficemojo.com/release/rl4217079297/",
+            "displayed_link": "https://www.boxofficemojo.com \u203a release",
+            "favicon": "https://serpapi.com/searches/6510460e0f98668b87e9b9a4/images/ed2e896d852509b9a7339bcf273e1ead2f9f15417a52d7916fc8d34521643bdb.png",
+            "snippet": "Inglourious Basterds. In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a ...",
+            "snippet_highlighted_words": [
+                "Inglourious Basterds"
+            ],
+            "about_this_result": {
+                "keywords": [
+                    "inglourious",
+                    "basterds"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.boxofficemojo.com/release/rl4217079297/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.boxofficemojo.com%2Frelease%2Frl4217079297%2F",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Tq622Bz4TFAJ:https://www.boxofficemojo.com/release/rl4217079297/&cd=45&hl=en&ct=clnk&gl=us",
+            "source": "Box Office Mojo"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Directed by Quentin Tarantino",
+            "items": [
+                {
+                    "name": "Django Unchained",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCTfG95DWSjMIco2Ah0xhtA3lfxYBpB_lPOrEVzQ&s=0",
+                    "link": "https://www.google.com/search?sca_esv=568007022&q=Django+Unchained&stick=H4sIAAAAAAAAAOOQUeLSz9U3SC_PKjdINpJNySxKTS5JTVFIqlQoLE3NK8nMUyhJLEoEMfKjRDzz0nPyS4sy80uLFZwSi0tSi1KKTzEimXCKkVc_Xd_QMM2kKCW3ojDvFCMnSNKwqKIy6RQjN5htkJRelldwipEDxEszic-BKjIyNskyhZlWWWaQZAIzLd0gyzTXxNQAKmmcVFGUloPMqfrFKOuC5PRAqNNDYE5fxCrgkpWYl56vEJqXnJGYmZeacotNkuHAlcwl-n18N3R2uyz9I_X-4JXrLJOM-5-xAwDdoK8QFwEAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQs9oBKAB6BAh8EAI",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Django+Unchained&stick=H4sIAAAAAAAAAOOQUeLSz9U3SC_PKjdINpJNySxKTS5JTVFIqlQoLE3NK8nMUyhJLEoEMfKjRDzz0nPyS4sy80uLFZwSi0tSi1KKTzEimXCKkVc_Xd_QMM2kKCW3ojDvFCMnSNKwqKIy6RQjN5htkJRelldwipEDxEszic-BKjIyNskyhZlWWWaQZAIzLd0gyzTXxNQAKmmcVFGUloPMqfrFKOuC5PRAqNNDYE5fxCrgkpWYl56vEJqXnJGYmZeacotNkuHAlcwl-n18N3R2uyz9I_X-4JXrLJOM-5-xAwDdoK8QFwEAAA"
+                },
+                {
+                    "name": "Once Upon a Time... in Hollywood",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBu4MV1KMzgigpf8QHOnlo2R1Y2kYKRxRyPzo_ZA&s=0",
+                    "link": "https://www.google.com/search?sca_esv=568007022&q=Once+Upon+a+Time...+in+Hollywood&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwzKUrJrSjMM5JNySxKTS5JTVFIqlQoLE3NK8nMUyhJLEoEMfKjRDzz0nPyS4sy80uLFZwSi0tSi1KKTzFy6efqG6SXZ5UbJJ9iRDXxFCMnSNKwqKIy6RQjN5htkJRelldwipEDxEszic-BKjIyNskyhZlWWWaQZAIzLd0gyzTXxNQAKmmcVFGUloPMqfrFKOuC5PRAqNNDYE5fxKrgn5ecqhBakJ-nkKgQkpmbqqenpwBU4pGfk1NZnp-fcotNkuHAlcwl-n18N3R2uyz9I_X-4JXrLJOM-5-xAwARO8IMKgEAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQs9oBKAF6BAh8EAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Once+Upon+a+Time...+in+Hollywood&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwzKUrJrSjMM5JNySxKTS5JTVFIqlQoLE3NK8nMUyhJLEoEMfKjRDzz0nPyS4sy80uLFZwSi0tSi1KKTzFy6efqG6SXZ5UbJJ9iRDXxFCMnSNKwqKIy6RQjN5htkJRelldwipEDxEszic-BKjIyNskyhZlWWWaQZAIzLd0gyzTXxNQAKmmcVFGUloPMqfrFKOuC5PRAqNNDYE5fxKrgn5ecqhBakJ-nkKgQkpmbqqenpwBU4pGfk1NZnp-fcotNkuHAlcwl-n18N3R2uyz9I_X-4JXrLJOM-5-xAwARO8IMKgEAAA"
+                },
+                {
+                    "name": "Kill Bill: Volume 1",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmhitTIvBmMJt5TYBIZhjrAzQIbRgBNVxoMFVbkA&s=0",
+                    "link": "https://www.google.com/search?sca_esv=568007022&q=Kill+Bill:+Volume+1&stick=H4sIAAAAAAAAAOOQUeLUz9U3MCyqqEwykk3JLEpNLklNUUiqVCgsTc0rycxTKEksSgQx8qNEPPPSc_JLizLzS4sVnBKLS1KLUopPMXKBDEgvzyo3SD7FyKufrm9omGZSlJJbUZh3ihFh-ilGbjDbICm9LK_gFCMHiJdmEp8DVWRkbJJlCjOtsswgyQRmWrpBlmmuiakBVNI4qaIoLQeZU_WLUdYFyemBUKeHwJy-iFXYOzMnR8EJSFgphOXnlOamKhjeYpNkOHAlc4l-H98Nnd0uS_9IvT945TrLJOP-Z-wA3Vfg3xkBAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQs9oBKAJ6BAh8EAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Kill+Bill%3A+Volume+1&stick=H4sIAAAAAAAAAOOQUeLUz9U3MCyqqEwykk3JLEpNLklNUUiqVCgsTc0rycxTKEksSgQx8qNEPPPSc_JLizLzS4sVnBKLS1KLUopPMXKBDEgvzyo3SD7FyKufrm9omGZSlJJbUZh3ihFh-ilGbjDbICm9LK_gFCMHiJdmEp8DVWRkbJJlCjOtsswgyQRmWrpBlmmuiakBVNI4qaIoLQeZU_WLUdYFyemBUKeHwJy-iFXYOzMnR8EJSFgphOXnlOamKhjeYpNkOHAlc4l-H98Nnd0uS_9IvT945TrLJOP-Z-wA3Vfg3xkBAAA"
+                },
+                {
+                    "name": "The Hateful Eight",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNAOBxDQOPmvqqx1o5ss72vdK1VZumDP_tZd8y0w&s=0",
+                    "link": "https://www.google.com/search?sca_esv=568007022&q=The+Hateful+Eight&stick=H4sIAAAAAAAAAOOQUeLWz9U3MDRISi_LKzCSTcksSk0uSU1RSKpUKCxNzSvJzFMoSSxKBDHyo0Q889Jz8kuLMvNLixWcEotLUotSik8xcoGMSC_PKjdIPsXIq5-ub2iYZlKUkltRmHeKkRNsflFFZdIpRmS7TjFygHhpJvE5UEVGxiZZpjDTKssMkkxgpqUbZJnmmpgaQCWNkyqK0nKQOVW_GGVdkJweCHV6CMzpi1gFQzJSFTwSS1LTSnMUXDPTM0pusUkyHLiSuUS_j--Gzm6XpX-k3h-8cp1lknH_M3YA4XTIHRkBAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQs9oBKAN6BAh8EAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Hateful+Eight&stick=H4sIAAAAAAAAAOOQUeLWz9U3MDRISi_LKzCSTcksSk0uSU1RSKpUKCxNzSvJzFMoSSxKBDHyo0Q889Jz8kuLMvNLixWcEotLUotSik8xcoGMSC_PKjdIPsXIq5-ub2iYZlKUkltRmHeKkRNsflFFZdIpRmS7TjFygHhpJvE5UEVGxiZZpjDTKssMkkxgpqUbZJnmmpgaQCWNkyqK0nKQOVW_GGVdkJweCHV6CMzpi1gFQzJSFTwSS1LTSnMUXDPTM0pusUkyHLiSuUS_j--Gzm6XpX-k3h-8cp1lknH_M3YA4XTIHRkBAAA"
+                },
+                {
+                    "name": "Pulp Fiction",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyT2HTvj_NwYZkkmLZxi3ZnauzxBhni-kv-8Eh-A&s=0",
+                    "link": "https://www.google.com/search?sca_esv=568007022&q=Pulp+Fiction&stick=H4sIAAAAAAAAAOOQUeLQz9U3SDOJzzGSTcksSk0uSU1RSKpUKCxNzSvJzFMoSSxKBDHyo0Q889Jz8kuLMvNLixWcEotLUotSik8xcoH0p5dnlRskn2Lk1U_XNzRMMylKya0ozDvFyAmSNCyqqEw6xcgNZhskpZflFZxihFsLVWRkbJJlCjOtsswgyQRmWrpBlmmuiakBVNI4qaIoLQeZU_WLUdYFyemBUKeHwJy-iJUnoDSnQMEtM7kkMz_vFpskw4ErmUv0-_hu6Ox2WfpH6v3BK9dZJhn3P2MHACgPw0URAQAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQs9oBKAR6BAh8EAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pulp+Fiction&stick=H4sIAAAAAAAAAOOQUeLQz9U3SDOJzzGSTcksSk0uSU1RSKpUKCxNzSvJzFMoSSxKBDHyo0Q889Jz8kuLMvNLixWcEotLUotSik8xcoH0p5dnlRskn2Lk1U_XNzRMMylKya0ozDvFyAmSNCyqqEw6xcgNZhskpZflFZxihFsLVWRkbJJlCjOtsswgyQRmWrpBlmmuiakBVNI4qaIoLQeZU_WLUdYFyemBUKeHwJy-iJUnoDSnQMEtM7kkMz_vFpskw4ErmUv0-_hu6Ox2WfpH6v3BK9dZJhn3P2MHACgPw0URAQAA"
+                },
+                {
+                    "name": "Jackie Brown",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW_Kw4IiajJI6YXSpIpdm8O7YHfOnYKmIxaxX2lA&s=0",
+                    "link": "https://www.google.com/search?sca_esv=568007022&q=Jackie+Brown&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDI2yTI1kk3JLEpNLklNUUiqVCgsTc0rycxTKEksSgQx8qNEPPPSc_JLizLzS4sVnBKLS1KLUopPMXKBDEgvzyo3SD7FyKufrm9omGZSlJJbUZh3ihFsumFRRWXSKUZuMNsgKb0sr-AUIweIl2YSnwNVBHYCzLTKMoMkE5hp6QZZprkmpgZQSeOkiqK0HGRO1S9GWRckpwdCnR4Cc_oiVh6vxOTszFQFp6L88rxbbJIMB65kLtHv47uhs9tl6R-p9wevXGeZZNz_jB0AVi6tTxIBAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQs9oBKAV6BAh8EAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jackie+Brown&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDI2yTI1kk3JLEpNLklNUUiqVCgsTc0rycxTKEksSgQx8qNEPPPSc_JLizLzS4sVnBKLS1KLUopPMXKBDEgvzyo3SD7FyKufrm9omGZSlJJbUZh3ihFsumFRRWXSKUZuMNsgKb0sr-AUIweIl2YSnwNVBHYCzLTKMoMkE5hp6QZZprkmpgZQSeOkiqK0HGRO1S9GWRckpwdCnR4Cc_oiVh6vxOTszFQFp6L88rxbbJIMB65kLtHv47uhs9tl6R-p9wevXGeZZNz_jB0AVi6tTxIBAAA"
+                }
+            ],
+            "link": "https://www.google.com/search?sca_esv=568007022&q=Directed+by+Quentin+Tarantino&stick=H4sIAAAAAAAAAOOQMZJNySxKTS5JTVFIqlQoLE3NK8nMUyhJLEoEMfKjRDzz0nPyS4sy80uLFZwSi0tSi1KKTzFy6efqG6SXZ5UbJJ9i5NVP1zc0TDMpSsmtKMw7xcgJkjQsqqhMOsXIDWYbJKWX5RWcYuQA8dJM4nOgioyMTbJMYaZVlhkkmcBMSzfIMs01MTWAShonVRSl5SBzqn4xyrogOT0Q6vQQmNMXseKXv8UmyXDgSuYS_T6-Gzq7XZb-kXp_8Mp1lknG_c_YAQUIuLUYAQAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQ4qYDegQIfBAI",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Directed+by+Quentin+Tarantino&stick=H4sIAAAAAAAAAOOQMZJNySxKTS5JTVFIqlQoLE3NK8nMUyhJLEoEMfKjRDzz0nPyS4sy80uLFZwSi0tSi1KKTzFy6efqG6SXZ5UbJJ9i5NVP1zc0TDMpSsmtKMw7xcgJkjQsqqhMOsXIDWYbJKWX5RWcYuQA8dJM4nOgioyMTbJMYaZVlhkkmcBMSzfIMs01MTWAShonVRSl5SBzqn4xyrogOT0Q6vQQmNMXseKXv8UmyXDgSuYS_T6-Gzq7XZb-kXp_8Mp1lknG_c_YAQUIuLUYAQAA"
+        },
+        {
+            "block_position": 1,
+            "query": "War movies",
+            "items": [
+                {
+                    "name": "Inglourious Basterds",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjNslXkTRJTMoeSx0K6jNXi0i5n54THFvmUqM0ew&s=0",
+                    "link": "https://www.google.com/search?sca_esv=568007022&q=Inglourious+Basterds&stick=H4sIAAAAAAAAAOOQUeLUz9U3MKosSy4x4ipPLFLIzS_LTC2OEvHMS8_JLy3KzC8tVnBKLC5JLUopPsWIUH2KkQvELok3LYjPPcXIq5-ub2hYXFGQXV5kmgTjF6WYZmSl5eZCNZqZ5BTnnWLkALEz0qqKYMrSsgvKi5OyLWD8pIq08rRKI2MYPz29yLyoxKgAaoxxlaGB2S9GrnC4cxexYnXvLTZJhgNXMpcsrHz9qmXuvCrVg7J8ivb7fL7NvWAJADPV9G77AAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQs9oBKAB6BAh9EAI",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inglourious+Basterds&stick=H4sIAAAAAAAAAOOQUeLUz9U3MKosSy4x4ipPLFLIzS_LTC2OEvHMS8_JLy3KzC8tVnBKLC5JLUopPsWIUH2KkQvELok3LYjPPcXIq5-ub2hYXFGQXV5kmgTjF6WYZmSl5eZCNZqZ5BTnnWLkALEz0qqKYMrSsgvKi5OyLWD8pIq08rRKI2MYPz29yLyoxKgAaoxxlaGB2S9GrnC4cxexYnXvLTZJhgNXMpcsrHz9qmXuvCrVg7J8ivb7fL7NvWAJADPV9G77AAAA"
+                },
+                {
+                    "name": "Fury",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM0fWosVvGOBbS_bsylnqgPMByuka7v8c7EZLf2g&s=0",
+                    "link": "https://www.google.com/search?sca_esv=568007022&q=Fury&stick=H4sIAAAAAAAAAOOQUeLSz9U3KIk3LYjPNeIqTyxSyM0vy0wtjhLxzEvPyS8tyswvLVZwSiwuSS1KKT7FyAlSblRZllxyihFJ6ylGXv10fUPD4oqC7PIi0yQYvyjFNCMrLTcXqtHMJKc47xQjB4idkVZVBFOWll1QXpyUbQHjJ1WkladVGhnD-OnpReZFJUYFUGOMqwwNzH4xcoXDnbuIlcWttKjyFpskw4ErmUsWVr5-1TJ3XpXqQVk-Rft9Pt_mXrAEAC2RaO7sAAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQs9oBKAF6BAh9EAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fury&stick=H4sIAAAAAAAAAOOQUeLSz9U3KIk3LYjPNeIqTyxSyM0vy0wtjhLxzEvPyS8tyswvLVZwSiwuSS1KKT7FyAlSblRZllxyihFJ6ylGXv10fUPD4oqC7PIi0yQYvyjFNCMrLTcXqtHMJKc47xQjB4idkVZVBFOWll1QXpyUbQHjJ1WkladVGhnD-OnpReZFJUYFUGOMqwwNzH4xcoXDnbuIlcWttKjyFpskw4ErmUsWVr5-1TJ3XpXqQVk-Rft9Pt_mXrAEAC2RaO7sAAAA"
+                },
+                {
+                    "name": "Sisu",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2ATOfeKjvaia_U6gw_CGI01eCnicQdBI92SFq2g&s=0",
+                    "link": "https://www.google.com/search?sca_esv=568007022&q=Sisu+(film)&stick=H4sIAAAAAAAAAOOQUeLVT9c3NCyuKMguLzJNMuIqTyxSyM0vy0wtjhLxzEvPyS8tyswvLVZwSiwuSS1KKT7FyKmfq29gVFmWXHKKkQvELok3LYjPPcWIahSMX5RimpGVlpsL1WhmklOcd4qRA8TOSKsqgilLyy4oL07KtoDxkyrSytMqjYxh_PT0IvOiEqMCqDHGVYYGZr8YucLhzl3Eyh2cWVyqoJGWmZOreYtNkuHAlcwlCytfv2qZO69K9aAsn6L9Pp9vcy9YAgCoLp_p9gAAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQs9oBKAJ6BAh9EAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sisu+%28film%29&stick=H4sIAAAAAAAAAOOQUeLVT9c3NCyuKMguLzJNMuIqTyxSyM0vy0wtjhLxzEvPyS8tyswvLVZwSiwuSS1KKT7FyKmfq29gVFmWXHKKkQvELok3LYjPPcWIahSMX5RimpGVlpsL1WhmklOcd4qRA8TOSKsqgilLyy4oL07KtoDxkyrSytMqjYxh_PT0IvOiEqMCqDHGVYYGZr8YucLhzl3Eyh2cWVyqoJGWmZOreYtNkuHAlcwlCytfv2qZO69K9aAsn6L9Pp9vcy9YAgCoLp_p9gAAAA"
+                },
+                {
+                    "name": "All Quiet on the Western Front",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQob13dBobVowXQRNyqP21oLgJgO5y8yDbtxctq-A&s=0",
+                    "link": "https://www.google.com/search?sca_esv=568007022&q=All+Quiet+on+the+Western+Front&stick=H4sIAAAAAAAAAOOQUeLVT9c3NCxKMc3ISsvNNeIqTyxSyM0vy0wtjhLxzEvPyS8tyswvLVZwSiwuSS1KKT7FyKmfq29gVFmWXHKKkQvELok3LYjPPcUIMaq4oiC7vMg0CcaHGQ3VaGaSU5x3ipEDxM5IqyqCKUvLLigvTsq2gPGTKtLK0yqNjGH89PQi86ISowKoMcZVhgZmvxi5wuHOXcQq55iToxBYmplaopCfp1CSkaoQngpydJ6CW1F-XsktNkmGA1cylyysfP2qZe68KtWDsnyK9vt8vs29YAkAMTAbuQkBAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQs9oBKAN6BAh9EAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=All+Quiet+on+the+Western+Front&stick=H4sIAAAAAAAAAOOQUeLVT9c3NCxKMc3ISsvNNeIqTyxSyM0vy0wtjhLxzEvPyS8tyswvLVZwSiwuSS1KKT7FyKmfq29gVFmWXHKKkQvELok3LYjPPcUIMaq4oiC7vMg0CcaHGQ3VaGaSU5x3ipEDxM5IqyqCKUvLLigvTsq2gPGTKtLK0yqNjGH89PQi86ISowKoMcZVhgZmvxi5wuHOXcQq55iToxBYmplaopCfp1CSkaoQngpydJ6CW1F-XsktNkmGA1cylyysfP2qZe68KtWDsnyK9vt8vs29YAkAMTAbuQkBAAA"
+                },
+                {
+                    "name": "The Pianist",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8DFt4mpuwjMC9PK9HFVN_9Iv_Ly8sGUIqwj8nkA&s=0",
+                    "link": "https://www.google.com/search?sca_esv=568007022&q=The+Pianist&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDPJKc4z4ipPLFLIzS_LTC2OEvHMS8_JLy3KzC8tVnBKLC5JLUopPsUIVm1UWZZccoqRC8QuiTctiM89xcirn65vaFhcUZBdXmSaBOMXpZhmZKXl5kI1gq05xcgBYmekVRXBlKVlF5QXJ2VbwPhJFWnlaZVGxjB-enqReVGJUQHUGOMqQwOzX4xc4XDnLmLlDslIVQjITMzLLC65xSbJcOBK5pKFla9ftcydV6V6UJZP0X6fz7e5FywBF6LD2_IAAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQs9oBKAR6BAh9EAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Pianist&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDPJKc4z4ipPLFLIzS_LTC2OEvHMS8_JLy3KzC8tVnBKLC5JLUopPsUIVm1UWZZccoqRC8QuiTctiM89xcirn65vaFhcUZBdXmSaBOMXpZhmZKXl5kI1gq05xcgBYmekVRXBlKVlF5QXJ2VbwPhJFWnlaZVGxjB-enqReVGJUQHUGOMqQwOzX4xc4XDnLmLlDslIVQjITMzLLC65xSbJcOBK5pKFla9ftcydV6V6UJZP0X6fz7e5FywBF6LD2_IAAAA"
+                },
+                {
+                    "name": "Schindler's List",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXcRdCjZE7AepSKQ1_kzvFtZiJMcar-GQy26ri1Q&s=0",
+                    "link": "https://www.google.com/search?sca_esv=568007022&q=Schindler%27s+List&stick=H4sIAAAAAAAAAOOQUeLQz9U3yEirKjLiKk8sUsjNL8tMLY4S8cxLz8kvLcrMLy1WcEosLkktSik-xcgJUmxUWZZccoqRC8QuiTctiM89xcirn65vaFhcUZBdXmSaBOMXpZhmZKXl5kI1mpnkFOedYoTbCFOWll1QXpyUbQHjJ1WkladVGhnD-OnpReZFJUYFUGOMqwwNzH4xcoXDnbuIVSA4OSMzLyUntUi9WMEns7jkFpskw4ErmUsWVr5-1TJ3XpXqQVk-Rft9Pt_mXrAEAJnZbB_2AAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQs9oBKAV6BAh9EAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Schindler%27s+List&stick=H4sIAAAAAAAAAOOQUeLQz9U3yEirKjLiKk8sUsjNL8tMLY4S8cxLz8kvLcrMLy1WcEosLkktSik-xcgJUmxUWZZccoqRC8QuiTctiM89xcirn65vaFhcUZBdXmSaBOMXpZhmZKXl5kI1mpnkFOedYoTbCFOWll1QXpyUbQHjJ1WkladVGhnD-OnpReZFJUYFUGOMqwwNzH4xcoXDnbuIVSA4OSMzLyUntUi9WMEns7jkFpskw4ErmUsWVr5-1TJ3XpXqQVk-Rft9Pt_mXrAEAJnZbB_2AAAA"
+                }
+            ],
+            "link": "https://www.google.com/search?sca_esv=568007022&q=War+movies&stick=H4sIAAAAAAAAAOOQMeIqTyxSyM0vy0wtjhLxzEvPyS8tyswvLVZwSiwuSS1KKT7FyKmfq29gVFmWXHKKkQvELok3LYjPPcXIq5-ub2hYXFGQXV5kmgTjF6WYZmSl5eZCNZqZ5BTnnWLkALEz0qqKYMrSsgvKi5OyLWD8pIq08rRKI2MYPz29yLyoxKgAaoxxlaGB2S9GrnC4cxexInFusUkyHLiSuWRh5etXLXPnVakelOVTtN_n823uBUsAKXOFfOYAAAA&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQ4qYDegQIfRAI",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=War+movies&stick=H4sIAAAAAAAAAOOQMeIqTyxSyM0vy0wtjhLxzEvPyS8tyswvLVZwSiwuSS1KKT7FyKmfq29gVFmWXHKKkQvELok3LYjPPcXIq5-ub2hYXFGQXV5kmgTjF6WYZmSl5eZCNZqZ5BTnnWLkALEz0qqKYMrSsgvKi5OyLWD8pIq08rRKI2MYPz29yLyoxKgAaoxxlaGB2S9GrnC4cxexInFusUkyHLiSuWRh5etXLXPnVakelOVTtN_n823uBUsAKXOFfOYAAAA"
+        },
+        {
+            "block_position": 1,
+            "query": "inglourious basterds full movie",
+            "link": "https://www.google.com/search?sca_esv=568007022&q=Inglourious+Basterds+full+movie&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQ1QJ6BQiDARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inglourious+Basterds+full+movie"
+        },
+        {
+            "block_position": 1,
+            "query": "inglourious basterds netflix",
+            "link": "https://www.google.com/search?sca_esv=568007022&q=Inglourious+Basterds+Netflix&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQ1QJ6BQiCARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inglourious+Basterds+Netflix"
+        },
+        {
+            "block_position": 1,
+            "query": "inglourious basterds 2",
+            "link": "https://www.google.com/search?sca_esv=568007022&q=Inglourious+Basterds+2&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQ1QJ6BQiBARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inglourious+Basterds+2"
+        },
+        {
+            "block_position": 1,
+            "query": "imdb inglourious basterds cast",
+            "link": "https://www.google.com/search?sca_esv=568007022&q=Imdb+Inglourious+Basterds+cast&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQ1QJ6BQiAARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Imdb+Inglourious+Basterds+cast"
+        },
+        {
+            "block_position": 1,
+            "query": "inglourious basterds imdb",
+            "link": "https://www.google.com/search?sca_esv=568007022&q=Inglourious+Basterds+IMDb&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQ1QJ6BAh_EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inglourious+Basterds+IMDb"
+        },
+        {
+            "block_position": 1,
+            "query": "inglourious basterds trailer",
+            "link": "https://www.google.com/search?sca_esv=568007022&q=Inglourious+Basterds+Trailer&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQ1QJ6BAh-EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inglourious+Basterds+Trailer"
+        },
+        {
+            "block_position": 1,
+            "query": "inglourious basterds true story",
+            "link": "https://www.google.com/search?sca_esv=568007022&q=Inglourious+Basterds+true+story&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQ1QJ6BQiEARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inglourious+Basterds+true+story"
+        },
+        {
+            "block_position": 1,
+            "query": "inglourious basterds meaning",
+            "link": "https://www.google.com/search?sca_esv=568007022&q=Inglourious+Basterds+meaning&sa=X&ved=2ahUKEwjs0rCIucOBAxX8tokEHVSvDsQQ1QJ6BQiFARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inglourious+Basterds+meaning"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Inglorious+Basterds&oq=Inglorious+Basterds&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Inglorious+Basterds&oq=Inglorious+Basterds&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=Inglorious+Basterds&oq=Inglorious+Basterds&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=Inglorious+Basterds&oq=Inglorious+Basterds&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=Inglorious+Basterds&oq=Inglorious+Basterds&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inglorious+Basterds&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inglorious+Basterds&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inglorious+Basterds&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inglorious+Basterds&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inglorious+Basterds&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inglorious+Basterds&start=40"
+        }
+    }
+}
