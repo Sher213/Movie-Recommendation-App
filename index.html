@@ -1,19 +1,21 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>MoviePal</title>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1 class="centeredPreferable">Movie Recommendation from IMDB's Top 250 Movies </h1>
-    <form class="centeredPreferable" autocomplete="off">
+    <h1 class="primaryView">Movie Recommendation from IMDB's Top 250 Movies </h1>
+    <form class="primaryView" autocomplete="off">
         <div>
             <label>Enter Movie</label>
             <br>
-            <input type="text" name="movieInput" placeholder="Type movie here...">
+            <input id="search" type="text" placeholder="Type movie here...">
+            <ul id="ul" class="list"></ul>
         </div>
     </form>
+    <script src="autoFillSearch.js"></script>
 </body>
 </html>

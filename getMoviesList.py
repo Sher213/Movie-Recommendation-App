@@ -27,5 +27,5 @@ movieNames = list(r.sub('', e) for e in newh3s)
 #save movie names to txt file
 file = open('movies.txt','w')
 for name in movieNames:
-	file.write(name +"\n")
+	file.write('"'+ name +'",\n')
 file.close()
