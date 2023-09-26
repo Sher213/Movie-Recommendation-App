@@ -17,10 +17,19 @@ body {
 form {
     width: 75vmin;
     height: 100%;
-    position: absolute;
+    position: relative;
     transform: translate(-50%, -50%);
     top: 75%;
     left: 50%;
+}
+
+button {
+    width: 50%;
+    margin-top: 5%;
+}
+
+button:hover {
+    background-color: #dddddd;
 }
 
 label {

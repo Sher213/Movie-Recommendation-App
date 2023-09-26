@@ -7,12 +7,13 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1 class="primaryView">Movie Recommendation from IMDB's Top 250 Movies </h1>
+    <h1 id="main" class="primaryView">Movie Recommendation from IMDB's Top 250 Movies </h1>
     <form class="primaryView" autocomplete="off">
         <div>
             <label>Enter Movie</label>
             <br>
-            <input id="search" type="text" placeholder="Type movie here...">
+            <input id="input" type="text" placeholder="Type movie here...">
+            <button type="button" id="enter">Enter <script src="result.js"></script></button>
             <ul id="ul" class="list"></ul>
         </div>
     </form>

@@ -253,11 +253,11 @@ let movieNames = ["The Shawshank Redemption",
 let sortedNames = movieNames.sort();
 
 //reference
-let input = document.getElementById("search");
+input = document.getElementById("input");
 
 //execute fn on keyup
 input.addEventListener("keyup", (e) =>  {
-    
+
     //convert input to lower case and compare each string
     //Initially remove all elements (if user erases or adds)
     removeElements();
