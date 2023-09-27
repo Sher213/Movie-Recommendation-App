@@ -12,7 +12,7 @@ def main(argv):
     })
 
     rcmmndSearch = GoogleSearch ({
-        "q": "Inglorious Basterds" + "related movies",
+        "q": argv[0] + " related movies",
         "api_key": config.api_key
     })
 

@@ -252,8 +252,20 @@ let movieNames = ["The Shawshank Redemption",
 //sort names in ascending order
 let sortedNames = movieNames.sort();
 
-//reference
-input = document.getElementById("input");
+//references
+let input = document.getElementById("input");
+let btn = document.getElementById("enter");
+
+// Execute a function when the user presses a key on the keyboard
+input.addEventListener("keypress", function(event) {
+    // If the user presses the "Enter" key on the keyboard
+    if (event.key === "Enter") {
+      // Cancel the default action, if needed
+      event.preventDefault();
+      // Trigger the button element with a click
+      document.getElementById("enter").click();
+    }
+});
 
 //execute fn on keyup
 input.addEventListener("keyup", (e) =>  {
@@ -283,6 +295,25 @@ input.addEventListener("keyup", (e) =>  {
                 document.querySelector(".list").appendChild(listItem);
 
             }
+    }
+});
+
+//listen for button press
+btn.addEventListener("click", (e) =>  {
+    //get text from input, only execute if value
+    let prompt = input.value;
+    if (prompt != "") {
+        //TEST!!!!!!!
+        let main = document.getElementById("main");
+        main.innerText = prompt;
+        //!!!!!!!!!!!
+        
+        //Use browser local storage to pass movie name
+        window.onload = function() {
+            var value = prompt;
+            localStorage.setItem("movieName", value);
+         }
+        location.replace("./result.html")
     }
 });
 

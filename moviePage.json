@@ -1,546 +1,608 @@
 {
     "search_metadata": {
-        "id": "65128d2e4d443db37e3e59a0",
+        "id": "6514a3d84d443da39203beaa",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/eb9b311934298364/65128d2e4d443db37e3e59a0.json",
-        "created_at": "2023-09-26 07:50:06 UTC",
-        "processed_at": "2023-09-26 07:50:14 UTC",
-        "google_url": "https://www.google.com/search?q=Batman+Begins&oq=Batman+Begins&sourceid=chrome&ie=UTF-8",
-        "raw_html_file": "https://serpapi.com/searches/eb9b311934298364/65128d2e4d443db37e3e59a0.html",
-        "total_time_taken": 1.03
+        "json_endpoint": "https://serpapi.com/searches/eb2d2e8d417f2bb9/6514a3d84d443da39203beaa.json",
+        "created_at": "2023-09-27 21:51:20 UTC",
+        "processed_at": "2023-09-27 21:51:20 UTC",
+        "google_url": "https://www.google.com/search?q=Shawshank&oq=Shawshank&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/eb2d2e8d417f2bb9/6514a3d84d443da39203beaa.html",
+        "total_time_taken": 1.41
     },
     "search_parameters": {
         "engine": "google",
-        "q": "Batman Begins",
+        "q": "Shawshank",
         "google_domain": "google.com",
         "device": "desktop"
     },
     "search_information": {
-        "query_displayed": "Batman Begins",
-        "total_results": 46400000,
-        "time_taken_displayed": 0.36,
+        "query_displayed": "Shawshank",
+        "total_results": 38000000,
+        "time_taken_displayed": 0.54,
         "menu_items": [
             {
                 "position": 1,
                 "title": "Images",
-                "link": "https://www.google.com/search?sca_esv=568425080&q=Batman+Begins&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQ0pQJegQIDhAB",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=Batman+Begins"
+                "link": "https://www.google.com/search?sca_esv=568933252&q=Shawshank&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQ0pQJegQIDhAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=Shawshank"
             },
             {
                 "position": 2,
                 "title": "Videos",
-                "link": "https://www.google.com/search?sca_esv=568425080&q=Batman+Begins&tbm=vid&source=lnms&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQ0pQJegQIDRAB",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=Batman+Begins"
+                "link": "https://www.google.com/search?sca_esv=568933252&q=Shawshank&tbm=vid&source=lnms&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQ0pQJegQIDRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=Shawshank"
             },
             {
                 "position": 3,
-                "title": "Cast",
-                "link": "https://www.google.com/search?sca_esv=568425080&q=Cast+of+Batman+Begins&uds=H4sIAAAAAAAA_-My5GJxTiwuEeJ1SizJTcxTcEpNz8wrNmAsEgUJK-SnKaBI7GBkNEJVCgDezCh5QgAAAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQxKsJegQIDBAB&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Cast+of+Batman+Begins"
+                "title": "2",
+                "link": "https://www.google.com/search?sca_esv=568933252&q=Shawshank+Redemption+2&uds=H4sIAAAAAAAA_-PS4GI0EuIMzkgsL85IzMs2ECoSg3MUglJTUnMLSjLz8xSMjBCKAFBa5qw1AAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQxKsJegQIDBAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank+Redemption+2"
             },
             {
                 "position": 4,
-                "title": "Summary",
-                "link": "https://www.google.com/search?sca_esv=568425080&q=Batman+Begins+summary&uds=H4sIAAAAAAAA_-My5GIPLs3NTSyqFOJ1SizJTcxTcEpNz8wrNmAqEkURUCiGqDNCVQcAGJeu4kIAAAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQxKsJegQICxAB&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins+summary"
+                "title": "Cast",
+                "link": "https://www.google.com/search?sca_esv=568933252&q=Shawshank+cast&uds=H4sIAAAAAAAA_-NS5mJxTiwuEeIMzkgsL85IzMs2YCzig3MUkoGSRghJAGNc4sgwAAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQxKsJegQICxAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank+cast"
             },
             {
                 "position": 5,
-                "title": "News",
-                "link": "https://www.google.com/search?sca_esv=568425080&q=Batman+Begins&tbm=nws&source=lnms&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQ0pQJegUIogEQAQ",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&tbm=nws"
+                "title": "Stream",
+                "link": "https://www.google.com/search?sca_esv=568933252&q=Stream+Shawshank&uds=H4sIAAAAAAAA_-PS4mILLilKTcwV4gzOSCwvzkjMyzZgLBKACCrAxXYwMhohVAAAtw7pIzcAAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQxKsJegUIlQEQAQ&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stream+Shawshank"
             },
             {
                 "position": 6,
-                "title": "Movies",
-                "link": "https://www.google.com/search?sca_esv=568425080&q=Batman+Begins+all+movies&uds=H4sIAAAAAAAA_-My5mLzzS_LTC0W4nVKLMlNzFNwSk3PzCs2YCySQBFQSMzJUcgFKzVCVQoAGBNnAUQAAAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQxKsJegUIpgEQAQ&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins+all+movies"
+                "title": "2022",
+                "link": "https://www.google.com/search?sca_esv=568933252&q=Shawshank+Redemption+2022&uds=H4sIAAAAAAAA_-PS42IxMjAyEuIMzkgsL85IzMs2YCqShHMUglJTUnMLSjLz8xRA6owQ6gCjyFsTOwAAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQxKsJegUImAEQAQ&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank+Redemption+2022"
             },
             {
                 "position": 7,
-                "title": "Game",
-                "link": "https://www.google.com/search?sca_esv=568425080&q=Batman+Begins+game&uds=H4sIAAAAAAAA_-PS5mJxT8xNFeJ1SizJTcxTcEpNz8wrNmAsEkIRUEgHKjJCVQQAJUeSGDwAAAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQxKsJegUIpQEQAQ&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins+game"
+                "title": "Redemption 3",
+                "link": "https://www.google.com/search?sca_esv=568933252&q=Shawshank+redemption+3&uds=H4sIAAAAAAAA_-My5uIJSk1JzS0oyczPUzAW4gzOSCwvzkjMyzYQKhKDcxSKkBQZIRQBADnRKABAAAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQxKsJegUIlgEQAQ&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank+redemption+3"
             },
             {
                 "position": 8,
-                "title": "Villain",
-                "link": "https://www.google.com/search?sca_esv=568425080&q=Batman+Begins+villain&uds=H4sIAAAAAAAA_-My5GIPy8zJSczME-J1SizJTcxTcEpNz8wrNmAqEkURUCiDqDNCVQcAzHdSVEIAAAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQxKsJegUIowEQAQ&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins+villain"
+                "title": "Meaning",
+                "link": "https://www.google.com/search?sca_esv=568933252&q=Shawshank+meaning&uds=H4sIAAAAAAAA_-PS5GL3TU3My8xLF-IMzkgsL85IzMs2YCoShHMUciHyRgh5AI3Khsw2AAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQxKsJegUIlwEQAQ&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank+meaning"
             },
             {
                 "position": 9,
-                "title": "Trailer",
-                "link": "https://www.google.com/search?sca_esv=568425080&q=Batman+Begins+Trailer&uds=H4sIAAAAAAAA_-My5GIPKUrMzEktEuJ1SizJTcxTcEpNz8wrNmAqEkURUICqM0JVBwC7fAqOQgAAAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQxKsJegUIpAEQAQ&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins+Trailer"
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=568933252&q=Shawshank&tbm=nws&source=lnms&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQ0pQJegUIlAEQAQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank&tbm=nws"
+            },
+            {
+                "position": 10,
+                "title": "All",
+                "link": "https://www.google.com/search?q=Shawshank&sca_esv=568933252&source=lnms&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQv_gJegQIChAE",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank"
+            },
+            {
+                "position": 11,
+                "title": "Images",
+                "link": "https://www.google.com/search?q=Shawshank&sca_esv=568933252&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQv_gJegQIChAG",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=Shawshank"
+            },
+            {
+                "position": 12,
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?q=Shawshank&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQv_gJegQIChAI"
+            },
+            {
+                "position": 13,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?q=Shawshank&sca_esv=568933252&tbm=shop&source=lnms&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQv_gJegQIChAK",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Shawshank"
+            },
+            {
+                "position": 14,
+                "title": "Videos",
+                "link": "https://www.google.com/search?q=Shawshank&sca_esv=568933252&tbm=vid&source=lnms&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQv_gJegQIChAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=Shawshank"
+            },
+            {
+                "position": 15,
+                "title": "News",
+                "link": "https://www.google.com/search?q=Shawshank&sca_esv=568933252&tbm=nws&source=lnms&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQv_gJegQIChAO",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank&tbm=nws"
+            },
+            {
+                "position": 16,
+                "title": "Books",
+                "link": "https://www.google.com/search?q=Shawshank&sca_esv=568933252&tbm=bks&source=lnms&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQv_gJegQIChAQ"
+            },
+            {
+                "position": 17,
+                "title": "Flights",
+                "link": "https://www.google.com/travel/flights?q=Shawshank&sca_esv=568933252&tbm=flm&source=lnms&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQv_gJegQIChAS"
+            },
+            {
+                "position": 18,
+                "title": "Finance",
+                "link": "https://www.google.com/finance?sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQv_gJegQIChAU"
             }
         ],
         "organic_results_state": "Results for exact spelling"
     },
     "available_on": [
         {
-            "name": "Max",
-            "link": "https://www.max.com/movies/9cd867d4-81e5-433a-839a-a1c111b2623d",
-            "price": "Subscription",
-            "thumbnail": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/485d0307cfa3f8534935649f3de58a8d4692960de1332795b32492ebda0fe6d3.png"
-        },
-        {
-            "name": "Amazon Prime Video",
-            "link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2382e704-968a-440d-b883-186f4b468f85?autoplay=0&ref_=atv_cf_strg_wb",
+            "name": "Hulu",
+            "link": "https://www.hulu.com/watch/7bb45b56-e5df-46ac-818e-b8288e6353d1",
             "price": "Premium subscription",
-            "thumbnail": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/485d0307cfa3f8532efec04e0dc1d5203995c40aed5f8d044590b7ea9da25149.png"
+            "thumbnail": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/7ac3310603bf2af73d6aad53405aa9d8f6698a7b09682a372e9deff11f7233b4.png"
         },
         {
             "name": "YouTube",
-            "link": "http://www.youtube.com/watch?v=5eKQL7f7lLI",
+            "link": "http://www.youtube.com/watch?v=19THOH_dvxg",
             "price": "From $3.99",
-            "thumbnail": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/485d0307cfa3f85335ba2c2ca3eae85f5fd669abae073b96648e724c5310e5b6.png"
+            "thumbnail": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/7ac3310603bf2af770241e07953e7c51abbd4a7f1f393d83e8677267f8f4703b.png"
+        },
+        {
+            "name": "Vudu",
+            "link": "https://www.vudu.com/content/movies/details/The-Shawshank-Redemption/9089?cmp=OrganicSearch~Vudu~GoogleWatch",
+            "price": "From $3.99",
+            "thumbnail": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/7ac3310603bf2af75620b3706f713b96de5b0aaaeac40cc72b83844f9c010e0c.png"
         }
     ],
     "knowledge_graph": {
-        "title": "Batman Begins",
-        "type": "PG-13 2005 \u2027 Action/Adventure \u2027 2h 20m",
+        "title": "The Shawshank Redemption",
+        "type": "R 1994 \u2027 Drama/Crime \u2027 2h 22m",
         "main_tab_text": "Overview",
-        "kgmid": "/m/02fqrf",
-        "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/02fqrf&hl=en-US&q=Batman+Begins&kgs=486d91a9a97f561f&shndl=17&source=sh/x",
-        "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F02fqrf&q=Batman+Begins",
+        "kgmid": "/m/07jnt",
+        "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/07jnt&hl=en-US&q=The+Shawshank+Redemption&kgs=f892ba5769e87aee&shndl=17&source=sh/x",
+        "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F07jnt&q=The+Shawshank+Redemption",
         "tabs": [
             {
                 "text": "Cast",
-                "si": "ALGXSlYCCh7qEDaDcHEBy5zKn4mkH3oZ-vFcATGQzqRUetzvmqzH08N8RHPwF4sfRmP_5s_FtnR-SQaYSOdg_V2M38RaZxaX6KpRcTAGWkt5-hcoefowysS3bxFph8ogZODSNcx6vjpHX7yqBdQmCCuyxnezMwuTVpVgu1X8Z7rYVWGC7-FSLuwKfjEhpMJIIX884eeSwwqXnqG3UGfKoESHikXJ3-JylGWKMKIESff-kr6mbNnEI1jITA13IZbO-F3HTSN8-yAO",
-                "link": "https://www.google.com/search?si=ALGXSlYCCh7qEDaDcHEBy5zKn4mkH3oZ-vFcATGQzqRUetzvmqzH08N8RHPwF4sfRmP_5s_FtnR-SQaYSOdg_V2M38RaZxaX6KpRcTAGWkt5-hcoefowysS3bxFph8ogZODSNcx6vjpHX7yqBdQmCCuyxnezMwuTVpVgu1X8Z7rYVWGC7-FSLuwKfjEhpMJIIX884eeSwwqXnqG3UGfKoESHikXJ3-JylGWKMKIESff-kr6mbNnEI1jITA13IZbO-F3HTSN8-yAO",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&si=ALGXSlYCCh7qEDaDcHEBy5zKn4mkH3oZ-vFcATGQzqRUetzvmqzH08N8RHPwF4sfRmP_5s_FtnR-SQaYSOdg_V2M38RaZxaX6KpRcTAGWkt5-hcoefowysS3bxFph8ogZODSNcx6vjpHX7yqBdQmCCuyxnezMwuTVpVgu1X8Z7rYVWGC7-FSLuwKfjEhpMJIIX884eeSwwqXnqG3UGfKoESHikXJ3-JylGWKMKIESff-kr6mbNnEI1jITA13IZbO-F3HTSN8-yAO"
+                "si": "ALGXSlbxCNNTopEPqvrJ148wWiKBaIqrRjeQ1JuvAqbijavXlqZTDWYWjZt83Gds61oURwsf_TJANxJXwY1C-KUkzmtsZL1o7HMdOR6X35njFSh0B8ckZL3hhBbpJ0nglwRiafaMfI7XYCuC9OBab_t1ikILCQInew7MTv9KFFFSvlOYfxxp5B_ufWeMrdbZYxelf7ql6suUMPTKUcRdHfphRXm5dz_dsJmupF-dmRARy8H_PcFUz6Tn4BpN5nkhP5b2uq1mnfwrQn0CXxMF62yUtN3RpqurGg==",
+                "link": "https://www.google.com/search?si=ALGXSlbxCNNTopEPqvrJ148wWiKBaIqrRjeQ1JuvAqbijavXlqZTDWYWjZt83Gds61oURwsf_TJANxJXwY1C-KUkzmtsZL1o7HMdOR6X35njFSh0B8ckZL3hhBbpJ0nglwRiafaMfI7XYCuC9OBab_t1ikILCQInew7MTv9KFFFSvlOYfxxp5B_ufWeMrdbZYxelf7ql6suUMPTKUcRdHfphRXm5dz_dsJmupF-dmRARy8H_PcFUz6Tn4BpN5nkhP5b2uq1mnfwrQn0CXxMF62yUtN3RpqurGg==",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank&si=ALGXSlbxCNNTopEPqvrJ148wWiKBaIqrRjeQ1JuvAqbijavXlqZTDWYWjZt83Gds61oURwsf_TJANxJXwY1C-KUkzmtsZL1o7HMdOR6X35njFSh0B8ckZL3hhBbpJ0nglwRiafaMfI7XYCuC9OBab_t1ikILCQInew7MTv9KFFFSvlOYfxxp5B_ufWeMrdbZYxelf7ql6suUMPTKUcRdHfphRXm5dz_dsJmupF-dmRARy8H_PcFUz6Tn4BpN5nkhP5b2uq1mnfwrQn0CXxMF62yUtN3RpqurGg%3D%3D"
             },
             {
                 "text": "Watch movie",
-                "si": "ALGXSlYkQDdBSV9uI-V3DYQyIqPcrbk33E1yLtocPVjAx6hCI6xw7bnhEuVdB_v53pUKqvPI94V7HXKZXknvwlvyhpA7Ts3_DG0dx1Sco5CcxC-oL2yhFGSUFLMNTIRk264aIfVDsD-OYBFAUQQqZFe76P9lHYWGhte8cyWWZy50kSPG6f_ULPw=",
-                "link": "https://www.google.com/search?si=ALGXSlYkQDdBSV9uI-V3DYQyIqPcrbk33E1yLtocPVjAx6hCI6xw7bnhEuVdB_v53pUKqvPI94V7HXKZXknvwlvyhpA7Ts3_DG0dx1Sco5CcxC-oL2yhFGSUFLMNTIRk264aIfVDsD-OYBFAUQQqZFe76P9lHYWGhte8cyWWZy50kSPG6f_ULPw=",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&si=ALGXSlYkQDdBSV9uI-V3DYQyIqPcrbk33E1yLtocPVjAx6hCI6xw7bnhEuVdB_v53pUKqvPI94V7HXKZXknvwlvyhpA7Ts3_DG0dx1Sco5CcxC-oL2yhFGSUFLMNTIRk264aIfVDsD-OYBFAUQQqZFe76P9lHYWGhte8cyWWZy50kSPG6f_ULPw%3D"
+                "si": "ALGXSlbU0DVwhpst6EEcnRoy3KuIhhGdh2ahy-sLN7Pgvu--vpLVhUqC3qnfBFCcoeLQvJVz0F1q8jqF-vRrajBq_sxqc8ow9sYMSYJ89CfCYx2lOrTPwgMe_rp6ZnScshvrqaKDeyl1iGrXdBJgVyLT8xoLGECFplWyawioxJ7HXsVOZAMujPGPssXe5xSqcZrjt8w0qgIK",
+                "link": "https://www.google.com/search?si=ALGXSlbU0DVwhpst6EEcnRoy3KuIhhGdh2ahy-sLN7Pgvu--vpLVhUqC3qnfBFCcoeLQvJVz0F1q8jqF-vRrajBq_sxqc8ow9sYMSYJ89CfCYx2lOrTPwgMe_rp6ZnScshvrqaKDeyl1iGrXdBJgVyLT8xoLGECFplWyawioxJ7HXsVOZAMujPGPssXe5xSqcZrjt8w0qgIK",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank&si=ALGXSlbU0DVwhpst6EEcnRoy3KuIhhGdh2ahy-sLN7Pgvu--vpLVhUqC3qnfBFCcoeLQvJVz0F1q8jqF-vRrajBq_sxqc8ow9sYMSYJ89CfCYx2lOrTPwgMe_rp6ZnScshvrqaKDeyl1iGrXdBJgVyLT8xoLGECFplWyawioxJ7HXsVOZAMujPGPssXe5xSqcZrjt8w0qgIK"
             },
             {
                 "text": "Reviews",
-                "si": "ALGXSlZ0TxbpNZlmfbuoFh9gvhifs8rC-kK0fdLOdufaORaNYr7BrrvzjhEyL86BbDlPKybf5M0dMoh2KOc_lgnVIjMqE8H4ncz1cuvlh64upU3RmtKlpanoNeqkBzElQHQYStt5HH0M5jL6KpD0EOy9nv9TUNeKKpsRfP4VXL7HpOmyzDkEDWGt-6GMexojRjhm97RjtwkB",
-                "link": "https://www.google.com/search?si=ALGXSlZ0TxbpNZlmfbuoFh9gvhifs8rC-kK0fdLOdufaORaNYr7BrrvzjhEyL86BbDlPKybf5M0dMoh2KOc_lgnVIjMqE8H4ncz1cuvlh64upU3RmtKlpanoNeqkBzElQHQYStt5HH0M5jL6KpD0EOy9nv9TUNeKKpsRfP4VXL7HpOmyzDkEDWGt-6GMexojRjhm97RjtwkB",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&si=ALGXSlZ0TxbpNZlmfbuoFh9gvhifs8rC-kK0fdLOdufaORaNYr7BrrvzjhEyL86BbDlPKybf5M0dMoh2KOc_lgnVIjMqE8H4ncz1cuvlh64upU3RmtKlpanoNeqkBzElQHQYStt5HH0M5jL6KpD0EOy9nv9TUNeKKpsRfP4VXL7HpOmyzDkEDWGt-6GMexojRjhm97RjtwkB"
-            },
-            {
-                "text": "Behind the scenes",
-                "si": "ALGXSlZ0TxbpNZlmfbuoFh9gvhifs8rC-kK0fdLOdufaORaNYr7BrrvzjhEyL86BbDlPKybf5M0dMoh2KOc_lgnVIjMqE8H4ncz1cuvlh64upU3RmtKlpanoNeqkBzElQHQYStt5HH0M5jL6KpD0EOy9nv9TUNeKKpsRfP4VXL7HpOmyzDkEDWGt-6GMexojRjhm97RjtwkB",
-                "link": "https://www.google.com/search?si=ALGXSlZ0TxbpNZlmfbuoFh9gvhifs8rC-kK0fdLOdufaORaNYr7BrrvzjhEyL86BbDlPKybf5M0dMoh2KOc_lgnVIjMqE8H4ncz1cuvlh64upU3RmtKlpanoNeqkBzElQHQYStt5HH0M5jL6KpD0EOy9nv9TUNeKKpsRfP4VXL7HpOmyzDkEDWGt-6GMexojRjhm97RjtwkB",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&si=ALGXSlZ0TxbpNZlmfbuoFh9gvhifs8rC-kK0fdLOdufaORaNYr7BrrvzjhEyL86BbDlPKybf5M0dMoh2KOc_lgnVIjMqE8H4ncz1cuvlh64upU3RmtKlpanoNeqkBzElQHQYStt5HH0M5jL6KpD0EOy9nv9TUNeKKpsRfP4VXL7HpOmyzDkEDWGt-6GMexojRjhm97RjtwkB"
+                "si": "ALGXSlaLfp4M_WDoWtcxZpFK-JMMohrpubA1y8YjmRC8_cgHv-XHb0ush1yQsQj7ivSHTa_tfty9zSMQp4tSBLVZd9R8wjagjue9mebJpMTnuS4BeBY1CUpZSrPuPYJHw95q2tVw8FO0KYO0tv3ZaB40HnlbhlejS4oiJP6AwtzmkgQOOCMEwThO9SKP6UA2_VjVhNKGH03m",
+                "link": "https://www.google.com/search?si=ALGXSlaLfp4M_WDoWtcxZpFK-JMMohrpubA1y8YjmRC8_cgHv-XHb0ush1yQsQj7ivSHTa_tfty9zSMQp4tSBLVZd9R8wjagjue9mebJpMTnuS4BeBY1CUpZSrPuPYJHw95q2tVw8FO0KYO0tv3ZaB40HnlbhlejS4oiJP6AwtzmkgQOOCMEwThO9SKP6UA2_VjVhNKGH03m",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank&si=ALGXSlaLfp4M_WDoWtcxZpFK-JMMohrpubA1y8YjmRC8_cgHv-XHb0ush1yQsQj7ivSHTa_tfty9zSMQp4tSBLVZd9R8wjagjue9mebJpMTnuS4BeBY1CUpZSrPuPYJHw95q2tVw8FO0KYO0tv3ZaB40HnlbhlejS4oiJP6AwtzmkgQOOCMEwThO9SKP6UA2_VjVhNKGH03m"
             },
             {
                 "text": "Trailers & clips",
-                "si": "ALGXSlaD69LsqbJjW98OWcjCC_LsZKjzBUvey-W6anOmDt28jA1xvZFDywUoOEaFWGZENal19Z0MBf_KieiG2mTk3DU6hzwUcoGuII0l0xN6-s0E9P8rUxyMQqg9Y3TAiUFj2K8WhV6XUflMGbgRdMP9UkWV87klrL-3m1SUHDRsUQnbEybbYqiY5sAIC9uHUJekD-LBH9xQ",
-                "link": "https://www.google.com/search?si=ALGXSlaD69LsqbJjW98OWcjCC_LsZKjzBUvey-W6anOmDt28jA1xvZFDywUoOEaFWGZENal19Z0MBf_KieiG2mTk3DU6hzwUcoGuII0l0xN6-s0E9P8rUxyMQqg9Y3TAiUFj2K8WhV6XUflMGbgRdMP9UkWV87klrL-3m1SUHDRsUQnbEybbYqiY5sAIC9uHUJekD-LBH9xQ",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&si=ALGXSlaD69LsqbJjW98OWcjCC_LsZKjzBUvey-W6anOmDt28jA1xvZFDywUoOEaFWGZENal19Z0MBf_KieiG2mTk3DU6hzwUcoGuII0l0xN6-s0E9P8rUxyMQqg9Y3TAiUFj2K8WhV6XUflMGbgRdMP9UkWV87klrL-3m1SUHDRsUQnbEybbYqiY5sAIC9uHUJekD-LBH9xQ"
+                "si": "ALGXSlaLfp4M_WDoWtcxZpFK-JMMohrpubA1y8YjmRC8_cgHv-XHb0ush1yQsQj7ivSHTa_tfty9zSMQp4tSBLVZd9R8wjagjue9mebJpMTnuS4BeBY1CUpZSrPuPYJHw95q2tVw8FO0KYO0tv3ZaB40HnlbhlejS4oiJP6AwtzmkgQOOCMEwThO9SKP6UA2_VjVhNKGH03m",
+                "link": "https://www.google.com/search?si=ALGXSlaLfp4M_WDoWtcxZpFK-JMMohrpubA1y8YjmRC8_cgHv-XHb0ush1yQsQj7ivSHTa_tfty9zSMQp4tSBLVZd9R8wjagjue9mebJpMTnuS4BeBY1CUpZSrPuPYJHw95q2tVw8FO0KYO0tv3ZaB40HnlbhlejS4oiJP6AwtzmkgQOOCMEwThO9SKP6UA2_VjVhNKGH03m",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank&si=ALGXSlaLfp4M_WDoWtcxZpFK-JMMohrpubA1y8YjmRC8_cgHv-XHb0ush1yQsQj7ivSHTa_tfty9zSMQp4tSBLVZd9R8wjagjue9mebJpMTnuS4BeBY1CUpZSrPuPYJHw95q2tVw8FO0KYO0tv3ZaB40HnlbhlejS4oiJP6AwtzmkgQOOCMEwThO9SKP6UA2_VjVhNKGH03m"
             },
             {
                 "text": "Quotes",
-                "si": "ALGXSlZnrJYyd6tgOkfzKCpUhvKPtKnJr9na4hBHKNSTf4QfP4uFGy72pzaXY_8a5Tr_p_9AN0A2v5tgBbtjrg1j1x9CXiwPlOJv2GGa_Z_zM3-U4pe0z1hDW5ZADExedzvx1uVMYoU2p7h-75ZzVwpW4TwCZvIxMz7iDv3Gt_flyQUu61fAsBQ=",
-                "link": "https://www.google.com/search?si=ALGXSlZnrJYyd6tgOkfzKCpUhvKPtKnJr9na4hBHKNSTf4QfP4uFGy72pzaXY_8a5Tr_p_9AN0A2v5tgBbtjrg1j1x9CXiwPlOJv2GGa_Z_zM3-U4pe0z1hDW5ZADExedzvx1uVMYoU2p7h-75ZzVwpW4TwCZvIxMz7iDv3Gt_flyQUu61fAsBQ=",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&si=ALGXSlZnrJYyd6tgOkfzKCpUhvKPtKnJr9na4hBHKNSTf4QfP4uFGy72pzaXY_8a5Tr_p_9AN0A2v5tgBbtjrg1j1x9CXiwPlOJv2GGa_Z_zM3-U4pe0z1hDW5ZADExedzvx1uVMYoU2p7h-75ZzVwpW4TwCZvIxMz7iDv3Gt_flyQUu61fAsBQ%3D"
+                "si": "ALGXSlYjM_LwFoQW7ZtE1v3Vt3-b_ZV8O-Dm86DWx5-AidH5dbksmd5AdJSSvSvxrztyosoyhqr8Iu1hW0IJTKWAXzHgY0xdWDMYO-TB7zPUYHF5WsNviyhWz4U3gfqCJrXvbDSuzcga7EiHSn3FeBkCyba-XIyweoIhFScLqbKo3nbkEIfihWQ=",
+                "link": "https://www.google.com/search?si=ALGXSlYjM_LwFoQW7ZtE1v3Vt3-b_ZV8O-Dm86DWx5-AidH5dbksmd5AdJSSvSvxrztyosoyhqr8Iu1hW0IJTKWAXzHgY0xdWDMYO-TB7zPUYHF5WsNviyhWz4U3gfqCJrXvbDSuzcga7EiHSn3FeBkCyba-XIyweoIhFScLqbKo3nbkEIfihWQ=",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank&si=ALGXSlYjM_LwFoQW7ZtE1v3Vt3-b_ZV8O-Dm86DWx5-AidH5dbksmd5AdJSSvSvxrztyosoyhqr8Iu1hW0IJTKWAXzHgY0xdWDMYO-TB7zPUYHF5WsNviyhWz4U3gfqCJrXvbDSuzcga7EiHSn3FeBkCyba-XIyweoIhFScLqbKo3nbkEIfihWQ%3D"
             }
         ],
-        "description": "A young Bruce Wayne (Christian Bale) travels to the Far East, where he's trained in the martial arts by Henri Ducard (Liam Neeson), a member of the mysterious League of Shadows. When Ducard reveals the League's true purpose -- the complete destruction of Gotham City -- Wayne returns to Gotham intent on cleaning up the city without resorting to murder. With the help of Alfred (Michael Caine), his loyal butler, and Lucius Fox (Morgan Freeman), a tech expert at Wayne Enterprises, Batman is born.\u2026 MORE",
-        "release_date": "June 15, 2005 (USA)",
+        "description": "Andy Dufresne (Tim Robbins) is sentenced to two consecutive life terms in prison for the murders of his wife and her lover and is sentenced to a tough prison. However, only Andy knows he didn't commit the crimes. While there, he forms a friendship with Red (Morgan Freeman), experiences brutality of prison life, adapts, helps the warden, etc., all in 19 years.\u2026 MORE",
+        "release_date": "October 14, 1994 (USA)",
         "release_date_links": [
             {
                 "text": "USA",
-                "link": "https://www.google.com/search?sca_esv=568425080&q=United+States&stick=H4sIAAAAAAAAAOPgE-LUz9U3MEorLEpTAjMtk83LDbSMspOt9NMyc3LBhFVJRmpiSVFmcmKOQlFqemZ-nkJieWJRKpCTk5pYnKqQkliSuoiVNzQvsyQ1RSG4BMgt3sHKuIudiYMBANP510JkAAAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQmxMoAHoECB4QAg"
+                "link": "https://www.google.com/search?sca_esv=568933252&q=United+States&stick=H4sIAAAAAAAAAOPgE-LQz9U3MM_KK1HiBLEsk83LDbSMspOt9NMyc3LBhFVJRmpiSVFmcmKOQlFqemZ-nkJieWJRKpCTk5pYnKqQkliSuoiVNzQvsyQ1RSG4BMgt3sHKuIudiYMBALtoaNxjAAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQmxMoAHoECCQQAg"
             }
         ],
-        "director": "Christopher Nolan",
+        "director": "Frank Darabont",
         "director_links": [
             {
-                "text": "Christopher Nolan",
-                "link": "https://www.google.com/search?sca_esv=568425080&q=Christopher+Nolan&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stCyzLkJ8OM37NWVd1_tzfQYgv7zmSb_Be66vXx2hN3rJfXsM6o4chLcFc9tjdteb4-r6i0Pg7CQJED_sPMO7ZKlfDis6Dst5z9qh7fL50Apb4sMzFb8X_xZviVdZ_hXS4YMG4JxBXZBl-S2ioF17HlEc2-t4p-T_3r-rmsr4aMhx8h3wZQ%3D%3D&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQmxMoAHoECCMQAg"
+                "text": "Frank Darabont",
+                "link": "https://www.google.com/search?sca_esv=568933252&q=Frank+Darabont&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stP_uQQqZTMeIqqkADJPUR0xAAD1lfjzZFRseEG9D-TxSglczmTgz9oUqKulKr6zAyip9HTjxqiliqmgcjuyfsTYLX_2AfDWX3h1eOhS3g82U_x43z4_08-mHqX9ef6SYDIIjdXNkpav3cfVaAoyuGCqyY7e1&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQmxMoAHoECB8QAg"
             }
         ],
-        "budget": "150 million USD",
-        "film_series": "The Dark Knight Trilogy",
-        "film_series_links": [
+        "story_by": "Stephen King",
+        "story_by_links": [
             {
-                "text": "The Dark Knight Trilogy",
-                "link": "https://www.google.com/search?sca_esv=568425080&q=The+Dark+Knight+Trilogy&si=ALGXSlYPkF2MKlZLFV56Lmj_Zy6ZT1rGy73vWpQufutnylBobRN-pVlbiwj9uple4ikcWfPUs6-16vEiRxoYDtoOV_uLh_Bbq_QVufXzJNYKis-NUTDyYJ63ZKX_pH6ipl_aJdK7rDfi92TP8pe9vbBUyqZI0mXcSzDJrOx3A4Dxwz2QOjHuCoGLjmXmVI8i_lw0Oe9q7_FI8JsrI5u2QCdoI1iU0ybCAw%3D%3D&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQmxMoAHoECCgQAg"
+                "text": "Stephen King",
+                "link": "https://www.google.com/search?sca_esv=568933252&q=Stephen+King&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFKJvhJe4mAEtoggtv2KYu7CNUqZmxXvU_0-NbJHT2AMOPMXYA7fyBkpj-Zh7hPFEh2ELQ3a_4fkKg_ZoC7nDHdHqfAfF76kpamamRPb59r1SiOHUXIgaYfwZli8LEmm3Dg_JBSWlbDSeM9DR46GH7ZQkrG_n&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQmxMoAHoECCEQAg"
             }
         ],
-        "distributed_by": "Warner Bros., FilmFlex, Warner Bros. Pictures, Warner Bros. Home Entertainment",
+        "distributed_by": "Warner Bros., Columbia Pictures, Warner Bros. Home Entertainment",
         "distributed_by_links": [
             {
                 "text": "Warner Bros.",
-                "link": "https://www.google.com/search?sca_esv=568425080&q=Warner+Bros.&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2mYx91SCT5XAEi3E6dxj_bZ3PmTv9CEtdZWGQP-KSc152QqbvmaN0keFZF04EqP69na5Xv03nZZhUdSsWqTLfXsPwgHcO7JCNTdQtIAGEFhbCTRmqLutBkgoC0756Tl6ay7pX8VCCIDi3HICRECJ9YKVzKHvn&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQmxMoAHoECCkQAg"
+                "link": "https://www.google.com/search?sca_esv=568933252&q=Warner+Bros.&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2mYx91SCT5XAEi3E6dxj_bZ1Dgadvy5DWRFiN2FPGSPhaFsBRGicCjota-jO_CoAPCYdCKTiqrDk5l7vMs_-_48TGXPQdyex5uQs6DACm0jnAGTOVW3LrhGiOMWOHZe9ugw3qYVeShntNKpgOwiZaQHjugPi9&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQmxMoAHoECCkQAg"
             },
             {
-                "text": "FilmFlex",
-                "link": "https://www.google.com/search?sca_esv=568425080&q=FilmFlex&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stI5fHVxTcSotSVbvRDciKMTIcD-V0mwW8nsVu6s5vFr7L6No1KN7MIJj_cz6bPra2QXv7tj4kP7uD3fwO9lvAgowrIQJygLsnRugGJGdHDuubAKN00r0ykHxbnHk4rwgmcmr5uOX9JnQoeMZKVsAtHYsGqmY&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQmxMoAXoECCkQAw"
-            },
-            {
-                "text": "Warner Bros. Pictures",
-                "link": "https://www.google.com/search?sca_esv=568425080&q=Warner+Bros.+Pictures&si=ALGXSlZZLz93Q5j8HVkpXyxpTaoqXw8cocmoi-DFAGsSj5diF277Op4k1Vz1S5-2v20TA-_Vp6r7Tmppfk1Vxr-m_rI_Z6Plppn8fJn8s99G9hVu4pGIjIQ4gsiB8oByYiVFzKAOz0wXDQwuZrM6TVQTHXbmaQ7Tdw1z7bINrXxzrfpelkJFwY_wOha6oJFV5u6BKLjcwHbzz4x1NBJZhlX1dOMES_eyoQ%3D%3D&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQmxMoAnoECCkQBA"
+                "text": "Columbia Pictures",
+                "link": "https://www.google.com/search?sca_esv=568933252&q=Columbia+Pictures&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stL4G6L6qBYn1wntqKEOAOhMg22jZBmnbBJfrGc9pBPdGXE_DqiZlJa5CHWKqt05ccczoTL5UN3YI0KishL5Mr94FyTQHCTVdziC3eSXaiK7tXo55lAcrAzK7QDLUPvfhobyXaI7nHBdtCm4LwW8iQASggHywWQvu8FtBXoo8Gm-CWuIPAA%3D%3D&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQmxMoAXoECCkQAw"
             },
             {
                 "text": "Warner Bros. Home Entertainment",
-                "link": "https://www.google.com/search?sca_esv=568425080&q=Warner+Bros.+Home+Entertainment&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stMSvnf-r040z7uKcyMp-yb7Bzqf5In8l4sToYfKfvwpqJ-LSLQnteiH8YekenIqFaqrmrGJHUJ4gwc2idG8pZwkReDnEncqcsxkJ0ls-Vyf4tW0Ioz2XgJfgO5ixWVcce2G92sz7CSXQ1hnqSmhspUbO1Kulon2QKsAknNOZkfKbeAe9zC4uvDTSO4EwweLDEann6MM%3D&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQmxMoA3oECCkQBQ"
+                "link": "https://www.google.com/search?sca_esv=568933252&q=Warner+Bros.+Home+Entertainment&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stMSvnf-r040z7uKcyMp-yb7Bzqf5In8l4sToYfKfvwpqXb0Buc-UiOSSCyWGbyGn1UyVyZgCHGu2oODmsCFnJOpLiYLaVoIFuJMnu2X6P7duEipvsuDs_PxYRfZnRt9etrtfTLax9z3-2ymWCfqTkw1QcDBctjRww45TwPIAwesvOwEYlw%3D%3D&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQmxMoAnoECCkQBA"
             }
         ],
-        "based_on": "Characters appearing in comic books published; by DC Comics",
-        "based_on_links": [
+        "adapted_from": "Rita Hayworth and Shawshank Redemption",
+        "adapted_from_links": [
             {
-                "text": "DC Comics",
-                "link": "https://www.google.com/search?sca_esv=568425080&q=DC+Comics&stick=H4sIAAAAAAAAAONgVuLQz9U3MMooS1nEyunirOCcn5uZXAwA5P2VYhgAAAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQmxMoAHoECCEQAg"
+                "text": "Rita Hayworth and Shawshank Redemption",
+                "link": "https://www.google.com/search?sca_esv=568933252&q=Rita+Hayworth+and+Shawshank+Redemption&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2mV2V6kPmg5vvtux_L-DISq1pRR2l4wspBhzbl9wtVN4PrAhHB4nBL2PA-xoohornJxJhJpFUYlJJg6_epkqTbdrm2Qd3GfYJejBKjSlgC5m3EnNrg0ocfYHgmDxA8E7u2akPgQJ_jkVxCZIe58OrtfOb-JyfEKGlJdNHXHqBQeCEqPsr27HAD5KRIj26MPjd-_B7Mxk%3D&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQmxMoAHoECC8QAg"
+            }
+        ],
+        "year_setting": "1947",
+        "year_setting_links": [
+            {
+                "text": "imdb.com",
+                "link": "https://www.imdb.com/title/tt0111161/plotsummary/"
             }
         ],
         "editorial_reviews": [
             {
                 "title": "IMDb",
-                "rating": "8.2/10",
-                "link": "https://www.imdb.com/title/tt0372784/"
+                "rating": "9.3/10",
+                "link": "https://www.imdb.com/title/tt0111161/"
             },
             {
                 "title": "Rotten Tomatoes",
-                "rating": "85%",
-                "link": "https://www.rottentomatoes.com/m/batman_begins"
-            },
-            {
-                "title": "Letterboxd",
-                "rating": "3.8/5",
-                "link": "https://letterboxd.com/film/batman-begins/"
+                "rating": "91%",
+                "link": "https://www.rottentomatoes.com/m/shawshank_redemption"
             }
         ],
         "clip": {
-            "title": "Batman Begins (2005) Official Trailer #1 - Christopher Nolan Movie2:25",
-            "link": "https://www.youtube.com/watch?v=neY2xVmOfUM",
-            "duration": "2:25",
-            "image": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/d3762f156d3cb5bcb6caee8b467cde6d7bd735da473dd22863d122a37bc1f8c8.jpeg"
+            "title": "The Shawshank Redemption (1994) Official Trailer #1 - Morgan Freeman Movie HD2:41",
+            "link": "https://www.youtube.com/watch?v=NmzuHjWmXOc",
+            "duration": "2:41",
+            "image": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/03130aa7169fe1b6a8ab7ab601e15120283c85bac4c113fac8aa96d44559bdee.jpeg"
         },
         "user_statistics": {
             "platform": "Google users",
-            "statistic": "84% liked this movie"
+            "statistic": "95% liked this movie"
         },
         "cast": [
             {
-                "name": "Christian Bale",
-                "extensions": [
-                    "Batman, Bruce Wayne"
-                ],
-                "link": "https://www.google.com/search?sca_esv=568425080&q=Christian+Bale&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpTAjMNyytNc7WEspOt9NMyc3LBhFVyYnHJIlY-54yizOKSzMQ8BafEnNQdrIwAQOogiEAAAAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQgOQBegQIPhAE",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Christian+Bale&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpTAjMNyytNc7WEspOt9NMyc3LBhFVyYnHJIlY-54yizOKSzMQ8BafEnNQdrIwAQOogiEAAAAA",
-                "image": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/d3762f156d3cb5bcb6caee8b467cde6d0f7223adcf1ce0a76999bc3e70db7184.jpeg"
-            },
-            {
-                "name": "Cillian Murphy",
-                "extensions": [
-                    "Scarecrow"
-                ],
-                "link": "https://www.google.com/search?sca_esv=568425080&q=Cillian+Murphy&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpTgjHLk7SEspOt9NMyc3LBhFVyYnHJIlY-58ycnMzEPAXf0qKCjModrIwARnDv4kAAAAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQgOQBegQIPhAG",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Cillian+Murphy&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpTgjHLk7SEspOt9NMyc3LBhFVyYnHJIlY-58ycnMzEPAXf0qKCjModrIwARnDv4kAAAAA",
-                "image": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/d3762f156d3cb5bcb6caee8b467cde6dae5ff4795428986cc5967970f2c9d52f.jpeg"
-            },
-            {
-                "name": "Katie Holmes",
-                "extensions": [
-                    "Rachel Dawes"
-                ],
-                "link": "https://www.google.com/search?sca_esv=568425080&q=Katie+Holmes&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpTAjOTktIM07SEspOt9NMyc3LBhFVyYnHJIlYe78SSzFQFj_yc3NTiHayMAH_7r3I-AAAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQgOQBegQIPhAI",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Katie+Holmes&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpTAjOTktIM07SEspOt9NMyc3LBhFVyYnHJIlYe78SSzFQFj_yc3NTiHayMAH_7r3I-AAAA",
-                "image": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/d3762f156d3cb5bcb6caee8b467cde6d570248d9a6a0e31dc3bc4c404756d787.jpeg"
-            },
-            {
-                "name": "Michael Caine",
-                "extensions": [
-                    "Alfred Pennyworth"
-                ],
-                "link": "https://www.google.com/search?sca_esv=568425080&q=Michael+Caine&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpT4gAx0_OSyrWEspOt9NMyc3LBhFVyYnHJIlZe38zkjMTUHAXnxMy81B2sjAAFHHp_PgAAAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQgOQBegQIPhAK",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Michael+Caine&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpT4gAx0_OSyrWEspOt9NMyc3LBhFVyYnHJIlZe38zkjMTUHAXnxMy81B2sjAAFHHp_PgAAAA",
-                "image": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/d3762f156d3cb5bcb6caee8b467cde6d4b2f4b0457a8356b7d1b10ff5ec32f5b.jpeg"
-            },
-            {
-                "name": "Liam Neeson",
-                "extensions": [
-                    "Ra's al Ghul"
-                ],
-                "link": "https://www.google.com/search?sca_esv=568425080&q=Liam+Neeson&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpT4gAxM0zT47WEspOt9NMyc3LBhFVyYnHJIlZun8zEXAW_1NTi_LwdrIwA3oa1PTwAAAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQgOQBegQIPhAM",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Liam+Neeson&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpT4gAxM0zT47WEspOt9NMyc3LBhFVyYnHJIlZun8zEXAW_1NTi_LwdrIwA3oa1PTwAAAA",
-                "image": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/d3762f156d3cb5bcb6caee8b467cde6d8e47949b50bff8654bbd84793af4f49e.jpeg"
-            },
-            {
-                "name": "Gary Oldman",
-                "extensions": [
-                    "James Gordon"
-                ],
-                "link": "https://www.google.com/search?sca_esv=568425080&q=Gary+Oldman&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpTAjMN08yqkrWEspOt9NMyc3LBhFVyYnHJIlZu98SiSgX_nJTcxLwdrIwAdOW58z0AAAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQgOQBegQIPhAO",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gary+Oldman&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpTAjMN08yqkrWEspOt9NMyc3LBhFVyYnHJIlZu98SiSgX_nJTcxLwdrIwAdOW58z0AAAA",
-                "image": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/d3762f156d3cb5bcb6caee8b467cde6daed5dba62ba1a580172bf85f7a58b96d.jpeg"
-            },
-            {
                 "name": "Morgan Freeman",
                 "extensions": [
-                    "Lucius Fox"
+                    "Ellis Boyd Redding"
                 ],
-                "link": "https://www.google.com/search?sca_esv=568425080&q=Morgan+Freeman&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpT4gAxTU2TLbSEspOt9NMyc3LBhFVyYnHJIlY-3_yi9MQ8Bbei1NTcxLwdrIwASJ5kPj8AAAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQgOQBegQIPhAQ",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Morgan+Freeman&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpT4gAxTU2TLbSEspOt9NMyc3LBhFVyYnHJIlY-3_yi9MQ8Bbei1NTcxLwdrIwASJ5kPj8AAAA",
-                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDAHLujN3MHV4yXCWbMYIEowZVD86Kc4NBojaXYvkMl24Tn0a7S9yyatRFQ&s=10"
+                "link": "https://www.google.com/search?sca_esv=568933252&q=Morgan+Freeman&stick=H4sIAAAAAAAAAONgFuLQz9U3MM_KK1ECs0xNky20hLKTrfTTMnNywYRVcmJxySJWPt_8ovTEPAW3otTU3MS8HayMAHq3n6E-AAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQgOQBegQILBAE",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Morgan+Freeman&stick=H4sIAAAAAAAAAONgFuLQz9U3MM_KK1ECs0xNky20hLKTrfTTMnNywYRVcmJxySJWPt_8ovTEPAW3otTU3MS8HayMAHq3n6E-AAAA",
+                "image": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/03130aa7169fe1b6a8ab7ab601e15120e3c8445db781becab36305b7a750388c.jpeg"
+            },
+            {
+                "name": "Tim Robbins",
+                "extensions": [
+                    "Andy Dufresne"
+                ],
+                "link": "https://www.google.com/search?sca_esv=568933252&q=Tim+Robbins&stick=H4sIAAAAAAAAAONgFuLQz9U3MM_KK1HiBLEM84qMzbSEspOt9NMyc3LBhFVyYnHJIlbukMxchaD8pKTMvOIdrIwABSnUYzwAAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQgOQBegQILBAG",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tim+Robbins&stick=H4sIAAAAAAAAAONgFuLQz9U3MM_KK1HiBLEM84qMzbSEspOt9NMyc3LBhFVyYnHJIlbukMxchaD8pKTMvOIdrIwABSnUYzwAAAA",
+                "image": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/03130aa7169fe1b6a8ab7ab601e151208111789d19107eb276ea11d0ce665469.jpeg"
+            },
+            {
+                "name": "Clancy Brown",
+                "extensions": [
+                    "Captain Hadley"
+                ],
+                "link": "https://www.google.com/search?sca_esv=568933252&q=Clancy+Brown&stick=H4sIAAAAAAAAAONgFuLQz9U3MM_KK1HiBLGMyyvNDbSEspOt9NMyc3LBhFVyYnHJIlYe55zEvORKBaei_PK8HayMABWYD1w9AAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQgOQBegQILBAI",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Clancy+Brown&stick=H4sIAAAAAAAAAONgFuLQz9U3MM_KK1HiBLGMyyvNDbSEspOt9NMyc3LBhFVyYnHJIlYe55zEvORKBaei_PK8HayMABWYD1w9AAAA",
+                "image": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/03130aa7169fe1b6a8ab7ab601e151206ca4fdaacf5fd7f32fc01c64f59b1e29.jpeg"
+            },
+            {
+                "name": "Bob Gunton",
+                "extensions": [
+                    "Warden Norton"
+                ],
+                "link": "https://www.google.com/search?sca_esv=568933252&q=Bob+Gunton&stick=H4sIAAAAAAAAAONgFuLQz9U3MM_KK1HiBLFMU5IqS7SEspOt9NMyc3LBhFVyYnHJIlYup_wkBffSvJL8vB2sjAAhgnHqOwAAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQgOQBegQILBAK",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bob+Gunton&stick=H4sIAAAAAAAAAONgFuLQz9U3MM_KK1HiBLFMU5IqS7SEspOt9NMyc3LBhFVyYnHJIlYup_wkBffSvJL8vB2sjAAhgnHqOwAAAA",
+                "image": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/03130aa7169fe1b6a8ab7ab601e15120ff6774124e9e077ee211ac40aeeb80b7.jpeg"
+            },
+            {
+                "name": "William Sadler",
+                "extensions": [
+                    "Heywood"
+                ],
+                "link": "https://www.google.com/search?sca_esv=568933252&q=William+Sadler&stick=H4sIAAAAAAAAAONgFuLQz9U3MM_KK1HiBLFMCyoLzbSEspOt9NMyc3LBhFVyYnHJIla-8MycnMzEXIXgxJSc1KIdrIwAwX8HIj8AAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQgOQBegQILBAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=William+Sadler&stick=H4sIAAAAAAAAAONgFuLQz9U3MM_KK1HiBLFMCyoLzbSEspOt9NMyc3LBhFVyYnHJIla-8MycnMzEXIXgxJSc1KIdrIwAwX8HIj8AAAA",
+                "image": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/03130aa7169fe1b6a8ab7ab601e151206ada83ca76d7ff05c79f7d234290df25.jpeg"
+            },
+            {
+                "name": "Gil Bellows",
+                "extensions": [
+                    "Tommy"
+                ],
+                "link": "https://www.google.com/search?sca_esv=568933252&q=Gil+Bellows&stick=H4sIAAAAAAAAAONgFuLQz9U3MM_KK1HiBLFMi1MqKrSEspOt9NMyc3LBhFVyYnHJIlZu98wcBafUnJz88uIdrIwAC8OE_DwAAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQgOQBegQILBAO",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gil+Bellows&stick=H4sIAAAAAAAAAONgFuLQz9U3MM_KK1HiBLFMi1MqKrSEspOt9NMyc3LBhFVyYnHJIlZu98wcBafUnJz88uIdrIwAC8OE_DwAAAA",
+                "image": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/03130aa7169fe1b6a8ab7ab601e1512046114a56bbb578e390e07fb863753bf2.jpeg"
+            },
+            {
+                "name": "Mark Rolston",
+                "extensions": [
+                    "Bogs Diamond"
+                ],
+                "link": "https://www.google.com/search?sca_esv=568933252&q=Mark+Rolston&stick=H4sIAAAAAAAAAONgFuLQz9U3MM_KK1HiBLFMco1SCrSEspOt9NMyc3LBhFVyYnHJIlYe38SibIWg_Jzikvy8HayMANQGAJs9AAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQgOQBegQILBAQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Mark+Rolston&stick=H4sIAAAAAAAAAONgFuLQz9U3MM_KK1HiBLFMco1SCrSEspOt9NMyc3LBhFVyYnHJIlYe38SibIWg_Jzikvy8HayMANQGAJs9AAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIJCwmYLUffBZT1EZ7DS46y9s73Y82QHA8VpsX69zmQysXOJxLd2kyNjyMXw&s=10"
             }
         ],
         "watch_now": [
             {
-                "name": "Watch now Subscription",
-                "link": "https://www.netflix.com/watch/70021642?source=35",
-                "image": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/d3762f156d3cb5bcb6caee8b467cde6d6b0502f9b11ff5bf0e2a9eedc158007ce1c463a100a1510c.png"
+                "name": "Watch now Free",
+                "link": "https://watch.sling.com/1/program/affb8ba6c611d6b2a2776c1342c85752/watch?trackingid=google-feed",
+                "image": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/03130aa7169fe1b6a8ab7ab601e15120a224da760d275e8dae38aad200222be53932fc6e79466ecc.png"
             }
         ],
         "people_also_search_for": [
             {
-                "name": "The Dark Knight (2008)",
+                "name": "The Green Mile (1999)",
                 "extensions": [
-                    "2008"
+                    "1999"
                 ],
-                "link": "https://www.google.com/search?sca_esv=568425080&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stBia5CzmypP-m0JyR8YU1CpQu2eYH08xQMRm78R32yqgbfvvo58AJIFdQohquD_UBx9nanaQ8rGlo_-FNvOCih808W3cReOzlAFPTVLFAzS4UYF1qaxwma73YSyo_3SGap8vlHIV585JmR5J-1oIr_YeF_Xgh-iTpwaeM6RzMNCmZyJNPVDGBaCkjV9sd4CVN6eQ1GsG_CKgRx299nWhX88Uzw0C9wcMTHDWQxATkz87TKl9WRaj5d0Gn19u9ZEpT4HB904%3D&q=The+Dark+Knight&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQs9oBKAB6BAgbEAI",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Dark+Knight&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stBia5CzmypP-m0JyR8YU1CpQu2eYH08xQMRm78R32yqgbfvvo58AJIFdQohquD_UBx9nanaQ8rGlo_-FNvOCih808W3cReOzlAFPTVLFAzS4UYF1qaxwma73YSyo_3SGap8vlHIV585JmR5J-1oIr_YeF_Xgh-iTpwaeM6RzMNCmZyJNPVDGBaCkjV9sd4CVN6eQ1GsG_CKgRx299nWhX88Uzw0C9wcMTHDWQxATkz87TKl9WRaj5d0Gn19u9ZEpT4HB904%3D",
-                "image": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/d3762f156d3cb5bcb6caee8b467cde6dd25d5cf635f387e19c32eae6fcd3e507446204e33126d0a6fdb88babc40421be.jpeg"
+                "link": "https://www.google.com/search?sca_esv=568933252&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stH5iQ3Hr-5tWJ6D73jaf-4pFJm-xKYZupWmdfw1AoaZm85jw5Ry6zjNmBQsjXhyegY8JkCeVOSkGZ_U-LHnfVJUsVJstNyep2KRRcMCq7L86IPgdQjVHTygGDZXCCF_x_B0AoPAiCwpu2K0M2fveCwxVcPRrt1Svegb8Pqcw6waKu-yGVy5PS5KVSUG0ahYoQ2A3pXSYpjqwV_iWqz1VQSoaLj4dOedCtJm4bp_d0S3xLX9A5Z_lyPBD89U5_ggV6CvvM7c%3D&q=The+Green+Mile&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQs9oBKAB6BAgYEAI",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Green+Mile&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stH5iQ3Hr-5tWJ6D73jaf-4pFJm-xKYZupWmdfw1AoaZm85jw5Ry6zjNmBQsjXhyegY8JkCeVOSkGZ_U-LHnfVJUsVJstNyep2KRRcMCq7L86IPgdQjVHTygGDZXCCF_x_B0AoPAiCwpu2K0M2fveCwxVcPRrt1Svegb8Pqcw6waKu-yGVy5PS5KVSUG0ahYoQ2A3pXSYpjqwV_iWqz1VQSoaLj4dOedCtJm4bp_d0S3xLX9A5Z_lyPBD89U5_ggV6CvvM7c%3D",
+                "image": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/03130aa7169fe1b6a8ab7ab601e15120b9de3218a5d9b473a85e6381ea89a249a8bdfac5edec49a90a6ce1d14ef46061.jpeg"
             },
             {
-                "name": "The Dark Knight Rises (2012)",
+                "name": "Forrest Gump (1994)",
                 "extensions": [
-                    "2012"
+                    "1994"
                 ],
-                "link": "https://www.google.com/search?sca_esv=568425080&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFBCfBSVKcbewhYhlAr6ti-jNMvswX14tDpi3QHKWnmao5MQy69fxTKtsXZO3nab0m-xfoPdah4nvuy13VW4FDMC27l2PopqwMUjL7blEZP5gMNNn2dmTMHsmuH9xJHoECn4oYcUC7ds9THrYqNClhsXKZ46APgH0IRDeG5zvRuu6UNBRZQGsrSMcjLYIOJr-2dqCTD9pptyI_t_fsNBajI6Prr9QZB9c9xMw97aW5LPdW3EvoR7eMsfTjeMJ-awYakfxMXivseYQCQRoapNZcTgyOjDm&q=The+Dark+Knight+Rises&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQs9oBKAF6BAgbEAM",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Dark+Knight+Rises&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFBCfBSVKcbewhYhlAr6ti-jNMvswX14tDpi3QHKWnmao5MQy69fxTKtsXZO3nab0m-xfoPdah4nvuy13VW4FDMC27l2PopqwMUjL7blEZP5gMNNn2dmTMHsmuH9xJHoECn4oYcUC7ds9THrYqNClhsXKZ46APgH0IRDeG5zvRuu6UNBRZQGsrSMcjLYIOJr-2dqCTD9pptyI_t_fsNBajI6Prr9QZB9c9xMw97aW5LPdW3EvoR7eMsfTjeMJ-awYakfxMXivseYQCQRoapNZcTgyOjDm",
-                "image": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/d3762f156d3cb5bcb6caee8b467cde6dd25d5cf635f387e19c32eae6fcd3e507b18daf0ca9aa5231e904508498cf727b.jpeg"
+                "link": "https://www.google.com/search?sca_esv=568933252&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2mU--zsPii4fCDvtdtlDtves0YfkGk6aV3ti9_MoRqA8toySFfrV-tP_jz8_P-P4bZBbhKISxJRCK0Kf18GRjYqtKo4RK_ZUh6KquAb_5GRviwOyud-g0PATyQcZWvH5J8p9RnoNUn01AjSP_WXdgCG12t9QWKuRG0HFCENeYE-CWFIMYiGNap-zB89kdZvwQ33tsMzr7S_J1ZXMQXAV-5jHqpzcq6Em3-iLor50is_1C4_N9XUFoboDR1SUKCFXJmnTOu_E%3D&q=Forrest+Gump&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQs9oBKAF6BAgYEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Forrest+Gump&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2mU--zsPii4fCDvtdtlDtves0YfkGk6aV3ti9_MoRqA8toySFfrV-tP_jz8_P-P4bZBbhKISxJRCK0Kf18GRjYqtKo4RK_ZUh6KquAb_5GRviwOyud-g0PATyQcZWvH5J8p9RnoNUn01AjSP_WXdgCG12t9QWKuRG0HFCENeYE-CWFIMYiGNap-zB89kdZvwQ33tsMzr7S_J1ZXMQXAV-5jHqpzcq6Em3-iLor50is_1C4_N9XUFoboDR1SUKCFXJmnTOu_E%3D",
+                "image": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/03130aa7169fe1b6a8ab7ab601e15120b9de3218a5d9b473a85e6381ea89a2497b1a2fae96dd0c8c3280169f813d6648.jpeg"
             },
             {
-                "name": "Batman (1989)",
+                "name": "The Mist (2007)",
                 "extensions": [
-                    "1989"
+                    "2007"
                 ],
-                "link": "https://www.google.com/search?sca_esv=568425080&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2mQaJ3bxO4ZLMd3GoQCI_3kksYjoayOzOp1wAGOkulO1GzqfOH5QAr6eLRmMDVwgegZHFnHwecmIj97q_1GOBDUJgvMpKWqzIQK2PgUXdB-hcoSLLA5gilLjsjPSKKVl1cUbGBLjMC8qqljkkwl_v8BLwfn8n1ea_UM9OwrvmsV1A60QQgr1oNCwJuS_8W2DxOJxnyrkHnNUzU9E_XfE_u4fR7DpSdSA8z-u-_GQ88ld1H8cBnBL5RKWuIz1IeDVNuJfJPyI%3D&q=Batman+(1989+film)&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQs9oBKAJ6BAgbEAQ",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+%281989+film%29&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2mQaJ3bxO4ZLMd3GoQCI_3kksYjoayOzOp1wAGOkulO1GzqfOH5QAr6eLRmMDVwgegZHFnHwecmIj97q_1GOBDUJgvMpKWqzIQK2PgUXdB-hcoSLLA5gilLjsjPSKKVl1cUbGBLjMC8qqljkkwl_v8BLwfn8n1ea_UM9OwrvmsV1A60QQgr1oNCwJuS_8W2DxOJxnyrkHnNUzU9E_XfE_u4fR7DpSdSA8z-u-_GQ88ld1H8cBnBL5RKWuIz1IeDVNuJfJPyI%3D",
-                "image": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/d3762f156d3cb5bcb6caee8b467cde6dd25d5cf635f387e19c32eae6fcd3e507095a5170647216ddbd3c5cdc17a9bbff.jpeg"
+                "link": "https://www.google.com/search?sca_esv=568933252&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFE3Alj-UmNMjTdpHFgwaXgpcNTTQTJWDui7Pp00LOmfhH3sL_F1TpcFxR6do7stoHW2GiZinR7T7SPwTXSJ7EuGcAP9zCHPtpcZ8lCTaQn6MYzuDf3ulaoHPCTIYCp5_Sc6YRzsPeS1-XUaPvNcyf1RM-FKWSPUTGjpL2wuTrTzN521a-0FxYwGyq7PS160WKvfRIKJu0PUqMfAwo_f_pazXFkubGnP7URiy8RaSjDGLHWOKlpVnJQzuFOMbQbdQsY543IM%3D&q=The+Mist+(film)&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQs9oBKAJ6BAgYEAQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Mist+%28film%29&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFE3Alj-UmNMjTdpHFgwaXgpcNTTQTJWDui7Pp00LOmfhH3sL_F1TpcFxR6do7stoHW2GiZinR7T7SPwTXSJ7EuGcAP9zCHPtpcZ8lCTaQn6MYzuDf3ulaoHPCTIYCp5_Sc6YRzsPeS1-XUaPvNcyf1RM-FKWSPUTGjpL2wuTrTzN521a-0FxYwGyq7PS160WKvfRIKJu0PUqMfAwo_f_pazXFkubGnP7URiy8RaSjDGLHWOKlpVnJQzuFOMbQbdQsY543IM%3D",
+                "image": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/03130aa7169fe1b6a8ab7ab601e15120b9de3218a5d9b473a85e6381ea89a2497e2b573f792233cfda0e6e53ce9c1471.jpeg"
             },
             {
-                "name": "Batman & Robin (1997)",
+                "name": "The Godfather (1972)",
                 "extensions": [
-                    "1997"
+                    "1972"
                 ],
-                "link": "https://www.google.com/search?sca_esv=568425080&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2mX62Q7uzMikVBXk2gmPtWYEtLew0CXli4fmr4CSoA8dYn8N1G1D2D_LJBw8afsth9GkzWiMitRAT0oRB7vE3Q1gAfL_gqWKjTNpM0_P4QOrohihVy3A65E6E5CtLfpJf_jvWn7UjeL19sgFCmS6csh_3z6mXKUYR4arO1D1Duxrkk0IvCcwsnKJoGhkgmlGMTfHIxyMeVmHDeMjeJ84A9mjltUrEiqjBAiHVZbKUpSnGsmnndzjNrg-dQ9sSoe3hmfBOTAg%3D&q=Batman+and+Robin&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQs9oBKAN6BAgbEAU",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+and+Robin&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2mX62Q7uzMikVBXk2gmPtWYEtLew0CXli4fmr4CSoA8dYn8N1G1D2D_LJBw8afsth9GkzWiMitRAT0oRB7vE3Q1gAfL_gqWKjTNpM0_P4QOrohihVy3A65E6E5CtLfpJf_jvWn7UjeL19sgFCmS6csh_3z6mXKUYR4arO1D1Duxrkk0IvCcwsnKJoGhkgmlGMTfHIxyMeVmHDeMjeJ84A9mjltUrEiqjBAiHVZbKUpSnGsmnndzjNrg-dQ9sSoe3hmfBOTAg%3D",
-                "image": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/d3762f156d3cb5bcb6caee8b467cde6dd25d5cf635f387e19c32eae6fcd3e5077867bef41931716153dea894bdabd166.jpeg"
+                "link": "https://www.google.com/search?sca_esv=568933252&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stH_yPWrxub8ay9O-WDRAUJbABBkyJle77NrNaf3v3_AtzYGx65F3JBbKa5dje2zESwP40hun_plH2YTMC2j3HRPjLMtR308Yd6Fs-VZs13r7zjg9QoUGJGGzgfHGtxHNlT-bcwkv8DizmU_nPXbq5bZZZIVtSEDqdJfTvUjq-PmLG13jNpuH-xSywMjG-tPfjb8C--T1Iwpz3myvBMa3_MAyX68bAF8c6LvyrPq_mSR0UgFDydlryflrEvycO8suUDGAegQ%3D&q=The+Godfather&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQs9oBKAN6BAgYEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Godfather&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stH_yPWrxub8ay9O-WDRAUJbABBkyJle77NrNaf3v3_AtzYGx65F3JBbKa5dje2zESwP40hun_plH2YTMC2j3HRPjLMtR308Yd6Fs-VZs13r7zjg9QoUGJGGzgfHGtxHNlT-bcwkv8DizmU_nPXbq5bZZZIVtSEDqdJfTvUjq-PmLG13jNpuH-xSywMjG-tPfjb8C--T1Iwpz3myvBMa3_MAyX68bAF8c6LvyrPq_mSR0UgFDydlryflrEvycO8suUDGAegQ%3D",
+                "image": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/03130aa7169fe1b6a8ab7ab601e15120b9de3218a5d9b473a85e6381ea89a2497ee87f4a637701c9b0483ad1e1347a1a.jpeg"
             }
         ],
-        "people_also_search_for_link": "https://www.google.com/search?sca_esv=568425080&q=Batman+Begins&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpTQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1i5XVKLMlNzFNwSk3PzCvewcp4i02S4cCVzCXuS-fUhNgYP-dcFWl2LOgad5TkTiMAc2NnbHMAAAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQ4qYDegQIGxAG",
-        "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3MEorLEpTQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1i5XVKLMlNzFNwSk3PzCvewcp4i02S4cCVzCXuS-fUhNgYP-dcFWl2LOgad5TkTiMAc2NnbHMAAAA"
+        "people_also_search_for_link": "https://www.google.com/search?sca_esv=568933252&q=The+Shawshank+Redemption&stick=H4sIAAAAAAAAAONgFuLQz9U3MM_KK1GCs7QEgzNTUssTK4v9UitKgktSC4p_MYoFpOYX5KQqJOYU5ysUpyYWJWcopOUXLWKVCMlIVQjOSCwvzkjMy1YISk1JzS0oyczP28HKeItNkuHAlcwl7kvn1ITYGD_nXBVpdizoGneU5E4jANquLF18AAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQ4qYDegQIGBAG",
+        "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLQz9U3MM_KK1GCs7QEgzNTUssTK4v9UitKgktSC4p_MYoFpOYX5KQqJOYU5ysUpyYWJWcopOUXLWKVCMlIVQjOSCwvzkjMy1YISk1JzS0oyczP28HKeItNkuHAlcwl7kvn1ITYGD_nXBVpdizoGneU5E4jANquLF18AAAA"
     },
     "inline_images": [
         {
-            "source": "https://en.wikipedia.org/wiki/Batman_Begins",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGTc82o2MauBq6l6tJ6CQbHDgY34NCaUhdjXq4pBd3-Hdnf5KZtN6fT9Ud&s",
-            "original": "https://upload.wikimedia.org/wikipedia/en/a/af/Batman_Begins_Poster.jpg",
-            "title": "Batman Begins - Wikipedia",
-            "source_name": "Wikipedia"
-        },
-        {
-            "source": "https://www.youtube.com/watch?v=neY2xVmOfUM",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_rSS7VPe2UcDYJSqiEf3VVclUeBEoz9Wpif32mwF7KSqCoH98b4ALs8N7GQ&s",
-            "original": "https://i.ytimg.com/vi/neY2xVmOfUM/maxresdefault.jpg",
-            "title": "Batman Begins (2005) Official Trailer #1 - Christopher Nolan Movie",
-            "source_name": "YouTube"
-        },
-        {
-            "source": "https://www.imdb.com/title/tt0450392/",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIdyApbwJwgqb_F1ilDtRrc0HmR0y_5Iqn0daNyHVGKw6NEsr9dfWIvYfV&s",
-            "original": "https://m.media-amazon.com/images/M/MV5BYWU4MDMxZDEtZmYzMy00ZWRlLTliYmUtZjk1NzliN2M5NjRiXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
-            "title": "Batman Begins (Video Game 2005) - IMDb",
+            "source": "https://www.imdb.com/title/tt0111161/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKfxWQZZUeQfb_EwON2RJN3LTcCez_UJ0RMSd_nXsPt1GbfzcmnM55T20jzQ&s",
+            "original": "https://m.media-amazon.com/images/M/MV5BNTYxOTYyMzE3NV5BMl5BanBnXkFtZTcwOTMxNDY3Mw@@._V1_.jpg",
+            "title": "Official Trailer",
             "source_name": "IMDb"
         },
         {
-            "source": "https://batman.fandom.com/wiki/Batman_Begins",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-pbpHIZBaiW2XdVBQISP7yrUCO5oXN7rrsZS_ZunoW6olsKfud31mHZ1&s",
-            "original": "https://static.wikia.nocookie.net/batman/images/9/94/Batman_Begins_poster4.jpg/revision/latest?cb=20230706164907",
-            "title": "Batman Begins | Batman Wiki | Fandom",
-            "source_name": "Batman Wiki - Fandom"
+            "source": "https://www.amazon.com/Shawshank-Redemption-Stephen-King/dp/B099WQYXLD",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJb-zBI9C1Mxm1QpBJl6n1p5-zs-Z49KndSUqwrQQEsWlCVSSFhhnIxdy2OA&s",
+            "original": "https://m.media-amazon.com/images/I/815qtzaP9iL._AC_UF894,1000_QL80_.jpg",
+            "title": "The Shawshank Redemption",
+            "source_name": "Amazon.com"
         },
         {
-            "source": "https://www.amazon.com/Batman-Begins-Two-Disc-Deluxe-Christian/dp/B000AU9UYM",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLCLd7w9wucIsnVtO5riOZu4eI3y7QpA84Aed-LFV39yrR3xY_jBcImPty&s",
-            "original": "https://m.media-amazon.com/images/I/41F7d4P58ML._AC_UF894,1000_QL80_.jpg",
-            "title": "Batman Begins (Two-Disc Deluxe Edition)",
+            "source": "https://www.amazon.com/Shawshank-Redemption-Tim-Robbins/dp/B001EBV0OY",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7OMHOF6ctfwQMiGzSi7JvOUO3aIMm6_DCDYnO1pdyit3Rr8cH0B4OaDXQ&s",
+            "original": "https://m.media-amazon.com/images/S/pv-target-images/66b4ed8b965ec8dbb658a907be990c7412d077e8c66dd1197011c9396bbb1bc5.jpg",
+            "title": "Watch The Shawshank Redemption | Prime Video",
             "source_name": "Amazon.com"
+        },
+        {
+            "source": "https://www.rottentomatoes.com/m/shawshank_redemption",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtjsPZIkhRPFOLnODexIPCRUDsFWCRnk_hsIJb7uPTZxHfVSnqUGvIxx6c7Q&s",
+            "original": "https://flxt.tmsimg.com/assets/p15987_k_h9_ac.jpg",
+            "title": "The Shawshank Redemption - Rotten Tomatoes",
+            "source_name": "Rotten Tomatoes"
         }
     ],
     "inline_videos": [
         {
             "position": 1,
-            "title": "Batman Begins (2005) Official Trailer #1 - Christopher Nolan ...",
-            "link": "https://www.youtube.com/watch?v=neY2xVmOfUM",
-            "thumbnail": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/2dae38150b6dd0928eba9175ea2c88a6144177ba367587a20f88e53956c996df.jpeg",
-            "channel": "Rotten Tomatoes Classic Trailers",
+            "title": "The Shawshank Redemption | Trailer | Warner Bros ...",
+            "link": "https://www.youtube.com/watch?v=PLl99DlL6b4",
+            "thumbnail": "https://i.ytimg.com/vi/PLl99DlL6b4/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kYICyR0L6IgaD6SuxWYTNlZNCWSA",
+            "channel": "Warner Bros. Entertainment",
             "platform": "YouTube",
-            "date": "Dec 11, 2013"
+            "date": "Jul 27, 2021"
         },
         {
             "position": 2,
-            "title": "Batman Begins | 4K Trailer | Warner Bros. Entertainment",
-            "link": "https://www.youtube.com/watch?v=FiL1_5DWV7Y",
-            "thumbnail": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/2dae38150b6dd09222c3472fdb5268d83ab3ea8e7c538ef802f1a782d60f6dcf.jpeg",
-            "channel": "Warner Bros. Entertainment",
+            "title": "The Shawshank Redemption (1994) Official Trailer #1 ...",
+            "link": "https://www.youtube.com/watch?v=NmzuHjWmXOc",
+            "thumbnail": "https://i.ytimg.com/vi/NmzuHjWmXOc/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3mveZKCcx94lSQ9nM7ykDCWKjrW2w",
+            "channel": "Rotten Tomatoes Classic Trailers",
             "platform": "YouTube",
-            "date": "Sep 23, 2021"
+            "date": "Mar 15, 2013"
         },
         {
             "position": 3,
-            "title": "Batman Begins - Trailer",
-            "link": "https://www.youtube.com/watch?v=qHhHIbNuok8",
-            "thumbnail": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/2dae38150b6dd092bbb5aa1f74861ea3875a0cd0b2c1557cb03e4049bace0a30.jpeg",
-            "channel": "Warner Movies On Demand",
+            "title": "The Big Clue You May Have Missed Early In The Shawshank ...",
+            "link": "https://www.youtube.com/watch?v=C9-D3Tj6DWU",
+            "thumbnail": "https://i.ytimg.com/vi/C9-D3Tj6DWU/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3k-lCaRTwcCcAASpwpoBmEktIDD6Q",
+            "channel": "Looper",
             "platform": "YouTube",
-            "date": "Sep 15, 2011"
+            "date": "Jul 26, 2021"
+        },
+        {
+            "position": 4,
+            "title": "The Shawshank Redemption Back to 90s,",
+            "link": "https://www.youtube.com/watch?v=b_sAEfB9aTA",
+            "thumbnail": "https://i.ytimg.com/vi/b_sAEfB9aTA/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3lMh9d0RUvXUtqT6U5j1PQCq8A53Q",
+            "channel": "Back to 90s",
+            "platform": "YouTube",
+            "date": "Dec 13, 2021"
         }
     ],
     "related_questions": [
         {
-            "question": "Why Katie Holmes was replaced in Batman?",
-            "snippet": "Katie Holmes had nothing against Rachel Dawes or Nolan's Batman trilogy; she simply had the desire to explore other roles at the time. In fact, instead of returning as Rachel Dawes for The Dark Knight, she appeared as Jackie Truman in Mad Money.",
-            "title": "The Reason Behind Why Katie Holmes Left The Dark Knight Trilogy",
-            "date": "Jun 8, 2023",
-            "link": "https://collider.com/katie-holmes-left-dark-knight-trilogy/#:~:text=Katie%20Holmes%20had%20nothing%20against,Jackie%20Truman%20in%20Mad%20Money.",
-            "displayed_link": "https://collider.com \u203a katie-holmes-left-dark-knight-trilogy",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeIJiYZ4XrLI7iEVGLm9235s4urJ1QAc6AqmXmfm-KBcwA0GMz5aY2G0C3ZA&s",
-            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFFqbFVSVGsyTkdVdE9UWm5XVEpxV2tKb1VqaEJUazQzTnpscE5rRjVhbUpmV1V0amJrZDRiRGxhV2sxV1dWbzFlbUY1VHpSMldsRm9ZMDV0ZFhOS1JIbEpiM0E1RWhkT2J6QlRXbVZpVlVsTFlXbHhkSE5RZERWNU5uRkJaeG9pUVVwM2F5MDRZMk5uT1d4SWRsWXlaREJwVUV4dmNGTTRiMDFZVlhNNGEwTkxVUSIsImZjdiI6IjMiLCJlaSI6Ik5vMFNaZWJVSUthaXF0c1B0NXk2cUFnIiwicWMiOiJDZzFpWVhSdFlXNGdZbVZuYVc1ekVBQjk1U3NmUHciLCJxdWVzdGlvbiI6IldoeSBLYXRpZSBIb2xtZXMgd2FzIHJlcGxhY2VkIGluIEJhdG1hbj8iLCJsayI6IkdpZDNhSGtnYTJGMGFXVWdhRzlzYldWeklIZGhjeUJ5WlhCc1lXTmxaQ0JwYmlCaVlYUnRZVzQiLCJicyI6ImMtUFM1ZElJejZoVThFNHN5VXhWOE1qUHlVMHRWaWhQTEZZb1NpM0lTVXhPVFZISXpGTndTaXpKVGN5emw3aHJ3R1hJcGVOWkRCVlFjRXBOejh3clZnQ3FUc19QVHdIUklSbXBDaTZKUmRrSzNubVo2UmtsOWhJbnE3aE11UXlDTV9KTGMxSVVQSUVtbHlSbm9HbFBTazNMTDBMVDlpZVBTNU5MSlR3alh5R3pXS0VFYUdoU1lvcENlbWtsd2pWUTNmWVN2OG9FR0FFIiwiaWQiOiJmY18zIn0=",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFFqbFVSVGsyTkdVdE9UWm5XVEpxV2tKb1VqaEJUazQzTnpscE5rRjVhbUpmV1V0amJrZDRiRGxhV2sxV1dWbzFlbUY1VHpSMldsRm9ZMDV0ZFhOS1JIbEpiM0E1RWhkT2J6QlRXbVZpVlVsTFlXbHhkSE5RZERWNU5uRkJaeG9pUVVwM2F5MDRZMk5uT1d4SWRsWXlaREJwVUV4dmNGTTRiMDFZVlhNNGEwTkxVUSIsImZjdiI6IjMiLCJlaSI6Ik5vMFNaZWJVSUthaXF0c1B0NXk2cUFnIiwicWMiOiJDZzFpWVhSdFlXNGdZbVZuYVc1ekVBQjk1U3NmUHciLCJxdWVzdGlvbiI6IldoeSBLYXRpZSBIb2xtZXMgd2FzIHJlcGxhY2VkIGluIEJhdG1hbj8iLCJsayI6IkdpZDNhSGtnYTJGMGFXVWdhRzlzYldWeklIZGhjeUJ5WlhCc1lXTmxaQ0JwYmlCaVlYUnRZVzQiLCJicyI6ImMtUFM1ZElJejZoVThFNHN5VXhWOE1qUHlVMHRWaWhQTEZZb1NpM0lTVXhPVFZISXpGTndTaXpKVGN5emw3aHJ3R1hJcGVOWkRCVlFjRXBOejh3clZnQ3FUc19QVHdIUklSbXBDaTZKUmRrSzNubVo2UmtsOWhJbnE3aE11UXlDTV9KTGMxSVVQSUVtbHlSbm9HbFBTazNMTDBMVDlpZVBTNU5MSlR3alh5R3pXS0VFYUdoU1lvcENlbWtsd2pWUTNmWVN2OG9FR0FFIiwiaWQiOiJmY18zIn0%3D"
+            "question": "What's the meaning of Shawshank?",
+            "snippet": "The name is made up of two elements that are common in English and Scots surnames and placenames: 'shaw' meaning 'covert' or 'shelter'; and 'shank' meaning literally 'leg' but figuratively 'a projecting point of a hill'.",
+            "title": "Where did Stephen King get the word \"Shawshank\" from?",
+            "date": "Apr 14, 2020",
+            "link": "https://literature.stackexchange.com/questions/13732/where-did-stephen-king-get-the-word-shawshank-from#:~:text=The%20name%20is%20made%20up,projecting%20point%20of%20a%20hill'.",
+            "displayed_link": "https://literature.stackexchange.com \u203a questions \u203a where-...",
+            "thumbnail": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/dc1d4f884562116bc9d8051ee244eea692c60c73f17740d62877ed97fb1b5940.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1ptdEVaRTFvWDI1TmVsZENXRTFpTkdOdk9XOVNUMUJyWVRjM1YyczNZa3czWkVWRmRUUllOMDk1UjFwUlgyRlhOalJPUm5KV1F6VmFPRTVMZERGZmJFMW9TMngwRWhjeVMwMVZXbUYyVms1UVMzRTFUbTlRY1RoTFNYZEJZeG9pUVVwM2F5MDRaRzFYVUZOYVZuRm9aVGN5Y0VWSmNVRTFhbGQ0TmxkcVZtUlhadyIsImZjdiI6IjMiLCJlaSI6IjJLTVVaYXZWTlBLcTVOb1BxOEtJd0FjIiwicWMiOiJDZ2x6YUdGM2MyaGhibXNRQUgyWDJ5UV8iLCJxdWVzdGlvbiI6IldoYXQncyB0aGUgbWVhbmluZyBvZiBTaGF3c2hhbms/IiwibGsiOiJHaDkzYUdGMEozTWdkR2hsSUcxbFlXNXBibWNnYjJZZ2MyaGhkM05vWVc1ciIsImJzIjoiYy1OUzVWSUl6MGdzVVM5V0tNbElWY2hOVGN6THpFdFh5RTlUQ001SUxDX09TTXpMdHBmWVVzaWx3YVhzV1l3UVUzQktMRTVOVWNqUFUwaFVLQ2txVFZVb0xza3ZxclNYT0tfRXBjd2w1NUZmcnBDVER6U21QTEZZb1Fpb0xqTVAyYmo1akZ3cVhQSWdXeFV5b2RibUZ5WG1vRm42UzFLQUVRQSIsImlkIjoiZmNfNSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1ptdEVaRTFvWDI1TmVsZENXRTFpTkdOdk9XOVNUMUJyWVRjM1YyczNZa3czWkVWRmRUUllOMDk1UjFwUlgyRlhOalJPUm5KV1F6VmFPRTVMZERGZmJFMW9TMngwRWhjeVMwMVZXbUYyVms1UVMzRTFUbTlRY1RoTFNYZEJZeG9pUVVwM2F5MDRaRzFYVUZOYVZuRm9aVGN5Y0VWSmNVRTFhbGQ0TmxkcVZtUlhadyIsImZjdiI6IjMiLCJlaSI6IjJLTVVaYXZWTlBLcTVOb1BxOEtJd0FjIiwicWMiOiJDZ2x6YUdGM2MyaGhibXNRQUgyWDJ5UV8iLCJxdWVzdGlvbiI6IldoYXQncyB0aGUgbWVhbmluZyBvZiBTaGF3c2hhbms%2FIiwibGsiOiJHaDkzYUdGMEozTWdkR2hsSUcxbFlXNXBibWNnYjJZZ2MyaGhkM05vWVc1ciIsImJzIjoiYy1OUzVWSUl6MGdzVVM5V0tNbElWY2hOVGN6THpFdFh5RTlUQ001SUxDX09TTXpMdHBmWVVzaWx3YVhzV1l3UVUzQktMRTVOVWNqUFUwaFVLQ2txVFZVb0xza3ZxclNYT0tfRXBjd2w1NUZmcnBDVER6U21QTEZZb1Fpb0xqTVAyYmo1akZ3cVhQSWdXeFV5b2RibUZ5WG1vRm42UzFLQUVRQSIsImlkIjoiZmNfNSJ9"
         },
         {
-            "question": "Is Batman Begins as good as The Dark Knight?",
-            "snippet": "There is no denying that The Dark Knight is nothing short of a masterpiece, and will forever be known as such. Batman Begins may not be the better movie as a whole from a cinematic standpoint, but it may be the better Batman movie. Everything that makes the character who he is gets shown here and built upon.",
-            "title": "Is Batman Begins Actually Better Than The Dark Knight? - MovieWeb",
-            "date": "Aug 13, 2022",
-            "link": "https://movieweb.com/is-batman-begins-better-movie-than-the-dark-knight/#:~:text=There%20is%20no%20denying%20that,shown%20here%20and%20built%20upon.",
-            "displayed_link": "https://movieweb.com \u203a is-batman-begins-better-movie-t...",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx8QNmbszSvbrFXSPCsgXJ2uVzDbVUiioBUuq9XRgVo6G7xi6i6UtEqkrUjA&s",
-            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFFqbFVSVGsyTkdVdE9UWm5XVEpxV2tKb1VqaEJUazQzTnpscE5rRjVhbUpmV1V0amJrZDRiRGxhV2sxV1dWbzFlbUY1VHpSMldsRm9ZMDV0ZFhOS1JIbEpiM0E1RWhkT2J6QlRXbVZpVlVsTFlXbHhkSE5RZERWNU5uRkJaeG9pUVVwM2F5MDRZMk5uT1d4SWRsWXlaREJwVUV4dmNGTTRiMDFZVlhNNGEwTkxVUSIsImZjdiI6IjMiLCJlaSI6Ik5vMFNaZWJVSUthaXF0c1B0NXk2cUFnIiwicWMiOiJDZzFpWVhSdFlXNGdZbVZuYVc1ekVBQjk1U3NmUHciLCJxdWVzdGlvbiI6IklzIEJhdG1hbiBCZWdpbnMgYXMgZ29vZCBhcyBUaGUgRGFyayBLbmlnaHQ/IiwibGsiOiJjNVBTeml4V1NFb3N5VTNNVTBoS1RjX01LMVpJTEZaSXo4OVBBZEVsR2FrS0tZbEYyUXJaZVpucEdTVUEiLCJicyI6ImMtUFM1ZElJejZoVThFNHN5VXhWOE1qUHlVMHRWaWhQTEZZb1NpM0lTVXhPVFZISXpGTndTaXpKVGN5emw3aHJ3R1hJcGVOWkRCVlFjRXBOejh3clZnQ3FUc19QVHdIUklSbXBDaTZKUmRrSzNubVo2UmtsOWhJbnE3aE11UXlDTV9KTGMxSVVQSUVtbHlSbm9HbFBTazNMTDBMVDlpZVBTNU5MSlR3alh5R3pXS0VFYUdoU1lvcENlbWtsd2pWUTNmWVN2OG9FR0FFIiwiaWQiOiJmY18zIn0=",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFFqbFVSVGsyTkdVdE9UWm5XVEpxV2tKb1VqaEJUazQzTnpscE5rRjVhbUpmV1V0amJrZDRiRGxhV2sxV1dWbzFlbUY1VHpSMldsRm9ZMDV0ZFhOS1JIbEpiM0E1RWhkT2J6QlRXbVZpVlVsTFlXbHhkSE5RZERWNU5uRkJaeG9pUVVwM2F5MDRZMk5uT1d4SWRsWXlaREJwVUV4dmNGTTRiMDFZVlhNNGEwTkxVUSIsImZjdiI6IjMiLCJlaSI6Ik5vMFNaZWJVSUthaXF0c1B0NXk2cUFnIiwicWMiOiJDZzFpWVhSdFlXNGdZbVZuYVc1ekVBQjk1U3NmUHciLCJxdWVzdGlvbiI6IklzIEJhdG1hbiBCZWdpbnMgYXMgZ29vZCBhcyBUaGUgRGFyayBLbmlnaHQ%2FIiwibGsiOiJjNVBTeml4V1NFb3N5VTNNVTBoS1RjX01LMVpJTEZaSXo4OVBBZEVsR2FrS0tZbEYyUXJaZVpucEdTVUEiLCJicyI6ImMtUFM1ZElJejZoVThFNHN5VXhWOE1qUHlVMHRWaWhQTEZZb1NpM0lTVXhPVFZISXpGTndTaXpKVGN5emw3aHJ3R1hJcGVOWkRCVlFjRXBOejh3clZnQ3FUc19QVHdIUklSbXBDaTZKUmRrSzNubVo2UmtsOWhJbnE3aE11UXlDTV9KTGMxSVVQSUVtbHlSbm9HbFBTazNMTDBMVDlpZVBTNU5MSlR3alh5R3pXS0VFYUdoU1lvcENlbWtsd2pWUTNmWVN2OG9FR0FFIiwiaWQiOiJmY18zIn0%3D"
-        },
-        {
-            "question": "Should I watch Batman Begins before Dark Knight?",
-            "snippet": "You don't have to watch Batman Begins before The Dark Knight unless if you're going to watch The Dark Knight Rises. But if you just watch The Dark Knight by itself that's okay you wouldn't have to watch Batman Begins. The Dark Knight has its own movie.",
-            "title": "Can I watch 'The Dark Knight' without watching its prequel? - Quora",
-            "link": "https://www.quora.com/Can-I-watch-The-Dark-Knight-without-watching-its-prequel#:~:text=You%20don't%20have%20to,Knight%20has%20its%20own%20movie.",
-            "displayed_link": "https://www.quora.com \u203a Can-I-watch-The-Dark-Knight-...",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkGKNBbpertaMn2W3IM2_QbMrsUAX3uC0KGRr9vdGo&s",
-            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFFqbFVSVGsyTkdVdE9UWm5XVEpxV2tKb1VqaEJUazQzTnpscE5rRjVhbUpmV1V0amJrZDRiRGxhV2sxV1dWbzFlbUY1VHpSMldsRm9ZMDV0ZFhOS1JIbEpiM0E1RWhkT2J6QlRXbVZpVlVsTFlXbHhkSE5RZERWNU5uRkJaeG9pUVVwM2F5MDRZMk5uT1d4SWRsWXlaREJwVUV4dmNGTTRiMDFZVlhNNGEwTkxVUSIsImZjdiI6IjMiLCJlaSI6Ik5vMFNaZWJVSUthaXF0c1B0NXk2cUFnIiwicWMiOiJDZzFpWVhSdFlXNGdZbVZuYVc1ekVBQjk1U3NmUHciLCJxdWVzdGlvbiI6IlNob3VsZCBJIHdhdGNoIEJhdG1hbiBCZWdpbnMgYmVmb3JlIERhcmsgS25pZ2h0PyIsImxrIjoiR2k5emFHOTFiR1FnYVNCM1lYUmphQ0JpWVhSdFlXNGdZbVZuYVc1eklHSmxabTl5WlNCa1lYSnJJR3R1YVdkb2RBIiwiYnMiOiJjLVBTNWRJSXo2aFU4RTRzeVV4VjhNalB5VTB0VmloUExGWW9TaTNJU1V4T1RWSEl6Rk53U2l6SlRjeXpsN2hyd0dYSXBlTlpEQlZRY0VwTno4d3JWZ0NxVHNfUFR3SFJJUm1wQ2k2SlJka0szbm1aNlJrbDloSW5xN2hNdVF5Q01fSkxjMUlVUElFbWx5Um5vR2xQU2szTEwwTFQ5aWVQUzVOTEpUd2pYeUd6V0tFRWFHaFNZb3BDZW1rbHdqVlEzZllTdjhvRUdBRSIsImlkIjoiZmNfMyJ9",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFFqbFVSVGsyTkdVdE9UWm5XVEpxV2tKb1VqaEJUazQzTnpscE5rRjVhbUpmV1V0amJrZDRiRGxhV2sxV1dWbzFlbUY1VHpSMldsRm9ZMDV0ZFhOS1JIbEpiM0E1RWhkT2J6QlRXbVZpVlVsTFlXbHhkSE5RZERWNU5uRkJaeG9pUVVwM2F5MDRZMk5uT1d4SWRsWXlaREJwVUV4dmNGTTRiMDFZVlhNNGEwTkxVUSIsImZjdiI6IjMiLCJlaSI6Ik5vMFNaZWJVSUthaXF0c1B0NXk2cUFnIiwicWMiOiJDZzFpWVhSdFlXNGdZbVZuYVc1ekVBQjk1U3NmUHciLCJxdWVzdGlvbiI6IlNob3VsZCBJIHdhdGNoIEJhdG1hbiBCZWdpbnMgYmVmb3JlIERhcmsgS25pZ2h0PyIsImxrIjoiR2k5emFHOTFiR1FnYVNCM1lYUmphQ0JpWVhSdFlXNGdZbVZuYVc1eklHSmxabTl5WlNCa1lYSnJJR3R1YVdkb2RBIiwiYnMiOiJjLVBTNWRJSXo2aFU4RTRzeVV4VjhNalB5VTB0VmloUExGWW9TaTNJU1V4T1RWSEl6Rk53U2l6SlRjeXpsN2hyd0dYSXBlTlpEQlZRY0VwTno4d3JWZ0NxVHNfUFR3SFJJUm1wQ2k2SlJka0szbm1aNlJrbDloSW5xN2hNdVF5Q01fSkxjMUlVUElFbWx5Um5vR2xQU2szTEwwTFQ5aWVQUzVOTEpUd2pYeUd6V0tFRWFHaFNZb3BDZW1rbHdqVlEzZllTdjhvRUdBRSIsImlkIjoiZmNfMyJ9"
-        },
-        {
-            "question": "Who is the bad guy in Batman Begins?",
-            "snippet": "It all started in 2005 with Batman Begins, which told the backstory of Bruce Wayne (Christian Bale) and his training to become Batman, and saw him face three villains: Ra's al Ghul (Liam Neeson), Carmine Falcone (Tom Wilkinson), and Jonathan Crane/Scarecrow (Cillian Murphy).",
-            "title": "The Dark Knight Trilogy Repeated 1 Specific Villain Trick In Each Movie",
-            "link": "https://www.imdb.com/news/ni64010238/#:~:text=It%20all%20started%20in%202005,%2FScarecrow%20(Cillian%20Murphy).",
+            "question": "Is Shawshank Based on a true story?",
+            "snippet": "The Shawshank Redemption is not a true story, but a film based on Stephen King's novella. The movie greatly expanded on King's work, making changes to characters and the ending for a more satisfying experience.",
+            "title": "Is The Shawshank Redemption Based On A True Story? - IMDb",
+            "link": "https://www.imdb.com/news/ni63958886/#:~:text=The%20Shawshank%20Redemption%20is%20not,for%20a%20more%20satisfying%20experience.",
             "displayed_link": "https://www.imdb.com \u203a news",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkgF8Sml_VZ35264Bbcr1UPBjgkgFk6DLpO44ON0kMspdzyWNb_zjQv7RW-A&s",
-            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFFqbFVSVGsyTkdVdE9UWm5XVEpxV2tKb1VqaEJUazQzTnpscE5rRjVhbUpmV1V0amJrZDRiRGxhV2sxV1dWbzFlbUY1VHpSMldsRm9ZMDV0ZFhOS1JIbEpiM0E1RWhkT2J6QlRXbVZpVlVsTFlXbHhkSE5RZERWNU5uRkJaeG9pUVVwM2F5MDRZMk5uT1d4SWRsWXlaREJwVUV4dmNGTTRiMDFZVlhNNGEwTkxVUSIsImZjdiI6IjMiLCJlaSI6Ik5vMFNaZWJVSUthaXF0c1B0NXk2cUFnIiwicWMiOiJDZzFpWVhSdFlXNGdZbVZuYVc1ekVBQjk1U3NmUHciLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgYmFkIGd1eSBpbiBCYXRtYW4gQmVnaW5zPyIsImxrIjoiR2hWMmFXeHNZV2x1SUdKaGRHMWhiaUJpWldkcGJuTSIsImJzIjoiYy1QUzVkSUl6NmhVOEU0c3lVeFY4TWpQeVUwdFZpaFBMRllvU2kzSVNVeE9UVkhJekZOd1NpekpUY3l6bDdocndHWElwZU5aREJWUWNFcE56OHdyVmdDcVRzX1BUd0hSSVJtcENpNkpSZGtLM25tWjZSa2w5aElucTdoTXVReUNNX0pMYzFJVVBJRW1seVJub0dsUFNrM0xMMExUOWllUFM1TkxKVHdqWHlHeldLRUVhR2hTWW9wQ2Vta2x3alZRM2ZZU3Y4b0VHQUUiLCJpZCI6ImZjXzMifQ==",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFFqbFVSVGsyTkdVdE9UWm5XVEpxV2tKb1VqaEJUazQzTnpscE5rRjVhbUpmV1V0amJrZDRiRGxhV2sxV1dWbzFlbUY1VHpSMldsRm9ZMDV0ZFhOS1JIbEpiM0E1RWhkT2J6QlRXbVZpVlVsTFlXbHhkSE5RZERWNU5uRkJaeG9pUVVwM2F5MDRZMk5uT1d4SWRsWXlaREJwVUV4dmNGTTRiMDFZVlhNNGEwTkxVUSIsImZjdiI6IjMiLCJlaSI6Ik5vMFNaZWJVSUthaXF0c1B0NXk2cUFnIiwicWMiOiJDZzFpWVhSdFlXNGdZbVZuYVc1ekVBQjk1U3NmUHciLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgYmFkIGd1eSBpbiBCYXRtYW4gQmVnaW5zPyIsImxrIjoiR2hWMmFXeHNZV2x1SUdKaGRHMWhiaUJpWldkcGJuTSIsImJzIjoiYy1QUzVkSUl6NmhVOEU0c3lVeFY4TWpQeVUwdFZpaFBMRllvU2kzSVNVeE9UVkhJekZOd1NpekpUY3l6bDdocndHWElwZU5aREJWUWNFcE56OHdyVmdDcVRzX1BUd0hSSVJtcENpNkpSZGtLM25tWjZSa2w5aElucTdoTXVReUNNX0pMYzFJVVBJRW1seVJub0dsUFNrM0xMMExUOWllUFM1TkxKVHdqWHlHeldLRUVhR2hTWW9wQ2Vta2x3alZRM2ZZU3Y4b0VHQUUiLCJpZCI6ImZjXzMifQ%3D%3D"
+            "thumbnail": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/dc1d4f884562116bc9d8051ee244eea60dffc824698c899accf9a06da8c7b1cb.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1ptdEVaRTFvWDI1TmVsZENXRTFpTkdOdk9XOVNUMUJyWVRjM1YyczNZa3czWkVWRmRUUllOMDk1UjFwUlgyRlhOalJPUm5KV1F6VmFPRTVMZERGZmJFMW9TMngwRWhjeVMwMVZXbUYyVms1UVMzRTFUbTlRY1RoTFNYZEJZeG9pUVVwM2F5MDRaRzFYVUZOYVZuRm9aVGN5Y0VWSmNVRTFhbGQ0TmxkcVZtUlhadyIsImZjdiI6IjMiLCJlaSI6IjJLTVVaYXZWTlBLcTVOb1BxOEtJd0FjIiwicWMiOiJDZ2x6YUdGM2MyaGhibXNRQUgyWDJ5UV8iLCJxdWVzdGlvbiI6IklzIFNoYXdzaGFuayBCYXNlZCBvbiBhIHRydWUgc3Rvcnk/IiwibGsiOiJjNU15ekN4V0tNbElWU2pPU0N3SDRyeHNoYUxVbE5UY2dwTE1fRHlGcE1UaTFCUUZJQ05Sb2FTb0ZLaW9KTC1vRWdBIiwiYnMiOiJjLU5TNVZJSXowZ3NVUzlXS01sSVZjaE5UY3pMekV0WHlFOVRDTTVJTENfT1NNekx0cGZZVXNpbHdhWHNXWXdRVTNCS0xFNU5VY2pQVTBoVUtDa3FUVlVvTHNrdnFyU1hPS19FcGN3bDU1RmZycENURHpTbVBMRllvUWlvTGpNUDJiajVqRndxWFBJZ1d4VXlvZGJtRnlYbW9GbjZTMUtBRVFBIiwiaWQiOiJmY181In0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1ptdEVaRTFvWDI1TmVsZENXRTFpTkdOdk9XOVNUMUJyWVRjM1YyczNZa3czWkVWRmRUUllOMDk1UjFwUlgyRlhOalJPUm5KV1F6VmFPRTVMZERGZmJFMW9TMngwRWhjeVMwMVZXbUYyVms1UVMzRTFUbTlRY1RoTFNYZEJZeG9pUVVwM2F5MDRaRzFYVUZOYVZuRm9aVGN5Y0VWSmNVRTFhbGQ0TmxkcVZtUlhadyIsImZjdiI6IjMiLCJlaSI6IjJLTVVaYXZWTlBLcTVOb1BxOEtJd0FjIiwicWMiOiJDZ2x6YUdGM2MyaGhibXNRQUgyWDJ5UV8iLCJxdWVzdGlvbiI6IklzIFNoYXdzaGFuayBCYXNlZCBvbiBhIHRydWUgc3Rvcnk%2FIiwibGsiOiJjNU15ekN4V0tNbElWU2pPU0N3SDRyeHNoYUxVbE5UY2dwTE1fRHlGcE1UaTFCUUZJQ05Sb2FTb0ZLaW9KTC1vRWdBIiwiYnMiOiJjLU5TNVZJSXowZ3NVUzlXS01sSVZjaE5UY3pMekV0WHlFOVRDTTVJTENfT1NNekx0cGZZVXNpbHdhWHNXWXdRVTNCS0xFNU5VY2pQVTBoVUtDa3FUVlVvTHNrdnFyU1hPS19FcGN3bDU1RmZycENURHpTbVBMRllvUWlvTGpNUDJiajVqRndxWFBJZ1d4VXlvZGJtRnlYbW9GbjZTMUtBRVFBIiwiaWQiOiJmY181In0%3D"
+        },
+        {
+            "question": "How long was red in Shawshank?",
+            "snippet": "The following year, Red is paroled after serving 40 years but struggles to adapt to life outside prison and fears that he never will. Remembering his promise to Andy, he visits Buxton and finds a cache containing money and a letter asking him to come to Zihuatanejo.",
+            "title": "40 years",
+            "link": "https://en.wikipedia.org/wiki/The_Shawshank_Redemption#:~:text=The%20following%20year%2C%20Red%20is,him%20to%20come%20to%20Zihuatanejo.",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a The_Shawshank_Red...",
+            "thumbnail": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/dc1d4f884562116bc9d8051ee244eea682204591be3ec7823198bf3c3f517b6e.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1ptdEVaRTFvWDI1TmVsZENXRTFpTkdOdk9XOVNUMUJyWVRjM1YyczNZa3czWkVWRmRUUllOMDk1UjFwUlgyRlhOalJPUm5KV1F6VmFPRTVMZERGZmJFMW9TMngwRWhjeVMwMVZXbUYyVms1UVMzRTFUbTlRY1RoTFNYZEJZeG9pUVVwM2F5MDRaRzFYVUZOYVZuRm9aVGN5Y0VWSmNVRTFhbGQ0TmxkcVZtUlhadyIsImZjdiI6IjMiLCJlaSI6IjJLTVVaYXZWTlBLcTVOb1BxOEtJd0FjIiwicWMiOiJDZ2x6YUdGM2MyaGhibXNRQUgyWDJ5UV8iLCJxdWVzdGlvbiI6IkhvdyBsb25nIHdhcyByZWQgaW4gU2hhd3NoYW5rPyIsImxrIjoiR2gxb2IzY2diRzl1WnlCM1lYTWdjbVZrSUdsdUlITm9ZWGR6YUdGdWF3IiwiYnMiOiJjLU5TNVZJSXowZ3NVUzlXS01sSVZjaE5UY3pMekV0WHlFOVRDTTVJTENfT1NNekx0cGZZVXNpbHdhWHNXWXdRVTNCS0xFNU5VY2pQVTBoVUtDa3FUVlVvTHNrdnFyU1hPS19FcGN3bDU1RmZycENURHpTbVBMRllvUWlvTGpNUDJiajVqRndxWFBJZ1d4VXlvZGJtRnlYbW9GbjZTMUtBRVFBIiwiaWQiOiJmY181In0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1ptdEVaRTFvWDI1TmVsZENXRTFpTkdOdk9XOVNUMUJyWVRjM1YyczNZa3czWkVWRmRUUllOMDk1UjFwUlgyRlhOalJPUm5KV1F6VmFPRTVMZERGZmJFMW9TMngwRWhjeVMwMVZXbUYyVms1UVMzRTFUbTlRY1RoTFNYZEJZeG9pUVVwM2F5MDRaRzFYVUZOYVZuRm9aVGN5Y0VWSmNVRTFhbGQ0TmxkcVZtUlhadyIsImZjdiI6IjMiLCJlaSI6IjJLTVVaYXZWTlBLcTVOb1BxOEtJd0FjIiwicWMiOiJDZ2x6YUdGM2MyaGhibXNRQUgyWDJ5UV8iLCJxdWVzdGlvbiI6IkhvdyBsb25nIHdhcyByZWQgaW4gU2hhd3NoYW5rPyIsImxrIjoiR2gxb2IzY2diRzl1WnlCM1lYTWdjbVZrSUdsdUlITm9ZWGR6YUdGdWF3IiwiYnMiOiJjLU5TNVZJSXowZ3NVUzlXS01sSVZjaE5UY3pMekV0WHlFOVRDTTVJTENfT1NNekx0cGZZVXNpbHdhWHNXWXdRVTNCS0xFNU5VY2pQVTBoVUtDa3FUVlVvTHNrdnFyU1hPS19FcGN3bDU1RmZycENURHpTbVBMRllvUWlvTGpNUDJiajVqRndxWFBJZ1d4VXlvZGJtRnlYbW9GbjZTMUtBRVFBIiwiaWQiOiJmY181In0%3D"
+        },
+        {
+            "question": "What is the moral of Shawshank?",
+            "snippet": "The dominant moral values that often appear in Shawshank Redemption movies is hard work; Andy had high hopes and kept working hard never gave up to renovate and make the best prison library in New England. Brooks hopes to see Jake every time he finished work and he still tried to work hard even though his hand hurts.",
+            "title": "A Study on Moral Values Represented in Shawshank Redemption Movie",
+            "link": "https://journal.upgris.ac.id/index.php/allure/article/download/allure.v1i1.9242/4521#:~:text=The%20dominant%20moral%20values%20that,even%20though%20his%20hand%20hurts.",
+            "displayed_link": "https://journal.upgris.ac.id \u203a allure \u203a article \u203a download",
+            "thumbnail": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/dc1d4f884562116bc9d8051ee244eea618327c57c47193e69315422331e688a1.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1ptdEVaRTFvWDI1TmVsZENXRTFpTkdOdk9XOVNUMUJyWVRjM1YyczNZa3czWkVWRmRUUllOMDk1UjFwUlgyRlhOalJPUm5KV1F6VmFPRTVMZERGZmJFMW9TMngwRWhjeVMwMVZXbUYyVms1UVMzRTFUbTlRY1RoTFNYZEJZeG9pUVVwM2F5MDRaRzFYVUZOYVZuRm9aVGN5Y0VWSmNVRTFhbGQ0TmxkcVZtUlhadyIsImZjdiI6IjMiLCJlaSI6IjJLTVVaYXZWTlBLcTVOb1BxOEtJd0FjIiwicWMiOiJDZ2x6YUdGM2MyaGhibXNRQUgyWDJ5UV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG1vcmFsIG9mIFNoYXdzaGFuaz8iLCJsayI6IkdoNTNhR0YwSUdseklIUm9aU0J0YjNKaGJDQnZaaUJ6YUdGM2MyaGhibXMiLCJicyI6ImMtTlM1VklJejBnc1VTOVdLTWxJVmNoTlRjekx6RXRYeUU5VENNNUlMQ19PU016THRwZllVc2lsd2FYc1dZd1FVM0JLTEU1TlVjalBVMGhVS0NrcVRWVW9Mc2t2cXJTWE9LX0VwY3dsNTVGZnJwQ1REelNtUExGWW9RaW9Mak1QMmJqNWpGd3FYUElnV3hVeW9kYm1GeVhtb0ZuNlMxS0FFUUEiLCJpZCI6ImZjXzUifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1ptdEVaRTFvWDI1TmVsZENXRTFpTkdOdk9XOVNUMUJyWVRjM1YyczNZa3czWkVWRmRUUllOMDk1UjFwUlgyRlhOalJPUm5KV1F6VmFPRTVMZERGZmJFMW9TMngwRWhjeVMwMVZXbUYyVms1UVMzRTFUbTlRY1RoTFNYZEJZeG9pUVVwM2F5MDRaRzFYVUZOYVZuRm9aVGN5Y0VWSmNVRTFhbGQ0TmxkcVZtUlhadyIsImZjdiI6IjMiLCJlaSI6IjJLTVVaYXZWTlBLcTVOb1BxOEtJd0FjIiwicWMiOiJDZ2x6YUdGM2MyaGhibXNRQUgyWDJ5UV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG1vcmFsIG9mIFNoYXdzaGFuaz8iLCJsayI6IkdoNTNhR0YwSUdseklIUm9aU0J0YjNKaGJDQnZaaUJ6YUdGM2MyaGhibXMiLCJicyI6ImMtTlM1VklJejBnc1VTOVdLTWxJVmNoTlRjekx6RXRYeUU5VENNNUlMQ19PU016THRwZllVc2lsd2FYc1dZd1FVM0JLTEU1TlVjalBVMGhVS0NrcVRWVW9Mc2t2cXJTWE9LX0VwY3dsNTVGZnJwQ1REelNtUExGWW9RaW9Mak1QMmJqNWpGd3FYUElnV3hVeW9kYm1GeVhtb0ZuNlMxS0FFUUEiLCJpZCI6ImZjXzUifQ%3D%3D"
         }
     ],
     "organic_results": [
         {
             "position": 1,
-            "title": "Batman Begins",
-            "link": "https://en.wikipedia.org/wiki/Batman_Begins",
-            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Batman_Begins",
-            "favicon": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/396eb25a952b803ead333d36339920a037dff3bacddf282f2a383c267e14f9db.png",
-            "snippet": "Batman Begins is a 2005 superhero film directed by Christopher Nolan and written by Nolan and David S. Goyer. Based on the DC Comics character Batman, ...",
+            "title": "The Shawshank Redemption",
+            "link": "https://en.wikipedia.org/wiki/The_Shawshank_Redemption",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a The_Shawshank_Red...",
+            "favicon": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/99081ca0184b88c006d95d571ff525cb606e4154629773ed39f67fbb9b8e4ee3.png",
+            "snippet": "The Shawshank Redemption is a 1994 American prison drama film written and directed by Frank Darabont, based on the 1982 Stephen King novella Rita Hayworth ...",
             "snippet_highlighted_words": [
-                "Batman Begins"
+                "Shawshank"
             ],
             "sitelinks": {
                 "inline": [
                     {
-                        "title": "Video game",
-                        "link": "https://en.wikipedia.org/wiki/Batman_Begins_(video_game)"
+                        "title": "Rita Hayworth and Shawshank",
+                        "link": "https://en.wikipedia.org/wiki/Rita_Hayworth_and_Shawshank_Redemption"
                     },
                     {
-                        "title": "Soundtrack",
-                        "link": "https://en.wikipedia.org/wiki/Batman_Begins_(soundtrack)"
+                        "title": "See also - Edit",
+                        "link": "https://en.wikipedia.org/wiki/The_Shawshank_Redemption_(disambiguation)"
                     },
                     {
-                        "title": "Joe Chill",
-                        "link": "https://en.wikipedia.org/wiki/Joe_Chill"
+                        "title": "Shawshank State Prison",
+                        "link": "https://en.wikipedia.org/wiki/Shawshank_State_Prison"
                     },
                     {
-                        "title": "Gus Lewis",
-                        "link": "https://en.wikipedia.org/wiki/Gus_Lewis"
+                        "title": "Ledger",
+                        "link": "https://en.wikipedia.org/wiki/Ledger"
                     }
                 ]
             },
             "about_this_result": {},
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:slDifN60kHQJ:https://en.wikipedia.org/wiki/Batman_Begins&cd=25&hl=en&ct=clnk&gl=us",
-            "related_pages_link": "https://www.google.com/search?sca_esv=568425080&q=related:https://en.wikipedia.org/wiki/Batman_Begins+Batman+Begins",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ehVesfkJMMUJ:https://en.wikipedia.org/wiki/The_Shawshank_Redemption&cd=35&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?sca_esv=568933252&q=related:https://en.wikipedia.org/wiki/The_Shawshank_Redemption+Shawshank",
             "source": "Wikipedia"
         },
         {
             "position": 2,
-            "title": "Batman Begins (2005)",
-            "link": "https://www.imdb.com/title/tt0372784/",
+            "title": "The Shawshank Redemption (1994)",
+            "link": "https://www.imdb.com/title/tt0111161/",
             "displayed_link": "https://www.imdb.com \u203a title",
-            "favicon": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/396eb25a952b803ead333d36339920a09448386ca76d4d9edeecc115124cdc00.png",
-            "snippet": "Batman Begins is a well told story of the origin of Bruce Wayne/Batman (Christian Bale). It covers a lot of the same ground as Michael Keaton's original Batman, ...",
-            "snippet_highlighted_words": [
-                "Batman Begins"
-            ],
+            "favicon": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/99081ca0184b88c006d95d571ff525cbae855518c5137cace3bf27c487809721.png",
+            "snippet": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through. Play trailer ...",
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Plot",
+                        "link": "https://www.imdb.com/title/tt0111161/plotsummary/"
+                    },
+                    {
+                        "title": "Full Cast & Crew",
+                        "link": "https://www.imdb.com/title/tt0111161/fullcredits"
+                    },
+                    {
+                        "title": "Official Trailer",
+                        "link": "https://www.imdb.com/video/vi3877612057/"
+                    },
+                    {
+                        "title": "The Shawshank Redemption",
+                        "link": "https://pro.imdb.com/title/tt0111161/"
+                    }
+                ]
+            },
             "rich_snippet": {
                 "top": {
                     "detected_extensions": {
-                        "rating": 8.2,
-                        "votes": 1535644
+                        "rating": 9.3,
+                        "votes": 2802085
                     },
                     "extensions": [
-                        "Rating: 8.2/10",
-                        "\u200e1,535,644 votes"
+                        "Rating: 9.3/10",
+                        "\u200e2,802,085 votes"
                     ]
                 }
             },
             "about_this_result": {},
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1s5Q_dEhfYoJ:https://www.imdb.com/title/tt0372784/&cd=38&hl=en&ct=clnk&gl=us",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:on9f6ny-GzkJ:https://www.imdb.com/title/tt0111161/&cd=36&hl=en&ct=clnk&gl=us",
             "source": "IMDb"
         },
         {
             "position": 3,
-            "title": "Watch Batman Begins",
-            "link": "https://www.netflix.com/title/70021642",
-            "displayed_link": "https://www.netflix.com \u203a title",
-            "favicon": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/396eb25a952b803ead333d36339920a02b8466224c324728e05d3d201cf7ff5f.png",
-            "snippet": "As a toxic threat endangers a corrupt city, Bruce Wayne finds himself at odds with a league of assassins and forced to battle more than his own demons.",
+            "title": "Watch The Shawshank Redemption",
+            "link": "https://www.netflix.com/lu-en/title/70005379",
+            "displayed_link": "https://www.netflix.com \u203a lu-en \u203a title",
+            "favicon": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/99081ca0184b88c006d95d571ff525cbd457564198ab5865fbcf54eec267e707.png",
+            "snippet": "Convicted of murdering his wife and her lover, a quiet banker tries to survive prison by clinging to hope \u2014 and befriending a fellow lifer named Red.",
             "about_this_result": {},
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hGilRViV_6wJ:https://www.netflix.com/title/70021642&cd=47&hl=en&ct=clnk&gl=us",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4kJu1DMSyjsJ:https://www.netflix.com/lu-en/title/70005379&cd=47&hl=en&ct=clnk&gl=us",
             "source": "Netflix"
         },
         {
             "position": 4,
-            "title": "Batman Begins | Movies",
-            "link": "https://www.warnerbros.com/movies/batman-begins",
-            "displayed_link": "https://www.warnerbros.com \u203a movies \u203a batman-begi...",
-            "favicon": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/396eb25a952b803ead333d36339920a038a991303bb60880a6e0ba543447cc60.png",
-            "snippet": "As a young boy, Bruce Wayne watched in horror as his millionaire parents were slain in front of him--a trauma that leads him to become obsessed with revenge ...",
+            "title": "The Little-Known Story of How The Shawshank Redemption",
+            "link": "https://www.vanityfair.com/hollywood/2014/09/shawshank-redemption-anniversary-story",
+            "displayed_link": "https://www.vanityfair.com \u203a hollywood \u203a 2014/09 \u203a sha...",
+            "favicon": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/99081ca0184b88c006d95d571ff525cb75ed5d2448fc05333a84b1b07fa2fb32.png",
+            "date": "Sep 22, 2014",
+            "snippet": "It's a period prison drama with stately, old-fashioned rhythms, starring Tim Robbins as Andy Dufresne, wrongfully convicted of killing his wife, ...",
             "about_this_result": {},
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:stTHd3uRWzIJ:https://www.warnerbros.com/movies/batman-begins&cd=49&hl=en&ct=clnk&gl=us",
-            "source": "Warner Bros."
+            "source": "Vanity Fair"
         },
         {
             "position": 5,
-            "title": "Batman Begins",
-            "link": "https://www.rottentomatoes.com/m/batman_begins",
-            "displayed_link": "https://www.rottentomatoes.com \u203a batman_begins",
-            "favicon": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/396eb25a952b803ead333d36339920a04e9c1a203c64c0925ae523b79b45802a.png",
-            "snippet": "A young Bruce Wayne (Christian Bale) travels to the Far East, where he's trained in the martial arts by Henri Ducard (Liam Neeson), a member of the mysterious ...",
+            "title": "The Shawshank Redemption",
+            "link": "https://www.rottentomatoes.com/m/shawshank_redemption",
+            "displayed_link": "https://www.rottentomatoes.com \u203a shawshank_redemption",
+            "favicon": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/99081ca0184b88c006d95d571ff525cb4e83a5d5dba47bfa8bfcf22b43bf5596.png",
+            "snippet": "Based on a novella by Stephen King, The Shawshank Redemption is a harrowing tale about the triumph of the human spirit. The story follows a banker named Andy ...",
+            "snippet_highlighted_words": [
+                "Shawshank"
+            ],
             "rich_snippet": {
                 "top": {
                     "detected_extensions": {
-                        "rating": 85,
-                        "votes": 290
+                        "rating": 91,
+                        "votes": 82
                     },
                     "extensions": [
-                        "Rating: 85%",
-                        "\u200e290 votes"
+                        "Rating: 91%",
+                        "\u200e82 votes"
                     ]
                 }
             },
@@ -549,234 +611,231 @@
         },
         {
             "position": 6,
-            "title": "Batman Begins (2005) directed by Christopher Nolan",
-            "link": "https://letterboxd.com/film/batman-begins/",
-            "displayed_link": "https://letterboxd.com \u203a film \u203a batman-begins",
-            "favicon": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/396eb25a952b803ead333d36339920a0e21e2ea08ae221b1694357e4abc2679b.png",
-            "snippet": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.",
-            "rich_snippet": {
-                "top": {
-                    "detected_extensions": {
-                        "rating": 3.8,
-                        "votes": 858403
-                    },
-                    "extensions": [
-                        "Rating: 3.8",
-                        "\u200e858,403 votes"
-                    ]
-                }
-            },
+            "title": "The Shawshank Redemption",
+            "link": "https://shawshank.fandom.com/wiki/The_Shawshank_Redemption",
+            "displayed_link": "https://shawshank.fandom.com \u203a wiki \u203a The_Shawsha...",
+            "favicon": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/99081ca0184b88c006d95d571ff525cbd22a8445c095f862540e5d6be7c6e5a9.png",
+            "snippet": "The Shawshank Redemption is a 1994 American drama film written and directed by Frank Darabont and starring Tim Robbins and Morgan Freeman.",
+            "snippet_highlighted_words": [
+                "Shawshank"
+            ],
             "about_this_result": {},
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:cHtLT1BdhHcJ:https://letterboxd.com/film/batman-begins/&cd=51&hl=en&ct=clnk&gl=us",
-            "related_pages_link": "https://www.google.com/search?sca_esv=568425080&q=related:https://letterboxd.com/film/batman-begins/+Batman+Begins",
-            "source": "Letterboxd"
-        },
-        {
-            "position": 7,
-            "title": "Batman Begins - Batman Wiki - Fandom",
-            "link": "https://batman.fandom.com/wiki/Batman_Begins",
-            "displayed_link": "https://batman.fandom.com \u203a wiki \u203a Batman_Begins",
-            "snippet": "As a young boy of 8, Bruce Wayne falls down a well, where he is caught in a swarm of bats. Bruce is rescued by his father Thomas, but he is left with a fear of ...",
-            "about_this_result": {},
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1weCVRJjEGQJ:https://batman.fandom.com/wiki/Batman_Begins&cd=52&hl=en&ct=clnk&gl=us",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:gATrUKqHtsYJ:https://shawshank.fandom.com/wiki/The_Shawshank_Redemption&cd=50&hl=en&ct=clnk&gl=us",
             "source": "Fandom"
         },
         {
-            "position": 8,
-            "title": "Batman Begins (Single-Disc Widescreen Edition)",
-            "link": "https://www.amazon.com/Batman-Begins-Single-Disc-Widescreen-Thomas/dp/B00005JNJV",
-            "displayed_link": "https://www.amazon.com \u203a Batman-Begins-Single-Dis...",
-            "favicon": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/396eb25a952b803ead333d36339920a088c16b9367cca660647211a9ee859c73.png",
-            "snippet": "Taking Batman back to his origins, Begins offers Bruce Wayne's journey into Batman and a battle with a couple of really excellent villains. The tale of the lost ...",
+            "position": 7,
+            "title": "Stephen King's Rita Hayworth and Shawshank Redemption",
+            "link": "https://www.simonandschuster.com/books/Rita-Hayworth-and-Shawshank-Redemption/Stephen-King/9781982155759",
+            "displayed_link": "https://www.simonandschuster.com \u203a Stephen-King",
+            "favicon": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/99081ca0184b88c006d95d571ff525cb5c6fc7fdbe2945a26b9c7b5392c477d6.png",
+            "snippet": "A mesmerizing tale of unjust imprisonment and offbeat escape, Rita Hayworth and Shawshank Redemption is one of Stephen King's most beloved and iconic stories, ...",
             "snippet_highlighted_words": [
-                "Batman",
-                "Begins",
-                "Batman"
+                "Shawshank"
             ],
             "rich_snippet": {
                 "top": {
                     "detected_extensions": {
-                        "rating": 4.7,
-                        "reviews": 12371,
+                        "price": 14.0,
+                        "currency": "$"
+                    },
+                    "extensions": [
+                        "$14.00"
+                    ]
+                }
+            },
+            "about_this_result": {},
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:wTpHhPinV9kJ:https://www.simonandschuster.com/books/Rita-Hayworth-and-Shawshank-Redemption/Stephen-King/9781982155759&cd=51&hl=en&ct=clnk&gl=us",
+            "source": "Simon & Schuster"
+        },
+        {
+            "position": 8,
+            "title": "Watch The Shawshank Redemption | Prime Video",
+            "link": "https://www.amazon.com/Shawshank-Redemption-Tim-Robbins/dp/B001EBV0OY",
+            "displayed_link": "https://www.amazon.com \u203a Shawshank-Redemption-T...",
+            "favicon": "https://serpapi.com/searches/6514a3d84d443da39203beaa/images/99081ca0184b88c006d95d571ff525cb2f93cbe6e1b77b03e3d0ded9aad2680f.png",
+            "snippet": "Academy Award\u00ae winner Tim Robbins stars in this Oscar\u00ae nominated drama about a banker who is wrongly convicted of the murder of his wife and her lover.",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 4.9,
+                        "reviews": 22008,
+                        "price": 9.99,
+                        "currency": "$",
                         "unknown": 30
                     },
                     "extensions": [
-                        "Rating: 4.7",
-                        "\u200e12,371 reviews",
+                        "Rating: 4.9",
+                        "\u200e22,008 reviews",
+                        "\u200e$9.99",
                         "\u200e30",
                         "day returns"
                     ]
                 }
             },
             "about_this_result": {},
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:EnwfnB7G0bIJ:https://www.amazon.com/Batman-Begins-Single-Disc-Widescreen-Thomas/dp/B00005JNJV&cd=53&hl=en&ct=clnk&gl=us",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:N8-ygsCwvi4J:https://www.amazon.com/Shawshank-Redemption-Tim-Robbins/dp/B001EBV0OY&cd=52&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?sca_esv=568933252&q=related:https://www.amazon.com/Shawshank-Redemption-Tim-Robbins/dp/B001EBV0OY+Shawshank",
             "source": "Amazon.com"
-        },
-        {
-            "position": 9,
-            "title": "Batman Begins (Film)",
-            "link": "https://tvtropes.org/pmwiki/pmwiki.php/Film/BatmanBegins",
-            "displayed_link": "https://tvtropes.org \u203a Film",
-            "favicon": "https://serpapi.com/searches/65128d2e4d443db37e3e59a0/images/396eb25a952b803ead333d36339920a0ff125873143ee2fc66ac4e3099e74ebc.png",
-            "snippet": "The film opens In Medias Res with Bruce Wayne incarcerated in a prison in Bhutan, where a man named Henri Ducard arranges for Bruce's release and offers him a ...",
-            "about_this_result": {},
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zysWJFbiFNsJ:https://tvtropes.org/pmwiki/pmwiki.php/Film/BatmanBegins&cd=54&hl=en&ct=clnk&gl=us",
-            "source": "TV Tropes"
         }
     ],
     "related_searches": [
         {
             "block_position": 1,
-            "query": "Batman Begins full Movie dailymotion"
-        },
-        {
-            "block_position": 1,
-            "query": "Batman Begins Trailer"
-        },
-        {
-            "block_position": 1,
-            "query": "Batman movies",
+            "query": "National Film Registry movies",
             "items": [
                 {
-                    "name": "Batman: The Dark Knight Returns, Pa...",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDS9iX0W8exNTqiWCVmqCiq17qxkZpg2fB1cQgkw&s=0",
-                    "link": "https://www.google.com/search?sca_esv=568425080&q=Batman:+The+Dark+Knight+Returns,+Part+1&stick=H4sIAAAAAAAAAOOQUeLSz9U3yCorTDOyNOJNSizJTcxTyM0vy0wtjuJ1gnCdUtMz84pPMXKClCaVFOSanWIEa0sqyDWpLIdxkirKK0xPMfLqp-sbGqanm-YZJJcbQyUhFkA55UXFGblGpxg5QBzDjEJDOLOgACGaDWcWGf5ihLkF4rRFrOoQvpVCSEaqgktiUbaCd15mekaJQlBqSWlRXrGOQkBiUYmC4S02SYYDVzKXeK_7xPk_XWbelqS0SrcpT7gC1l5xBAAaWIO9_gAAAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQs9oBKAB6BQiHARAC",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman%3A+The+Dark+Knight+Returns%2C+Part+1&stick=H4sIAAAAAAAAAOOQUeLSz9U3yCorTDOyNOJNSizJTcxTyM0vy0wtjuJ1gnCdUtMz84pPMXKClCaVFOSanWIEa0sqyDWpLIdxkirKK0xPMfLqp-sbGqanm-YZJJcbQyUhFkA55UXFGblGpxg5QBzDjEJDOLOgACGaDWcWGf5ihLkF4rRFrOoQvpVCSEaqgktiUbaCd15mekaJQlBqSWlRXrGOQkBiUYmC4S02SYYDVzKXeK_7xPk_XWbelqS0SrcpT7gC1l5xBAAaWIO9_gAAAA"
+                    "name": "Schindler's List",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXcRdCjZE7AepSKQ1_kzvFtZiJMcar-GQy26ri1Q&s=0",
+                    "link": "https://www.google.com/search?sca_esv=568933252&q=Schindler%27s+List&stick=H4sIAAAAAAAAAOOQUeLQz9U3yEirKjKSzUssyczPS8xRSMvMyVUoSk3PLC4pqlTIzS_LTC2O4gzOSCwvzkjMyz7FCNd0ipETxDRPNyzOhQonpWSlQJlpJvE5UGZWoakZVLFpTkoFTNg8udwEysw2SauCMpNNU1Lg-rJNfjHK-sGc5gZyWhCq0xaxCgQnZ2TmpeSkFqkXK_gA5W6xSTIcuJK55FW_giUnY-jSL4t3XJS64T3hxTQWIQDDkO329QAAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQs9oBKAB6BAhtEAI",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Schindler%27s+List&stick=H4sIAAAAAAAAAOOQUeLQz9U3yEirKjKSzUssyczPS8xRSMvMyVUoSk3PLC4pqlTIzS_LTC2O4gzOSCwvzkjMyz7FCNd0ipETxDRPNyzOhQonpWSlQJlpJvE5UGZWoakZVLFpTkoFTNg8udwEysw2SauCMpNNU1Lg-rJNfjHK-sGc5gZyWhCq0xaxCgQnZ2TmpeSkFqkXK_gA5W6xSTIcuJK55FW_giUnY-jSL4t3XJS64T3hxTQWIQDDkO329QAAAA"
                 },
                 {
-                    "name": "Batman v Superman: Dawn of Ju...",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPhGOYIzPcYyOeU97rZfEyj3FpAOwXKvx-q79ZbQ&s=0",
-                    "link": "https://www.google.com/search?sca_esv=568425080&q=Batman+vs+Superman&stick=H4sIAAAAAAAAAOOQUeLSz9U3KC8qzsg1MuJNSizJTcxTyM0vy0wtjuJ1gnCdUtMz84pPMXKClCaVFOSanWIEa0sqyDWpLIdxkirKK0xPMfLqp-sbGqanm-YZJJcbQyWzygrTjCyhHIhtpxg5QBzDjEJDOLOgACGaDWcWGf5ihLkF4rRFrEJQflmxQnBpQWoRkH2LTZLhwJXMJd7rPnH-T5eZtyUprdJtyhOugLVXHAGXoe_q6QAAAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQs9oBKAF6BQiHARAD",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+vs+Superman&stick=H4sIAAAAAAAAAOOQUeLSz9U3KC8qzsg1MuJNSizJTcxTyM0vy0wtjuJ1gnCdUtMz84pPMXKClCaVFOSanWIEa0sqyDWpLIdxkirKK0xPMfLqp-sbGqanm-YZJJcbQyWzygrTjCyhHIhtpxg5QBzDjEJDOLOgACGaDWcWGf5ihLkF4rRFrEJQflmxQnBpQWoRkH2LTZLhwJXMJd7rPnH-T5eZtyUprdJtyhOugLVXHAGXoe_q6QAAAA"
+                    "name": "The Godfather",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTGaduAWuxCS2Nu-DX897n6rfTeti4Uji3_ZxHMg&s=0",
+                    "link": "https://www.google.com/search?sca_esv=568933252&q=The+Godfather&stick=H4sIAAAAAAAAAOOQUeLUz9U3ME83LM41ks1LLMnMz0vMUUjLzMlVKEpNzywuKapUyM0vy0wtjuIMzkgsL85IzMs-xcgB0pWRVlV0ihFhAFQ4KSUrBcpMM4nPgTKzCk3NoIpNc1IqYMLmyeUmUGa2SVoVlJlsmpIC15dt8otR1g_mNDeQ04JQnbaIlTckI1XBPT8lLbEkI7XoFpskw4ErmUte9StYcjKGLv2yeMdFqRveE15MYxECAE3t9fLzAAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQs9oBKAF6BAhtEAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Godfather&stick=H4sIAAAAAAAAAOOQUeLUz9U3ME83LM41ks1LLMnMz0vMUUjLzMlVKEpNzywuKapUyM0vy0wtjuIMzkgsL85IzMs-xcgB0pWRVlV0ihFhAFQ4KSUrBcpMM4nPgTKzCk3NoIpNc1IqYMLmyeUmUGa2SVoVlJlsmpIC15dt8otR1g_mNDeQ04JQnbaIlTckI1XBPT8lLbEkI7XoFpskw4ErmUte9StYcjKGLv2yeMdFqRveE15MYxECAE3t9fLzAAAA"
                 },
                 {
-                    "name": "Batman",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPsIKFUokh7rqh-suIrldxjzA6h-1Gzoiw4eYvMg&s=0",
-                    "link": "https://www.google.com/search?sca_esv=568425080&q=Batman:+The+Movie&stick=H4sIAAAAAAAAAOOQUeLQz9U3MMwoKDDiTUosyU3MU8jNL8tMLY7idYJwnVLTM_OKTzFyghQmlRTkmp1i5AKzC3JNKsthnKSK8grTU4y8-un6hobp6aZ5BsnlxlDJrLLCNCNLKKe8qDgj1-gUI9TiQkM4s6AAIZoNZxYZ_mKEuQXitEWsghC-lUJIRqqCL0jwFpskw4ErmUu8133i_J8uM29LUlql25QnXAFrrzgCADnHVFrmAAAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQs9oBKAJ6BQiHARAE",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman%3A+The+Movie&stick=H4sIAAAAAAAAAOOQUeLQz9U3MMwoKDDiTUosyU3MU8jNL8tMLY7idYJwnVLTM_OKTzFyghQmlRTkmp1i5AKzC3JNKsthnKSK8grTU4y8-un6hobp6aZ5BsnlxlDJrLLCNCNLKKe8qDgj1-gUI9TiQkM4s6AAIZoNZxYZ_mKEuQXitEWsghC-lUJIRqqCL0jwFpskw4ErmUu8133i_J8uM29LUlql25QnXAFrrzgCADnHVFrmAAAA"
+                    "name": "Forrest Gump",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-rYQhGye60X-yMHC465IVNAwHAc3-IYbpqQgMcA&s=0",
+                    "link": "https://www.google.com/search?sca_esv=568933252&q=Forrest+Gump&stick=H4sIAAAAAAAAAOOQUeLQz9U3SErJSjGSzUssyczPS8xRSMvMyVUoSk3PLC4pqlTIzS_LTC2O4gzOSCwvzkjMyz7FCNaUkVZVdIqRE8Q0TzcszoUKg8yCMtNM4nOgzKxCUzOoYtOclAqYsHlyuQmUmW2SVgVlJpumpMD1ZZv8YpT1gznNDeS0IFSnLWLlccsvKkotLlFwL80tuMUmyXDgSuaSV_0KlpyMoUu_LN5xUeqG94QX01iEAOMYLLLxAAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQs9oBKAJ6BAhtEAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Forrest+Gump&stick=H4sIAAAAAAAAAOOQUeLQz9U3SErJSjGSzUssyczPS8xRSMvMyVUoSk3PLC4pqlTIzS_LTC2O4gzOSCwvzkjMyz7FCNaUkVZVdIqRE8Q0TzcszoUKg8yCMtNM4nOgzKxCUzOoYtOclAqYsHlyuQmUmW2SVgVlJpumpMD1ZZv8YpT1gznNDeS0IFSnLWLlccsvKkotLlFwL80tuMUmyXDgSuaSV_0KlpyMoUu_LN5xUeqG94QX01iEAOMYLLLxAAAA"
                 },
                 {
-                    "name": "The Dark Knight",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOBCqIOOV5AiZDMk8CaFp9jDHjQs-oO0CvXvE23g&s=0",
-                    "link": "https://www.google.com/search?sca_esv=568425080&q=The+Dark+Knight&stick=H4sIAAAAAAAAAOOQUeLUz9U3SCopyDUz4k1KLMlNzFPIzS_LTC2O4nWCcJ1S0zPzik8xIlSeYuQCswtyTSrLYZykivIK01OMvPrp-oaG6emmeQbJ5cZQyayywjQjSyinvKg4I9foFCMHiGOYUWgIZxYUIESz4cwiw1-MMLdAnLaIlT8kI1XBJbEoW8E7LzM9o-QWmyTDgSuZS7zXfeL8ny4zb0tSWqXblCdcAWuvOAIAuCQjXeUAAAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQs9oBKAN6BQiHARAF",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Dark+Knight&stick=H4sIAAAAAAAAAOOQUeLUz9U3SCopyDUz4k1KLMlNzFPIzS_LTC2O4nWCcJ1S0zPzik8xIlSeYuQCswtyTSrLYZykivIK01OMvPrp-oaG6emmeQbJ5cZQyayywjQjSyinvKg4I9foFCMHiGOYUWgIZxYUIESz4cwiw1-MMLdAnLaIlT8kI1XBJbEoW8E7LzM9o-QWmyTDgSuZS7zXfeL8ny4zb0tSWqXblCdcAWuvOAIAuCQjXeUAAAA"
+                    "name": "Pulp Fiction",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyT2HTvj_NwYZkkmLZxi3ZnauzxBhni-kv-8Eh-A&s=0",
+                    "link": "https://www.google.com/search?sca_esv=568933252&q=Pulp+Fiction&stick=H4sIAAAAAAAAAOOQUeLQz9U3SDOJzzGSzUssyczPS8xRSMvMyVUoSk3PLC4pqlTIzS_LTC2O4gzOSCwvzkjMyz7FCNaUkVZVdIqRE8Q0TzcszoUKJ6VkpUCZIGOhzKxCUzOoYtOclAqYsHlyuQmUmW2SVgVlJpumpMD1ZZv8YpT1gznNDeS0IFSnLWLlCSjNKQDKJYNU3WKTZDhwJXPJq34FS07G0KVfFu-4KHXDe8KLaSxCAEhNwBvxAAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQs9oBKAN6BAhtEAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pulp+Fiction&stick=H4sIAAAAAAAAAOOQUeLQz9U3SDOJzzGSzUssyczPS8xRSMvMyVUoSk3PLC4pqlTIzS_LTC2O4gzOSCwvzkjMyz7FCNaUkVZVdIqRE8Q0TzcszoUKJ6VkpUCZIGOhzKxCUzOoYtOclAqYsHlyuQmUmW2SVgVlJpumpMD1ZZv8YpT1gznNDeS0IFSnLWLlCSjNKQDKJYNU3WKTZDhwJXPJq34FS07G0KVfFu-4KHXDe8KLaSxCAEhNwBvxAAAA"
                 },
                 {
-                    "name": "The Dark Knight Rises",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYZW8PIm1WezApC412jgGhE0pHMxfRCLKJ6BasZg&s=0",
-                    "link": "https://www.google.com/search?sca_esv=568425080&q=The+Dark+Knight+Rises&stick=H4sIAAAAAAAAAOOQUeLSz9U3SCrINaksN-JNSizJTcxTyM0vy0wtjuJ1gnCdUtMz84pPMXKClZYU5JqdYkTSBuMkVZRXmJ5i5NVP1zc0TE83zTNILjeGSmaVFaYZWUI55UXFGblGpxg5QBzDjEJDOLOgACGaDWcWGf5ihLkF4rRFrKIhGakKLolF2QreeZnpGSUKQZnFqcW32CQZDlzJXOK97hPn_3SZeVuS0irdpjzhClh7xREAZvL01ewAAAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQs9oBKAR6BQiHARAG",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Dark+Knight+Rises&stick=H4sIAAAAAAAAAOOQUeLSz9U3SCrINaksN-JNSizJTcxTyM0vy0wtjuJ1gnCdUtMz84pPMXKClZYU5JqdYkTSBuMkVZRXmJ5i5NVP1zc0TE83zTNILjeGSmaVFaYZWUI55UXFGblGpxg5QBzDjEJDOLOgACGaDWcWGf5ihLkF4rRFrKIhGakKLolF2QreeZnpGSUKQZnFqcW32CQZDlzJXOK97hPn_3SZeVuS0irdpjzhClh7xREAZvL01ewAAAA"
+                    "name": "Bringing Up Baby",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtNSP-DE2cekdaoXJs2zg_T7Z8FM04RsXvctelsg&s=0",
+                    "link": "https://www.google.com/search?sca_esv=568933252&q=Bringing+Up+Baby&stick=H4sIAAAAAAAAAOOQUeLQz9U3yCo0NTOSzUssyczPS8xRSMvMyVUoSk3PLC4pqlTIzS_LTC2O4gzOSCwvzkjMyz7FCNaUkVZVdIqRE8Q0TzcszoUKJ6VkpUCZaSbxOVAmyAaoYtOclAqYsHlyuQmUmW2SVgVlJpumpMD1ZZv8YpT1gznNDeS0IFSnLWIVcCrKzEsHIoXQAgWnxKTKW2ySDAeuZC551a9gyckYuvTL4h0XpW54T3gxjUUIADcbH6b1AAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQs9oBKAR6BAhtEAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bringing+Up+Baby&stick=H4sIAAAAAAAAAOOQUeLQz9U3yCo0NTOSzUssyczPS8xRSMvMyVUoSk3PLC4pqlTIzS_LTC2O4gzOSCwvzkjMyz7FCNaUkVZVdIqRE8Q0TzcszoUKJ6VkpUCZaSbxOVAmyAaoYtOclAqYsHlyuQmUmW2SVgVlJpumpMD1ZZv8YpT1gznNDeS0IFSnLWIVcCrKzEsHIoXQAgWnxKTKW2ySDAeuZC551a9gyckYuvTL4h0XpW54T3gxjUUIADcbH6b1AAAA"
                 },
                 {
-                    "name": "Batman: Under the Red Hood",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS08ox_bmwMw1pdAhIcIQ3-rlWinc3p8mbwvADzAg&s=0",
-                    "link": "https://www.google.com/search?sca_esv=568425080&q=Batman:+Under+the+Red+Hood&stick=H4sIAAAAAAAAAOOQUeLSz9U3SEqqKK8wNeJNSizJTcxTyM0vy0wtjuJ1gnCdUtMz84pPMXKClZYU5JqdYoRoK8g1qSyHccBmnGLk1U_XNzRMTzfNM0guN4ZKZpUVphlZQjnlRcUZuUanGDlAHMOMQkM4s6AAIZoNZxYZ_mKEuQXitEWsUhC-lUJoXkpqkUJJRqpCUGqKgkd-fsotNkmGA1cyl3iv-8T5P11m3paktEq3KU-4AtZecQQAXhAEbfEAAAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQs9oBKAV6BQiHARAH",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman%3A+Under+the+Red+Hood&stick=H4sIAAAAAAAAAOOQUeLSz9U3SEqqKK8wNeJNSizJTcxTyM0vy0wtjuJ1gnCdUtMz84pPMXKClZYU5JqdYoRoK8g1qSyHccBmnGLk1U_XNzRMTzfNM0guN4ZKZpUVphlZQjnlRcUZuUanGDlAHMOMQkM4s6AAIZoNZxYZ_mKEuQXitEWsUhC-lUJoXkpqkUJJRqpCUGqKgkd-fsotNkmGA1cyl3iv-8T5P11m3paktEq3KU-4AtZecQQAXhAEbfEAAAA"
+                    "name": "A Clockwork Orange",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQacxUX6H9mKpQ7lHoXPUss7dQ3c_8HhU06v1AbPA&s=0",
+                    "link": "https://www.google.com/search?sca_esv=568933252&q=A+Clockwork+Orange&stick=H4sIAAAAAAAAAOOQUeLUz9U3MM1Jqcgxks1LLMnMz0vMUUjLzMlVKEpNzywuKapUyM0vy0wtjuIMzkgsL85IzMs-xcgB0pWRVlV0ihFsgHm6YXEuVDgpJSsFykwzic-BMrMKTc2gisG2QYXNk8tNoMxsk7QqKDPZNCUFri_b5BejrB_MaW4gpwWhOm0Rq5CjgnNOfnJ2eX5RtoJ_UWJeeuotNkmGA1cyl7zqV7DkZAxd-mXxjotSN7wnvJjGIgQAUR_3nPgAAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQs9oBKAV6BAhtEAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=A+Clockwork+Orange&stick=H4sIAAAAAAAAAOOQUeLUz9U3MM1Jqcgxks1LLMnMz0vMUUjLzMlVKEpNzywuKapUyM0vy0wtjuIMzkgsL85IzMs-xcgB0pWRVlV0ihFsgHm6YXEuVDgpJSsFykwzic-BMrMKTc2gisG2QYXNk8tNoMxsk7QqKDPZNCUFri_b5BejrB_MaW4gpwWhOm0Rq5CjgnNOfnJ2eX5RtoJ_UWJeeuotNkmGA1cyl7zqV7DkZAxd-mXxjotSN7wnvJjGIgQAUR_3nPgAAAA"
                 }
             ],
-            "link": "https://www.google.com/search?sca_esv=568425080&q=Batman+movies&stick=H4sIAAAAAAAAAOOQMeJNSizJTcxTyM0vy0wtjuJ1gnCdUtMz84pPMXLq5-obJJUU5JqdYuQCswtyTSrLYZykivIK01OMvPrp-oaG6emmeQbJ5cZQyayywjQjSyinvKg4I9foFCMHiGOYUWgIZxYUIESz4cwiw1-MMLdAnLaIFZV_i02S4cCVzCXe6z5x_k-XmbclKa3SbcoTroC1VxwBFj_QQ9gAAAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQ4qYDegUIhwEQCA",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+movies&stick=H4sIAAAAAAAAAOOQMeJNSizJTcxTyM0vy0wtjuJ1gnCdUtMz84pPMXLq5-obJJUU5JqdYuQCswtyTSrLYZykivIK01OMvPrp-oaG6emmeQbJ5cZQyayywjQjSyinvKg4I9foFCMHiGOYUWgIZxYUIESz4cwiw1-MMLdAnLaIFZV_i02S4cCVzCXe6z5x_k-XmbclKa3SbcoTroC1VxwBFj_QQ9gAAAA"
+            "link": "https://www.google.com/search?sca_esv=568933252&q=National+Film+Registry+movies&stick=H4sIAAAAAAAAAOOQMZLNSyzJzM9LzFFIy8zJVShKTc8sLimqVMjNL8tMLY7iDM5ILC_OSMzLPsXIoZ-rb5CRVlV0ipETxDRPNyzOhQonpWSlQJlpJvE5UGZWoakZVLFpTkoFTNg8udwEysw2SauCMpNNU1Lg-rJNfjHK-sGc5gZyWhCq0xax4pe_xSbJcOBK5pJX_QqWnIyhS78s3nFR6ob3hBfTWIQApCyGT_gAAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQ4qYDegQIbRAI",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=National+Film+Registry+movies&stick=H4sIAAAAAAAAAOOQMZLNSyzJzM9LzFFIy8zJVShKTc8sLimqVMjNL8tMLY7iDM5ILC_OSMzLPsXIoZ-rb5CRVlV0ipETxDRPNyzOhQonpWSlQJlpJvE5UGZWoakZVLFpTkoFTNg8udwEysw2SauCMpNNU1Lg-rJNfjHK-sGc5gZyWhCq0xax4pe_xSbJcOBK5pJX_QqWnIyhS78s3nFR6ob3hBfTWIQApCyGT_gAAAA"
         },
         {
             "block_position": 1,
-            "query": "Directed by Christopher Nolan",
+            "query": "Story by Stephen King",
             "items": [
                 {
-                    "name": "Inception",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJk9UTlIkMj8Z-sTQPYiEITkIYzFmoUTGgBxChNg&s=0",
-                    "link": "https://www.google.com/search?sca_esv=568425080&q=Inception&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDMzLMwxNpJNySxKTS5JTVFIqlRIzijKLC7JL8hILVLIy89JzIvidUosyU3MU3BKTc_MKz7FyAnSmlRSkGt2ihFsTFJBrkllOZQDMfMUI69-ur6hYVJFWnlapZExVJeFibGBEUwuw9DSOCk-2RTGL0oxzcg1MciDGlReVJyRawTlmJinF2QkQU1Jy04zsvjFKOuC5GxnJGf7gZy9iJXTMy85taAkMz_vFpskw4ErmUuarB6pZNR8-PzB1O_P5Be8f1iCHmsDAC8uaOMMAQAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQs9oBKAB6BQiIARAC",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inception&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDMzLMwxNpJNySxKTS5JTVFIqlRIzijKLC7JL8hILVLIy89JzIvidUosyU3MU3BKTc_MKz7FyAnSmlRSkGt2ihFsTFJBrkllOZQDMfMUI69-ur6hYVJFWnlapZExVJeFibGBEUwuw9DSOCk-2RTGL0oxzcg1MciDGlReVJyRawTlmJinF2QkQU1Jy04zsvjFKOuC5GxnJGf7gZy9iJXTMy85taAkMz_vFpskw4ErmUuarB6pZNR8-PzB1O_P5Be8f1iCHmsDAC8uaOMMAQAA"
+                    "name": "The Green Mile",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxQ0w5N6ggAtiw_9mRaiHJp0vvKPBHEoNfbYfWUQ&s=0",
+                    "link": "https://www.google.com/search?sca_esv=568933252&q=The+Green+Mile&stick=H4sIAAAAAAAAAOOQUeLUz9U3MC62zC4wEi0uyS-qVEiqVCguSS3ISM1TyM7MS4_iDM5ILC_OSMzLPsWIUH2KkQvENjI3NiuvgEqYZVhWZcEUGVVkV0IVGZcnm6blQTmmJQamGVkwmaSqooICqBajlJLc4lOMvPrp-oaGaYYmFjmVVTkwudz05NxfjKLBMCcGQ53oDXTiIla-kIxUBfeiVKCAb2ZO6i02SYYDVzKXJNWXGfIJaMjPd-L97WG0_pdZa2orACSrRG70AAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQs9oBKAB6BAhzEAI",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Green+Mile&stick=H4sIAAAAAAAAAOOQUeLUz9U3MC62zC4wEi0uyS-qVEiqVCguSS3ISM1TyM7MS4_iDM5ILC_OSMzLPsWIUH2KkQvENjI3NiuvgEqYZVhWZcEUGVVkV0IVGZcnm6blQTmmJQamGVkwmaSqooICqBajlJLc4lOMvPrp-oaGaYYmFjmVVTkwudz05NxfjKLBMCcGQ53oDXTiIla-kIxUBfeiVKCAb2ZO6i02SYYDVzKXJNWXGfIJaMjPd-L97WG0_pdZa2orACSrRG70AAAA"
                 },
                 {
-                    "name": "Dunkirk",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJHCAMV-7QkIejPz9hWaIvJUdYWi2QFHIC3xaC0A&s=0",
-                    "link": "https://www.google.com/search?sca_esv=568425080&q=Dunkirk&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEyqSCtPqzQyNpJNySxKTS5JTVFIqlRIzijKLC7JL8hILVLIy89JzIvidUosyU3MU3BKTc_MKz7FyKmfq2-QVFKQa3aKkQvMLsg1qSyHcszMDAtzjE8xotoB1WVhYmxgBJPLMLQ0TopPNoXxi1JMM3JNDPKgBpUXFWfkGkE5JubpBRlJUFPSstOMLH4xyrogOdsZydl-IGcvYmV3Kc3LzizKvsUmyXDgSuaSJqtHKhk1Hz5_MPX7M_kF7x-WoMfaAATUlFMNAQAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQs9oBKAF6BQiIARAD",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dunkirk&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEyqSCtPqzQyNpJNySxKTS5JTVFIqlRIzijKLC7JL8hILVLIy89JzIvidUosyU3MU3BKTc_MKz7FyKmfq2-QVFKQa3aKkQvMLsg1qSyHcszMDAtzjE8xotoB1WVhYmxgBJPLMLQ0TopPNoXxi1JMM3JNDPKgBpUXFWfkGkE5JubpBRlJUFPSstOMLH4xyrogOdsZydl-IGcvYmV3Kc3LzizKvsUmyXDgSuaSJqtHKhk1Hz5_MPX7M_kF7x-WoMfaAATUlFMNAQAA"
+                    "name": "The Mist",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMPq3Ivq6zKwYLTvHjreTXzcgoMk9ezvGt8XB43A&s=0",
+                    "link": "https://www.google.com/search?sca_esv=568933252&q=The+Mist+(film)&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDI3NiuvMBItLskvqlRIqlQoLkktyEjNU8jOzEuP4gzOSCwvzkjMyz7FyAlSblxsmV1wihFJK1TCLMOyKgumyKgiuxKqyLg82TQtD8oxLTEwzciCySRVFRUUQLUYpZTkFp9i5NVP1zc0TDM0sciprMqByeWmJ-f-YhQNhjkxGOpEb6ATF7Hyh2SkKvhmFpcoaKRl5uRq3mKTZDhwJXNJUn2ZIZ-Ahvx8J97fHkbrf5m1prYCADkCTJr2AAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQs9oBKAF6BAhzEAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Mist+%28film%29&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDI3NiuvMBItLskvqlRIqlQoLkktyEjNU8jOzEuP4gzOSCwvzkjMyz7FyAlSblxsmV1wihFJK1TCLMOyKgumyKgiuxKqyLg82TQtD8oxLTEwzciCySRVFRUUQLUYpZTkFp9i5NVP1zc0TDM0sciprMqByeWmJ-f-YhQNhjkxGOpEb6ATF7Hyh2SkKvhmFpcoaKRl5uRq3mKTZDhwJXNJUn2ZIZ-Ahvx8J97fHkbrf5m1prYCADkCTJr2AAAA"
                 },
                 {
-                    "name": "The Prestige",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo4uHsH2-g1AQuEuoBLadE7NGG14Oa8XYDdQCNJA&s=0",
-                    "link": "https://www.google.com/search?sca_esv=568425080&q=The+Prestige&stick=H4sIAAAAAAAAAOOQUeLUz9U3sDAxNjAykk3JLEpNLklNUUiqVEjOKMosLskvyEgtUsjLz0nMi-J1SizJTcxTcEpNz8wrPsUI1plUUpBrdoqRC8wuyDWpLIdyzMwMC3OMTzHy6qfrGxomVaSVp1UaGUN1ge2DyWUYWhonxSebwvhFKaYZuSYGeVCDyouKM3KNoBwT8_SCjCSoKWnZaUYWvxhlXZCc7YzkbD-Qsxex8oRkpCoEFKUWl2Smp95ik2Q4cCVzSZPVI5WMmg-fP5j6_Zn8gvcPS9BjbQCFjtkJDgEAAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQs9oBKAJ6BQiIARAE",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Prestige&stick=H4sIAAAAAAAAAOOQUeLUz9U3sDAxNjAykk3JLEpNLklNUUiqVEjOKMosLskvyEgtUsjLz0nMi-J1SizJTcxTcEpNz8wrPsUI1plUUpBrdoqRC8wuyDWpLIdyzMwMC3OMTzHy6qfrGxomVaSVp1UaGUN1ge2DyWUYWhonxSebwvhFKaYZuSYGeVCDyouKM3KNoBwT8_SCjCSoKWnZaUYWvxhlXZCc7YzkbD-Qsxex8oRkpCoEFKUWl2Smp95ik2Q4cCVzSZPVI5WMmg-fP5j6_Zn8gvcPS9BjbQCFjtkJDgEAAA"
+                    "name": "Creepshow 2",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJywfPj_VVKL5nVCgwZml3zvj4GQfIGboV2Val5A&s=0",
+                    "link": "https://www.google.com/search?sca_esv=568933252&q=Creepshow+2&stick=H4sIAAAAAAAAAOOQUeLUz9U3MMuwrMoyEi0uyS-qVEiqVCguSS3ISM1TyM7MS4_iDM5ILC_OSMzLPsUIVm1cbJldcIqRC8Q2Mjc2K6-ASoCNgSkyqsiuhCoyLk82TcuDckxLDEwzsmAySVVFBQVQLUYpJbnFpxh59dP1DQ3TDE0sciqrcmByuenJub8YRYNhTgyGOtEb6MRFrNzORampBcUZ-eUKRrfYJBkOXMlcklRfZsgnoCE_34n3t4fR-l9mramtAKQ1E4jxAAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQs9oBKAJ6BAhzEAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Creepshow+2&stick=H4sIAAAAAAAAAOOQUeLUz9U3MMuwrMoyEi0uyS-qVEiqVCguSS3ISM1TyM7MS4_iDM5ILC_OSMzLPsUIVm1cbJldcIqRC8Q2Mjc2K6-ASoCNgSkyqsiuhCoyLk82TcuDckxLDEwzsmAySVVFBQVQLUYpJbnFpxh59dP1DQ3TDE0sciqrcmByuenJub8YRYNhTgyGOtEb6MRFrNzORampBcUZ-eUKRrfYJBkOXMlcklRfZsgnoCE_34n3t4fR-l9mramtAKQ1E4jxAAAA"
                 },
                 {
-                    "name": "Tenet",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwPnFPH9u9zuO-6WM6oJvk376yWWeeDm-cdeAe3gjGAi8KpgRHrJpEWw&s=0",
-                    "link": "https://www.google.com/search?sca_esv=568425080&q=Tenet&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMwwtDROik82NZJNySxKTS5JTVFIqlRIzijKLC7JL8hILVLIy89JzIvidUosyU3MU3BKTc_MKz7FyKmfq2-QVFKQa3aKkQvMLsg1qSyHcszMDAtzjE8xQuxIqkgrT6s0MobqsjAxNjCCycHsh_GLUkwzck0M8qAGlRcVZ-QaQTkm5ukFGUlQU9Ky04wsfjHKuiA52xnJ2X4gZy9iZQ1JzUstucUmyXDgSuaSJqtHKhk1Hz5_MPX7M_kF7x-WoMfaAP47uB8LAQAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQs9oBKAN6BQiIARAF",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tenet&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMwwtDROik82NZJNySxKTS5JTVFIqlRIzijKLC7JL8hILVLIy89JzIvidUosyU3MU3BKTc_MKz7FyKmfq2-QVFKQa3aKkQvMLsg1qSyHcszMDAtzjE8xQuxIqkgrT6s0MobqsjAxNjCCycHsh_GLUkwzck0M8qAGlRcVZ-QaQTkm5ukFGUlQU9Ky04wsfjHKuiA52xnJ2X4gZy9iZQ1JzUstucUmyXDgSuaSJqtHKhk1Hz5_MPX7M_kF7x-WoMfaAP47uB8LAQAA"
+                    "name": "It",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNBc5zg9LAJvIGaRkHS223i0hIKDdlMEmomaVtcg&s=0",
+                    "link": "https://www.google.com/search?sca_esv=568933252&q=It+(miniseries)&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDaqyK40Ei0uyS-qVEiqVCguSS3ISM1TyM7MS4_iDM5ILC_OSMzLPsUIUV1smV1wipELxDYyNzYrr4BKmGVYVmXBFIGMhCoyLk82TcuDckxLDEwzsmAySVVFBQVQLUYpJbnFpxh59dP1DQ3TDE0sciqrcmByuenJub8YRYNhTgyGOtEb6MRFrPyeJQoauZl5mcWpRZmpxZq32CQZDlzJXJJUX2bIJ6AhP9-J97eH0fpfZq2prQDGyvSr9QAAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQs9oBKAN6BAhzEAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=It+%28miniseries%29&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDaqyK40Ei0uyS-qVEiqVCguSS3ISM1TyM7MS4_iDM5ILC_OSMzLPsUIUV1smV1wipELxDYyNzYrr4BKmGVYVmXBFIGMhCoyLk82TcuDckxLDEwzsmAySVVFBQVQLUYpJbnFpxh59dP1DQ3TDE0sciqrcmByuenJub8YRYNhTgyGOtEb6MRFrPyeJQoauZl5mcWpRZmpxZq32CQZDlzJXJJUX2bIJ6AhP9-J97eH0fpfZq2prQDGyvSr9QAAAA"
                 },
                 {
-                    "name": "Oppenheim...",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo0xILsvA5je2aTT4O9lvFx2HI7549mablG8JjrP9gfc8ugPP4yKhVMQ&s=0",
-                    "link": "https://www.google.com/search?sca_esv=568425080&q=Oppenheimer&stick=H4sIAAAAAAAAAOOQUeLVT9c3NCxKMc3INTHIM5JNySxKTS5JTVFIqlRIzijKLC7JL8hILVLIy89JzIvidUosyU3MU3BKTc_MKz7FyKmfq2-QVFKQa3aKkQvMLsg1qSyHcszMDAtzjE8xQuxIqkgrT6s0MobqsjAxNjCCyWUYWhonxSebwvgw90ANKi8qzsg1gnJMzNMLMpKgpqRlpxlZ_GKUdUFytjOSs_1Azl7Eyu1fUJCal5GamZtadItNkuHAlcwlTVaPVDJqPnz-YOr3Z_IL3j8sQY-1AWNoczgRAQAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQs9oBKAR6BQiIARAG",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Oppenheimer&stick=H4sIAAAAAAAAAOOQUeLVT9c3NCxKMc3INTHIM5JNySxKTS5JTVFIqlRIzijKLC7JL8hILVLIy89JzIvidUosyU3MU3BKTc_MKz7FyKmfq2-QVFKQa3aKkQvMLsg1qSyHcszMDAtzjE8xQuxIqkgrT6s0MobqsjAxNjCCyWUYWhonxSebwvgw90ANKi8qzsg1gnJMzNMLMpKgpqRlpxlZ_GKUdUFytjOSs_1Azl7Eyu1fUJCal5GamZtadItNkuHAlcwlTVaPVDJqPnz-YOr3Z_IL3j8sQY-1AWNoczgRAQAA"
+                    "name": "Firestarter",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrwDMely_BeF4z6KMYoTNijoKsN7pCdzooRMllLg&s=0",
+                    "link": "https://www.google.com/search?sca_esv=568933252&q=Firestarter+1984&stick=H4sIAAAAAAAAAOOQUeLSz9U3MC5PNk3LMxItLskvqlRIqlQoLkktyEjNU8jOzEuP4gzOSCwvzkjMyz7FyAlWXmyZXXCKEazVyNzYrLwCKmGWYVmVBVNkVJFdCVUEMR_KMS0xMM3IgskkVRUVFEC1GKWU5BafYuTVT9c3NEwzNLHIqazKgcnlpifn_mIUDYY5MRjqRG-gExexCrhlFqUWlyQWlaQWKRhaWpjcYpNkOHAlc0lSfZkhn4CG_Hwn3t8eRut_mbWmtgIAp5VoOfcAAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQs9oBKAR6BAhzEAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Firestarter+1984&stick=H4sIAAAAAAAAAOOQUeLSz9U3MC5PNk3LMxItLskvqlRIqlQoLkktyEjNU8jOzEuP4gzOSCwvzkjMyz7FyAlWXmyZXXCKEazVyNzYrLwCKmGWYVmVBVNkVJFdCVUEMR_KMS0xMM3IgskkVRUVFEC1GKWU5BafYuTVT9c3NEwzNLHIqazKgcnlpifn_mIUDYY5MRjqRG-gExexCrhlFqUWlyQWlaQWKRhaWpjcYpNkOHAlc0lSfZkhn4CG_Hwn3t8eRut_mbWmtgIAp5VoOfcAAAA"
                 },
                 {
-                    "name": "Following",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbs7rNq6sX6_rzSSrGEPwpwPUnbV7Tp6fqyV62bA&s=0",
-                    "link": "https://www.google.com/search?sca_esv=568425080&q=Following+1998&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDFPL8hIMpJNySxKTS5JTVFIqlRIzijKLC7JL8hILVLIy89JzIvidUosyU3MU3BKTc_MKz7FyAnSmlRSkGt2ihFsTFJBrkllOZRjZmZYmGN8ipFXP13f0DCpIq08rdLIGKrLwsTYwAgml2FoaZwUn2wK4xelmGbkmhjkQQ0qLyrOyDWCciAuhZqSlp1mZPGLUdYFydnOSM72Azl7ESufW35OTn55Zl66gqGlpcUtNkmGA1cylzRZPVLJqPnw-YOp35_JL3j_sAQ91gYAe7y5thEBAAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQs9oBKAV6BQiIARAH",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Following+1998&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDFPL8hIMpJNySxKTS5JTVFIqlRIzijKLC7JL8hILVLIy89JzIvidUosyU3MU3BKTc_MKz7FyAnSmlRSkGt2ihFsTFJBrkllOZRjZmZYmGN8ipFXP13f0DCpIq08rdLIGKrLwsTYwAgml2FoaZwUn2wK4xelmGbkmhjkQQ0qLyrOyDWCciAuhZqSlp1mZPGLUdYFydnOSM72Azl7ESufW35OTn55Zl66gqGlpcUtNkmGA1cylzRZPVLJqPnw-YOp35_JL3j_sAQ91gYAe7y5thEBAAA"
+                    "name": "Graveyard Shift",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUvwrf-_ZUoIyAcZrl8Uybd3CHNNaNHU0E_dX9ng&s=0",
+                    "link": "https://www.google.com/search?sca_esv=568933252&q=Graveyard+Shift&stick=H4sIAAAAAAAAAOOQUeLSz9U3MC0xMM3IMhItLskvqlRIqlQoLkktyEjNU8jOzEuP4gzOSCwvzkjMyz7FyAlSblxsmV1wihGs1cjc2Ky8AiphlmFZlQVTZFSRXQlVZFyebJqWB-VALIPJJFUVFRRAtRillOQWn2Lk1U_XNzRMMzSxyKmsyoHJ5aYn5_5iFA2GOTEY6kRvoBMXsfK7FyWWpVYmFqUoBGdkppXcYpNkOHAlc0lSfZkhn4CG_Hwn3t8eRut_mbWmtgIAam9jevYAAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQs9oBKAV6BAhzEAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Graveyard+Shift&stick=H4sIAAAAAAAAAOOQUeLSz9U3MC0xMM3IMhItLskvqlRIqlQoLkktyEjNU8jOzEuP4gzOSCwvzkjMyz7FyAlSblxsmV1wihGs1cjc2Ky8AiphlmFZlQVTZFSRXQlVZFyebJqWB-VALIPJJFUVFRRAtRillOQWn2Lk1U_XNzRMMzSxyKmsyoHJ5aYn5_5iFA2GOTEY6kRvoBMXsfK7FyWWpVYmFqUoBGdkppXcYpNkOHAlc0lSfZkhn4CG_Hwn3t8eRut_mbWmtgIAam9jevYAAAA"
                 }
             ],
-            "link": "https://www.google.com/search?sca_esv=568425080&q=Directed+by+Christopher+Nolan&stick=H4sIAAAAAAAAAOOQMZJNySxKTS5JTVFIqlRIzijKLC7JL8hILVLIy89JzIvidUosyU3MU3BKTc_MKz7FyKmfq2-QVFKQa3aKkQvMLsg1qSyHcszMDAtzjE8x8uqn6xsaJlWkladVGhlDdVmYGBsYweQyDC2Nk-KTTWH8ohTTjFwTgzyoQeVFxRm5RlCOiXl6QUYS1JS07DQji1-Msi5IznZGcrYfyNmLWPHL32KTZDhwJXNJk9UjlYyaD58_mPr9mfyC9w9L0GNtAD2SfYsUAQAA&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQ4qYDegUIiAEQCA",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Directed+by+Christopher+Nolan&stick=H4sIAAAAAAAAAOOQMZJNySxKTS5JTVFIqlRIzijKLC7JL8hILVLIy89JzIvidUosyU3MU3BKTc_MKz7FyKmfq2-QVFKQa3aKkQvMLsg1qSyHcszMDAtzjE8x8uqn6xsaJlWkladVGhlDdVmYGBsYweQyDC2Nk-KTTWH8ohTTjFwTgzyoQeVFxRm5RlCOiXl6QUYS1JS07DQji1-Msi5IznZGcrYfyNmLWPHL32KTZDhwJXNJk9UjlYyaD58_mPr9mfyC9w9L0GNtAD2SfYsUAQAA"
+            "link": "https://www.google.com/search?sca_esv=568933252&q=Story+by+Stephen+King&stick=H4sIAAAAAAAAAOOQMRItLskvqlRIqlQoLkktyEjNU8jOzEuP4gzOSCwvzkjMyz7FyKmfq29gXGyZXXCKkQvENjI3NiuvgEqYZVhWZcEUGVVkV0IVGZcnm6blQTmmJQamGVkwmaSqooICqBajlJLc4lOMvPrp-oaGaYYmFjmVVTkwudz05NxfjKLBMCcGQ53oDXTiIlbs4rfYJBkOXMlcklRfZsgnoCE_34n3t4fR-l9mramtAAuUjg_wAAAA&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQ4qYDegQIcxAI",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Story+by+Stephen+King&stick=H4sIAAAAAAAAAOOQMRItLskvqlRIqlQoLkktyEjNU8jOzEuP4gzOSCwvzkjMyz7FyKmfq29gXGyZXXCKkQvENjI3NiuvgEqYZVhWZcEUGVVkV0IVGZcnm6blQTmmJQamGVkwmaSqooICqBajlJLc4lOMvPrp-oaGaYYmFjmVVTkwudz05NxfjKLBMCcGQ53oDXTiIlbs4rfYJBkOXMlcklRfZsgnoCE_34n3t4fR-l9mramtAAuUjg_wAAAA"
         },
         {
             "block_position": 1,
-            "query": "batman begins villain",
-            "link": "https://www.google.com/search?sca_esv=568425080&q=Batman+Begins+villain&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQ1QJ6BQiLARAB",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins+villain"
+            "query": "shawshank redemption 2",
+            "link": "https://www.google.com/search?sca_esv=568933252&q=Shawshank+Redemption+2&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQ1QJ6BAh8EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank+Redemption+2"
         },
         {
             "block_position": 1,
-            "query": "batman begins series in order",
-            "link": "https://www.google.com/search?sca_esv=568425080&q=Batman+Begins+series+in+order&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQ1QJ6BQiPARAB",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins+series+in+order"
+            "query": "Shawshank redemption 3",
+            "link": "https://www.google.com/search?sca_esv=568933252&q=Shawshank+redemption+3&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQ1QJ6BAh7EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank+redemption+3"
         },
         {
             "block_position": 1,
-            "query": "batman begins - box office",
-            "link": "https://www.google.com/search?sca_esv=568425080&q=Batman+Begins+-+box+office&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQ1QJ6BQiMARAB",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins+-+box+office"
+            "query": "the shawshank redemption full movie",
+            "link": "https://www.google.com/search?sca_esv=568933252&q=The+Shawshank+Redemption+full+movie&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQ1QJ6BQiAARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Shawshank+Redemption+full+movie"
         },
         {
             "block_position": 1,
-            "query": "batman begins imdb",
-            "link": "https://www.google.com/search?sca_esv=568425080&q=Batman+Begins+IMDb&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQ1QJ6BQiNARAB",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins+IMDb"
+            "query": "shawshank redemption 2022",
+            "link": "https://www.google.com/search?sca_esv=568933252&q=Shawshank+Redemption+2022&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQ1QJ6BAh-EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank+Redemption+2022"
         },
         {
             "block_position": 1,
-            "query": "batman begins summary",
-            "link": "https://www.google.com/search?sca_esv=568425080&q=Batman+Begins+summary&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQ1QJ6BQiOARAB",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins+summary"
+            "query": "shawshank meaning",
+            "link": "https://www.google.com/search?sca_esv=568933252&q=Shawshank+meaning&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQ1QJ6BAh3EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank+meaning"
         },
         {
             "block_position": 1,
-            "query": "cast of batman begins scarecrow",
-            "link": "https://www.google.com/search?sca_esv=568425080&q=Cast+of+Batman+Begins+Scarecrow&sa=X&ved=2ahUKEwjmx_WZ5ceBAxUmkWoFHTeODoUQ1QJ6BQiKARAB",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Cast+of+Batman+Begins+Scarecrow"
+            "query": "shawshank redemption 2 release date",
+            "link": "https://www.google.com/search?sca_esv=568933252&q=Shawshank+Redemption+2+release+date&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQ1QJ6BAh_EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank+Redemption+2+release+date"
+        },
+        {
+            "block_position": 1,
+            "query": "shawshank redemption 2 full movie",
+            "link": "https://www.google.com/search?sca_esv=568933252&q=Shawshank+Redemption+2+full+movie&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQ1QJ6BAh5EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank+Redemption+2+full+movie"
+        },
+        {
+            "block_position": 1,
+            "query": "shawshank redemption true story",
+            "link": "https://www.google.com/search?sca_esv=568933252&q=Shawshank+Redemption+true+story&sa=X&ved=2ahUKEwiroe-I48uBAxVyFVkFHSshAngQ1QJ6BAh4EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank+Redemption+true+story"
         }
     ],
     "pagination": {
         "current": 1,
-        "next": "https://www.google.com/search?q=Batman+Begins&oq=Batman+Begins&start=10&sourceid=chrome&ie=UTF-8",
+        "next": "https://www.google.com/search?q=Shawshank&oq=Shawshank&start=10&sourceid=chrome&ie=UTF-8",
         "other_pages": {
-            "2": "https://www.google.com/search?q=Batman+Begins&oq=Batman+Begins&start=10&sourceid=chrome&ie=UTF-8",
-            "3": "https://www.google.com/search?q=Batman+Begins&oq=Batman+Begins&start=20&sourceid=chrome&ie=UTF-8",
-            "4": "https://www.google.com/search?q=Batman+Begins&oq=Batman+Begins&start=30&sourceid=chrome&ie=UTF-8",
-            "5": "https://www.google.com/search?q=Batman+Begins&oq=Batman+Begins&start=40&sourceid=chrome&ie=UTF-8"
+            "2": "https://www.google.com/search?q=Shawshank&oq=Shawshank&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=Shawshank&oq=Shawshank&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=Shawshank&oq=Shawshank&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=Shawshank&oq=Shawshank&start=40&sourceid=chrome&ie=UTF-8"
         }
     },
     "serpapi_pagination": {
         "current": 1,
-        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&start=10",
-        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&start=10",
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank&start=10",
         "other_pages": {
-            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&start=10",
-            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&start=20",
-            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&start=30",
-            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&start=40"
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shawshank&start=40"
         }
     }
 }
