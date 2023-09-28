@@ -4,19 +4,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>MoviePal</title>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="/css/styles.css">
 </head>
 <body>
     <h1 id="main" class="primaryView">Movie Recommendation from IMDB's Top 250 Movies </h1>
-    <form class="primaryView" autocomplete="off">
+    <form action="/" method="post" class="primaryView" autocomplete="off">
         <div>
             <label>Enter Movie</label>
             <br>
-            <input id="input" type="text" placeholder="Type movie here...">
-            <button type="button" id="enter">Enter</button>
+            <input type="text" id="input" name="input" placeholder="Type movie here...">
+            <button type="submit" id="enter">Enter</button>
             <ul id="ul" class="list"></ul>
         </div>
     </form>
-    <script src="index.js"></script>
+    <script src="/scripts/index.js"></script>
 </body>
 </html>

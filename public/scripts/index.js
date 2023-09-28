@@ -307,13 +307,8 @@ btn.addEventListener("click", (e) =>  {
         let main = document.getElementById("main");
         main.innerText = prompt;
         //!!!!!!!!!!!
-        
-        //Use browser local storage to pass movie name
-        window.onload = function() {
-            var value = prompt;
-            localStorage.setItem("movieName", value);
-         }
-        location.replace("./result.html")
+
+        //location.replace("./result.html")
     }
 });
 
