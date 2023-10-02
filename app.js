@@ -1,3 +1,11 @@
+const execSync = require("child_process").execSync;
+const fs = require('fs');
+const http = require('http');
+const qs = require('querystring');
+const express = require('express');
+const path = require('path');
+
+//movie names
 let movieNames = ["The Shawshank Redemption",
 "The Godfather",
 "The Dark Knight",
@@ -249,77 +257,72 @@ let movieNames = ["The Shawshank Redemption",
 "Aladdin",
 "Gangs of Wasseypur"]
 
-//sort names in ascending order
-let sortedNames = movieNames.sort();
+//build app
+const app = express();
+app.use(express.urlencoded());
+app.use(express.static(path.join(__dirname, 'public')));
 
-//references
-let input = document.getElementById("input");
-let btn = document.getElementById("enter");
+app.set('view engine', 'ejs');
 
-// Execute a function when the user presses a key on the keyboard
-input.addEventListener("keypress", function(event) {
-    // If the user presses the "Enter" key on the keyboard
-    if (event.key === "Enter") {
-      // Cancel the default action, if needed
-      event.preventDefault();
-      // Trigger the button element with a click
-      document.getElementById("enter").click();
+const PORT = 3000;
+const options = {
+    root: path.join(__dirname)
+};
+
+app.get('/', function(req, res){
+    res.render('pages/index');
+});
+
+app.post('/', function (req, res, next){
+    //TEST!!!!!!!!!!
+    //res.send(req.body["input"]);
+    console.log(req.body["input"]);
+    //!!!!!!!!!!!!!!!!!!!!!!!!
+
+    //get input
+    let input = req.body['input'];
+
+    if (movieNames.includes(input)) {
+        //execMovieRec(input);
+        var m = readRcmmndPage();
+        console.log(m);
+        //render result
+        res.render('pages/result', {movies: m});
     }
 });
 
-//execute fn on keyup
-input.addEventListener("keyup", (e) =>  {
-
-    //convert input to lower case and compare each string
-    //Initially remove all elements (if user erases or adds)
-    removeElements();
-    //loop thru movieNames
-    for(let i of movieNames) {
-        //check length of ul so num of lis <= 5
-        let ulLen = document.getElementById("ul").getElementsByTagName("li").length
-        if (
-            i.toLowerCase().startsWith(input.value.
-            toLowerCase()) && input.value != "" && ulLen < 5){
-                //create li item
-                let listItem = document.createElement("li");
-                //One common class name
-                listItem.classList.add("list-items");
-                listItem.style.cursor = "pointer";
-                listItem.setAttribute("onclick", "displayNames('" +
-                i + "')");
-                //Display matched part in bold
-                let word = "<b>" + i.substr(0, input.value.length) + "</b>";
-                word+= i.substr(input.value.length);
-                //display the value in array
-                listItem.innerHTML = word;
-                document.querySelector(".list").appendChild(listItem);
-
-            }
-    }
+app.listen(PORT, function (err) {
+    if (err) console.log(err);
+    console.log("Server listening on PORT", PORT);
 });
 
-//listen for button press
-btn.addEventListener("click", (e) =>  {
-    //get text from input, only execute if value
-    let prompt = input.value;
-    console.log("HELLO");
-    if (prompt != "") {
-        //TEST!!!!!!!
-        let main = document.getElementById("main");
-        main.innerText = prompt;
-        //!!!!!!!!!!!
-    }
-});
-
-function displayNames (value) {
-    input.value = value;
-    removeElements();
+//execute python file with argument
+function execMovieRec(input) {
+    execSync('python movieRec.py "' + input + '"', (error, stdout, stderr) => {
+        if (error) {
+            console.log(`error: ${error.message}`);
+            return;
+        }
+        if (stderr) {
+            console.log(`stderr: ${stderr}`);
+            return;
+        }
+        console.log(`stdout: ${stdout}`);
+    });
 }
 
-function removeElements() {
-    //clear all items
-    let items = document.querySelectorAll(".list-items");
-    items.forEach((item) => {
-        item.remove();
+//read recommended page json
+function readRcmmndPage() {
+    let x = [];
+    const data = fs.readFileSync('rcmmndPage.json', 'utf8');
+    //get knowledge graph
+    let rcmmnd = JSON.parse(data)['knowledge_graph'];
+    //get first key of knowledge graph (if you like...)
+    rKey = Object.keys(rcmmnd)[0];
+    
+    //get name and image of movies
+    rcmmnd[rKey].forEach(element => {
+        x.push({name: element["name"], image: element["image"]});
     });
+    return x;
 }
