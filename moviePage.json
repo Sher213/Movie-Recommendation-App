@@ -1,971 +1,800 @@
 {
     "search_metadata": {
-        "id": "65151a328cd878f4188cc3b0",
+        "id": "651a78c9fe41d0ce85f6ddb3",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/eb9b311934298364/65151a328cd878f4188cc3b0.json",
-        "created_at": "2023-09-28 06:16:18 UTC",
-        "processed_at": "2023-09-28 06:16:18 UTC",
-        "google_url": "https://www.google.com/search?q=Batman+Begins&oq=Batman+Begins&sourceid=chrome&ie=UTF-8",
-        "raw_html_file": "https://serpapi.com/searches/eb9b311934298364/65151a328cd878f4188cc3b0.html",
-        "total_time_taken": 2.92
+        "json_endpoint": "https://serpapi.com/searches/7933947aa2f3e115/651a78c9fe41d0ce85f6ddb3.json",
+        "created_at": "2023-10-02 08:01:13 UTC",
+        "processed_at": "2023-10-02 08:01:13 UTC",
+        "google_url": "https://www.google.com/search?q=Fargo&oq=Fargo&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/7933947aa2f3e115/651a78c9fe41d0ce85f6ddb3.html",
+        "total_time_taken": 1.79
     },
     "search_parameters": {
         "engine": "google",
-        "q": "Batman Begins",
+        "q": "Fargo",
         "google_domain": "google.com",
         "device": "desktop"
     },
     "search_information": {
-        "query_displayed": "Batman Begins",
-        "total_results": 44900000,
-        "time_taken_displayed": 0.4,
+        "query_displayed": "Fargo",
+        "total_results": 343000000,
+        "time_taken_displayed": 0.34,
         "menu_items": [
             {
                 "position": 1,
                 "title": "Images",
-                "link": "https://www.google.com/search?sca_esv=569062438&q=Batman+Begins&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQ0pQJegQIGBAB",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=Batman+Begins"
+                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ0pQJegQIEBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=Fargo"
             },
             {
                 "position": 2,
-                "title": "Videos",
-                "link": "https://www.google.com/search?sca_esv=569062438&q=Batman+Begins&tbm=vid&source=lnms&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQ0pQJegQIFxAB",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=Batman+Begins"
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo&tbm=nws&source=lnms&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ0pQJegQIDxAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo&tbm=nws"
             },
             {
                 "position": 3,
                 "title": "Cast",
-                "link": "https://www.google.com/search?sca_esv=569062438&q=Cast+of+Batman+Begins&uds=H4sIAAAAAAAA_-My5GJxTiwuEeJ1SizJTcxTcEpNz8wrNmAsEgUJK-SnKaBI7GBkNEJVCgDezCh5QgAAAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQxKsJegQIFhAB&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Cast+of+Batman+Begins"
+                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+cast&uds=H4sIAAAAAAAA_-OS5mJxTiwuEWJ1SyxKzzdgLOICMxSSgYJGEEEAQutzbCQAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxKsJegQIDhAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+cast"
             },
             {
                 "position": 4,
-                "title": "Summary",
-                "link": "https://www.google.com/search?sca_esv=569062438&q=Batman+Begins+summary&uds=H4sIAAAAAAAA_-My5GIPLs3NTSyqFOJ1SizJTcxTcEpNz8wrNmAqEkURUCiGqDNCVQcAGJeu4kIAAAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQxKsJegQIEhAB&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins+summary"
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo&tbm=vid&source=lnms&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ0pQJegQIDRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=Fargo"
             },
             {
                 "position": 5,
-                "title": "News",
-                "link": "https://www.google.com/search?sca_esv=569062438&q=Batman+Begins&tbm=nws&source=lnms&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQ0pQJegUIogEQAQ",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&tbm=nws"
+                "title": "Weather",
+                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+weather&uds=H4sIAAAAAAAA_-NS5GIPT00syUgtEmJ1SyxKzzdgLOIFMxTKIeJGEHEAFjVp5CoAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxKsJegUIhwEQAQ&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+weather"
             },
             {
                 "position": 6,
-                "title": "Movies",
-                "link": "https://www.google.com/search?sca_esv=569062438&q=Batman+Begins+all+movies&uds=H4sIAAAAAAAA_-My5mLzzS_LTC0W4nVKLMlNzFNwSk3PzCs2YCySQBFQSMzJUcgFKzVCVQoAGBNnAUQAAAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQxKsJegUIpAEQAQ&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins+all+movies"
+                "title": "2023",
+                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+2023&uds=H4sIAAAAAAAA_-OS5mIxMjAyFmJ1SyxKzzdgKuICMxRAgkYQQQC35y4qJAAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxKsJegUIiwEQAQ&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+2023"
             },
             {
                 "position": 7,
-                "title": "Game",
-                "link": "https://www.google.com/search?sca_esv=569062438&q=Batman+Begins+game&uds=H4sIAAAAAAAA_-PS5mJxT8xNFeJ1SizJTcxTcEpNz8wrNmAsEkIRUEgHKjJCVQQAJUeSGDwAAAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQxKsJegUIowEQAQ&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins+game"
+                "title": "Season 5",
+                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+season+5&uds=H4sIAAAAAAAA_-NS5uIITk0szs9TMBVidUssSs83YCriAzMUiqESRhAJAAu8L-MsAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxKsJegUIiAEQAQ&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+season+5"
             },
             {
                 "position": 8,
-                "title": "Villain",
-                "link": "https://www.google.com/search?sca_esv=569062438&q=Batman+Begins+villain&uds=H4sIAAAAAAAA_-My5GIPy8zJSczME-J1SizJTcxTcEpNz8wrNmAqEkURUCiDqDNCVQcAzHdSVEIAAAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQxKsJegUIpQEQAQ&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins+villain"
+                "title": "Meaning",
+                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+meaning&uds=H4sIAAAAAAAA_-NS5GL3TU3My8xLF2J1SyxKzzdgKuIFMxRyIeJGEHEATZSkvioAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxKsJegUIiQEQAQ&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+meaning"
             },
             {
                 "position": 9,
-                "title": "Trailer",
-                "link": "https://www.google.com/search?sca_esv=569062438&q=Batman+Begins+Trailer&uds=H4sIAAAAAAAA_-My5GIPKUrMzEktEuJ1SizJTcxTcEpNz8wrNmAqEkURUICqM0JVBwC7fAqOQgAAAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQxKsJegUIpgEQAQ&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins+Trailer"
+                "title": "Movie",
+                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+movie&uds=H4sIAAAAAAAA_-OS5WL1zS_LTBVidUssSs83YCriBjMUckGiRhBRAAPDG7wmAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxKsJegUIigEQAQ&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+movie"
             },
             {
                 "position": 10,
                 "title": "All",
-                "link": "https://www.google.com/search?q=Batman+Begins&sca_esv=569062438&source=lnms&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQv_gJegQICBAE",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins"
+                "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&source=lnms&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQv_gJegQICRAE",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo"
             },
             {
                 "position": 11,
                 "title": "Images",
-                "link": "https://www.google.com/search?q=Batman+Begins&sca_esv=569062438&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQv_gJegQICBAG",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=Batman+Begins"
+                "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQv_gJegQICRAG",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=Fargo"
             },
             {
                 "position": 12,
                 "title": "Maps",
-                "link": "https://maps.google.com/maps?q=Batman+Begins&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQv_gJegQICBAI"
+                "link": "https://maps.google.com/maps?q=Fargo&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQv_gJegQICRAI"
             },
             {
                 "position": 13,
                 "title": "Shopping",
-                "link": "https://www.google.com/search?q=Batman+Begins&sca_esv=569062438&tbm=shop&source=lnms&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQv_gJegQICBAK",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Batman+Begins"
+                "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&tbm=shop&source=lnms&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQv_gJegQICRAK",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Fargo"
             },
             {
                 "position": 14,
                 "title": "Videos",
-                "link": "https://www.google.com/search?q=Batman+Begins&sca_esv=569062438&tbm=vid&source=lnms&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQv_gJegQICBAM",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=Batman+Begins"
+                "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&tbm=vid&source=lnms&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQv_gJegQICRAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=Fargo"
             },
             {
                 "position": 15,
                 "title": "News",
-                "link": "https://www.google.com/search?q=Batman+Begins&sca_esv=569062438&tbm=nws&source=lnms&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQv_gJegQICBAO",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&tbm=nws"
+                "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&tbm=nws&source=lnms&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQv_gJegQICRAO",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo&tbm=nws"
             },
             {
                 "position": 16,
                 "title": "Books",
-                "link": "https://www.google.com/search?q=Batman+Begins&sca_esv=569062438&tbm=bks&source=lnms&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQv_gJegQICBAQ"
+                "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&tbm=bks&source=lnms&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQv_gJegQICRAQ"
             },
             {
                 "position": 17,
                 "title": "Flights",
-                "link": "https://www.google.com/travel/flights?q=Batman+Begins&sca_esv=569062438&tbm=flm&source=lnms&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQv_gJegQICBAS"
+                "link": "https://www.google.com/travel/flights?q=Fargo&sca_esv=569950492&tbm=flm&source=lnms&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQv_gJegQICRAS"
             },
             {
                 "position": 18,
                 "title": "Finance",
-                "link": "https://www.google.com/finance?sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQv_gJegQICBAU"
+                "link": "https://www.google.com/finance?sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQv_gJegQICRAU"
             }
         ],
         "organic_results_state": "Results for exact spelling"
     },
-    "available_on": [
-        {
-            "name": "Max",
-            "link": "https://www.max.com/movies/9cd867d4-81e5-433a-839a-a1c111b2623d",
-            "price": "Subscription",
-            "thumbnail": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/485d0307cfa3f8534935649f3de58a8d4692960de1332795b32492ebda0fe6d3.png"
-        },
-        {
-            "name": "Amazon Prime Video",
-            "link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2382e704-968a-440d-b883-186f4b468f85?autoplay=0&ref_=atv_cf_strg_wb",
-            "price": "Premium subscription",
-            "thumbnail": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/485d0307cfa3f8532efec04e0dc1d5203995c40aed5f8d044590b7ea9da25149.png"
-        },
-        {
-            "name": "YouTube",
-            "link": "http://www.youtube.com/watch?v=5eKQL7f7lLI",
-            "price": "From $3.99",
-            "thumbnail": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/485d0307cfa3f85335ba2c2ca3eae85f5fd669abae073b96648e724c5310e5b6.png"
-        }
-    ],
     "knowledge_graph": {
-        "title": "Batman Begins",
-        "type": "PG-13 2005 \u2027 Action/Adventure \u2027 2h 20m",
-        "main_tab_text": "Overview",
-        "kgmid": "/m/02fqrf",
-        "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/02fqrf&hl=en-US&q=Batman+Begins&kgs=e12a86fe41a0cc8b&shndl=17&source=sh/x",
-        "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F02fqrf&q=Batman+Begins",
+        "title": "Fargo",
+        "type": "2014 \u2027 Drama \u2027 5 seasons",
+        "kgmid": "/m/0y7x4fd",
+        "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0y7x4fd&hl=en-US&hl=Fargo",
+        "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0y7x4fd&q=Fargo",
         "tabs": [
             {
                 "text": "Cast",
-                "si": "ALGXSlYCCh7qEDaDcHEBy5zKn4mkH3oZ-vFcATGQzqRUetzvmqzH08N8RHPwF4sfRmP_5s_FtnR-SQaYSOdg_V2M38RaZxaX6KpRcTAGWkt5-hcoefowysS3bxFph8ogZODSNcx6vjpHX7yqBdQmCCuyxnezMwuTVpVgu1X8Z7rYVWGC7-FSLuwKfjEhpMJIIX884eeSwwqXnqG3UGfKoESHikXJ3-JylGWKMKIESff-kr6mbNnEI1jITA13IZbO-F3HTSN8-yAO",
-                "link": "https://www.google.com/search?si=ALGXSlYCCh7qEDaDcHEBy5zKn4mkH3oZ-vFcATGQzqRUetzvmqzH08N8RHPwF4sfRmP_5s_FtnR-SQaYSOdg_V2M38RaZxaX6KpRcTAGWkt5-hcoefowysS3bxFph8ogZODSNcx6vjpHX7yqBdQmCCuyxnezMwuTVpVgu1X8Z7rYVWGC7-FSLuwKfjEhpMJIIX884eeSwwqXnqG3UGfKoESHikXJ3-JylGWKMKIESff-kr6mbNnEI1jITA13IZbO-F3HTSN8-yAO",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&si=ALGXSlYCCh7qEDaDcHEBy5zKn4mkH3oZ-vFcATGQzqRUetzvmqzH08N8RHPwF4sfRmP_5s_FtnR-SQaYSOdg_V2M38RaZxaX6KpRcTAGWkt5-hcoefowysS3bxFph8ogZODSNcx6vjpHX7yqBdQmCCuyxnezMwuTVpVgu1X8Z7rYVWGC7-FSLuwKfjEhpMJIIX884eeSwwqXnqG3UGfKoESHikXJ3-JylGWKMKIESff-kr6mbNnEI1jITA13IZbO-F3HTSN8-yAO"
+                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+cast&uds=H4sIAAAAAAAA_-OS5mJxTiwuEWJ1SyxKzzdgLOICMxSSgYJGEEEAQutzbCQAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxKsJegQIDhAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+cast"
             },
             {
-                "text": "Watch movie",
-                "si": "ALGXSlYkQDdBSV9uI-V3DYQyIqPcrbk33E1yLtocPVjAx6hCI6xw7bnhEuVdB_v53pUKqvPI94V7HXKZXknvwlvyhpA7Ts3_DG0dx1Sco5CcxC-oL2yhFGSUFLMNTIRk264aIfVDsD-OYBFAUQQqZFe76P9lHYWGhte8cyWWZy50kSPG6f_ULPw=",
-                "link": "https://www.google.com/search?si=ALGXSlYkQDdBSV9uI-V3DYQyIqPcrbk33E1yLtocPVjAx6hCI6xw7bnhEuVdB_v53pUKqvPI94V7HXKZXknvwlvyhpA7Ts3_DG0dx1Sco5CcxC-oL2yhFGSUFLMNTIRk264aIfVDsD-OYBFAUQQqZFe76P9lHYWGhte8cyWWZy50kSPG6f_ULPw=",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&si=ALGXSlYkQDdBSV9uI-V3DYQyIqPcrbk33E1yLtocPVjAx6hCI6xw7bnhEuVdB_v53pUKqvPI94V7HXKZXknvwlvyhpA7Ts3_DG0dx1Sco5CcxC-oL2yhFGSUFLMNTIRk264aIfVDsD-OYBFAUQQqZFe76P9lHYWGhte8cyWWZy50kSPG6f_ULPw%3D"
+                "text": "Weather",
+                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+weather&uds=H4sIAAAAAAAA_-NS5GIPT00syUgtEmJ1SyxKzzdgLOIFMxTKIeJGEHEAFjVp5CoAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxKsJegUIhwEQAQ&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+weather"
             },
             {
-                "text": "Reviews",
-                "si": "ALGXSlaD69LsqbJjW98OWcjCC_LsZKjzBUvey-W6anOmDt28jA1xvZFDywUoOEaFWGZENal19Z0MBf_KieiG2mTk3DU6hzwUcoGuII0l0xN6-s0E9P8rUxyMQqg9Y3TAiUFj2K8WhV6XUflMGbgRdMP9UkWV87klrL-3m1SUHDRsUQnbEybbYqiY5sAIC9uHUJekD-LBH9xQ",
-                "link": "https://www.google.com/search?si=ALGXSlaD69LsqbJjW98OWcjCC_LsZKjzBUvey-W6anOmDt28jA1xvZFDywUoOEaFWGZENal19Z0MBf_KieiG2mTk3DU6hzwUcoGuII0l0xN6-s0E9P8rUxyMQqg9Y3TAiUFj2K8WhV6XUflMGbgRdMP9UkWV87klrL-3m1SUHDRsUQnbEybbYqiY5sAIC9uHUJekD-LBH9xQ",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&si=ALGXSlaD69LsqbJjW98OWcjCC_LsZKjzBUvey-W6anOmDt28jA1xvZFDywUoOEaFWGZENal19Z0MBf_KieiG2mTk3DU6hzwUcoGuII0l0xN6-s0E9P8rUxyMQqg9Y3TAiUFj2K8WhV6XUflMGbgRdMP9UkWV87klrL-3m1SUHDRsUQnbEybbYqiY5sAIC9uHUJekD-LBH9xQ"
+                "text": "2023",
+                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+2023&uds=H4sIAAAAAAAA_-OS5mIxMjAyFmJ1SyxKzzdgKuICMxRAgkYQQQC35y4qJAAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxKsJegUIiwEQAQ&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+2023"
             },
             {
-                "text": "Trailers & clips",
-                "si": "ALGXSlaD69LsqbJjW98OWcjCC_LsZKjzBUvey-W6anOmDt28jA1xvZFDywUoOEaFWGZENal19Z0MBf_KieiG2mTk3DU6hzwUcoGuII0l0xN6-s0E9P8rUxyMQqg9Y3TAiUFj2K8WhV6XUflMGbgRdMP9UkWV87klrL-3m1SUHDRsUQnbEybbYqiY5sAIC9uHUJekD-LBH9xQ",
-                "link": "https://www.google.com/search?si=ALGXSlaD69LsqbJjW98OWcjCC_LsZKjzBUvey-W6anOmDt28jA1xvZFDywUoOEaFWGZENal19Z0MBf_KieiG2mTk3DU6hzwUcoGuII0l0xN6-s0E9P8rUxyMQqg9Y3TAiUFj2K8WhV6XUflMGbgRdMP9UkWV87klrL-3m1SUHDRsUQnbEybbYqiY5sAIC9uHUJekD-LBH9xQ",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&si=ALGXSlaD69LsqbJjW98OWcjCC_LsZKjzBUvey-W6anOmDt28jA1xvZFDywUoOEaFWGZENal19Z0MBf_KieiG2mTk3DU6hzwUcoGuII0l0xN6-s0E9P8rUxyMQqg9Y3TAiUFj2K8WhV6XUflMGbgRdMP9UkWV87klrL-3m1SUHDRsUQnbEybbYqiY5sAIC9uHUJekD-LBH9xQ"
+                "text": "Season 5",
+                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+season+5&uds=H4sIAAAAAAAA_-NS5uIITk0szs9TMBVidUssSs83YCriAzMUiqESRhAJAAu8L-MsAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxKsJegUIiAEQAQ&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+season+5"
             },
             {
-                "text": "Quotes",
-                "si": "ALGXSlZnrJYyd6tgOkfzKCpUhvKPtKnJr9na4hBHKNSTf4QfP4uFGy72pzaXY_8a5Tr_p_9AN0A2v5tgBbtjrg1j1x9CXiwPlOJv2GGa_Z_zM3-U4pe0z1hDW5ZADExedzvx1uVMYoU2p7h-75ZzVwpW4TwCZvIxMz7iDv3Gt_flyQUu61fAsBQ=",
-                "link": "https://www.google.com/search?si=ALGXSlZnrJYyd6tgOkfzKCpUhvKPtKnJr9na4hBHKNSTf4QfP4uFGy72pzaXY_8a5Tr_p_9AN0A2v5tgBbtjrg1j1x9CXiwPlOJv2GGa_Z_zM3-U4pe0z1hDW5ZADExedzvx1uVMYoU2p7h-75ZzVwpW4TwCZvIxMz7iDv3Gt_flyQUu61fAsBQ=",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&si=ALGXSlZnrJYyd6tgOkfzKCpUhvKPtKnJr9na4hBHKNSTf4QfP4uFGy72pzaXY_8a5Tr_p_9AN0A2v5tgBbtjrg1j1x9CXiwPlOJv2GGa_Z_zM3-U4pe0z1hDW5ZADExedzvx1uVMYoU2p7h-75ZzVwpW4TwCZvIxMz7iDv3Gt_flyQUu61fAsBQ%3D"
+                "text": "Meaning",
+                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+meaning&uds=H4sIAAAAAAAA_-NS5GL3TU3My8xLF2J1SyxKzzdgKuIFMxRyIeJGEHEATZSkvioAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxKsJegUIiQEQAQ&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+meaning"
+            },
+            {
+                "text": "Movie",
+                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+movie&uds=H4sIAAAAAAAA_-OS5WL1zS_LTBVidUssSs83YCriBjMUckGiRhBRAAPDG7wmAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxKsJegUIigEQAQ&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+movie"
             }
         ],
-        "description": "A young Bruce Wayne (Christian Bale) travels to the Far East, where he's trained in the martial arts by Henri Ducard (Liam Neeson), a member of the mysterious League of Shadows. When Ducard reveals the League's true purpose -- the complete destruction of Gotham City -- Wayne returns to Gotham intent on cleaning up the city without resorting to murder. With the help of Alfred (Michael Caine), his loyal butler, and Lucius Fox (Morgan Freeman), a tech expert at Wayne Enterprises, Batman is born.\u2026 MORE",
-        "release_date": "June 15, 2005 (USA)",
-        "release_date_links": [
+        "header_images": [
             {
-                "text": "USA",
-                "link": "https://www.google.com/search?sca_esv=569062438&q=United+States&stick=H4sIAAAAAAAAAOPgE-LUz9U3MEorLEpTAjMtk83LDbSMspOt9NMyc3LBhFVJRmpiSVFmcmKOQlFqemZ-nkJieWJRKpCTk5pYnKqQkliSuoiVNzQvsyQ1RSG4BMgt3sHKuIudiYMBANP510JkAAAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQmxMoAHoECCEQAg"
-            }
-        ],
-        "director": "Christopher Nolan",
-        "director_links": [
-            {
-                "text": "Christopher Nolan",
-                "link": "https://www.google.com/search?sca_esv=569062438&q=Christopher+Nolan&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stCyzLkJ8OM37NWVd1_tzfQYgv7zmSb_Be66vXx2hN3rJfXsM6o4chLcFc9tjdteb4-r6i0Pg7CQJED_sPMO7ZKlfDis6Dst5z9qh7fL50Apb4sMzFb8X_xZviVdZ_hXS4YMG4JxBXZBl-S2ioF17HlEc2-t4p-T_3r-rmsr4aMhx8h3wZQ%3D%3D&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQmxMoAHoECBsQAg"
-            }
-        ],
-        "budget": "150 million USD",
-        "film_series": "The Dark Knight Trilogy",
-        "film_series_links": [
-            {
-                "text": "The Dark Knight Trilogy",
-                "link": "https://www.google.com/search?sca_esv=569062438&q=The+Dark+Knight+Trilogy&si=ALGXSlYPkF2MKlZLFV56Lmj_Zy6ZT1rGy73vWpQufutnylBobRN-pVlbiwj9uple4ikcWfPUs6-16vEiRxoYDtoOV_uLh_Bbq_QVufXzJNYKis-NUTDyYJ63ZKX_pH6ipl_aJdK7rDfi92TP8pe9vbBUyqZI0mXcSzDJrOx3A4Dxwz2QOjHuCoGLjmXmVI8i_lw0Oe9q7_FI8JsrI5u2QCdoI1iU0ybCAw%3D%3D&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQmxMoAHoECCMQAg"
-            }
-        ],
-        "distributed_by": "Warner Bros., FilmFlex, Warner Bros. Pictures, Warner Bros. Home Entertainment",
-        "distributed_by_links": [
-            {
-                "text": "Warner Bros.",
-                "link": "https://www.google.com/search?sca_esv=569062438&q=Warner+Bros.&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2mYx91SCT5XAEi3E6dxj_bZ3PmTv9CEtdZWGQP-KSc152QqbvmaN0keFZF04EqP69na5Xv03nZZhUdSsWqTLfXsPwgHcO7JCNTdQtIAGEFhbCTRmqLutBkgoC0756Tl6ay7pX8VCCIDi3HICRECJ9YKVzKHvn&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQmxMoAHoECBoQAg"
+                "image": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/5c9640c21aa1a30f373cfff4f81df5fb0d9e59c801b4d7715ce2a323662f13b5638d1b1705afc720.jpeg",
+                "source": "http://google.com/search?tbm=isch&q=Fargo"
             },
             {
-                "text": "FilmFlex",
-                "link": "https://www.google.com/search?sca_esv=569062438&q=FilmFlex&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stI5fHVxTcSotSVbvRDciKMTIcD-V0mwW8nsVu6s5vFr7L6No1KN7MIJj_cz6bPra2QXv7tj4kP7uD3fwO9lvAgowrIQJygLsnRugGJGdHDuubAKN00r0ykHxbnHk4rwgmcmr5uOX9JnQoeMZKVsAtHYsGqmY&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQmxMoAXoECBoQAw"
+                "image": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/5c9640c21aa1a30f373cfff4f81df5fb0d9e59c801b4d771ebfe9b702b1b4c0049765c45e6d1e1d0.jpeg",
+                "source": "https://www.amazon.com/Fargo-Season-1-DVD/dp/B00JPFTRB4"
             },
             {
-                "text": "Warner Bros. Pictures",
-                "link": "https://www.google.com/search?sca_esv=569062438&q=Warner+Bros.+Pictures&si=ALGXSlZZLz93Q5j8HVkpXyxpTaoqXw8cocmoi-DFAGsSj5diF277Op4k1Vz1S5-2v20TA-_Vp6r7Tmppfk1Vxr-m_rI_Z6Plppn8fJn8s99G9hVu4pGIjIQ4gsiB8oByYiVFzKAOz0wXDQwuZrM6TVQTHXbmaQ7Tdw1z7bINrXxzrfpelkJFwY_wOha6oJFV5u6BKLjcwHbzz4x1NBJZhlX1dOMES_eyoQ%3D%3D&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQmxMoAnoECBoQBA"
+                "image": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/5c9640c21aa1a30f373cfff4f81df5fb0d9e59c801b4d7716a4ef5204bf4e9ab95306991510d5069.jpeg",
+                "source": "https://www.youtube.com/watch?v=I4ISTHi45_s"
             },
             {
-                "text": "Warner Bros. Home Entertainment",
-                "link": "https://www.google.com/search?sca_esv=569062438&q=Warner+Bros.+Home+Entertainment&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stMSvnf-r040z7uKcyMp-yb7Bzqf5In8l4sToYfKfvwpqJ-LSLQnteiH8YekenIqFaqrmrGJHUJ4gwc2idG8pZwkReDnEncqcsxkJ0ls-Vyf4tW0Ioz2XgJfgO5ixWVcce2G92sz7CSXQ1hnqSmhspUbO1Kulon2QKsAknNOZkfKbeAe9zC4uvDTSO4EwweLDEann6MM%3D&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQmxMoA3oECBoQBQ"
-            }
-        ],
-        "based_on": "Characters appearing in comic books published; by DC Comics",
-        "based_on_links": [
+                "image": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/5c9640c21aa1a30f373cfff4f81df5fb0d9e59c801b4d77103d14280532765e7bd667c57182b5972.jpeg",
+                "source": "https://www.npr.org/2020/09/25/916525982/fargo-season-4-is-as-good-as-it-gets-again"
+            },
             {
-                "text": "DC Comics",
-                "link": "https://www.google.com/search?sca_esv=569062438&q=DC+Comics&stick=H4sIAAAAAAAAAONgVuLQz9U3MMooS1nEyunirOCcn5uZXAwA5P2VYhgAAAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQmxMoAHoECCUQAg"
+                "image": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/5c9640c21aa1a30f373cfff4f81df5fb0d9e59c801b4d7715f593b3a2bb9dc79f7421002e9f92da4.jpeg",
+                "source": "https://deadline.com/2023/08/fargo-fifth-season-premiere-date-first-images-1235521371/"
+            },
+            {
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX3qnnbiQu_7CTZpim0PxwYqNAmQB3E8nalW7CAbrd8w&s",
+                "source": "https://www.nytimes.com/2014/04/13/arts/television/a-tv-version-of-fargo-has-parallels-to-the-film.html"
+            },
+            {
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh0tWmSnQmtxPLPjNDWWh-Hau4cSWaUk0yHcDnljrn9g&s",
+                "source": "https://www.nbcnews.com/think/opinion/fargo-chris-rock-isn-t-most-exciting-season-it-may-ncna1241184"
             }
         ],
+        "description": "In this anthology series inspired by the 1996 film, each season follows a mostly new cast of characters who get involved with murder investigations in different Midwestern towns, with seemingly unrelated crimes sometimes being connected in some way.",
+        "writers": "Noah Hawley, Bob DeLaurentis, Monica Beletsky",
+        "writers_links": [
+            {
+                "text": "Noah Hawley",
+                "link": "https://www.google.com/search?sca_esv=569950492&q=Noah+Hawley&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stILpdHqDs1fzSuibrn3V4e31xXTKz9Z8pj9rm7uJWZZI0WdBw28TsxUBAZzDO4gvttAIc-74_RgwmKQtvoF5Ugj7a9SKrSiEyfLhJllgXJinhxsS2LFSSCTTuK-BNiqKGaPLqFS8aHvXNn-FnTWpx2s5RTZ8902paPQ4XIHMBbVlzgVtzbdZD7iujx37EYTmdKno10f58KX3kgnW3-63l9kVCzbn&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQmxMoAHoECHcQAg"
+            },
+            {
+                "text": "Bob DeLaurentis",
+                "link": "https://www.google.com/search?sca_esv=569950492&q=Bob+DeLaurentis&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFFfGmTxAnO0SwD_yefAMrBwjV7-lfOyDBe486KQv9epP4NYffUI24cLrPkPn6C0IFECq5KxunwlX3De-gp9EzICzMvvnEVqIqHkBXO3YpVeP9N8sYLTqWdli8sQWC5lrl1D1yMLajZDm2V4VtSOGo4dbOoHDRvODVxGF4xRT_aCT9Dk3VEh-t58myA9HTcTBLaS2BLZnMj_nQ9ifYmyJpZexNZlpO80KSShwzvPP3O7nDq-bvQ%3D%3D&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQmxMoAXoECHcQAw"
+            },
+            {
+                "text": "Monica Beletsky",
+                "link": "https://www.google.com/search?sca_esv=569950492&q=Monica+Beletsky&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFEiryuwYExFDDfx76nH2VRb_PcyCv1a_xAWup6pWJitRl3SUIQj_5lqw4H9OmOwmiC6BzbCEqPFjNyB3u3L6AmhtL3TnYeadeumZW94t49olFxKchn1n2eLD2M0cn1Kzv6z_BLu3AugkAipG9oT8rSkZvnEiFioy5zfQsrXy0mCQdQsKSN72L3v55M71Gxcf9nYhbVa1a2EoJG-9UnNHokkWQu6FLyiUIFjAyoUWrBjliiSO1w%3D%3D&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQmxMoAnoECHcQBA"
+            },
+            {
+                "text": "MORE",
+                "link": "https://www.google.com/search?sca_esv=569950492&q=fargo+tv+series+writers&stick=H4sIAAAAAAAAAOPgE-LSz9U3qDSvMElL0ZLMTrbSLykDoviCovz0osRcq_KizJLUouJFrOJpiUXp-QolZQrFqUWZqcUKUBkAGOhjqkMAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ44YBKAN6BAh3EAU"
+            }
+        ],
+        "adapted_from": "Fargo",
+        "adapted_from_links": [
+            {
+                "text": "Fargo",
+                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+1996&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stFult6VE71R91O_brQgHW8uyqZLWu5gHd2BQPzNcl4NxbG5D6iwXkPL3-uqSoI2OGEx17z30TnIdsSlDglYNNLucNUJqqY_TiOs_MoeKkhKYI1nCVDrtNC9G51-jOI8fHwwXMMdHnz-TFRv_lylhZ2S3qWS7&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQmxMoAHoECHQQAg"
+            }
+        ],
+        "genre": "Anthology; Crime drama; Noir; Thriller; Black comedy;",
+        "original_network": "FX",
+        "original_network_links": [
+            {
+                "text": "FX",
+                "link": "https://www.google.com/search?sca_esv=569950492&q=FX&stick=H4sIAAAAAAAAAONgVuLWT9c3NDI2NK7Ijl_EyuQWAQBlw1DyFAAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQmxMoAHoECHoQAg"
+            }
+        ],
+        "original_release": "April 15, 2014 \u2013; present",
         "editorial_reviews": [
             {
                 "title": "IMDb",
-                "rating": "8.2/10",
-                "link": "https://www.imdb.com/title/tt0372784/"
+                "rating": "8.9/10",
+                "link": "https://www.imdb.com/title/tt2802850/"
             },
             {
                 "title": "Rotten Tomatoes",
-                "rating": "85%",
-                "link": "https://www.rottentomatoes.com/m/batman_begins"
-            },
-            {
-                "title": "Letterboxd",
-                "rating": "3.8/5",
-                "link": "https://letterboxd.com/film/batman-begins/"
+                "rating": "93%",
+                "link": "https://www.rottentomatoes.com/tv/fargo"
             }
         ],
         "clip": {
-            "title": "Batman Begins (2005) Official Trailer #1 - Christopher Nolan Movie2:25",
-            "link": "https://www.youtube.com/watch?v=neY2xVmOfUM",
-            "duration": "2:25",
-            "image": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/d3762f156d3cb5bcb6caee8b467cde6d7bd735da473dd22863d122a37bc1f8c8.jpeg"
+            "title": "FARGO Teaser Trailer (2023) Juno Temple0:50",
+            "link": "https://m.youtube.com/watch?v=CW0WueNFTpM",
+            "duration": "0:50",
+            "image": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/5c9640c21aa1a30f373cfff4f81df5fbc59e3c0f9a6c9bb1d918dd24f9b5f213.jpeg"
         },
-        "user_statistics": {
-            "platform": "Google users",
-            "statistic": "84% liked this movie"
-        },
-        "cast": [
+        "audience_reviews": [
             {
-                "name": "Christian Bale",
-                "extensions": [
-                    "Batman, Bruce Wayne"
-                ],
-                "link": "https://www.google.com/search?sca_esv=569062438&q=Christian+Bale&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpTAjMNyytNc7WEspOt9NMyc3LBhFVyYnHJIlY-54yizOKSzMQ8BafEnNQdrIwAQOogiEAAAAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQgOQBegQINxAE",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Christian+Bale&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpTAjMNyytNc7WEspOt9NMyc3LBhFVyYnHJIlY-54yizOKSzMQ8BafEnNQdrIwAQOogiEAAAAA",
-                "image": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/d3762f156d3cb5bcb6caee8b467cde6d0f7223adcf1ce0a76999bc3e70db7184.jpeg"
+                "rating": 4.0,
+                "summary": "Inspired by the 1996 academy award winner film, directed by Coen brothers of its namesake, Fargo is a crime drama ..."
             },
             {
-                "name": "Cillian Murphy",
-                "extensions": [
-                    "Scarecrow"
-                ],
-                "link": "https://www.google.com/search?sca_esv=569062438&q=Cillian+Murphy&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpTgjHLk7SEspOt9NMyc3LBhFVyYnHJIlY-58ycnMzEPAXf0qKCjModrIwARnDv4kAAAAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQgOQBegQINxAG",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Cillian+Murphy&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpTgjHLk7SEspOt9NMyc3LBhFVyYnHJIlY-58ycnMzEPAXf0qKCjModrIwARnDv4kAAAAA",
-                "image": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/d3762f156d3cb5bcb6caee8b467cde6dae5ff4795428986cc5967970f2c9d52f.jpeg"
-            },
-            {
-                "name": "Katie Holmes",
-                "extensions": [
-                    "Rachel Dawes"
-                ],
-                "link": "https://www.google.com/search?sca_esv=569062438&q=Katie+Holmes&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpTAjOTktIM07SEspOt9NMyc3LBhFVyYnHJIlYe78SSzFQFj_yc3NTiHayMAH_7r3I-AAAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQgOQBegQINxAI",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Katie+Holmes&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpTAjOTktIM07SEspOt9NMyc3LBhFVyYnHJIlYe78SSzFQFj_yc3NTiHayMAH_7r3I-AAAA",
-                "image": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/d3762f156d3cb5bcb6caee8b467cde6d570248d9a6a0e31dc3bc4c404756d787.jpeg"
-            },
-            {
-                "name": "Michael Caine",
-                "extensions": [
-                    "Alfred Pennyworth"
-                ],
-                "link": "https://www.google.com/search?sca_esv=569062438&q=Michael+Caine&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpT4gAx0_OSyrWEspOt9NMyc3LBhFVyYnHJIlZe38zkjMTUHAXnxMy81B2sjAAFHHp_PgAAAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQgOQBegQINxAK",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Michael+Caine&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpT4gAx0_OSyrWEspOt9NMyc3LBhFVyYnHJIlZe38zkjMTUHAXnxMy81B2sjAAFHHp_PgAAAA",
-                "image": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/d3762f156d3cb5bcb6caee8b467cde6d4b2f4b0457a8356b7d1b10ff5ec32f5b.jpeg"
-            },
-            {
-                "name": "Liam Neeson",
-                "extensions": [
-                    "Ra's al Ghul"
-                ],
-                "link": "https://www.google.com/search?sca_esv=569062438&q=Liam+Neeson&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpT4gAxM0zT47WEspOt9NMyc3LBhFVyYnHJIlZun8zEXAW_1NTi_LwdrIwA3oa1PTwAAAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQgOQBegQINxAM",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Liam+Neeson&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpT4gAxM0zT47WEspOt9NMyc3LBhFVyYnHJIlZun8zEXAW_1NTi_LwdrIwA3oa1PTwAAAA",
-                "image": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/d3762f156d3cb5bcb6caee8b467cde6d8e47949b50bff8654bbd84793af4f49e.jpeg"
-            },
-            {
-                "name": "Gary Oldman",
-                "extensions": [
-                    "James Gordon"
-                ],
-                "link": "https://www.google.com/search?sca_esv=569062438&q=Gary+Oldman&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpTAjMN08yqkrWEspOt9NMyc3LBhFVyYnHJIlZu98SiSgX_nJTcxLwdrIwAdOW58z0AAAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQgOQBegQINxAO",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gary+Oldman&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpTAjMN08yqkrWEspOt9NMyc3LBhFVyYnHJIlZu98SiSgX_nJTcxLwdrIwAdOW58z0AAAA",
-                "image": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/d3762f156d3cb5bcb6caee8b467cde6daed5dba62ba1a580172bf85f7a58b96d.jpeg"
-            },
-            {
-                "name": "Morgan Freeman",
-                "extensions": [
-                    "Lucius Fox"
-                ],
-                "link": "https://www.google.com/search?sca_esv=569062438&q=Morgan+Freeman&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpT4gAxTU2TLbSEspOt9NMyc3LBhFVyYnHJIlY-3_yi9MQ8Bbei1NTcxLwdrIwASJ5kPj8AAAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQgOQBegQINxAQ",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Morgan+Freeman&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpT4gAxTU2TLbSEspOt9NMyc3LBhFVyYnHJIlY-3_yi9MQ8Bbei1NTcxLwdrIwASJ5kPj8AAAA",
-                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDAHLujN3MHV4yXCWbMYIEowZVD86Kc4NBojaXYvkMl24Tn0a7S9yyatRFQ&s=10"
+                "rating": 4.0,
+                "summary": "As a fan of the 1996 film, I was skeptical, but so far I've been impressed. Season One was certainly good, but Season Two was quite ..."
             }
         ],
+        "user_statistics": {
+            "platform": "Google users",
+            "statistic": "87% liked this TV show"
+        },
         "watch_now": [
             {
                 "name": "Watch now Subscription",
-                "link": "https://www.netflix.com/watch/70021642?source=35",
-                "image": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/d3762f156d3cb5bcb6caee8b467cde6d6b0502f9b11ff5bf0e2a9eedc158007ce1c463a100a1510c.png"
+                "link": "https://www.hulu.com/series/203cda1b-7919-40fb-ab36-1e45b3ed2a50",
+                "image": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/5c9640c21aa1a30f373cfff4f81df5fbee0136f9f5b524f03a5f53f93b7d32fc23ff958c501db7c0.png"
+            }
+        ],
+        "cast": [
+            {
+                "name": "Billy Bob Thornton (Lorne Malvo)",
+                "extensions": [
+                    "Lorne Malvo"
+                ],
+                "link": "https://www.google.com/search?sca_esv=569950492&q=Billy+Bob+Thornton&stick=H4sIAAAAAAAAAONgFuLSz9U3qDSvMElLUeIAsQ3TMiy1OEPCQvIdk0vyixaxCjll5uRUKjjlJymEZOQX5ZXk5-1gZQQA9ubDwTsAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxA16BAhhEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Billy+Bob+Thornton&stick=H4sIAAAAAAAAAONgFuLSz9U3qDSvMElLUeIAsQ3TMiy1OEPCQvIdk0vyixaxCjll5uRUKjjlJymEZOQX5ZXk5-1gZQQA9ubDwTsAAAA",
+                "image": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/5c9640c21aa1a30f373cfff4f81df5fb8b465309cb1db95ea09c0feaa877b1e6.jpeg"
+            },
+            {
+                "name": "Martin Freeman (Lester Nygaard)",
+                "extensions": [
+                    "Lester Nygaard"
+                ],
+                "link": "https://www.google.com/search?sca_esv=569950492&q=Martin+Freeman&stick=H4sIAAAAAAAAAONgFuLSz9U3qDSvMElLUeIEsY3SqozLtThDwkLyHZNL8osWsfL5JhaVZOYpuBWlpuYm5u1gZQQA_iawozgAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxA16BAhhEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Martin+Freeman&stick=H4sIAAAAAAAAAONgFuLSz9U3qDSvMElLUeIEsY3SqozLtThDwkLyHZNL8osWsfL5JhaVZOYpuBWlpuYm5u1gZQQA_iawozgAAAA",
+                "image": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/5c9640c21aa1a30f373cfff4f81df5fbb4c8d247921013b7431b5e259d7734ce.jpeg"
+            },
+            {
+                "name": "Allison Tolman (Molly Solverson)",
+                "extensions": [
+                    "Molly Solverson"
+                ],
+                "link": "https://www.google.com/search?sca_esv=569950492&q=Allison+Tolman&stick=H4sIAAAAAAAAAONgFuLSz9U3qDSvMElLUQKzCwzNjAsKtThDwkLyHZNL8osWsfI55uRkFufnKYTk5-Qm5u1gZQQAXG39OTkAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxA16BAhhEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Allison+Tolman&stick=H4sIAAAAAAAAAONgFuLSz9U3qDSvMElLUQKzCwzNjAsKtThDwkLyHZNL8osWsfI55uRkFufnKYTk5-Qm5u1gZQQAXG39OTkAAAA",
+                "image": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/5c9640c21aa1a30f373cfff4f81df5fb96c42ff230da33bcaaf9618ef6d6f84d.jpeg"
+            },
+            {
+                "name": "Colin Hanks (Gus Grimly)",
+                "extensions": [
+                    "Gus Grimly"
+                ],
+                "link": "https://www.google.com/search?sca_esv=569950492&q=Colin+Hanks&stick=H4sIAAAAAAAAAONgFuLSz9U3qDSvMElLUeIEsU2SLDKqtDhDwkLyHZNL8osWsXI75-dk5il4JOZlF-9gZQQAuuYLvzUAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxA16BAhhEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Colin+Hanks&stick=H4sIAAAAAAAAAONgFuLSz9U3qDSvMElLUeIEsU2SLDKqtDhDwkLyHZNL8osWsXI75-dk5il4JOZlF-9gZQQAuuYLvzUAAAA",
+                "image": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/5c9640c21aa1a30f373cfff4f81df5fb46dbfd62d5ae7bfde4c12776db132099.jpeg"
             }
         ],
         "people_also_search_for": [
             {
-                "name": "The Dark Knight (2008)",
+                "name": "True Detective (Since\u00a02014)",
                 "extensions": [
-                    "2008"
+                    "Since\u00a02014"
                 ],
-                "link": "https://www.google.com/search?sca_esv=569062438&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stBia5CzmypP-m0JyR8YU1CpQu2eYH08xQMRm78R32yqgbfvvo58AJIFdQohquD_UBx9nanaQ8rGlo_-FNvOCih808W3cReOzlAFPTVLFAzS4UYF1qaxwma73YSyo_3SGap8vlHIV585JmR5J-1oIr_YeF_Xgh-iTpwaeM6RzMNCmZyJNPVDGBaCkjV9sd4CVN6eQ1GsG_CKgRx299nWhX88Uzw0C9wcMTHDWQxATkz87TKl9WRaj5d0Gn19u9ZEpT4HB904%3D&q=The+Dark+Knight&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQs9oBKAB6BAgdEAI",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Dark+Knight&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stBia5CzmypP-m0JyR8YU1CpQu2eYH08xQMRm78R32yqgbfvvo58AJIFdQohquD_UBx9nanaQ8rGlo_-FNvOCih808W3cReOzlAFPTVLFAzS4UYF1qaxwma73YSyo_3SGap8vlHIV585JmR5J-1oIr_YeF_Xgh-iTpwaeM6RzMNCmZyJNPVDGBaCkjV9sd4CVN6eQ1GsG_CKgRx299nWhX88Uzw0C9wcMTHDWQxATkz87TKl9WRaj5d0Gn19u9ZEpT4HB904%3D",
-                "image": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/d3762f156d3cb5bcb6caee8b467cde6dd25d5cf635f387e19c32eae6fcd3e507446204e33126d0a6fdb88babc40421be.jpeg"
+                "link": "https://www.google.com/search?sca_esv=569950492&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFN6-Flh87kWoSFDcqtrj2JZjYcl1H-BcbR2zZdBkPPlwuLuor3Hh2F5-7ngxqu_Ld7bD6UtByZ5SUNLji_ZINV5qgjPVwJQQn6dXjXREdwnVsyOKNwZLiApFkLaxQC3BaQxbtZYNFqCHSFs-k1cvu-ua-u9328CfZTBl9NJ0WCQv7aGU4DvoA_6z0dI4JWjwe0yrnDcq2CMXMsGWQuC5oqNeJKdKeNct2a532peLPvTSmZNYk4GUt_rCn77P-rnjMBiUEZU%3D&q=True+Detective&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQs9oBKAB6BAhfEAI",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=True+Detective&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFN6-Flh87kWoSFDcqtrj2JZjYcl1H-BcbR2zZdBkPPlwuLuor3Hh2F5-7ngxqu_Ld7bD6UtByZ5SUNLji_ZINV5qgjPVwJQQn6dXjXREdwnVsyOKNwZLiApFkLaxQC3BaQxbtZYNFqCHSFs-k1cvu-ua-u9328CfZTBl9NJ0WCQv7aGU4DvoA_6z0dI4JWjwe0yrnDcq2CMXMsGWQuC5oqNeJKdKeNct2a532peLPvTSmZNYk4GUt_rCn77P-rnjMBiUEZU%3D",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq5mdH1F24KKnctPaAaUZP_-R0f_ysCg-gtV27&s=0"
             },
             {
-                "name": "The Dark Knight Rises (2012)",
+                "name": "Legion (2017 \u2013 2019)",
                 "extensions": [
-                    "2012"
+                    "2017 \u2013 2019"
                 ],
-                "link": "https://www.google.com/search?sca_esv=569062438&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFBCfBSVKcbewhYhlAr6ti-jNMvswX14tDpi3QHKWnmao5MQy69fxTKtsXZO3nab0m-xfoPdah4nvuy13VW4FDMC27l2PopqwMUjL7blEZP5gMNNn2dmTMHsmuH9xJHoECn4oYcUC7ds9THrYqNClhsXKZ46APgH0IRDeG5zvRuu6UNBRZQGsrSMcjLYIOJr-2dqCTD9pptyI_t_fsNBajI6Prr9QZB9c9xMw97aW5LPdW3EvoR7eMsfTjeMJ-awYakfxMXivseYQCQRoapNZcTgyOjDm&q=The+Dark+Knight+Rises&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQs9oBKAF6BAgdEAM",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Dark+Knight+Rises&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFBCfBSVKcbewhYhlAr6ti-jNMvswX14tDpi3QHKWnmao5MQy69fxTKtsXZO3nab0m-xfoPdah4nvuy13VW4FDMC27l2PopqwMUjL7blEZP5gMNNn2dmTMHsmuH9xJHoECn4oYcUC7ds9THrYqNClhsXKZ46APgH0IRDeG5zvRuu6UNBRZQGsrSMcjLYIOJr-2dqCTD9pptyI_t_fsNBajI6Prr9QZB9c9xMw97aW5LPdW3EvoR7eMsfTjeMJ-awYakfxMXivseYQCQRoapNZcTgyOjDm",
-                "image": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/d3762f156d3cb5bcb6caee8b467cde6dd25d5cf635f387e19c32eae6fcd3e507b18daf0ca9aa5231e904508498cf727b.jpeg"
+                "link": "https://www.google.com/search?sca_esv=569950492&si=ALGXSlZZLz93Q5j8HVkpXyxpTaoqXw8cocmoi-DFAGsSj5diFzS9eiVXYiGGgoVbbRorFJgT6nmqzINF2dkrM-j2j20IGsKapzH1ACTnDZ3zDn7kW_jHiBkzmCrQQGQEjJujq6UmHels-dSU8b4O2azuUv40aO20pGiGEFASDG4ZpyAsM6gwLX1QUL7o05R8PWQTmVuXaAJJkqEAeGQyJy1fIC8lCXom2wcDe4iugWeTgtXm6sH5eGizj1Aa7TZMlTpXoFJjFafmscapPMO6eiD7_XARv8wuO-QS_vGBaxmCc2Z2Oj1y4By6D4Za4ZntHfSvZSwitP1N&q=Legion+(TV+series)&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQs9oBKAF6BAhfEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Legion+%28TV+series%29&si=ALGXSlZZLz93Q5j8HVkpXyxpTaoqXw8cocmoi-DFAGsSj5diFzS9eiVXYiGGgoVbbRorFJgT6nmqzINF2dkrM-j2j20IGsKapzH1ACTnDZ3zDn7kW_jHiBkzmCrQQGQEjJujq6UmHels-dSU8b4O2azuUv40aO20pGiGEFASDG4ZpyAsM6gwLX1QUL7o05R8PWQTmVuXaAJJkqEAeGQyJy1fIC8lCXom2wcDe4iugWeTgtXm6sH5eGizj1Aa7TZMlTpXoFJjFafmscapPMO6eiD7_XARv8wuO-QS_vGBaxmCc2Z2Oj1y4By6D4Za4ZntHfSvZSwitP1N",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmyxbo6QshoStwP7laOa5tN_RncgKnJNNxmZ2b&s=0"
             },
             {
-                "name": "Batman (1989)",
+                "name": "Twin Peaks (Since\u00a01990)",
                 "extensions": [
-                    "1989"
+                    "Since\u00a01990"
                 ],
-                "link": "https://www.google.com/search?sca_esv=569062438&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2mQaJ3bxO4ZLMd3GoQCI_3kksYjoayOzOp1wAGOkulO1GzqfOH5QAr6eLRmMDVwgegZHFnHwecmIj97q_1GOBDUJgvMpKWqzIQK2PgUXdB-hcoSLLA5gilLjsjPSKKVl1cUbGBLjMC8qqljkkwl_v8BLwfn8n1ea_UM9OwrvmsV1A60QQgr1oNCwJuS_8W2DxOJxnyrkHnNUzU9E_XfE_u4fR7DpSdSA8z-u-_GQ88ld1H8cBnBL5RKWuIz1IeDVNuJfJPyI%3D&q=Batman+(1989+film)&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQs9oBKAJ6BAgdEAQ",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+%281989+film%29&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2mQaJ3bxO4ZLMd3GoQCI_3kksYjoayOzOp1wAGOkulO1GzqfOH5QAr6eLRmMDVwgegZHFnHwecmIj97q_1GOBDUJgvMpKWqzIQK2PgUXdB-hcoSLLA5gilLjsjPSKKVl1cUbGBLjMC8qqljkkwl_v8BLwfn8n1ea_UM9OwrvmsV1A60QQgr1oNCwJuS_8W2DxOJxnyrkHnNUzU9E_XfE_u4fR7DpSdSA8z-u-_GQ88ld1H8cBnBL5RKWuIz1IeDVNuJfJPyI%3D",
-                "image": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/d3762f156d3cb5bcb6caee8b467cde6dd25d5cf635f387e19c32eae6fcd3e507095a5170647216ddbd3c5cdc17a9bbff.jpeg"
+                "link": "https://www.google.com/search?sca_esv=569950492&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2mevlcbKiTMIW2Td9wWD6Zpxw5_A6Y4pUQztjEvnvnj5dHzqFaBNmm6faIt5POhZ3TzUqAIo9sqVqAwkz5RuTtZGBtkdDk4ZHzALPx7XkJK5TAMsoLMya-ygay73X4ii9BVMkWig6qzrDx1JGKbsGQbl_6gSaHxrmvfQO0rFUIZIug7dbiRAxXeEQNY6nWRWv-X7v9SH_NaUrFAzBpiat3oRz6LPaNpI8RyAe2pewM0s3dKlhDKGy_H_BffosemyS6_acd08%3D&q=Twin+Peaks&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQs9oBKAJ6BAhfEAQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Twin+Peaks&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2mevlcbKiTMIW2Td9wWD6Zpxw5_A6Y4pUQztjEvnvnj5dHzqFaBNmm6faIt5POhZ3TzUqAIo9sqVqAwkz5RuTtZGBtkdDk4ZHzALPx7XkJK5TAMsoLMya-ygay73X4ii9BVMkWig6qzrDx1JGKbsGQbl_6gSaHxrmvfQO0rFUIZIug7dbiRAxXeEQNY6nWRWv-X7v9SH_NaUrFAzBpiat3oRz6LPaNpI8RyAe2pewM0s3dKlhDKGy_H_BffosemyS6_acd08%3D",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2rtu9TnNGqicImBmlPN6edKoyPNwXS5SmNOHE&s=0"
             },
             {
-                "name": "Batman & Robin (1997)",
+                "name": "American Crime Story (Since\u00a02016)",
                 "extensions": [
-                    "1997"
+                    "Since\u00a02016"
                 ],
-                "link": "https://www.google.com/search?sca_esv=569062438&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2mX62Q7uzMikVBXk2gmPtWYEtLew0CXli4fmr4CSoA8dYn8N1G1D2D_LJBw8afsth9GkzWiMitRAT0oRB7vE3Q1gAfL_gqWKjTNpM0_P4QOrohihVy3A65E6E5CtLfpJf_jvWn7UjeL19sgFCmS6csh_3z6mXKUYR4arO1D1Duxrkk0IvCcwsnKJoGhkgmlGMTfHIxyMeVmHDeMjeJ84A9mjltUrEiqjBAiHVZbKUpSnGsmnndzjNrg-dQ9sSoe3hmfBOTAg%3D&q=Batman+and+Robin&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQs9oBKAN6BAgdEAU",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+and+Robin&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2mX62Q7uzMikVBXk2gmPtWYEtLew0CXli4fmr4CSoA8dYn8N1G1D2D_LJBw8afsth9GkzWiMitRAT0oRB7vE3Q1gAfL_gqWKjTNpM0_P4QOrohihVy3A65E6E5CtLfpJf_jvWn7UjeL19sgFCmS6csh_3z6mXKUYR4arO1D1Duxrkk0IvCcwsnKJoGhkgmlGMTfHIxyMeVmHDeMjeJ84A9mjltUrEiqjBAiHVZbKUpSnGsmnndzjNrg-dQ9sSoe3hmfBOTAg%3D",
-                "image": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/d3762f156d3cb5bcb6caee8b467cde6dd25d5cf635f387e19c32eae6fcd3e5077867bef41931716153dea894bdabd166.jpeg"
+                "link": "https://www.google.com/search?sca_esv=569950492&si=ALGXSlYPkF2MKlZLFV56Lmj_Zy6ZT1rGy73vWpQufutnylBobRGjr9oE5qq7Ra8F3vkfS8I_sCCVTJdeLzcZID1FsQAu0DjMiW81_ygdPosBzKZ9sn93ETqh1Zi86P1o8V98uGi-25FpfQBat_Xblt6ikALGrNL4L3hpE6fD0dBfkqCqxQi9fsKXr2v0_zvchMH93ch6JtlbLKF_kJSZna7j9hJaX9D6M5Z788JpAAQVs5gA3N7XjuCFMK9KXDmAxrgsQt8Hik6_pliB6qUDepK3MDGeKJpVOswqWasEIj08b1ewrz276lDRGUpV7cjjjE-LPAfN47v4&q=American+Crime+Story&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQs9oBKAN6BAhfEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=American+Crime+Story&si=ALGXSlYPkF2MKlZLFV56Lmj_Zy6ZT1rGy73vWpQufutnylBobRGjr9oE5qq7Ra8F3vkfS8I_sCCVTJdeLzcZID1FsQAu0DjMiW81_ygdPosBzKZ9sn93ETqh1Zi86P1o8V98uGi-25FpfQBat_Xblt6ikALGrNL4L3hpE6fD0dBfkqCqxQi9fsKXr2v0_zvchMH93ch6JtlbLKF_kJSZna7j9hJaX9D6M5Z788JpAAQVs5gA3N7XjuCFMK9KXDmAxrgsQt8Hik6_pliB6qUDepK3MDGeKJpVOswqWasEIj08b1ewrz276lDRGUpV7cjjjE-LPAfN47v4",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIs_DErqeRC-whkOj8GPhKRXGmcG1_KgsNCB_qUXZLbiTUqhHNuSio&s=0"
             }
-        ],
-        "people_also_search_for_link": "https://www.google.com/search?sca_esv=569062438&q=Batman+Begins&stick=H4sIAAAAAAAAAONgFuLUz9U3MEorLEpTQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1i5XVKLMlNzFNwSk3PzCvewcp4i02S4cCVzCXuS-fUhNgYP-dcFWl2LOgad5TkTiMAc2NnbHMAAAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQ4qYDegQIHRAG",
-        "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3MEorLEpTQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1i5XVKLMlNzFNwSk3PzCvewcp4i02S4cCVzCXuS-fUhNgYP-dcFWl2LOgad5TkTiMAc2NnbHMAAAA"
+        ]
     },
     "inline_images": [
         {
-            "source": "https://en.wikipedia.org/wiki/Batman_Begins",
-            "thumbnail": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/3bf5b4163b02af5654498a0ff05f773e4f1332a47547d4c5502c7e478bc768f2.jpeg",
-            "original": "https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Batman_Begins_Poster.jpg/220px-Batman_Begins_Poster.jpg",
-            "title": "Batman Begins - Wikipedia",
-            "source_name": "Wikipedia"
+            "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&tbm=isch&source=iu&ictx=1&vet=1&fir=gauIom-3SrctCM%252CAgHmtKb-GANbSM%252C%252Fm%252F0y7x4fd%253BeBENGHg1477vgM%252CwrpePBBhEVacsM%252C_%253B1fPFSsLuekipHM%252Cj9euNOc88EM3nM%252C_%253B0pyWwASSagkrxM%252CfakhMDwnGZZ4KM%252C_%253B4dExN6tPm9ThfM%252CTmd7B5fni2Yo4M%252C_%253BBa_swCP8G47QHM%252C9B7OeNTky28k7M%252C_%253By7kSLdzpwmnGFM%252CO2xEEmeM0tPLIM%252C_&usg=AI4_-kRuBD7IdHlQDsD6SfY77UN3Ti0Vag&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ_B16BAhpEAE#imgrc=gauIom-3SrctCM",
+            "source": "http://google.com/search?tbm=isch&q=Fargo",
+            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/7156c47d6610a776579d61e30b4850491b7113ade553156cb418c053f4326fb0.jpeg",
+            "original": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVbmhAGZL9wtdm9QAg_5sbj0koQQ0rtrUUjEJF1PowuZzjqR2C",
+            "source_name": "google.com"
         },
         {
-            "source": "https://www.rottentomatoes.com/m/batman_begins",
-            "thumbnail": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/3bf5b4163b02af5625212feadb6cf1c911ba9fc6c035db6023241b74516b6ff3.jpeg",
-            "original": "https://resizing.flixster.com/gG9jEpn7NVg5pYWwQidlxiBJ3HA=/206x305/v2/https://flxt.tmsimg.com/NowShowing/48435/48435_aa.jpg",
-            "title": "Batman Begins - Rotten Tomatoes",
-            "source_name": "Rotten Tomatoes"
+            "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&tbm=isch&source=iu&ictx=1&vet=1&fir=eBENGHg1477vgM%252CwrpePBBhEVacsM%252C_%253B1fPFSsLuekipHM%252Cj9euNOc88EM3nM%252C_%253B0pyWwASSagkrxM%252CfakhMDwnGZZ4KM%252C_%253B4dExN6tPm9ThfM%252CTmd7B5fni2Yo4M%252C_%253BBa_swCP8G47QHM%252C9B7OeNTky28k7M%252C_%253By7kSLdzpwmnGFM%252CO2xEEmeM0tPLIM%252C_&usg=AI4_-kQyEYHm3bQZ1vNCTlstjnqyF16AVA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ_h16BAhzEAE#imgrc=eBENGHg1477vgM",
+            "source": "https://www.amazon.com/Fargo-Season-1-DVD/dp/B00JPFTRB4",
+            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/7156c47d6610a7766e2381b1f0a92f774c6265eb7cb78ed1c9f21870740c428d.jpeg",
+            "original": "https://m.media-amazon.com/images/I/91yOXkF67oL._AC_UF894,1000_QL80_.jpg",
+            "title": "Fargo - Season 1 [DVD] [2014]",
+            "source_name": "Amazon"
         },
         {
-            "source": "https://www.youtube.com/watch?v=NJc6p8huN5Q",
-            "thumbnail": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/3bf5b4163b02af56e2b143bb11c13eb526e3007b4ed27fd03b01f09b1d548ee1.jpeg",
-            "original": "https://i.ytimg.com/vi/NJc6p8huN5Q/maxresdefault.jpg",
-            "title": "Batman Begins (2005) Review | I Wish I Loved This Movie",
+            "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&tbm=isch&source=iu&ictx=1&vet=1&fir=eBENGHg1477vgM%252CwrpePBBhEVacsM%252C_%253B1fPFSsLuekipHM%252Cj9euNOc88EM3nM%252C_%253B0pyWwASSagkrxM%252CfakhMDwnGZZ4KM%252C_%253B4dExN6tPm9ThfM%252CTmd7B5fni2Yo4M%252C_%253BBa_swCP8G47QHM%252C9B7OeNTky28k7M%252C_%253By7kSLdzpwmnGFM%252CO2xEEmeM0tPLIM%252C_&usg=AI4_-kQyEYHm3bQZ1vNCTlstjnqyF16AVA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ_h16BAhsEAE#imgrc=1fPFSsLuekipHM",
+            "source": "https://www.youtube.com/watch?v=I4ISTHi45_s",
+            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/7156c47d6610a77623893d6d236dfa154aa25454191835268a2921e49b53a57e.jpeg",
+            "original": "https://i.ytimg.com/vi/I4ISTHi45_s/maxresdefault.jpg",
+            "title": "Fargo Season 4 Trailer | Rotten Tomatoes TV",
             "source_name": "YouTube"
         },
         {
-            "source": "https://www.amazon.com/Batman-Begins-DVD-Christian-Bale/dp/B000E1MTY0",
-            "thumbnail": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/3bf5b4163b02af560b7f9df2f35777f5c04b26ac93f9833c6b762675af9f7bd9.jpeg",
-            "original": "https://m.media-amazon.com/images/I/51mn75SmfJL._AC_UF894,1000_QL80_.jpg",
-            "title": "Batman Begins",
-            "source_name": "Amazon.com"
+            "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&tbm=isch&source=iu&ictx=1&vet=1&fir=eBENGHg1477vgM%252CwrpePBBhEVacsM%252C_%253B1fPFSsLuekipHM%252Cj9euNOc88EM3nM%252C_%253B0pyWwASSagkrxM%252CfakhMDwnGZZ4KM%252C_%253B4dExN6tPm9ThfM%252CTmd7B5fni2Yo4M%252C_%253BBa_swCP8G47QHM%252C9B7OeNTky28k7M%252C_%253By7kSLdzpwmnGFM%252CO2xEEmeM0tPLIM%252C_&usg=AI4_-kQyEYHm3bQZ1vNCTlstjnqyF16AVA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ_h16BAhyEAE#imgrc=0pyWwASSagkrxM",
+            "source": "https://www.npr.org/2020/09/25/916525982/fargo-season-4-is-as-good-as-it-gets-again",
+            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/7156c47d6610a776a00d2a80c8fbbe652133849a9ef14a368b7df60b16b05a23.jpeg",
+            "original": "https://media.npr.org/assets/img/2020/09/25/fargo_401_0172r_wide-76da68a4505fe1989e75e4915fe3ea0649bf3e26.jpg",
+            "title": "Fargo' Season 4 Review: It's As Good As It Gets \u2014 Again : NPR",
+            "source_name": "NPR"
         },
         {
-            "source": "https://www.netflix.com/title/70021642",
-            "thumbnail": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/3bf5b4163b02af5646945bd3e5907a3a5a3e4d6bf39072199df3fe71ad9affe7.jpeg",
-            "original": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABbExKZi5-liauLX7bdl4gpLdZ90qinfmquLTxMVHPI0h38TAgfNzhBh1LZRFUTpRxSI77Rd27mP18IJ0hZ5Vb46znm1o2_wWfiks.jpg?r=790",
-            "title": "Watch Batman Begins | Netflix",
-            "source_name": "Netflix"
+            "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&tbm=isch&source=iu&ictx=1&vet=1&fir=eBENGHg1477vgM%252CwrpePBBhEVacsM%252C_%253B1fPFSsLuekipHM%252Cj9euNOc88EM3nM%252C_%253B0pyWwASSagkrxM%252CfakhMDwnGZZ4KM%252C_%253B4dExN6tPm9ThfM%252CTmd7B5fni2Yo4M%252C_%253BBa_swCP8G47QHM%252C9B7OeNTky28k7M%252C_%253By7kSLdzpwmnGFM%252CO2xEEmeM0tPLIM%252C_&usg=AI4_-kQyEYHm3bQZ1vNCTlstjnqyF16AVA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ_h16BAhwEAE#imgrc=4dExN6tPm9ThfM",
+            "source": "https://deadline.com/2023/08/fargo-fifth-season-premiere-date-first-images-1235521371/",
+            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/7156c47d6610a776cc6e42593ff6314fb9dad08bcecaa6bd3a369ae0443b934a.jpeg",
+            "original": "https://deadline.com/wp-content/uploads/2023/08/FXs-Fargo-Sam-Spruell-as-Ole-Munch.jpg",
+            "title": "Fargo' Season 5 Premiere Date, Plot Details & First Images ...",
+            "source_name": "Deadline"
+        },
+        {
+            "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&tbm=isch&source=iu&ictx=1&vet=1&fir=eBENGHg1477vgM%252CwrpePBBhEVacsM%252C_%253B1fPFSsLuekipHM%252Cj9euNOc88EM3nM%252C_%253B0pyWwASSagkrxM%252CfakhMDwnGZZ4KM%252C_%253B4dExN6tPm9ThfM%252CTmd7B5fni2Yo4M%252C_%253BBa_swCP8G47QHM%252C9B7OeNTky28k7M%252C_%253By7kSLdzpwmnGFM%252CO2xEEmeM0tPLIM%252C_&usg=AI4_-kQyEYHm3bQZ1vNCTlstjnqyF16AVA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ_h16BAhuEAE#imgrc=Ba_swCP8G47QHM",
+            "source": "https://www.nytimes.com/2014/04/13/arts/television/a-tv-version-of-fargo-has-parallels-to-the-film.html",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX3qnnbiQu_7CTZpim0PxwYqNAmQB3E8nalW7CAbrd8w&s",
+            "original": "https://static01.nyt.com/images/2014/04/13/arts/13FARGO_SPAN/13FARGO-superJumbo.jpg",
+            "title": "A TV Version of 'Fargo' Has Parallels to the Film - The New ...",
+            "source_name": "The New York Times"
+        },
+        {
+            "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&tbm=isch&source=iu&ictx=1&vet=1&fir=eBENGHg1477vgM%252CwrpePBBhEVacsM%252C_%253B1fPFSsLuekipHM%252Cj9euNOc88EM3nM%252C_%253B0pyWwASSagkrxM%252CfakhMDwnGZZ4KM%252C_%253B4dExN6tPm9ThfM%252CTmd7B5fni2Yo4M%252C_%253BBa_swCP8G47QHM%252C9B7OeNTky28k7M%252C_%253By7kSLdzpwmnGFM%252CO2xEEmeM0tPLIM%252C_&usg=AI4_-kQyEYHm3bQZ1vNCTlstjnqyF16AVA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ_h16BAh1EAE#imgrc=y7kSLdzpwmnGFM",
+            "source": "https://www.nbcnews.com/think/opinion/fargo-chris-rock-isn-t-most-exciting-season-it-may-ncna1241184",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh0tWmSnQmtxPLPjNDWWh-Hau4cSWaUk0yHcDnljrn9g&s",
+            "original": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_39/3415197/200925-fargo-season-4-fx-hulu-ac-1026p.jpg",
+            "title": "Fargo' with Chris Rock isn't the most exciting season. But ...",
+            "source_name": "NBC News"
         }
     ],
-    "inline_videos": [
+    "top_stories": [
         {
-            "position": 1,
-            "title": "Batman Begins (2005) Official Trailer #1 - Christopher Nolan ...",
-            "link": "https://www.youtube.com/watch?v=neY2xVmOfUM",
-            "thumbnail": "https://i.ytimg.com/vi/neY2xVmOfUM/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3nKUkF8-f2ah_BI32rL6BXGEvpQgw",
-            "channel": "Rotten Tomatoes Classic Trailers",
-            "platform": "YouTube",
-            "date": "Dec 11, 2013"
+            "title": "Attorney general rules Fargo unreasonably delayed release of public records; city disagrees",
+            "link": "https://www.inforum.com/news/fargo/attorney-general-rules-fargo-unreasonably-delayed-release-of-public-records-city-disagrees",
+            "source": "InForum",
+            "date": "1 day ago",
+            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/b793b158adc4a1725b683bd2de7d0c759aa75b129f9f5bef.jpeg"
         },
         {
-            "position": 2,
-            "title": "Batman Begins | 4K Trailer | Warner Bros. Entertainment",
-            "link": "https://www.youtube.com/watch?v=FiL1_5DWV7Y",
-            "thumbnail": "https://i.ytimg.com/vi/FiL1_5DWV7Y/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3mMAvUrypOj_bE6640VPUoCAC0jfg",
-            "channel": "Warner Bros. Entertainment",
-            "platform": "YouTube",
-            "date": "Sep 23, 2021"
+            "title": "VNL Investigates: Situation of dogs found inside of vehicle in south Fargo is legal",
+            "link": "https://www.valleynewslive.com/2023/09/29/vnl-investigates-situation-dogs-found-inside-vehicle-south-fargo-is-legal/",
+            "source": "Valley News Live",
+            "date": "2 days ago",
+            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/b793b158adc4a1724e52fc2bd3ddbc38a395f2d9893a49ac.jpeg"
         },
         {
-            "position": 3,
-            "title": "Batman Begins - Trailer",
-            "link": "https://www.youtube.com/watch?v=qHhHIbNuok8",
-            "thumbnail": "https://i.ytimg.com/vi/qHhHIbNuok8/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3lKln_kcDM4IL9HqznFOxyU8BMSqw",
-            "channel": "Warner Movies On Demand",
-            "platform": "YouTube",
-            "date": "Sep 15, 2011"
+            "title": "RedHawks claim championship at WBSC Baseball Champions tournament",
+            "link": "https://www.inforum.com/sports/pro/redhawks-claim-championship-at-wbsc-baseball-champions-tournament",
+            "source": "InForum",
+            "date": "4 hours ago",
+            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/b793b158adc4a172c003b9da76b79604496af5dcfb399ed2.jpeg"
+        },
+        {
+            "title": "Hell Yes, Season 5 Of 'Fargo' Looks So Good",
+            "link": "https://uproxx.com/tv/fargo-season-five-jon-hamm-juno-temple/",
+            "source": "Uproxx",
+            "date": "2 days ago",
+            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/b793b158adc4a17231d5bf637204d488c828f723dcea93c4.jpeg"
         }
     ],
+    "top_stories_link": "https://www.google.com/search?sca_esv=569950492&q=Fargo&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQt8YBKAF6BAhUEAY",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo&tbm=nws",
     "related_questions": [
         {
-            "question": "Why Katie Holmes was replaced in Batman?",
-            "snippet": "Katie Holmes had nothing against Rachel Dawes or Nolan's Batman trilogy; she simply had the desire to explore other roles at the time. In fact, instead of returning as Rachel Dawes for The Dark Knight, she appeared as Jackie Truman in Mad Money.",
-            "title": "The Reason Behind Why Katie Holmes Left The Dark Knight Trilogy",
-            "date": "Jun 8, 2023",
-            "link": "https://collider.com/katie-holmes-left-dark-knight-trilogy/#:~:text=Katie%20Holmes%20had%20nothing%20against,Jackie%20Truman%20in%20Mad%20Money.",
-            "displayed_link": "https://collider.com \u203a katie-holmes-left-dark-knight-trilogy",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeIJiYZ4XrLI7iEVGLm9235s4urJ1QAc6AqmXmfm-KBcwA0GMz5aY2G0C3ZA&s",
-            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWWJVeHFNMEk0WW5wemExaDBTVFZpYlZnd1gzRTJSV1pMTlZOUVJ6RmpiSGR3TlhsRFlqRlJXRXB6YUVsNlIyMXRRVlJRTTFVMlZrcFpURFF3Y0dsNldqSTBWa05SRWhkTmVHOVdXbUpmUTBWeU0zTnJkbEZRTFhZdE9ITkJTUm9pUVVwM2F5MDRabXhWY1RKWlRUSk5aMTlMYlVGNlFtTm5VMjVhZVdkdmFrazNkdyIsImZjdiI6IjMiLCJlaSI6Ik14b1ZaYl9DRXIzc2t2UVAtdi04c0FJIiwicWMiOiJDZzFpWVhSdFlXNGdZbVZuYVc1ekVBQjk1U3NmUHciLCJxdWVzdGlvbiI6IldoeSBLYXRpZSBIb2xtZXMgd2FzIHJlcGxhY2VkIGluIEJhdG1hbj8iLCJsayI6IkdpZDNhSGtnYTJGMGFXVWdhRzlzYldWeklIZGhjeUJ5WlhCc1lXTmxaQ0JwYmlCaVlYUnRZVzQiLCJicyI6ImMtUFM1ZElJejZoVThFNHN5VXhWOE1qUHlVMHRWaWhQTEZZb1NpM0lTVXhPVFZISXpGTndTaXpKVGN5emw3aHJ3R1hJcGVOWkRCVlFjRXBOejh3clZnQ3FUc19QVHdIUklSbXBDaTZKUmRrSzNubVo2UmtsOWhJbnE3aE11UXlDTV9KTGMxSVVQSUVtbHlSbm9HbFBTazNMTDBMVDlpY1BaSk5IZnJsQ1BsQWZ5RDNPbVRrNW1VQk52cVZGQlVEM3dsMEZOY1ZlNHJxRUFDTUEiLCJpZCI6ImZjXzQifQ==",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWWJVeHFNMEk0WW5wemExaDBTVFZpYlZnd1gzRTJSV1pMTlZOUVJ6RmpiSGR3TlhsRFlqRlJXRXB6YUVsNlIyMXRRVlJRTTFVMlZrcFpURFF3Y0dsNldqSTBWa05SRWhkTmVHOVdXbUpmUTBWeU0zTnJkbEZRTFhZdE9ITkJTUm9pUVVwM2F5MDRabXhWY1RKWlRUSk5aMTlMYlVGNlFtTm5VMjVhZVdkdmFrazNkdyIsImZjdiI6IjMiLCJlaSI6Ik14b1ZaYl9DRXIzc2t2UVAtdi04c0FJIiwicWMiOiJDZzFpWVhSdFlXNGdZbVZuYVc1ekVBQjk1U3NmUHciLCJxdWVzdGlvbiI6IldoeSBLYXRpZSBIb2xtZXMgd2FzIHJlcGxhY2VkIGluIEJhdG1hbj8iLCJsayI6IkdpZDNhSGtnYTJGMGFXVWdhRzlzYldWeklIZGhjeUJ5WlhCc1lXTmxaQ0JwYmlCaVlYUnRZVzQiLCJicyI6ImMtUFM1ZElJejZoVThFNHN5VXhWOE1qUHlVMHRWaWhQTEZZb1NpM0lTVXhPVFZISXpGTndTaXpKVGN5emw3aHJ3R1hJcGVOWkRCVlFjRXBOejh3clZnQ3FUc19QVHdIUklSbXBDaTZKUmRrSzNubVo2UmtsOWhJbnE3aE11UXlDTV9KTGMxSVVQSUVtbHlSbm9HbFBTazNMTDBMVDlpY1BaSk5IZnJsQ1BsQWZ5RDNPbVRrNW1VQk52cVZGQlVEM3dsMEZOY1ZlNHJxRUFDTUEiLCJpZCI6ImZjXzQifQ%3D%3D"
+            "question": "What true story is Fargo based on?",
+            "snippet": "It was indeed the murder of Helle Crafts that was cited as the crime behind the making of Fargo. After she was wedded to her husband, the couple relocated to Newtown, Connecticut, and settled into their family life.",
+            "title": "Fargo: Is The Coen Brothers' Movie Based on a True Story? - MovieWeb",
+            "date": "Mar 23, 2022",
+            "link": "https://movieweb.com/fargo-true-story-explained/#:~:text=It%20was%20indeed%20the%20murder,settled%20into%20their%20family%20life.",
+            "displayed_link": "https://movieweb.com \u203a fargo-true-story-explained",
+            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/aaae65c852a9e612a4d40c8a0e65d431c8b36d8842c9ed0376c53a00b7226811.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVRGZFNWMDVYYXpSVWNXWlRSSGswTFhwT1EySjVUa2RqVkZwNGVYTjBibko0VjJSU1ZqTkNZVVZzU0VodFFVNXpaRVIyUWw5RlkxVk9PVXczZVdkcE5qUm5la05zRWhkNWJtZGhXbVkzVDBwTGNsRnJVRWxRYzNZMmJXdEJheG9pUVVwM2F5MDRaalU1VDFnek9XcG9XbHBLTUVSVlkxZFRUSFZUWVVaVmVYWlRkdyIsImZjdiI6IjMiLCJlaSI6InluZ2FaZjdPSktyUWtQSVBzdjZta0FrIiwicWMiOiJDZ1ZtWVhKbmJ4QUFmZVVySHo4IiwicXVlc3Rpb24iOiJXaGF0IHRydWUgc3RvcnkgaXMgRmFyZ28gYmFzZWQgb24/IiwibGsiOiJHaUYzYUdGMElIUnlkV1VnYzNSdmNua2dhWE1nWm1GeVoyOGdZbUZ6WldRZ2IyNCIsImJzIjoiY3oyT01RckNRQkJGc1ozS1JnaFdnMDBLTFN4dEpJVmlwLTNhVHRiQlhiTHNocDBKNGczMFNOWmV6Q1NLN2VmOXg0TVNGc2FSb3VhT1VUVGxPM3JCQS1WcndwcUVMNWhpVmJ6T3NJYmxBSmFDa2xCYXRwNENVcDA2X2RHbmxOWGhucHFrVkJVUEExdllHRGZxdktLbEVIclpGNzA1anNPbzFMQmdHOGd5LW9oSEh5UExlSC11WUE0ejQ3eDFmUlVwXzZ1cTRyMmJUajQiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVRGZFNWMDVYYXpSVWNXWlRSSGswTFhwT1EySjVUa2RqVkZwNGVYTjBibko0VjJSU1ZqTkNZVVZzU0VodFFVNXpaRVIyUWw5RlkxVk9PVXczZVdkcE5qUm5la05zRWhkNWJtZGhXbVkzVDBwTGNsRnJVRWxRYzNZMmJXdEJheG9pUVVwM2F5MDRaalU1VDFnek9XcG9XbHBLTUVSVlkxZFRUSFZUWVVaVmVYWlRkdyIsImZjdiI6IjMiLCJlaSI6InluZ2FaZjdPSktyUWtQSVBzdjZta0FrIiwicWMiOiJDZ1ZtWVhKbmJ4QUFmZVVySHo4IiwicXVlc3Rpb24iOiJXaGF0IHRydWUgc3RvcnkgaXMgRmFyZ28gYmFzZWQgb24%2FIiwibGsiOiJHaUYzYUdGMElIUnlkV1VnYzNSdmNua2dhWE1nWm1GeVoyOGdZbUZ6WldRZ2IyNCIsImJzIjoiY3oyT01RckNRQkJGc1ozS1JnaFdnMDBLTFN4dEpJVmlwLTNhVHRiQlhiTHNocDBKNGczMFNOWmV6Q1NLN2VmOXg0TVNGc2FSb3VhT1VUVGxPM3JCQS1WcndwcUVMNWhpVmJ6T3NJYmxBSmFDa2xCYXRwNENVcDA2X2RHbmxOWGhucHFrVkJVUEExdllHRGZxdktLbEVIclpGNzA1anNPbzFMQmdHOGd5LW9oSEh5UExlSC11WUE0ejQ3eDFmUlVwXzZ1cTRyMmJUajQiLCJpZCI6ImZjXzEifQ%3D%3D"
         },
         {
-            "question": "Is Batman Begins as good as The Dark Knight?",
-            "snippet": "There is no denying that The Dark Knight is nothing short of a masterpiece, and will forever be known as such. Batman Begins may not be the better movie as a whole from a cinematic standpoint, but it may be the better Batman movie. Everything that makes the character who he is gets shown here and built upon.",
-            "title": "Is Batman Begins Actually Better Than The Dark Knight? - MovieWeb",
-            "date": "Aug 13, 2022",
-            "link": "https://movieweb.com/is-batman-begins-better-movie-than-the-dark-knight/#:~:text=There%20is%20no%20denying%20that,shown%20here%20and%20built%20upon.",
-            "displayed_link": "https://movieweb.com \u203a is-batman-begins-better-movie-t...",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx8QNmbszSvbrFXSPCsgXJ2uVzDbVUiioBUuq9XRgVo6G7xi6i6UtEqkrUjA&s",
-            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWWJVeHFNMEk0WW5wemExaDBTVFZpYlZnd1gzRTJSV1pMTlZOUVJ6RmpiSGR3TlhsRFlqRlJXRXB6YUVsNlIyMXRRVlJRTTFVMlZrcFpURFF3Y0dsNldqSTBWa05SRWhkTmVHOVdXbUpmUTBWeU0zTnJkbEZRTFhZdE9ITkJTUm9pUVVwM2F5MDRabXhWY1RKWlRUSk5aMTlMYlVGNlFtTm5VMjVhZVdkdmFrazNkdyIsImZjdiI6IjMiLCJlaSI6Ik14b1ZaYl9DRXIzc2t2UVAtdi04c0FJIiwicWMiOiJDZzFpWVhSdFlXNGdZbVZuYVc1ekVBQjk1U3NmUHciLCJxdWVzdGlvbiI6IklzIEJhdG1hbiBCZWdpbnMgYXMgZ29vZCBhcyBUaGUgRGFyayBLbmlnaHQ/IiwibGsiOiJjNVBTeml4V1NFb3N5VTNNVTBoS1RjX01LMVpJTEZaSXo4OVBBZEVsR2FrS0tZbEYyUXJaZVpucEdTVUEiLCJicyI6ImMtUFM1ZElJejZoVThFNHN5VXhWOE1qUHlVMHRWaWhQTEZZb1NpM0lTVXhPVFZISXpGTndTaXpKVGN5emw3aHJ3R1hJcGVOWkRCVlFjRXBOejh3clZnQ3FUc19QVHdIUklSbXBDaTZKUmRrSzNubVo2UmtsOWhJbnE3aE11UXlDTV9KTGMxSVVQSUVtbHlSbm9HbFBTazNMTDBMVDlpY1BaSk5IZnJsQ1BsQWZ5RDNPbVRrNW1VQk52cVZGQlVEM3dsMEZOY1ZlNHJxRUFDTUEiLCJpZCI6ImZjXzQifQ==",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWWJVeHFNMEk0WW5wemExaDBTVFZpYlZnd1gzRTJSV1pMTlZOUVJ6RmpiSGR3TlhsRFlqRlJXRXB6YUVsNlIyMXRRVlJRTTFVMlZrcFpURFF3Y0dsNldqSTBWa05SRWhkTmVHOVdXbUpmUTBWeU0zTnJkbEZRTFhZdE9ITkJTUm9pUVVwM2F5MDRabXhWY1RKWlRUSk5aMTlMYlVGNlFtTm5VMjVhZVdkdmFrazNkdyIsImZjdiI6IjMiLCJlaSI6Ik14b1ZaYl9DRXIzc2t2UVAtdi04c0FJIiwicWMiOiJDZzFpWVhSdFlXNGdZbVZuYVc1ekVBQjk1U3NmUHciLCJxdWVzdGlvbiI6IklzIEJhdG1hbiBCZWdpbnMgYXMgZ29vZCBhcyBUaGUgRGFyayBLbmlnaHQ%2FIiwibGsiOiJjNVBTeml4V1NFb3N5VTNNVTBoS1RjX01LMVpJTEZaSXo4OVBBZEVsR2FrS0tZbEYyUXJaZVpucEdTVUEiLCJicyI6ImMtUFM1ZElJejZoVThFNHN5VXhWOE1qUHlVMHRWaWhQTEZZb1NpM0lTVXhPVFZISXpGTndTaXpKVGN5emw3aHJ3R1hJcGVOWkRCVlFjRXBOejh3clZnQ3FUc19QVHdIUklSbXBDaTZKUmRrSzNubVo2UmtsOWhJbnE3aE11UXlDTV9KTGMxSVVQSUVtbHlSbm9HbFBTazNMTDBMVDlpY1BaSk5IZnJsQ1BsQWZ5RDNPbVRrNW1VQk52cVZGQlVEM3dsMEZOY1ZlNHJxRUFDTUEiLCJpZCI6ImZjXzQifQ%3D%3D"
+            "question": "What's so special about Fargo North Dakota?",
+            "snippet": "The Fargo of today is a vibrant downtown of unique lodging, eating establishments and entertainment venues. It's the largest city in North Dakota and the home of Football Championship Subdivision national powerhouse North Dakota State University.",
+            "title": "Experience Fargo-West Fargo - North Dakota Tourism",
+            "link": "https://www.ndtourism.com/articles/experience-fargo-west-fargo#:~:text=The%20Fargo%20of%20today%20is,powerhouse%20North%20Dakota%20State%20University.",
+            "displayed_link": "https://www.ndtourism.com \u203a articles \u203a experience-fargo...",
+            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/aaae65c852a9e612a4d40c8a0e65d4317eb6848f9a3931c6bad36b97963ece6c.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVRGZFNWMDVYYXpSVWNXWlRSSGswTFhwT1EySjVUa2RqVkZwNGVYTjBibko0VjJSU1ZqTkNZVVZzU0VodFFVNXpaRVIyUWw5RlkxVk9PVXczZVdkcE5qUm5la05zRWhkNWJtZGhXbVkzVDBwTGNsRnJVRWxRYzNZMmJXdEJheG9pUVVwM2F5MDRaalU1VDFnek9XcG9XbHBLTUVSVlkxZFRUSFZUWVVaVmVYWlRkdyIsImZjdiI6IjMiLCJlaSI6InluZ2FaZjdPSktyUWtQSVBzdjZta0FrIiwicWMiOiJDZ1ZtWVhKbmJ4QUFmZVVySHo4IiwicXVlc3Rpb24iOiJXaGF0J3Mgc28gc3BlY2lhbCBhYm91dCBGYXJnbyBOb3J0aCBEYWtvdGE/IiwibGsiOiJHaXAzYUdGMEozTWdjMjhnYzNCbFkybGhiQ0JoWW05MWRDQm1ZWEpuYnlCdWIzSjBhQ0JrWVd0dmRHRSIsImJzIjoiY3oyT01RckNRQkJGc1ozS1JnaFdnMDBLTFN4dEpJVmlwLTNhVHRiQlhiTHNocDBKNGczMFNOWmV6Q1NLN2VmOXg0TVNGc2FSb3VhT1VUVGxPM3JCQS1WcndwcUVMNWhpVmJ6T3NJYmxBSmFDa2xCYXRwNENVcDA2X2RHbmxOWGhucHFrVkJVUEExdllHRGZxdktLbEVIclpGNzA1anNPbzFMQmdHOGd5LW9oSEh5UExlSC11WUE0ejQ3eDFmUlVwXzZ1cTRyMmJUajQiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVRGZFNWMDVYYXpSVWNXWlRSSGswTFhwT1EySjVUa2RqVkZwNGVYTjBibko0VjJSU1ZqTkNZVVZzU0VodFFVNXpaRVIyUWw5RlkxVk9PVXczZVdkcE5qUm5la05zRWhkNWJtZGhXbVkzVDBwTGNsRnJVRWxRYzNZMmJXdEJheG9pUVVwM2F5MDRaalU1VDFnek9XcG9XbHBLTUVSVlkxZFRUSFZUWVVaVmVYWlRkdyIsImZjdiI6IjMiLCJlaSI6InluZ2FaZjdPSktyUWtQSVBzdjZta0FrIiwicWMiOiJDZ1ZtWVhKbmJ4QUFmZVVySHo4IiwicXVlc3Rpb24iOiJXaGF0J3Mgc28gc3BlY2lhbCBhYm91dCBGYXJnbyBOb3J0aCBEYWtvdGE%2FIiwibGsiOiJHaXAzYUdGMEozTWdjMjhnYzNCbFkybGhiQ0JoWW05MWRDQm1ZWEpuYnlCdWIzSjBhQ0JrWVd0dmRHRSIsImJzIjoiY3oyT01RckNRQkJGc1ozS1JnaFdnMDBLTFN4dEpJVmlwLTNhVHRiQlhiTHNocDBKNGczMFNOWmV6Q1NLN2VmOXg0TVNGc2FSb3VhT1VUVGxPM3JCQS1WcndwcUVMNWhpVmJ6T3NJYmxBSmFDa2xCYXRwNENVcDA2X2RHbmxOWGhucHFrVkJVUEExdllHRGZxdktLbEVIclpGNzA1anNPbzFMQmdHOGd5LW9oSEh5UExlSC11WUE0ejQ3eDFmUlVwXzZ1cTRyMmJUajQiLCJpZCI6ImZjXzEifQ%3D%3D"
         },
         {
-            "question": "Should I watch Batman Begins before Dark Knight?",
-            "snippet": "Yes, you can watch \"The Dark Knight\" without having watched its prequel, \"Batman Begins.\" While \"The Dark Knight\" is the second film in Christopher Nolan's Batman trilogy, it can be enjoyed as a standalone movie because it has its own storyline and plot.",
-            "title": "Can I watch 'The Dark Knight' without watching its prequel? - Quora",
-            "link": "https://www.quora.com/Can-I-watch-The-Dark-Knight-without-watching-its-prequel#:~:text=Yes%2C%20you%20can%20watch%20%22The%20Dark%20Knight%22%20without%20having,its%20own%20storyline%20and%20plot.",
-            "displayed_link": "https://www.quora.com \u203a Can-I-watch-The-Dark-Knight-...",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRHmjLbVVAwpcLBN5uF_pss4phpTVeRVyRPyH1n1L61FVGvFqC7BJ1MogCJw&s",
-            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWWJVeHFNMEk0WW5wemExaDBTVFZpYlZnd1gzRTJSV1pMTlZOUVJ6RmpiSGR3TlhsRFlqRlJXRXB6YUVsNlIyMXRRVlJRTTFVMlZrcFpURFF3Y0dsNldqSTBWa05SRWhkTmVHOVdXbUpmUTBWeU0zTnJkbEZRTFhZdE9ITkJTUm9pUVVwM2F5MDRabXhWY1RKWlRUSk5aMTlMYlVGNlFtTm5VMjVhZVdkdmFrazNkdyIsImZjdiI6IjMiLCJlaSI6Ik14b1ZaYl9DRXIzc2t2UVAtdi04c0FJIiwicWMiOiJDZzFpWVhSdFlXNGdZbVZuYVc1ekVBQjk1U3NmUHciLCJxdWVzdGlvbiI6IlNob3VsZCBJIHdhdGNoIEJhdG1hbiBCZWdpbnMgYmVmb3JlIERhcmsgS25pZ2h0PyIsImxrIjoiR2k5emFHOTFiR1FnYVNCM1lYUmphQ0JpWVhSdFlXNGdZbVZuYVc1eklHSmxabTl5WlNCa1lYSnJJR3R1YVdkb2RBIiwiYnMiOiJjLVBTNWRJSXo2aFU4RTRzeVV4VjhNalB5VTB0VmloUExGWW9TaTNJU1V4T1RWSEl6Rk53U2l6SlRjeXpsN2hyd0dYSXBlTlpEQlZRY0VwTno4d3JWZ0NxVHNfUFR3SFJJUm1wQ2k2SlJka0szbm1aNlJrbDloSW5xN2hNdVF5Q01fSkxjMUlVUElFbWx5Um5vR2xQU2szTEwwTFQ5aWNQWkpOSGZybENQbEFmeUQzT21UazVtVUJOdnFWRkJVRDN3bDBGTmNWZTRycUVBQ01BIiwiaWQiOiJmY180In0=",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWWJVeHFNMEk0WW5wemExaDBTVFZpYlZnd1gzRTJSV1pMTlZOUVJ6RmpiSGR3TlhsRFlqRlJXRXB6YUVsNlIyMXRRVlJRTTFVMlZrcFpURFF3Y0dsNldqSTBWa05SRWhkTmVHOVdXbUpmUTBWeU0zTnJkbEZRTFhZdE9ITkJTUm9pUVVwM2F5MDRabXhWY1RKWlRUSk5aMTlMYlVGNlFtTm5VMjVhZVdkdmFrazNkdyIsImZjdiI6IjMiLCJlaSI6Ik14b1ZaYl9DRXIzc2t2UVAtdi04c0FJIiwicWMiOiJDZzFpWVhSdFlXNGdZbVZuYVc1ekVBQjk1U3NmUHciLCJxdWVzdGlvbiI6IlNob3VsZCBJIHdhdGNoIEJhdG1hbiBCZWdpbnMgYmVmb3JlIERhcmsgS25pZ2h0PyIsImxrIjoiR2k5emFHOTFiR1FnYVNCM1lYUmphQ0JpWVhSdFlXNGdZbVZuYVc1eklHSmxabTl5WlNCa1lYSnJJR3R1YVdkb2RBIiwiYnMiOiJjLVBTNWRJSXo2aFU4RTRzeVV4VjhNalB5VTB0VmloUExGWW9TaTNJU1V4T1RWSEl6Rk53U2l6SlRjeXpsN2hyd0dYSXBlTlpEQlZRY0VwTno4d3JWZ0NxVHNfUFR3SFJJUm1wQ2k2SlJka0szbm1aNlJrbDloSW5xN2hNdVF5Q01fSkxjMUlVUElFbWx5Um5vR2xQU2szTEwwTFQ5aWNQWkpOSGZybENQbEFmeUQzT21UazVtVUJOdnFWRkJVRDN3bDBGTmNWZTRycUVBQ01BIiwiaWQiOiJmY180In0%3D"
+            "question": "Why is it called Fargo when it takes place in Minnesota?",
+            "snippet": "Why did you call the film Fargo when the important action of the film is set in Brainerd, which is in Minnesota, and not Fargo? JC: Fargo seemed a more evocative title than 'Brainerd'\u2014that's the only reason. EC: It was just that we liked the sound of the word\u2014there's no hidden meaning.",
+            "title": "'Fargo': The Unforgettable Dark Comedy that Set the Coen Brothers ...",
+            "link": "https://cinephiliabeyond.org/fargo-unforgettable-dark-comedy-set-coen-brothers-recognizable-voice-american-cinema/#:~:text=Why%20did%20you%20call%20the,word%E2%80%94there's%20no%20hidden%20meaning.",
+            "displayed_link": "https://cinephiliabeyond.org \u203a fargo-unforgettable-dark-...",
+            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/aaae65c852a9e612a4d40c8a0e65d43196df43cc019640a168d05330ca9ec954.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVRGZFNWMDVYYXpSVWNXWlRSSGswTFhwT1EySjVUa2RqVkZwNGVYTjBibko0VjJSU1ZqTkNZVVZzU0VodFFVNXpaRVIyUWw5RlkxVk9PVXczZVdkcE5qUm5la05zRWhkNWJtZGhXbVkzVDBwTGNsRnJVRWxRYzNZMmJXdEJheG9pUVVwM2F5MDRaalU1VDFnek9XcG9XbHBLTUVSVlkxZFRUSFZUWVVaVmVYWlRkdyIsImZjdiI6IjMiLCJlaSI6InluZ2FaZjdPSktyUWtQSVBzdjZta0FrIiwicWMiOiJDZ1ZtWVhKbmJ4QUFmZVVySHo4IiwicXVlc3Rpb24iOiJXaHkgaXMgaXQgY2FsbGVkIEZhcmdvIHdoZW4gaXQgdGFrZXMgcGxhY2UgaW4gTWlubmVzb3RhPyIsImxrIjoiR2pkM2FIa2dhWE1nYVhRZ1kyRnNiR1ZrSUdaaGNtZHZJSGRvWlc0Z2FYUWdkR0ZyWlhNZ2NHeGhZMlVnYVc0Z2JXbHVibVZ6YjNSaCIsImJzIjoiY3oyT01RckNRQkJGc1ozS1JnaFdnMDBLTFN4dEpJVmlwLTNhVHRiQlhiTHNocDBKNGczMFNOWmV6Q1NLN2VmOXg0TVNGc2FSb3VhT1VUVGxPM3JCQS1WcndwcUVMNWhpVmJ6T3NJYmxBSmFDa2xCYXRwNENVcDA2X2RHbmxOWGhucHFrVkJVUEExdllHRGZxdktLbEVIclpGNzA1anNPbzFMQmdHOGd5LW9oSEh5UExlSC11WUE0ejQ3eDFmUlVwXzZ1cTRyMmJUajQiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVRGZFNWMDVYYXpSVWNXWlRSSGswTFhwT1EySjVUa2RqVkZwNGVYTjBibko0VjJSU1ZqTkNZVVZzU0VodFFVNXpaRVIyUWw5RlkxVk9PVXczZVdkcE5qUm5la05zRWhkNWJtZGhXbVkzVDBwTGNsRnJVRWxRYzNZMmJXdEJheG9pUVVwM2F5MDRaalU1VDFnek9XcG9XbHBLTUVSVlkxZFRUSFZUWVVaVmVYWlRkdyIsImZjdiI6IjMiLCJlaSI6InluZ2FaZjdPSktyUWtQSVBzdjZta0FrIiwicWMiOiJDZ1ZtWVhKbmJ4QUFmZVVySHo4IiwicXVlc3Rpb24iOiJXaHkgaXMgaXQgY2FsbGVkIEZhcmdvIHdoZW4gaXQgdGFrZXMgcGxhY2UgaW4gTWlubmVzb3RhPyIsImxrIjoiR2pkM2FIa2dhWE1nYVhRZ1kyRnNiR1ZrSUdaaGNtZHZJSGRvWlc0Z2FYUWdkR0ZyWlhNZ2NHeGhZMlVnYVc0Z2JXbHVibVZ6YjNSaCIsImJzIjoiY3oyT01RckNRQkJGc1ozS1JnaFdnMDBLTFN4dEpJVmlwLTNhVHRiQlhiTHNocDBKNGczMFNOWmV6Q1NLN2VmOXg0TVNGc2FSb3VhT1VUVGxPM3JCQS1WcndwcUVMNWhpVmJ6T3NJYmxBSmFDa2xCYXRwNENVcDA2X2RHbmxOWGhucHFrVkJVUEExdllHRGZxdktLbEVIclpGNzA1anNPbzFMQmdHOGd5LW9oSEh5UExlSC11WUE0ejQ3eDFmUlVwXzZ1cTRyMmJUajQiLCJpZCI6ImZjXzEifQ%3D%3D"
         },
         {
-            "question": "How old was Cillian Murphy in Batman Begins?",
-            "snippet": "Cillian Murphy was approximately 28 years old when he played Scarecrow in Batman Begins. The film was released in 2005, which means the actor would have filmed it when he was around 26 or 27.",
-            "title": "How Old Was Cillian Murphy in Batman Begins - Why the Book Wins -",
-            "link": "https://whythebookwins.com/knowledge/how-old-was-cillian-murphy-in-batman-begins/#:~:text=Cillian%20Murphy%20was%20approximately%2028,was%20around%2026%20or%2027.",
-            "displayed_link": "https://whythebookwins.com \u203a knowledge \u203a how-old-wa...",
-            "thumbnail": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/500835593a5682b5d0fbe8cd42bd19803ccf49103b43011efb952231891e198c.png",
-            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWWJVeHFNMEk0WW5wemExaDBTVFZpYlZnd1gzRTJSV1pMTlZOUVJ6RmpiSGR3TlhsRFlqRlJXRXB6YUVsNlIyMXRRVlJRTTFVMlZrcFpURFF3Y0dsNldqSTBWa05SRWhkTmVHOVdXbUpmUTBWeU0zTnJkbEZRTFhZdE9ITkJTUm9pUVVwM2F5MDRabXhWY1RKWlRUSk5aMTlMYlVGNlFtTm5VMjVhZVdkdmFrazNkdyIsImZjdiI6IjMiLCJlaSI6Ik14b1ZaYl9DRXIzc2t2UVAtdi04c0FJIiwicWMiOiJDZzFpWVhSdFlXNGdZbVZuYVc1ekVBQjk1U3NmUHciLCJxdWVzdGlvbiI6IkhvdyBvbGQgd2FzIENpbGxpYW4gTXVycGh5IGluIEJhdG1hbiBCZWdpbnM/IiwibGsiOiJHaXRvYjNjZ2IyeGtJSGRoY3lCamFXeHNhV0Z1SUcxMWNuQm9lU0JwYmlCaVlYUnRZVzRnWW1WbmFXNXoiLCJicyI6ImMtUFM1ZElJejZoVThFNHN5VXhWOE1qUHlVMHRWaWhQTEZZb1NpM0lTVXhPVFZISXpGTndTaXpKVGN5emw3aHJ3R1hJcGVOWkRCVlFjRXBOejh3clZnQ3FUc19QVHdIUklSbXBDaTZKUmRrSzNubVo2UmtsOWhJbnE3aE11UXlDTV9KTGMxSVVQSUVtbHlSbm9HbFBTazNMTDBMVDlpY1BaSk5IZnJsQ1BsQWZ5RDNPbVRrNW1VQk52cVZGQlVEM3dsMEZOY1ZlNHJxRUFDTUEiLCJpZCI6ImZjXzQifQ==",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWWJVeHFNMEk0WW5wemExaDBTVFZpYlZnd1gzRTJSV1pMTlZOUVJ6RmpiSGR3TlhsRFlqRlJXRXB6YUVsNlIyMXRRVlJRTTFVMlZrcFpURFF3Y0dsNldqSTBWa05SRWhkTmVHOVdXbUpmUTBWeU0zTnJkbEZRTFhZdE9ITkJTUm9pUVVwM2F5MDRabXhWY1RKWlRUSk5aMTlMYlVGNlFtTm5VMjVhZVdkdmFrazNkdyIsImZjdiI6IjMiLCJlaSI6Ik14b1ZaYl9DRXIzc2t2UVAtdi04c0FJIiwicWMiOiJDZzFpWVhSdFlXNGdZbVZuYVc1ekVBQjk1U3NmUHciLCJxdWVzdGlvbiI6IkhvdyBvbGQgd2FzIENpbGxpYW4gTXVycGh5IGluIEJhdG1hbiBCZWdpbnM%2FIiwibGsiOiJHaXRvYjNjZ2IyeGtJSGRoY3lCamFXeHNhV0Z1SUcxMWNuQm9lU0JwYmlCaVlYUnRZVzRnWW1WbmFXNXoiLCJicyI6ImMtUFM1ZElJejZoVThFNHN5VXhWOE1qUHlVMHRWaWhQTEZZb1NpM0lTVXhPVFZISXpGTndTaXpKVGN5emw3aHJ3R1hJcGVOWkRCVlFjRXBOejh3clZnQ3FUc19QVHdIUklSbXBDaTZKUmRrSzNubVo2UmtsOWhJbnE3aE11UXlDTV9KTGMxSVVQSUVtbHlSbm9HbFBTazNMTDBMVDlpY1BaSk5IZnJsQ1BsQWZ5RDNPbVRrNW1VQk52cVZGQlVEM3dsMEZOY1ZlNHJxRUFDTUEiLCJpZCI6ImZjXzQifQ%3D%3D"
+            "question": "Which state is Fargo?",
+            "snippet": "The City of Fargo is located in Cass County, North Dakota, along the Red River of the North which forms the border between Minnesota and North Dakota. An estimated 124,844 (as of July 2018) people live in Fargo.",
+            "title": "North Dakota",
+            "info": "Fargo / State",
+            "link": "https://fargond.gov/explore/about-fargo#:~:text=The%20City%20of%20Fargo%20is,2018)%20people%20live%20in%20Fargo.",
+            "displayed_link": "https://fargond.gov \u203a explore \u203a about-fargo",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcSdVYzOO5EQewtj81J_ecgq3UqOF7Z5Q9SzRwwGvtkGsbjBZozg&s=0",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVRGZFNWMDVYYXpSVWNXWlRSSGswTFhwT1EySjVUa2RqVkZwNGVYTjBibko0VjJSU1ZqTkNZVVZzU0VodFFVNXpaRVIyUWw5RlkxVk9PVXczZVdkcE5qUm5la05zRWhkNWJtZGhXbVkzVDBwTGNsRnJVRWxRYzNZMmJXdEJheG9pUVVwM2F5MDRaalU1VDFnek9XcG9XbHBLTUVSVlkxZFRUSFZUWVVaVmVYWlRkdyIsImZjdiI6IjMiLCJlaSI6InluZ2FaZjdPSktyUWtQSVBzdjZta0FrIiwicWMiOiJDZ1ZtWVhKbmJ4QUFmZVVySHo4IiwicXVlc3Rpb24iOiJXaGljaCBzdGF0ZSBpcyBGYXJnbz8iLCJsayI6IkdoUjNhR2xqYUNCemRHRjBaU0JwY3lCbVlYSm5idyIsImJzIjoiY3oyT01RckNRQkJGc1ozS1JnaFdnMDBLTFN4dEpJVmlwLTNhVHRiQlhiTHNocDBKNGczMFNOWmV6Q1NLN2VmOXg0TVNGc2FSb3VhT1VUVGxPM3JCQS1WcndwcUVMNWhpVmJ6T3NJYmxBSmFDa2xCYXRwNENVcDA2X2RHbmxOWGhucHFrVkJVUEExdllHRGZxdktLbEVIclpGNzA1anNPbzFMQmdHOGd5LW9oSEh5UExlSC11WUE0ejQ3eDFmUlVwXzZ1cTRyMmJUajQiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVRGZFNWMDVYYXpSVWNXWlRSSGswTFhwT1EySjVUa2RqVkZwNGVYTjBibko0VjJSU1ZqTkNZVVZzU0VodFFVNXpaRVIyUWw5RlkxVk9PVXczZVdkcE5qUm5la05zRWhkNWJtZGhXbVkzVDBwTGNsRnJVRWxRYzNZMmJXdEJheG9pUVVwM2F5MDRaalU1VDFnek9XcG9XbHBLTUVSVlkxZFRUSFZUWVVaVmVYWlRkdyIsImZjdiI6IjMiLCJlaSI6InluZ2FaZjdPSktyUWtQSVBzdjZta0FrIiwicWMiOiJDZ1ZtWVhKbmJ4QUFmZVVySHo4IiwicXVlc3Rpb24iOiJXaGljaCBzdGF0ZSBpcyBGYXJnbz8iLCJsayI6IkdoUjNhR2xqYUNCemRHRjBaU0JwY3lCbVlYSm5idyIsImJzIjoiY3oyT01RckNRQkJGc1ozS1JnaFdnMDBLTFN4dEpJVmlwLTNhVHRiQlhiTHNocDBKNGczMFNOWmV6Q1NLN2VmOXg0TVNGc2FSb3VhT1VUVGxPM3JCQS1WcndwcUVMNWhpVmJ6T3NJYmxBSmFDa2xCYXRwNENVcDA2X2RHbmxOWGhucHFrVkJVUEExdllHRGZxdktLbEVIclpGNzA1anNPbzFMQmdHOGd5LW9oSEh5UExlSC11WUE0ejQ3eDFmUlVwXzZ1cTRyMmJUajQiLCJpZCI6ImZjXzEifQ%3D%3D"
         }
     ],
     "organic_results": [
         {
             "position": 1,
-            "title": "Batman Begins",
-            "link": "https://en.wikipedia.org/wiki/Batman_Begins",
-            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Batman_Begins",
-            "favicon": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/396eb25a952b803ead333d36339920a037dff3bacddf282f2a383c267e14f9db.png",
-            "snippet": "Batman Begins is a 2005 superhero film directed by Christopher Nolan and written by Nolan and David S. Goyer. Based on the DC Comics character Batman, ...",
-            "snippet_highlighted_words": [
-                "Batman Begins"
-            ],
-            "sitelinks": {
-                "inline": [
-                    {
-                        "title": "Cast",
-                        "link": "https://en.wikipedia.org/wiki/Batman_Begins#Cast"
-                    },
-                    {
-                        "title": "Production",
-                        "link": "https://en.wikipedia.org/wiki/Batman_Begins#Production"
-                    },
-                    {
-                        "title": "Special effects and design",
-                        "link": "https://en.wikipedia.org/wiki/Batman_Begins#Special_effects_and_design"
-                    },
-                    {
-                        "title": "Release",
-                        "link": "https://en.wikipedia.org/wiki/Batman_Begins#Release"
-                    }
-                ]
-            },
-            "about_this_result": {
-                "keywords": [
-                    "batman",
-                    "begins"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "United States"
-                ]
-            },
-            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Batman_Begins&tbm=ilp",
-            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBatman_Begins",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:slDifN60kHQJ:https://en.wikipedia.org/wiki/Batman_Begins&cd=25&hl=en&ct=clnk&gl=us",
-            "related_pages_link": "https://www.google.com/search?sca_esv=569062438&q=related:https://en.wikipedia.org/wiki/Batman_Begins+Batman+Begins",
-            "source": "Wikipedia"
-        },
-        {
-            "position": 2,
-            "title": "Batman Begins (2005)",
-            "link": "https://www.imdb.com/title/tt0372784/",
+            "title": "Fargo (1996)",
+            "link": "https://www.imdb.com/title/tt0116282/",
             "displayed_link": "https://www.imdb.com \u203a title",
-            "favicon": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/396eb25a952b803ead333d36339920a09448386ca76d4d9edeecc115124cdc00.png",
-            "snippet": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham ... After witnessing his parents' death, Bruce learns the art of fighting to ...",
+            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd326281310dafaec9b83731953cfe82d583b0b44.jpeg",
+            "favicon": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd3262813f433f6a3bd213683c5c73fe4fc0c8c03.png",
+            "snippet": "Fargo: Directed by Joel Coen, Ethan Coen. With William H. Macy, Steve Buscemi, Peter Stormare, Kristin Rudr\u00fcd. Minnesota car salesman Jerry Lundegaard's ...",
             "snippet_highlighted_words": [
-                "Batman begins"
+                "Fargo"
             ],
             "sitelinks": {
                 "inline": [
                     {
-                        "title": "Plot",
-                        "link": "https://www.imdb.com/title/tt0372784/plotsummary/"
+                        "title": "Edie Falco in Fargo (2003)",
+                        "link": "https://www.imdb.com/title/tt0382026/"
                     },
                     {
                         "title": "Full Cast & Crew",
-                        "link": "https://www.imdb.com/title/tt0372784/fullcredits"
+                        "link": "https://www.imdb.com/title/tt0116282/fullcredits"
                     },
                     {
-                        "title": "Cast (151)",
-                        "link": "https://m.imdb.com/title/tt0372784/fullcredits/cast"
+                        "title": "Fargo",
+                        "link": "https://www.imdb.com/video/vi2228618777/"
                     },
                     {
-                        "title": "Batman: The Dark Knight",
-                        "link": "https://www.imdb.com/title/tt2098632/"
+                        "title": "Trivia",
+                        "link": "https://www.imdb.com/title/tt0116282/trivia/"
                     }
                 ]
             },
             "rich_snippet": {
                 "top": {
                     "detected_extensions": {
-                        "rating": 8.2,
-                        "votes": 1535920
+                        "rating": 8.1,
+                        "votes": 703764
                     },
                     "extensions": [
-                        "Rating: 8.2/10",
-                        "\u200e1,535,920 votes"
+                        "Rating: 8.1/10",
+                        "\u200e703,764 votes"
                     ]
                 }
             },
-            "about_this_result": {
-                "keywords": [
-                    "batman",
-                    "begins"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "United States"
-                ]
+            "about_this_result": {},
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:m3R2Qs1O_OUJ:https://www.imdb.com/title/tt0116282/&cd=12&hl=en&ct=clnk&gl=us",
+            "source": "IMDb"
+        },
+        {
+            "position": 2,
+            "title": "Fargo (TV Series 2014\u20132024)",
+            "link": "https://www.imdb.com/title/tt2802850/",
+            "displayed_link": "https://www.imdb.com \u203a title",
+            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd3262813038f66740168ff0fcb7368263eb96969.jpeg",
+            "favicon": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd32628135d49946ce2f42129c51d938ac4fb1593.png",
+            "snippet": "Fargo: Created by Noah Hawley. With Allison Tolman, Billy Bob Thornton, Colin Hanks, Martin Freeman. Various chronicles of deception, intrigue, ...",
+            "snippet_highlighted_words": [
+                "Fargo"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 8.9,
+                        "votes": 389831
+                    },
+                    "extensions": [
+                        "Rating: 8.9/10",
+                        "\u200e389,831 votes"
+                    ]
+                }
             },
-            "about_page_link": "https://www.google.com/search?q=About+https://www.imdb.com/title/tt0372784/&tbm=ilp",
-            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0372784%2F",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1s5Q_dEhfYoJ:https://www.imdb.com/title/tt0372784/&cd=37&hl=en&ct=clnk&gl=us",
+            "about_this_result": {},
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zdyh3KiV8p0J:https://www.imdb.com/title/tt2802850/&cd=13&hl=en&ct=clnk&gl=us",
             "source": "IMDb"
         },
         {
             "position": 3,
-            "title": "Watch Batman Begins",
-            "link": "https://www.netflix.com/title/70021642",
-            "displayed_link": "https://www.netflix.com \u203a title",
-            "favicon": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/396eb25a952b803ead333d36339920a02b8466224c324728e05d3d201cf7ff5f.png",
-            "snippet": "As a toxic threat endangers a corrupt city, Bruce Wayne finds himself at odds with a league of assassins and forced to battle more than his own demons.",
-            "about_this_result": {
-                "keywords": [
-                    "batman",
-                    "begins"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "United States"
+            "title": "Fargo (TV series)",
+            "link": "https://en.wikipedia.org/wiki/Fargo_(TV_series)",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Fargo_(TV_series)",
+            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd32628132c91b315823cb904ef66452dc27ff0ce.png",
+            "favicon": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd3262813a675113e7fd0507ae6c2172440e9e639.png",
+            "snippet": "Fargo is an American black comedy crime drama television series created and primarily written by Noah Hawley. The show is inspired by the 1996 film of the ...",
+            "snippet_highlighted_words": [
+                "Fargo"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "List of Fargo episodes",
+                        "link": "https://en.wikipedia.org/wiki/List_of_Fargo_episodes"
+                    },
+                    {
+                        "title": "Fargo (season 1)",
+                        "link": "https://en.wikipedia.org/wiki/Fargo_(season_1)"
+                    },
+                    {
+                        "title": "Fargo (season 2)",
+                        "link": "https://en.wikipedia.org/wiki/Fargo_(season_2)"
+                    },
+                    {
+                        "title": "Goran Bogdan",
+                        "link": "https://en.wikipedia.org/wiki/Goran_Bogdan"
+                    }
                 ]
             },
-            "about_page_link": "https://www.google.com/search?q=About+https://www.netflix.com/title/70021642&tbm=ilp",
-            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.netflix.com%2Ftitle%2F70021642",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hGilRViV_6wJ:https://www.netflix.com/title/70021642&cd=47&hl=en&ct=clnk&gl=us",
-            "source": "Netflix"
+            "about_this_result": {},
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:wT4AgnkfzhkJ:https://en.wikipedia.org/wiki/Fargo_(TV_series)&cd=14&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?sca_esv=569950492&q=related:https://en.wikipedia.org/wiki/Fargo_(TV_series)+Fargo",
+            "source": "Wikipedia"
         },
         {
             "position": 4,
-            "title": "Batman Begins | Movies",
-            "link": "https://www.warnerbros.com/movies/batman-begins",
-            "displayed_link": "https://www.warnerbros.com \u203a movies \u203a batman-begi...",
-            "favicon": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/396eb25a952b803ead333d36339920a038a991303bb60880a6e0ba543447cc60.png",
-            "snippet": "As a young boy, Bruce Wayne watched in horror as his millionaire parents were slain in front of him--a trauma that leads him to become obsessed with revenge ...",
-            "about_this_result": {
-                "keywords": [
-                    "batman",
-                    "begins"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "United States"
+            "title": "Fargo (1996 film)",
+            "link": "https://en.wikipedia.org/wiki/Fargo_(1996_film)",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Fargo_(1996_film)",
+            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd32628134da4b0dc00e71a10437c2abe97968e49.jpeg",
+            "favicon": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd326281384b040e697607c2145fc634176cf844a.png",
+            "snippet": "Fargo is a 1996 black comedy crime film written, produced and directed by Joel and Ethan Coen. Frances McDormand stars as Marge Gunderson, a pregnant ...",
+            "snippet_highlighted_words": [
+                "Fargo"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Harve Presnell",
+                        "link": "https://en.wikipedia.org/wiki/Harve_Presnell"
+                    },
+                    {
+                        "title": "Kristin Rudr\u00fcd",
+                        "link": "https://en.wikipedia.org/wiki/Kristin_Rudr%C3%BCd"
+                    },
+                    {
+                        "title": "Steve Reevis",
+                        "link": "https://en.wikipedia.org/wiki/Steve_Reevis"
+                    },
+                    {
+                        "title": "Tony Denman",
+                        "link": "https://en.wikipedia.org/wiki/Tony_Denman"
+                    }
                 ]
             },
-            "about_page_link": "https://www.google.com/search?q=About+https://www.warnerbros.com/movies/batman-begins&tbm=ilp",
-            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.warnerbros.com%2Fmovies%2Fbatman-begins",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:stTHd3uRWzIJ:https://www.warnerbros.com/movies/batman-begins&cd=49&hl=en&ct=clnk&gl=us",
-            "source": "Warner Bros."
+            "about_this_result": {},
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1ZVvlwu8egEJ:https://en.wikipedia.org/wiki/Fargo_(1996_film)&cd=15&hl=en&ct=clnk&gl=us",
+            "source": "Wikipedia"
         },
         {
             "position": 5,
-            "title": "Batman Begins",
-            "link": "https://www.rottentomatoes.com/m/batman_begins",
-            "displayed_link": "https://www.rottentomatoes.com \u203a batman_begins",
-            "favicon": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/396eb25a952b803ead333d36339920a04e9c1a203c64c0925ae523b79b45802a.png",
-            "snippet": "A young Bruce Wayne (Christian Bale) travels to the Far East, where he's trained in the martial arts by Henri Ducard (Liam Neeson), a member of the ...",
-            "rich_snippet": {
-                "top": {
-                    "detected_extensions": {
-                        "rating": 85,
-                        "votes": 290
-                    },
-                    "extensions": [
-                        "Rating: 85%",
-                        "\u200e290 votes"
-                    ]
-                }
-            },
-            "about_this_result": {
-                "keywords": [
-                    "batman",
-                    "begins"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "United States"
-                ]
-            },
-            "about_page_link": "https://www.google.com/search?q=About+https://www.rottentomatoes.com/m/batman_begins&tbm=ilp",
-            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.rottentomatoes.com%2Fm%2Fbatman_begins",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HMCQmP3hI3sJ:https://www.rottentomatoes.com/m/batman_begins&cd=50&hl=en&ct=clnk&gl=us",
-            "source": "Rotten Tomatoes"
+            "title": "Fargo | Stream on Hulu",
+            "link": "https://www.fxnetworks.com/shows/fargo",
+            "displayed_link": "https://www.fxnetworks.com \u203a Shows",
+            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd3262813714b7eac9f7477e1e74b877d51a6d27f.jpeg",
+            "favicon": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd3262813963bf4c3e9e1984a6c9c3b7218d446e3.png",
+            "snippet": "The latest installment of Fargo is set in Minnesota and North Dakota, 2019. After an unexpected series of events lands \u201cDorothy 'Dot' Lyon\u201d (Juno Temple) in ...",
+            "snippet_highlighted_words": [
+                "Fargo"
+            ],
+            "about_this_result": {},
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KJmJq4P5auQJ:https://www.fxnetworks.com/shows/fargo&cd=25&hl=en&ct=clnk&gl=us",
+            "source": "FX"
         },
         {
             "position": 6,
-            "title": "Batman Begins - Batman Wiki - Fandom",
-            "link": "https://batman.fandom.com/wiki/Batman_Begins",
-            "displayed_link": "https://batman.fandom.com \u203a wiki \u203a Batman_Begins",
-            "favicon": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/396eb25a952b803ead333d36339920a0e21e2ea08ae221b1694357e4abc2679b.png",
-            "snippet": "Batman Begins is a reboot of the Batman Film Franchise, reintroducing the Batman character to the theatrical film market after a absence of nearly a decade.",
+            "title": "The City of Fargo - Home Page",
+            "link": "https://fargond.gov/",
+            "displayed_link": "https://fargond.gov",
+            "favicon": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd32628135e0a58d4ad67861bba768c9fdc089d74.png",
+            "snippet": "Fargo City Commission \u00b7 View All Public Meetings \u203a \u00b7 View All City Calendar Events \u203a. Fargo City Hall. 225 4th Street North Fargo, ND 58102. Mayor's Office.",
             "snippet_highlighted_words": [
-                "Batman Begins"
+                "Fargo",
+                "Fargo",
+                "Fargo"
             ],
-            "about_this_result": {
-                "keywords": [
-                    "batman",
-                    "begins"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "United States"
-                ]
-            },
-            "about_page_link": "https://www.google.com/search?q=About+https://batman.fandom.com/wiki/Batman_Begins&tbm=ilp",
-            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fbatman.fandom.com%2Fwiki%2FBatman_Begins",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1weCVRJjEGQJ:https://batman.fandom.com/wiki/Batman_Begins&cd=51&hl=en&ct=clnk&gl=us",
-            "source": "Fandom"
+            "about_this_result": {},
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:sn4GvRFk5-cJ:https://fargond.gov/&cd=26&hl=en&ct=clnk&gl=us",
+            "source": "The City of Fargo (.gov)"
         },
         {
             "position": 7,
-            "title": "Batman Begins (2005) directed by Christopher Nolan",
-            "link": "https://letterboxd.com/film/batman-begins/",
-            "displayed_link": "https://letterboxd.com \u203a film \u203a batman-begins",
-            "favicon": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/396eb25a952b803ead333d36339920a04f41a92830b4bf1f42851153fd6769e6.png",
-            "snippet": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.",
+            "title": "Fargo (1996) | Official Trailer | MGM Studios - YouTube",
+            "link": "https://www.youtube.com/watch?v=ju75Sd4yAZw",
+            "displayed_link": "https://www.youtube.com \u203a watch",
+            "thumbnail": "https://i.ytimg.com/vi/ju75Sd4yAZw/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kn16RCREd3XguEr_f540NDP3dkQw",
+            "favicon": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd3262813d989fc27a1a1ef0d43d9109bf866e174.png",
+            "date": "Mar 18, 2021",
+            "snippet": "... Fargo (1996) Trailer | MGM Studios https://www.youtube.com/MGM #MGM #Fargo. ... Fargo (1996) | Official Trailer | MGM Studios. 588K views \u00b7 2 ...",
+            "duration": "2:09",
             "rich_snippet": {
                 "top": {
-                    "detected_extensions": {
-                        "rating": 3.8,
-                        "votes": 859806
-                    },
                     "extensions": [
-                        "Rating: 3.8",
-                        "\u200e859,806 votes"
-                    ]
+                        "YouTube",
+                        "MGM",
+                        "Mar 18, 2021"
+                    ],
+                    "detected_extensions": {
+                        "mar": 18
+                    }
                 }
             },
-            "about_this_result": {
-                "keywords": [
-                    "batman",
-                    "begins"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "United States"
-                ]
-            },
-            "about_page_link": "https://www.google.com/search?q=About+https://letterboxd.com/film/batman-begins/&tbm=ilp",
-            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fletterboxd.com%2Ffilm%2Fbatman-begins%2F",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:cHtLT1BdhHcJ:https://letterboxd.com/film/batman-begins/&cd=52&hl=en&ct=clnk&gl=us",
-            "related_pages_link": "https://www.google.com/search?sca_esv=569062438&q=related:https://letterboxd.com/film/batman-begins/+Batman+Begins",
-            "source": "Letterboxd"
+            "about_this_result": {},
+            "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTtWYj0H64_fFIIUTVi1nLvZ6DH-5oN0q8u-g",
+            "source": "YouTube"
         },
         {
             "position": 8,
-            "title": "Batman Begins (Single-Disc Widescreen Edition)",
-            "link": "https://www.amazon.com/Batman-Begins-Single-Disc-Widescreen-Thomas/dp/B00005JNJV",
-            "displayed_link": "https://www.amazon.com \u203a Batman-Begins-Single-Dis...",
-            "favicon": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/396eb25a952b803ead333d36339920a088c16b9367cca660647211a9ee859c73.png",
-            "snippet": "Taking Batman back to his origins, Begins offers Bruce Wayne's journey into Batman and a battle with a couple of really excellent villains. The tale of the lost ...",
+            "title": "Fargo",
+            "link": "https://www.rottentomatoes.com/m/fargo",
+            "displayed_link": "https://www.rottentomatoes.com \u203a fargo",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwlmaEBI2oLhQ_ayYg_eXkFdyaf1Etpd9Tld0KKdhvvCW06bFPN-8J&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd326281305af745f53631eeee4c8b77aaded28d0.png",
+            "snippet": "\"Fargo\" is a reality-based crime drama set in Minnesota in 1987. Jerry Lundegaard (William H. Macy) is a car salesman in Minneapolis who has gotten himself ...",
             "snippet_highlighted_words": [
-                "Batman",
-                "Begins",
-                "Batman"
+                "Fargo"
             ],
             "rich_snippet": {
                 "top": {
                     "detected_extensions": {
-                        "rating": 4.7,
-                        "reviews": 12371,
-                        "unknown": 30
+                        "rating": 94,
+                        "votes": 105
                     },
                     "extensions": [
-                        "Rating: 4.7",
-                        "\u200e12,371 reviews",
-                        "\u200e30",
-                        "day returns"
+                        "Rating: 94%",
+                        "\u200e105 votes"
                     ]
                 }
             },
-            "about_this_result": {
-                "keywords": [
-                    "batman",
-                    "begins"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "United States"
-                ]
-            },
-            "about_page_link": "https://www.google.com/search?q=About+https://www.amazon.com/Batman-Begins-Single-Disc-Widescreen-Thomas/dp/B00005JNJV&tbm=ilp",
-            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FBatman-Begins-Single-Disc-Widescreen-Thomas%2Fdp%2FB00005JNJV",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:EnwfnB7G0bIJ:https://www.amazon.com/Batman-Begins-Single-Disc-Widescreen-Thomas/dp/B00005JNJV&cd=53&hl=en&ct=clnk&gl=us",
-            "source": "Amazon.com"
+            "about_this_result": {},
+            "source": "Rotten Tomatoes"
         },
         {
             "position": 9,
-            "title": "Batman Begins (Film)",
-            "link": "https://tvtropes.org/pmwiki/pmwiki.php/Film/BatmanBegins",
-            "displayed_link": "https://tvtropes.org \u203a Film",
-            "favicon": "https://serpapi.com/searches/65151a328cd878f4188cc3b0/images/396eb25a952b803ead333d36339920a0ff125873143ee2fc66ac4e3099e74ebc.png",
-            "snippet": "The film opens In Medias Res with Bruce Wayne incarcerated in a prison in Bhutan, where a man named Henri Ducard arranges for Bruce's release and offers him a ...",
-            "about_this_result": {
-                "keywords": [
-                    "batman",
-                    "begins"
-                ],
-                "related_keywords": [
-                    "batmanbegins"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "United States"
-                ]
-            },
-            "about_page_link": "https://www.google.com/search?q=About+https://tvtropes.org/pmwiki/pmwiki.php/Film/BatmanBegins&tbm=ilp",
-            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ftvtropes.org%2Fpmwiki%2Fpmwiki.php%2FFilm%2FBatmanBegins",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zysWJFbiFNsJ:https://tvtropes.org/pmwiki/pmwiki.php/Film/BatmanBegins&cd=54&hl=en&ct=clnk&gl=us",
-            "source": "TV Tropes"
+            "title": "Official Tourism Website for Fargo, ND & Moorhead, MN",
+            "link": "https://www.fargomoorhead.org/",
+            "displayed_link": "https://www.fargomoorhead.org",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcXJP0Jf0wPzI00IKSSoYAoq-QJY1vDtyWoGBHkNTEg9X-E_8QAMrP&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd3262813aec1804e9da61b8484658e2f80b3323c.png",
+            "snippet": "Visit Fargo-Moorhead is the official source for travel and tourism information about Fargo, North Dakota & Moorhead, Minnesota.",
+            "snippet_highlighted_words": [
+                "Fargo",
+                "Fargo"
+            ],
+            "about_this_result": {},
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:vCMjM5e3zDcJ:https://www.fargomoorhead.org/&cd=33&hl=en&ct=clnk&gl=us",
+            "source": "Visit Fargo-Moorhead"
         }
     ],
     "related_searches": [
         {
             "block_position": 1,
-            "query": "Batman Begins full Movie dailymotion"
+            "query": "fargo season 5",
+            "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+season+5&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ1QJ6BAhEEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+season+5"
         },
         {
             "block_position": 1,
-            "query": "Batman Begins Trailer"
+            "query": "fargo netflix",
+            "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+Netflix&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ1QJ6BAhCEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+Netflix"
         },
         {
             "block_position": 1,
-            "query": "Batman movies",
-            "items": [
-                {
-                    "name": "Batman: Under the Red Hood",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS08ox_bmwMw1pdAhIcIQ3-rlWinc3p8mbwvADzAg&s=0",
-                    "link": "https://www.google.com/search?sca_esv=569062438&q=Batman:+Under+the+Red+Hood&stick=H4sIAAAAAAAAAOOQUeLSz9U3SEqqKK8wNeJNSizJTcxTyM0vy0wtjuJ1gnCdUtMz84pPMXKClZYU5JqdYoRoK8g1qSyHccBmnGLk1U_XNzRMTzfNM0guN4ZKZpUVphlZQjnlRcUZuUanGDlAHMOMQkM4s6AAIZoNZxYZ_mKEuQXitEWsUhC-lUJoXkpqkUJJRqpCUGqKgkd-fsotNkmGA1cyl3iv-8T5P11m3paktEq3KU-4AtZecQQAXhAEbfEAAAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQs9oBKAB6BQiHARAC",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman%3A+Under+the+Red+Hood&stick=H4sIAAAAAAAAAOOQUeLSz9U3SEqqKK8wNeJNSizJTcxTyM0vy0wtjuJ1gnCdUtMz84pPMXKClZYU5JqdYoRoK8g1qSyHccBmnGLk1U_XNzRMTzfNM0guN4ZKZpUVphlZQjnlRcUZuUanGDlAHMOMQkM4s6AAIZoNZxYZ_mKEuQXitEWsUhC-lUJoXkpqkUJJRqpCUGqKgkd-fsotNkmGA1cyl3iv-8T5P11m3paktEq3KU-4AtZecQQAXhAEbfEAAAA"
-                },
-                {
-                    "name": "The Batman",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF824YlteLLDVB-Q60NTAdMoFop1TDBqyFH6DLrg&s=0",
-                    "link": "https://www.google.com/search?sca_esv=569062438&q=The+Batman&stick=H4sIAAAAAAAAAOOQUeLVT9c3NExPN80zSC43NuJNSizJTcxTyM0vy0wtjuJ1gnCdUtMz84pPMXLq5-obJJUU5JqdYuQCswtyTSrLYZykivIK01OMqGZCJbPKCtOMLKGc8qLijFyjU4wcII5hRqEhnFlQgBDNhjOLDH8xwtwCcdoiVq6QjFQFiNgtNkmGA1cyl3iv-8T5P11m3paktEq3KU-4AtZecQQAJ9pyW-QAAAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQs9oBKAF6BQiHARAD",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Batman&stick=H4sIAAAAAAAAAOOQUeLVT9c3NExPN80zSC43NuJNSizJTcxTyM0vy0wtjuJ1gnCdUtMz84pPMXLq5-obJJUU5JqdYuQCswtyTSrLYZykivIK01OMqGZCJbPKCtOMLKGc8qLijFyjU4wcII5hRqEhnFlQgBDNhjOLDH8xwtwCcdoiVq6QjFQFiNgtNkmGA1cyl3iv-8T5P11m3paktEq3KU-4AtZecQQAJ9pyW-QAAAA"
-                },
-                {
-                    "name": "Batman: The Dark Knight Returns, Pa...",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDS9iX0W8exNTqiWCVmqCiq17qxkZpg2fB1cQgkw&s=0",
-                    "link": "https://www.google.com/search?sca_esv=569062438&q=Batman:+The+Dark+Knight+Returns,+Part+1&stick=H4sIAAAAAAAAAOOQUeLSz9U3yCorTDOyNOJNSizJTcxTyM0vy0wtjuJ1gnCdUtMz84pPMXKClCaVFOSanWIEa0sqyDWpLIdxkirKK0xPMfLqp-sbGqanm-YZJJcbQyUhFkA55UXFGblGpxg5QBzDjEJDOLOgACGaDWcWGf5ihLkF4rRFrOoQvpVCSEaqgktiUbaCd15mekaJQlBqSWlRXrGOQkBiUYmC4S02SYYDVzKXeK_7xPk_XWbelqS0SrcpT7gC1l5xBAAaWIO9_gAAAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQs9oBKAJ6BQiHARAE",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman%3A+The+Dark+Knight+Returns%2C+Part+1&stick=H4sIAAAAAAAAAOOQUeLSz9U3yCorTDOyNOJNSizJTcxTyM0vy0wtjuJ1gnCdUtMz84pPMXKClCaVFOSanWIEa0sqyDWpLIdxkirKK0xPMfLqp-sbGqanm-YZJJcbQyUhFkA55UXFGblGpxg5QBzDjEJDOLOgACGaDWcWGf5ihLkF4rRFrOoQvpVCSEaqgktiUbaCd15mekaJQlBqSWlRXrGOQkBiUYmC4S02SYYDVzKXeK_7xPk_XWbelqS0SrcpT7gC1l5xBAAaWIO9_gAAAA"
-                },
-                {
-                    "name": "Batman v Superman: Dawn of Ju...",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPhGOYIzPcYyOeU97rZfEyj3FpAOwXKvx-q79ZbQ&s=0",
-                    "link": "https://www.google.com/search?sca_esv=569062438&q=Batman+vs+Superman&stick=H4sIAAAAAAAAAOOQUeLSz9U3KC8qzsg1MuJNSizJTcxTyM0vy0wtjuJ1gnCdUtMz84pPMXKClCaVFOSanWIEa0sqyDWpLIdxkirKK0xPMfLqp-sbGqanm-YZJJcbQyWzygrTjCyhHIhtpxg5QBzDjEJDOLOgACGaDWcWGf5ihLkF4rRFrEJQflmxQnBpQWoRkH2LTZLhwJXMJd7rPnH-T5eZtyUprdJtyhOugLVXHAGXoe_q6QAAAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQs9oBKAN6BQiHARAF",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+vs+Superman&stick=H4sIAAAAAAAAAOOQUeLSz9U3KC8qzsg1MuJNSizJTcxTyM0vy0wtjuJ1gnCdUtMz84pPMXKClCaVFOSanWIEa0sqyDWpLIdxkirKK0xPMfLqp-sbGqanm-YZJJcbQyWzygrTjCyhHIhtpxg5QBzDjEJDOLOgACGaDWcWGf5ihLkF4rRFrEJQflmxQnBpQWoRkH2LTZLhwJXMJd7rPnH-T5eZtyUprdJtyhOugLVXHAGXoe_q6QAAAA"
-                },
-                {
-                    "name": "Batman & Robin",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR01m8hMZp8jsGbauwbdwnJX4vX2VuM-lKTF6-HYg&s=0",
-                    "link": "https://www.google.com/search?sca_esv=569062438&q=Batman+and+Robin&stick=H4sIAAAAAAAAAOOQUeLQz9U3MMwozDbiTUosyU3MU8jNL8tMLY7idYJwnVLTM_OKTzFyghQmlRTkmp1i5AKzC3JNKsthnKSK8grTU4y8-un6hobp6aZ5BsnlxlDJrLLCNCNLKKe8qDgj1-gUI8xiQzizoAAhmg1nFhn-YoS5BeK0RawCUH5iXopCUH5SZt4tNkmGA1cyl3iv-8T5P11m3paktEq3KU-4AtZecQQAlmDXS-UAAAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQs9oBKAR6BQiHARAG",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+and+Robin&stick=H4sIAAAAAAAAAOOQUeLQz9U3MMwozDbiTUosyU3MU8jNL8tMLY7idYJwnVLTM_OKTzFyghQmlRTkmp1i5AKzC3JNKsthnKSK8grTU4y8-un6hobp6aZ5BsnlxlDJrLLCNCNLKKe8qDgj1-gUI8xiQzizoAAhmg1nFhn-YoS5BeK0RawCUH5iXopCUH5SZt4tNkmGA1cyl3iv-8T5P11m3paktEq3KU-4AtZecQQAlmDXS-UAAAA"
-                },
-                {
-                    "name": "Batman Forever",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLCcDHqgHpMym81cVAqeI0prJbA_R0jh7sjVZ_OQ&s=0",
-                    "link": "https://www.google.com/search?sca_esv=569062438&q=Batman+Forever&stick=H4sIAAAAAAAAAOOQUeLQz9U3MMwoMjTiTUosyU3MU8jNL8tMLY7idYJwnVLTM_OKTzFyghQmlRTkmp1i5AKzC3JNKsthnKSK8grTU4y8-un6hobp6aZ5BsnlxlDJrLLCNCNLKKe8qDgj1-gUI9TiQkM4s6AAIZoNZxYZ_mKEuQXitEWsfFC-W35Rallq0S02SYYDVzKXeK_7xPk_XWbelqS0SrcpT7gC1l5xBACQDBPl4wAAAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQs9oBKAV6BQiHARAH",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Forever&stick=H4sIAAAAAAAAAOOQUeLQz9U3MMwoMjTiTUosyU3MU8jNL8tMLY7idYJwnVLTM_OKTzFyghQmlRTkmp1i5AKzC3JNKsthnKSK8grTU4y8-un6hobp6aZ5BsnlxlDJrLLCNCNLKKe8qDgj1-gUI9TiQkM4s6AAIZoNZxYZ_mKEuQXitEWsfFC-W35Rallq0S02SYYDVzKXeK_7xPk_XWbelqS0SrcpT7gC1l5xBACQDBPl4wAAAA"
-                }
-            ],
-            "link": "https://www.google.com/search?sca_esv=569062438&q=Batman+movies&stick=H4sIAAAAAAAAAOOQMeJNSizJTcxTyM0vy0wtjuJ1gnCdUtMz84pPMXLq5-obJJUU5JqdYuQCswtyTSrLYZykivIK01OMvPrp-oaG6emmeQbJ5cZQyayywjQjSyinvKg4I9foFCMHiGOYUWgIZxYUIESz4cwiw1-MMLdAnLaIFZV_i02S4cCVzCXe6z5x_k-XmbclKa3SbcoTroC1VxwBFj_QQ9gAAAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQ4qYDegUIhwEQCA",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+movies&stick=H4sIAAAAAAAAAOOQMeJNSizJTcxTyM0vy0wtjuJ1gnCdUtMz84pPMXLq5-obJJUU5JqdYuQCswtyTSrLYZykivIK01OMvPrp-oaG6emmeQbJ5cZQyayywjQjSyinvKg4I9foFCMHiGOYUWgIZxYUIESz4cwiw1-MMLdAnLaIFZV_i02S4cCVzCXe6z5x_k-XmbclKa3SbcoTroC1VxwBFj_QQ9gAAAA"
+            "query": "fargo meaning",
+            "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+meaning&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ1QJ6BAhBEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+meaning"
         },
         {
             "block_position": 1,
-            "query": "Directed by Christopher Nolan",
-            "items": [
-                {
-                    "name": "Inception",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJk9UTlIkMj8Z-sTQPYiEITkIYzFmoUTGgBxChNg&s=0",
-                    "link": "https://www.google.com/search?sca_esv=569062438&q=Inception&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDMzLMwxNpJNySxKTS5JTVFIqlRIzijKLC7JL8hILVLIy89JzIvidUosyU3MU3BKTc_MKz7FyAnSmlRSkGt2ihFsTFJBrkllOZQDMfMUI69-ur6hYVJFWnlapZExVJeFibGBEUwuw9DSOCk-2RTGL0oxzcg1MciDGlReVJyRawTlmJinF2QkQU1Jy04zsvjFKOuC5GxnJGf7gZy9iJXTMy85taAkMz_vFpskw4ErmUuarB6pZNR8-PzB1O_P5Be8f1iCHmsDAC8uaOMMAQAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQs9oBKAB6BQiIARAC",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inception&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDMzLMwxNpJNySxKTS5JTVFIqlRIzijKLC7JL8hILVLIy89JzIvidUosyU3MU3BKTc_MKz7FyAnSmlRSkGt2ihFsTFJBrkllOZQDMfMUI69-ur6hYVJFWnlapZExVJeFibGBEUwuw9DSOCk-2RTGL0oxzcg1MciDGlReVJyRawTlmJinF2QkQU1Jy04zsvjFKOuC5GxnJGf7gZy9iJXTMy85taAkMz_vFpskw4ErmUuarB6pZNR8-PzB1O_P5Be8f1iCHmsDAC8uaOMMAQAA"
-                },
-                {
-                    "name": "Dunkirk",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJHCAMV-7QkIejPz9hWaIvJUdYWi2QFHIC3xaC0A&s=0",
-                    "link": "https://www.google.com/search?sca_esv=569062438&q=Dunkirk&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEyqSCtPqzQyNpJNySxKTS5JTVFIqlRIzijKLC7JL8hILVLIy89JzIvidUosyU3MU3BKTc_MKz7FyKmfq2-QVFKQa3aKkQvMLsg1qSyHcszMDAtzjE8xotoB1WVhYmxgBJPLMLQ0TopPNoXxi1JMM3JNDPKgBpUXFWfkGkE5JubpBRlJUFPSstOMLH4xyrogOdsZydl-IGcvYmV3Kc3LzizKvsUmyXDgSuaSJqtHKhk1Hz5_MPX7M_kF7x-WoMfaAATUlFMNAQAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQs9oBKAF6BQiIARAD",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dunkirk&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEyqSCtPqzQyNpJNySxKTS5JTVFIqlRIzijKLC7JL8hILVLIy89JzIvidUosyU3MU3BKTc_MKz7FyKmfq2-QVFKQa3aKkQvMLsg1qSyHcszMDAtzjE8xotoB1WVhYmxgBJPLMLQ0TopPNoXxi1JMM3JNDPKgBpUXFWfkGkE5JubpBRlJUFPSstOMLH4xyrogOdsZydl-IGcvYmV3Kc3LzizKvsUmyXDgSuaSJqtHKhk1Hz5_MPX7M_kF7x-WoMfaAATUlFMNAQAA"
-                },
-                {
-                    "name": "The Prestige",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo4uHsH2-g1AQuEuoBLadE7NGG14Oa8XYDdQCNJA&s=0",
-                    "link": "https://www.google.com/search?sca_esv=569062438&q=The+Prestige&stick=H4sIAAAAAAAAAOOQUeLUz9U3sDAxNjAykk3JLEpNLklNUUiqVEjOKMosLskvyEgtUsjLz0nMi-J1SizJTcxTcEpNz8wrPsUI1plUUpBrdoqRC8wuyDWpLIdyzMwMC3OMTzHy6qfrGxomVaSVp1UaGUN1ge2DyWUYWhonxSebwvhFKaYZuSYGeVCDyouKM3KNoBwT8_SCjCSoKWnZaUYWvxhlXZCc7YzkbD-Qsxex8oRkpCoEFKUWl2Smp95ik2Q4cCVzSZPVI5WMmg-fP5j6_Zn8gvcPS9BjbQCFjtkJDgEAAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQs9oBKAJ6BQiIARAE",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Prestige&stick=H4sIAAAAAAAAAOOQUeLUz9U3sDAxNjAykk3JLEpNLklNUUiqVEjOKMosLskvyEgtUsjLz0nMi-J1SizJTcxTcEpNz8wrPsUI1plUUpBrdoqRC8wuyDWpLIdyzMwMC3OMTzHy6qfrGxomVaSVp1UaGUN1ge2DyWUYWhonxSebwvhFKaYZuSYGeVCDyouKM3KNoBwT8_SCjCSoKWnZaUYWvxhlXZCc7YzkbD-Qsxex8oRkpCoEFKUWl2Smp95ik2Q4cCVzSZPVI5WMmg-fP5j6_Zn8gvcPS9BjbQCFjtkJDgEAAA"
-                },
-                {
-                    "name": "Tenet",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwPnFPH9u9zuO-6WM6oJvk376yWWeeDm-cdeAe3gjGAi8KpgRHrJpEWw&s=0",
-                    "link": "https://www.google.com/search?sca_esv=569062438&q=Tenet&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMwwtDROik82NZJNySxKTS5JTVFIqlRIzijKLC7JL8hILVLIy89JzIvidUosyU3MU3BKTc_MKz7FyKmfq2-QVFKQa3aKkQvMLsg1qSyHcszMDAtzjE8xQuxIqkgrT6s0MobqsjAxNjCCycHsh_GLUkwzck0M8qAGlRcVZ-QaQTkm5ukFGUlQU9Ky04wsfjHKuiA52xnJ2X4gZy9iZQ1JzUstucUmyXDgSuaSJqtHKhk1Hz5_MPX7M_kF7x-WoMfaAP47uB8LAQAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQs9oBKAN6BQiIARAF",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tenet&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMwwtDROik82NZJNySxKTS5JTVFIqlRIzijKLC7JL8hILVLIy89JzIvidUosyU3MU3BKTc_MKz7FyKmfq2-QVFKQa3aKkQvMLsg1qSyHcszMDAtzjE8xQuxIqkgrT6s0MobqsjAxNjCCycHsh_GLUkwzck0M8qAGlRcVZ-QaQTkm5ukFGUlQU9Ky04wsfjHKuiA52xnJ2X4gZy9iZQ1JzUstucUmyXDgSuaSJqtHKhk1Hz5_MPX7M_kF7x-WoMfaAP47uB8LAQAA"
-                },
-                {
-                    "name": "Oppenheim...",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo0xILsvA5je2aTT4O9lvFx2HI7549mablG8JjrP9gfc8ugPP4yKhVMQ&s=0",
-                    "link": "https://www.google.com/search?sca_esv=569062438&q=Oppenheimer&stick=H4sIAAAAAAAAAOOQUeLVT9c3NCxKMc3INTHIM5JNySxKTS5JTVFIqlRIzijKLC7JL8hILVLIy89JzIvidUosyU3MU3BKTc_MKz7FyKmfq2-QVFKQa3aKkQvMLsg1qSyHcszMDAtzjE8xQuxIqkgrT6s0MobqsjAxNjCCyWUYWhonxSebwvgw90ANKi8qzsg1gnJMzNMLMpKgpqRlpxlZ_GKUdUFytjOSs_1Azl7Eyu1fUJCal5GamZtadItNkuHAlcwlTVaPVDJqPnz-YOr3Z_IL3j8sQY-1AWNoczgRAQAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQs9oBKAR6BQiIARAG",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Oppenheimer&stick=H4sIAAAAAAAAAOOQUeLVT9c3NCxKMc3INTHIM5JNySxKTS5JTVFIqlRIzijKLC7JL8hILVLIy89JzIvidUosyU3MU3BKTc_MKz7FyKmfq2-QVFKQa3aKkQvMLsg1qSyHcszMDAtzjE8xQuxIqkgrT6s0MobqsjAxNjCCyWUYWhonxSebwvgw90ANKi8qzsg1gnJMzNMLMpKgpqRlpxlZ_GKUdUFytjOSs_1Azl7Eyu1fUJCal5GamZtadItNkuHAlcwlTVaPVDJqPnz-YOr3Z_IL3j8sQY-1AWNoczgRAQAA"
-                },
-                {
-                    "name": "Following",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbs7rNq6sX6_rzSSrGEPwpwPUnbV7Tp6fqyV62bA&s=0",
-                    "link": "https://www.google.com/search?sca_esv=569062438&q=Following+1998&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDFPL8hIMpJNySxKTS5JTVFIqlRIzijKLC7JL8hILVLIy89JzIvidUosyU3MU3BKTc_MKz7FyAnSmlRSkGt2ihFsTFJBrkllOZRjZmZYmGN8ipFXP13f0DCpIq08rdLIGKrLwsTYwAgml2FoaZwUn2wK4xelmGbkmhjkQQ0qLyrOyDWCciAuhZqSlp1mZPGLUdYFydnOSM72Azl7ESufW35OTn55Zl66gqGlpcUtNkmGA1cylzRZPVLJqPnw-YOp35_JL3j_sAQ91gYAe7y5thEBAAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQs9oBKAV6BQiIARAH",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Following+1998&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDFPL8hIMpJNySxKTS5JTVFIqlRIzijKLC7JL8hILVLIy89JzIvidUosyU3MU3BKTc_MKz7FyAnSmlRSkGt2ihFsTFJBrkllOZRjZmZYmGN8ipFXP13f0DCpIq08rdLIGKrLwsTYwAgml2FoaZwUn2wK4xelmGbkmhjkQQ0qLyrOyDWCciAuhZqSlp1mZPGLUdYFydnOSM72Azl7ESufW35OTn55Zl66gqGlpcUtNkmGA1cylzRZPVLJqPnw-YOp35_JL3j_sAQ91gYAe7y5thEBAAA"
-                }
-            ],
-            "link": "https://www.google.com/search?sca_esv=569062438&q=Directed+by+Christopher+Nolan&stick=H4sIAAAAAAAAAOOQMZJNySxKTS5JTVFIqlRIzijKLC7JL8hILVLIy89JzIvidUosyU3MU3BKTc_MKz7FyKmfq2-QVFKQa3aKkQvMLsg1qSyHcszMDAtzjE8x8uqn6xsaJlWkladVGhlDdVmYGBsYweQyDC2Nk-KTTWH8ohTTjFwTgzyoQeVFxRm5RlCOiXl6QUYS1JS07DQji1-Msi5IznZGcrYfyNmLWPHL32KTZDhwJXNJk9UjlYyaD58_mPr9mfyC9w9L0GNtAD2SfYsUAQAA&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQ4qYDegUIiAEQCA",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Directed+by+Christopher+Nolan&stick=H4sIAAAAAAAAAOOQMZJNySxKTS5JTVFIqlRIzijKLC7JL8hILVLIy89JzIvidUosyU3MU3BKTc_MKz7FyKmfq2-QVFKQa3aKkQvMLsg1qSyHcszMDAtzjE8x8uqn6xsaJlWkladVGhlDdVmYGBsYweQyDC2Nk-KTTWH8ohTTjFwTgzyoQeVFxRm5RlCOiXl6QUYS1JS07DQji1-Msi5IznZGcrYfyNmLWPHL32KTZDhwJXNJk9UjlYyaD58_mPr9mfyC9w9L0GNtAD2SfYsUAQAA"
+            "query": "fargo city",
+            "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+City&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ1QJ6BAhAEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+City"
         },
         {
             "block_position": 1,
-            "query": "batman begins villain",
-            "link": "https://www.google.com/search?sca_esv=569062438&q=Batman+Begins+villain&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQ1QJ6BQiNARAB",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins+villain"
+            "query": "fargo wikipedia",
+            "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+wikipedia&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ1QJ6BAg8EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+wikipedia"
         },
         {
             "block_position": 1,
-            "query": "batman begins series in order",
-            "link": "https://www.google.com/search?sca_esv=569062438&q=Batman+Begins+series+in+order&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQ1QJ6BQiLARAB",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins+series+in+order"
+            "query": "fargo movie",
+            "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+movie&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ1QJ6BAg6EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+movie"
         },
         {
             "block_position": 1,
-            "query": "batman begins - box office",
-            "link": "https://www.google.com/search?sca_esv=569062438&q=Batman+Begins+-+box+office&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQ1QJ6BQiOARAB",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins+-+box+office"
+            "query": "fargo imdb",
+            "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+imdb&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ1QJ6BAg3EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+imdb"
         },
         {
             "block_position": 1,
-            "query": "batman begins imdb",
-            "link": "https://www.google.com/search?sca_esv=569062438&q=Batman+Begins+IMDb&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQ1QJ6BQiPARAB",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins+IMDb"
-        },
-        {
-            "block_position": 1,
-            "query": "batman begins summary",
-            "link": "https://www.google.com/search?sca_esv=569062438&q=Batman+Begins+summary&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQ1QJ6BQiJARAB",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins+summary"
-        },
-        {
-            "block_position": 1,
-            "query": "cast of batman begins scarecrow",
-            "link": "https://www.google.com/search?sca_esv=569062438&q=Cast+of+Batman+Begins+Scarecrow&sa=X&ved=2ahUKEwj_p6X408yBAxU9toQIHfo_DyYQ1QJ6BQiMARAB",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Cast+of+Batman+Begins+Scarecrow"
+            "query": "fargo true story",
+            "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+true+story&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ1QJ6BAg2EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+true+story"
         }
     ],
     "pagination": {
         "current": 1,
-        "next": "https://www.google.com/search?q=Batman+Begins&oq=Batman+Begins&start=10&sourceid=chrome&ie=UTF-8",
+        "next": "https://www.google.com/search?q=Fargo&oq=Fargo&start=10&sourceid=chrome&ie=UTF-8",
         "other_pages": {
-            "2": "https://www.google.com/search?q=Batman+Begins&oq=Batman+Begins&start=10&sourceid=chrome&ie=UTF-8",
-            "3": "https://www.google.com/search?q=Batman+Begins&oq=Batman+Begins&start=20&sourceid=chrome&ie=UTF-8",
-            "4": "https://www.google.com/search?q=Batman+Begins&oq=Batman+Begins&start=30&sourceid=chrome&ie=UTF-8",
-            "5": "https://www.google.com/search?q=Batman+Begins&oq=Batman+Begins&start=40&sourceid=chrome&ie=UTF-8"
+            "2": "https://www.google.com/search?q=Fargo&oq=Fargo&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=Fargo&oq=Fargo&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=Fargo&oq=Fargo&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=Fargo&oq=Fargo&start=40&sourceid=chrome&ie=UTF-8"
         }
     },
     "serpapi_pagination": {
         "current": 1,
-        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&start=10",
-        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&start=10",
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo&start=10",
         "other_pages": {
-            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&start=10",
-            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&start=20",
-            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&start=30",
-            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Batman+Begins&start=40"
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo&start=40"
         }
     }
 }

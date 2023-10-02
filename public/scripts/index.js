@@ -293,21 +293,7 @@ input.addEventListener("keyup", (e) =>  {
                 //display the value in array
                 listItem.innerHTML = word;
                 document.querySelector(".list").appendChild(listItem);
-
             }
-    }
-});
-
-//listen for button press
-btn.addEventListener("click", (e) =>  {
-    //get text from input, only execute if value
-    let prompt = input.value;
-    console.log("HELLO");
-    if (prompt != "") {
-        //TEST!!!!!!!
-        let main = document.getElementById("main");
-        main.innerText = prompt;
-        //!!!!!!!!!!!
     }
 });
 

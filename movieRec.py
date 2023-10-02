@@ -1,6 +1,5 @@
 from serpapi import GoogleSearch
 import sys
-import subprocess
 import config
 import json
 
@@ -26,9 +25,6 @@ def main(argv):
     with open("rcmmndPage.json", "w") as outfile:
         json.dump(rcmmndResult, outfile, indent=4)
 
-    #open query.json in Javascript
-    #print(json_obj)
-    subprocess.run("node movieRec.js")
 
 if __name__ == "__main__":
    main(sys.argv[1:])

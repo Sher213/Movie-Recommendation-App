@@ -274,18 +274,14 @@ app.get('/', function(req, res){
 });
 
 app.post('/', function (req, res, next){
-    //TEST!!!!!!!!!!
-    //res.send(req.body["input"]);
-    console.log(req.body["input"]);
-    //!!!!!!!!!!!!!!!!!!!!!!!!
-
     //get input
     let input = req.body['input'];
 
     if (movieNames.includes(input)) {
-        //execMovieRec(input);
+
+        execMovieRec(input);
         var m = readRcmmndPage();
-        console.log(m);
+
         //render result
         res.render('pages/result', {movies: m});
     }
@@ -322,7 +318,7 @@ function readRcmmndPage() {
     
     //get name and image of movies
     rcmmnd[rKey].forEach(element => {
-        x.push({name: element["name"], image: element["image"]});
+        x.push({name: element["name"], image: element["image"], link: element['link']});
     });
     return x;
 }

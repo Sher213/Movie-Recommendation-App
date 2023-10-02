@@ -4,18 +4,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>MoviePal</title>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="/css/styles.css">
 <title>Page Title</title>
 </head>
 <body>
 
-<h1>This is a Heading</h1>
-<p><% movies.forEach(function(movie) { %>
-    <li>
-        <%= movie.name %>
-        <img src = <%= movie.image %>>
-    </li>
-    <% }); %></p>
+<h1 class="primaryView">Recommendations</h1>
+<a href="/"><button>Back</button><br><br></a>
+<div class="scrollmenu" >
+    <% movies.forEach(function(movie) { %>
+        <li class="singleitem">
+            <a target="_blank" style="text-decoration:none; color:inherit;"
+                href= <%= movie.link %>>
+                <%= movie.name %>
+                <br>
+                <br>
+                <img src = <%= movie.image %>>
+            </a>
+        </li>
+    <% }); %>
+</div>
 <script src="result.js"></script>
 </body>
 </html>
