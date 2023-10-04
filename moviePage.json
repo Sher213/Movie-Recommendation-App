@@ -1,708 +1,477 @@
 {
     "search_metadata": {
-        "id": "651a78c9fe41d0ce85f6ddb3",
+        "id": "651a82142c6878dcfc1f2b86",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/7933947aa2f3e115/651a78c9fe41d0ce85f6ddb3.json",
-        "created_at": "2023-10-02 08:01:13 UTC",
-        "processed_at": "2023-10-02 08:01:13 UTC",
-        "google_url": "https://www.google.com/search?q=Fargo&oq=Fargo&sourceid=chrome&ie=UTF-8",
-        "raw_html_file": "https://serpapi.com/searches/7933947aa2f3e115/651a78c9fe41d0ce85f6ddb3.html",
-        "total_time_taken": 1.79
+        "json_endpoint": "https://serpapi.com/searches/a5916b3e1ec2d811/651a82142c6878dcfc1f2b86.json",
+        "created_at": "2023-10-02 08:40:52 UTC",
+        "processed_at": "2023-10-02 08:40:52 UTC",
+        "google_url": "https://www.google.com/search?q=Gangs+of+Wasseypur&oq=Gangs+of+Wasseypur&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/a5916b3e1ec2d811/651a82142c6878dcfc1f2b86.html",
+        "total_time_taken": 1.81
     },
     "search_parameters": {
         "engine": "google",
-        "q": "Fargo",
+        "q": "Gangs of Wasseypur",
         "google_domain": "google.com",
         "device": "desktop"
     },
     "search_information": {
-        "query_displayed": "Fargo",
-        "total_results": 343000000,
-        "time_taken_displayed": 0.34,
+        "query_displayed": "Gangs of Wasseypur",
+        "total_results": 4440000,
+        "time_taken_displayed": 0.39,
         "menu_items": [
             {
                 "position": 1,
                 "title": "Images",
-                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ0pQJegQIEBAB",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=Fargo"
+                "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur&tbm=isch&source=lnms&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ0pQJegQICxAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=Gangs+of+Wasseypur"
             },
             {
                 "position": 2,
-                "title": "News",
-                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo&tbm=nws&source=lnms&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ0pQJegQIDxAB",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo&tbm=nws"
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur&tbm=vid&source=lnms&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ0pQJegQIDhAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=Gangs+of+Wasseypur"
             },
             {
                 "position": 3,
-                "title": "Cast",
-                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+cast&uds=H4sIAAAAAAAA_-OS5mJxTiwuEWJ1SyxKzzdgLOICMxSSgYJGEEEAQutzbCQAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxKsJegQIDhAB&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+cast"
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur&tbm=nws&source=lnms&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ0pQJegQIDRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&tbm=nws"
             },
             {
                 "position": 4,
-                "title": "Videos",
-                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo&tbm=vid&source=lnms&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ0pQJegQIDRAB",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=Fargo"
+                "title": "Movie",
+                "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+movie&uds=H4sIAAAAAAAA_-My52L1zS_LTBUSck_MSy9WyE9TCE8sLk6tLCgtMmAsksAUVcgFqTfCoh4Ada3kik0AAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQxKsJegQIDBAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+movie"
             },
             {
                 "position": 5,
-                "title": "Weather",
-                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+weather&uds=H4sIAAAAAAAA_-NS5GIPT00syUgtEmJ1SyxKzzdgLOIFMxTKIeJGEHEAFjVp5CoAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxKsJegUIhwEQAQ&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+weather"
+                "title": "2 release date",
+                "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+2+release+date&uds=H4sIAAAAAAAA_-Py5OIzUihKzUlNLE5VSEksSRUSck_MSy9WyE9TCE8sLk6tLCgtMmAqUsQUVUDVaIRFIwCgcAxzXwAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQxKsJegUIigEQAQ&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+2+release+date"
             },
             {
                 "position": 6,
-                "title": "2023",
-                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+2023&uds=H4sIAAAAAAAA_-OS5mIxMjAyFmJ1SyxKzzdgKuICMxRAgkYQQQC35y4qJAAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxKsJegUIiwEQAQ&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+2023"
+                "title": "3 release date",
+                "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+3+release+date&uds=H4sIAAAAAAAA_-Py5OIzVihKzUlNLE5VSEksSRUSck_MSy9WyE9TCE8sLk6tLCgtMmAqUsQUVUDVaIRFIwAMSteXXwAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQxKsJegUIiAEQAQ&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+3+release+date"
             },
             {
                 "position": 7,
-                "title": "Season 5",
-                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+season+5&uds=H4sIAAAAAAAA_-NS5uIITk0szs9TMBVidUssSs83YCriAzMUiqESRhAJAAu8L-MsAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxKsJegUIiAEQAQ&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+season+5"
+                "title": "Series",
+                "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+series&uds=H4sIAAAAAAAA_-Oy5GILTi3KTC0WEnJPzEsvVshPUwhPLC5OrSwoLTJgLJLEFFUoBmswwqIBAOUXpkdPAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQxKsJegUIiwEQAQ&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+series"
             },
             {
                 "position": 8,
-                "title": "Meaning",
-                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+meaning&uds=H4sIAAAAAAAA_-NS5GL3TU3My8xLF2J1SyxKzzdgKuIFMxRyIeJGEHEATZSkvioAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxKsJegUIiQEQAQ&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+meaning"
+                "title": "Release date",
+                "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+release+date&uds=H4sIAAAAAAAA_-Ny5eIJSs1JTSxOVUhJLEkVEnJPzEsvVshPUwhPLC5OrSwoLTJgKpLHFFUoQtJmhEUbANkBybpbAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQxKsJegUIiQEQAQ&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+release+date"
             },
             {
                 "position": 9,
-                "title": "Movie",
-                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+movie&uds=H4sIAAAAAAAA_-OS5WL1zS_LTBVidUssSs83YCriBjMUckGiRhBRAAPDG7wmAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxKsJegUIigEQAQ&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+movie"
-            },
-            {
-                "position": 10,
-                "title": "All",
-                "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&source=lnms&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQv_gJegQICRAE",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo"
-            },
-            {
-                "position": 11,
-                "title": "Images",
-                "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQv_gJegQICRAG",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=Fargo"
-            },
-            {
-                "position": 12,
-                "title": "Maps",
-                "link": "https://maps.google.com/maps?q=Fargo&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQv_gJegQICRAI"
-            },
-            {
-                "position": 13,
-                "title": "Shopping",
-                "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&tbm=shop&source=lnms&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQv_gJegQICRAK",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Fargo"
-            },
-            {
-                "position": 14,
-                "title": "Videos",
-                "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&tbm=vid&source=lnms&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQv_gJegQICRAM",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=Fargo"
-            },
-            {
-                "position": 15,
-                "title": "News",
-                "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&tbm=nws&source=lnms&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQv_gJegQICRAO",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo&tbm=nws"
-            },
-            {
-                "position": 16,
-                "title": "Books",
-                "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&tbm=bks&source=lnms&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQv_gJegQICRAQ"
-            },
-            {
-                "position": 17,
-                "title": "Flights",
-                "link": "https://www.google.com/travel/flights?q=Fargo&sca_esv=569950492&tbm=flm&source=lnms&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQv_gJegQICRAS"
-            },
-            {
-                "position": 18,
-                "title": "Finance",
-                "link": "https://www.google.com/finance?sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQv_gJegQICRAU"
+                "title": "Collection",
+                "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+collection&uds=H4sIAAAAAAAA_-Ny5OJyzs_JSU0uyczPExJyT8xLL1bIT1MITywuTq0sKC0yYCqSxRRVSIZrMsKiCQDIFPMQVwAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQxKsJegUIhwEQAQ&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+collection"
             }
         ],
         "organic_results_state": "Results for exact spelling"
     },
     "knowledge_graph": {
-        "title": "Fargo",
-        "type": "2014 \u2027 Drama \u2027 5 seasons",
-        "kgmid": "/m/0y7x4fd",
-        "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0y7x4fd&hl=en-US&hl=Fargo",
-        "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0y7x4fd&q=Fargo",
+        "title": "Gangs of Wasseypur",
+        "type": "Film series",
+        "main_tab_text": "Overview",
+        "kgmid": "/g/11bc6gzh2s",
+        "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11bc6gzh2s&hl=en-US&q=Gangs+of+Wasseypur&kgs=803c0ecc4e574148&shndl=17&source=sh/x",
+        "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F11bc6gzh2s&q=Gangs+of+Wasseypur",
         "tabs": [
             {
                 "text": "Cast",
-                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+cast&uds=H4sIAAAAAAAA_-OS5mJxTiwuEWJ1SyxKzzdgLOICMxSSgYJGEEEAQutzbCQAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxKsJegQIDhAB&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+cast"
+                "si": "ALGXSlY5ASbfYIG_dHPdTIACvuSKYQ9k3Nfu7P71umYkI77Qh3p6KDTZDZwo-v0Qyt1h-wKTqjF0yqCR3ROhF737h--XOShp-YO1PxWSx9GboN1VZTPOQr4lsWHmId_K-UCsqvdNEkbGK-B7R3NiFQhXP9zV1Tr5_e86gE1moKvWWnnnhXh1xMhzX1rWfV0xfToJuqJzNdtM4RNfB44k7XhEdZtQtJayPbzBMmRGdDv8yukyAnUyRLbR3oMKFbW409yilqz3HomNTUvRgC_Z4enswrso0hqeWQ==",
+                "link": "https://www.google.com/search?si=ALGXSlY5ASbfYIG_dHPdTIACvuSKYQ9k3Nfu7P71umYkI77Qh3p6KDTZDZwo-v0Qyt1h-wKTqjF0yqCR3ROhF737h--XOShp-YO1PxWSx9GboN1VZTPOQr4lsWHmId_K-UCsqvdNEkbGK-B7R3NiFQhXP9zV1Tr5_e86gE1moKvWWnnnhXh1xMhzX1rWfV0xfToJuqJzNdtM4RNfB44k7XhEdZtQtJayPbzBMmRGdDv8yukyAnUyRLbR3oMKFbW409yilqz3HomNTUvRgC_Z4enswrso0hqeWQ==",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&si=ALGXSlY5ASbfYIG_dHPdTIACvuSKYQ9k3Nfu7P71umYkI77Qh3p6KDTZDZwo-v0Qyt1h-wKTqjF0yqCR3ROhF737h--XOShp-YO1PxWSx9GboN1VZTPOQr4lsWHmId_K-UCsqvdNEkbGK-B7R3NiFQhXP9zV1Tr5_e86gE1moKvWWnnnhXh1xMhzX1rWfV0xfToJuqJzNdtM4RNfB44k7XhEdZtQtJayPbzBMmRGdDv8yukyAnUyRLbR3oMKFbW409yilqz3HomNTUvRgC_Z4enswrso0hqeWQ%3D%3D"
             },
             {
-                "text": "Weather",
-                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+weather&uds=H4sIAAAAAAAA_-NS5GIPT00syUgtEmJ1SyxKzzdgLOIFMxTKIeJGEHEAFjVp5CoAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxKsJegUIhwEQAQ&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+weather"
+                "text": "Movies",
+                "si": "ALGXSlZh34z_1QI0ige2vFUUkusb4B6qE-474yW9x-XD5QjJsuFr20m9-uJaWnz0dia5y2Bzv-oJqAcc0Xi1SCq0FtAUjkKar8DH1z_upSvY1DyhQOqKjAVmHIG6BrfKLsGCBaaPeMeNUF-1eSfKBn9_OLLO7zNML8zOc1jqs1Xv6Fj8HAkjH_-KAbaWdWVsWnKEqQsVmfgP",
+                "link": "https://www.google.com/search?si=ALGXSlZh34z_1QI0ige2vFUUkusb4B6qE-474yW9x-XD5QjJsuFr20m9-uJaWnz0dia5y2Bzv-oJqAcc0Xi1SCq0FtAUjkKar8DH1z_upSvY1DyhQOqKjAVmHIG6BrfKLsGCBaaPeMeNUF-1eSfKBn9_OLLO7zNML8zOc1jqs1Xv6Fj8HAkjH_-KAbaWdWVsWnKEqQsVmfgP",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&si=ALGXSlZh34z_1QI0ige2vFUUkusb4B6qE-474yW9x-XD5QjJsuFr20m9-uJaWnz0dia5y2Bzv-oJqAcc0Xi1SCq0FtAUjkKar8DH1z_upSvY1DyhQOqKjAVmHIG6BrfKLsGCBaaPeMeNUF-1eSfKBn9_OLLO7zNML8zOc1jqs1Xv6Fj8HAkjH_-KAbaWdWVsWnKEqQsVmfgP"
             },
             {
-                "text": "2023",
-                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+2023&uds=H4sIAAAAAAAA_-OS5mIxMjAyFmJ1SyxKzzdgKuICMxRAgkYQQQC35y4qJAAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxKsJegUIiwEQAQ&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+2023"
+                "text": "Trailers & clips",
+                "si": "ALGXSlaPCZ_SGxXEnnwBYrbYb3Cd0V2gl1DRY4H1Oy_BeZN0HH3ntCKVBTiFYaUX4P0jZoBq5yBh3go_pM5gAWbqMf2057jVKgD-dLXT69DbUxIKDkiCk4pfn00WZ1TanszzDFP-ytSiaTczZdtZD_oi0U58xTBjllo-9pWBZ6AJJLgt_UdlTMDS24mMctuScqzcRhx6atQz",
+                "link": "https://www.google.com/search?si=ALGXSlaPCZ_SGxXEnnwBYrbYb3Cd0V2gl1DRY4H1Oy_BeZN0HH3ntCKVBTiFYaUX4P0jZoBq5yBh3go_pM5gAWbqMf2057jVKgD-dLXT69DbUxIKDkiCk4pfn00WZ1TanszzDFP-ytSiaTczZdtZD_oi0U58xTBjllo-9pWBZ6AJJLgt_UdlTMDS24mMctuScqzcRhx6atQz",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&si=ALGXSlaPCZ_SGxXEnnwBYrbYb3Cd0V2gl1DRY4H1Oy_BeZN0HH3ntCKVBTiFYaUX4P0jZoBq5yBh3go_pM5gAWbqMf2057jVKgD-dLXT69DbUxIKDkiCk4pfn00WZ1TanszzDFP-ytSiaTczZdtZD_oi0U58xTBjllo-9pWBZ6AJJLgt_UdlTMDS24mMctuScqzcRhx6atQz"
             },
             {
-                "text": "Season 5",
-                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+season+5&uds=H4sIAAAAAAAA_-NS5uIITk0szs9TMBVidUssSs83YCriAzMUiqESRhAJAAu8L-MsAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxKsJegUIiAEQAQ&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+season+5"
-            },
-            {
-                "text": "Meaning",
-                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+meaning&uds=H4sIAAAAAAAA_-NS5GL3TU3My8xLF2J1SyxKzzdgKuIFMxRyIeJGEHEATZSkvioAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxKsJegUIiQEQAQ&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+meaning"
-            },
-            {
-                "text": "Movie",
-                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+movie&uds=H4sIAAAAAAAA_-OS5WL1zS_LTBVidUssSs83YCriBjMUckGiRhBRAAPDG7wmAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxKsJegUIigEQAQ&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+movie"
+                "text": "Quotes",
+                "si": "ALGXSla__sxgZWfRKwOxVewSFZEkhetyKSaMrDDyfJuKFBY-m_Y8FkrMm85rIx4kLgP6fYq4AWWslt1QfVHI8DCu0E4ffsRl6ciMSAtavHdoCxmJ__G50476Rs6dNIPZEBVC-MalLyOI6CnpIXd8j2QE-T-UjUYryTKDI0lEaUXLCxgL8jqfmqT7SudSxX2FDj-9eMylAWCqPiKqW3ir8azYabl0R9tzig==",
+                "link": "https://www.google.com/search?si=ALGXSla__sxgZWfRKwOxVewSFZEkhetyKSaMrDDyfJuKFBY-m_Y8FkrMm85rIx4kLgP6fYq4AWWslt1QfVHI8DCu0E4ffsRl6ciMSAtavHdoCxmJ__G50476Rs6dNIPZEBVC-MalLyOI6CnpIXd8j2QE-T-UjUYryTKDI0lEaUXLCxgL8jqfmqT7SudSxX2FDj-9eMylAWCqPiKqW3ir8azYabl0R9tzig==",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&si=ALGXSla__sxgZWfRKwOxVewSFZEkhetyKSaMrDDyfJuKFBY-m_Y8FkrMm85rIx4kLgP6fYq4AWWslt1QfVHI8DCu0E4ffsRl6ciMSAtavHdoCxmJ__G50476Rs6dNIPZEBVC-MalLyOI6CnpIXd8j2QE-T-UjUYryTKDI0lEaUXLCxgL8jqfmqT7SudSxX2FDj-9eMylAWCqPiKqW3ir8azYabl0R9tzig%3D%3D"
             }
         ],
-        "header_images": [
+        "description": "Gangs of Wasseypur is a 2012 Indian Hindi-language two-part gangster action crime film produced and directed by Anurag Kashyap, and written by Kashyap and Zeishan Quadri.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Gangs_of_Wasseypur"
+        },
+        "director": "Anurag Kashyap",
+        "director_links": [
             {
-                "image": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/5c9640c21aa1a30f373cfff4f81df5fb0d9e59c801b4d7715ce2a323662f13b5638d1b1705afc720.jpeg",
-                "source": "http://google.com/search?tbm=isch&q=Fargo"
-            },
-            {
-                "image": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/5c9640c21aa1a30f373cfff4f81df5fb0d9e59c801b4d771ebfe9b702b1b4c0049765c45e6d1e1d0.jpeg",
-                "source": "https://www.amazon.com/Fargo-Season-1-DVD/dp/B00JPFTRB4"
-            },
-            {
-                "image": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/5c9640c21aa1a30f373cfff4f81df5fb0d9e59c801b4d7716a4ef5204bf4e9ab95306991510d5069.jpeg",
-                "source": "https://www.youtube.com/watch?v=I4ISTHi45_s"
-            },
-            {
-                "image": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/5c9640c21aa1a30f373cfff4f81df5fb0d9e59c801b4d77103d14280532765e7bd667c57182b5972.jpeg",
-                "source": "https://www.npr.org/2020/09/25/916525982/fargo-season-4-is-as-good-as-it-gets-again"
-            },
-            {
-                "image": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/5c9640c21aa1a30f373cfff4f81df5fb0d9e59c801b4d7715f593b3a2bb9dc79f7421002e9f92da4.jpeg",
-                "source": "https://deadline.com/2023/08/fargo-fifth-season-premiere-date-first-images-1235521371/"
-            },
-            {
-                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX3qnnbiQu_7CTZpim0PxwYqNAmQB3E8nalW7CAbrd8w&s",
-                "source": "https://www.nytimes.com/2014/04/13/arts/television/a-tv-version-of-fargo-has-parallels-to-the-film.html"
-            },
-            {
-                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh0tWmSnQmtxPLPjNDWWh-Hau4cSWaUk0yHcDnljrn9g&s",
-                "source": "https://www.nbcnews.com/think/opinion/fargo-chris-rock-isn-t-most-exciting-season-it-may-ncna1241184"
+                "text": "Anurag Kashyap",
+                "link": "https://www.google.com/search?sca_esv=569971392&q=Anurag+Kashyap&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFLoG1ejTEPTJXYnUx6dxWkFTk717TvXuLr4geKf3X7V4AT89AXmseAjgJzL28mdlxJOzMibRjtSN9-fBloCRw5V3ETrGU_1T8MvmZZBm-HpW1xOS0OOkn2byoBEBIGYmRYaHBRCnYI0T2KdfW5jBfDDGJI6SzqCpABGNoBIg4q7Imhn1gg%3D%3D&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQmxMoAHoECBgQAg"
             }
         ],
-        "description": "In this anthology series inspired by the 1996 film, each season follows a mostly new cast of characters who get involved with murder investigations in different Midwestern towns, with seemingly unrelated crimes sometimes being connected in some way.",
-        "writers": "Noah Hawley, Bob DeLaurentis, Monica Beletsky",
-        "writers_links": [
+        "characters": "Sardar Khan, Faizal Khan, Definite, Ramadhir Singh",
+        "characters_links": [
             {
-                "text": "Noah Hawley",
-                "link": "https://www.google.com/search?sca_esv=569950492&q=Noah+Hawley&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stILpdHqDs1fzSuibrn3V4e31xXTKz9Z8pj9rm7uJWZZI0WdBw28TsxUBAZzDO4gvttAIc-74_RgwmKQtvoF5Ugj7a9SKrSiEyfLhJllgXJinhxsS2LFSSCTTuK-BNiqKGaPLqFS8aHvXNn-FnTWpx2s5RTZ8902paPQ4XIHMBbVlzgVtzbdZD7iujx37EYTmdKno10f58KX3kgnW3-63l9kVCzbn&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQmxMoAHoECHcQAg"
+                "text": "Sardar Khan",
+                "link": "https://www.google.com/search?sca_esv=569971392&q=Sardar+Khan&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFEZSq_abxYmBljZCAH_VNXonSJ-RZh2g6VNxEDgvlmncOnFlnuqwzZS1P4KI_Z2Xu7joceOXiVJ6FbnuWTsMuwNQyXDY_BpRYcYWewMuocaD3zo9bV1g-lz0HkAfKRXPAicjUPNzN51ekzyf7xzo50H6jAcn_4vVWd7rCN8ZftV-0EPO3nAtjklx5RBc2bIm-RE7neTdSepdSkFUHp1b-YPKUGvQx-kcRHNF1yL_jxe1Jp2Wp0g3qJZY9Yz-yOSrGzHUwiY%3D&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQmxMoAHoECBkQAg"
             },
             {
-                "text": "Bob DeLaurentis",
-                "link": "https://www.google.com/search?sca_esv=569950492&q=Bob+DeLaurentis&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFFfGmTxAnO0SwD_yefAMrBwjV7-lfOyDBe486KQv9epP4NYffUI24cLrPkPn6C0IFECq5KxunwlX3De-gp9EzICzMvvnEVqIqHkBXO3YpVeP9N8sYLTqWdli8sQWC5lrl1D1yMLajZDm2V4VtSOGo4dbOoHDRvODVxGF4xRT_aCT9Dk3VEh-t58myA9HTcTBLaS2BLZnMj_nQ9ifYmyJpZexNZlpO80KSShwzvPP3O7nDq-bvQ%3D%3D&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQmxMoAXoECHcQAw"
+                "text": "Faizal Khan",
+                "link": "https://www.google.com/search?sca_esv=569971392&q=Faizal+Khan+Gangs+of+Wasseypur&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFJFAuqtIvX9zJ3UiequXcdP_o03v5QgSkcfITCURswnaEfNXvEcfYbqlvDSOye0PuJ9shCp-4Mik4jrH1WuQY6dHYdojiFzoiTnS-2k2oEpZ9skjWQaiGhzgqp1sCoZVJCxoD5tBS52q8pFo3gXu5DUrbStEh4lbXj4LdWoSQLSzj3ao1HpCbhtPJunT2mU4w9mylR4f9VWrHSUyaNWPeCkjnrY6Nm05_XYI-AaS1LogyLKTMzhLdrMXlKqpCcSHlDhSOrGJSYaCnL1nDJHx7wkaGx32&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQmxMoAXoECBkQAw"
             },
             {
-                "text": "Monica Beletsky",
-                "link": "https://www.google.com/search?sca_esv=569950492&q=Monica+Beletsky&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFEiryuwYExFDDfx76nH2VRb_PcyCv1a_xAWup6pWJitRl3SUIQj_5lqw4H9OmOwmiC6BzbCEqPFjNyB3u3L6AmhtL3TnYeadeumZW94t49olFxKchn1n2eLD2M0cn1Kzv6z_BLu3AugkAipG9oT8rSkZvnEiFioy5zfQsrXy0mCQdQsKSN72L3v55M71Gxcf9nYhbVa1a2EoJG-9UnNHokkWQu6FLyiUIFjAyoUWrBjliiSO1w%3D%3D&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQmxMoAnoECHcQBA"
+                "text": "Definite",
+                "link": "https://www.google.com/search?sca_esv=569971392&q=Definite+Gangs+of+Wasseypur&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFCanTHCaLyCiCrvyuE0PT1dzNcdgGzgfTYzWZa_jdfcSE11a2zY5zmVXkSXVDXi-AodRW28ZsizgfNhqhU4tpQOgpAhcRQxEm8IwNTveRVzKom0n7Eu9s2uc5BQcqF94rKC5bCWq4CFDSU44flAnAF5Rzsh1nCIApiR1vrl-BrDiN484ngemDoHzbt7LIxYbMP-IiyIearLe5GrXOE9IFXjl05vzsr0lVcjam5-taH-aWrUKYGGuw_CGhXq0NIC0xylq3CNq1pdmfcXXdqQLggudwhvO&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQmxMoAnoECBkQBA"
+            },
+            {
+                "text": "Ramadhir Singh",
+                "link": "https://www.google.com/search?sca_esv=569971392&q=Ramadhir+Singh&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFGSFaXKxsP2Vz463FUnBCRHe3dlpZH5Y4vpAj4tOZZizX5YenaYxkMgfSZnqnPWNQgnNTb60gs3P0-cpW7k3VwxpGgNGLEBn6gVZjHWEWqE3q6hDz2u7dS9fxn_iQlirI5pM2f-gMeWgKBDS_9if37eHmqb8_QyeeOqwuQwi14wzbkslp20orTS2Cv8pj2VNk23THs5BIjf82FWIIE2gKmQgAGv67WB66LfFTcUUi3E7a9p_PqVNMNnVuW2liBcQ-14m0BM%3D&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQmxMoA3oECBkQBQ"
             },
             {
                 "text": "MORE",
-                "link": "https://www.google.com/search?sca_esv=569950492&q=fargo+tv+series+writers&stick=H4sIAAAAAAAAAOPgE-LSz9U3qDSvMElL0ZLMTrbSLykDoviCovz0osRcq_KizJLUouJFrOJpiUXp-QolZQrFqUWZqcUKUBkAGOhjqkMAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ44YBKAN6BAh3EAU"
-            }
-        ],
-        "adapted_from": "Fargo",
-        "adapted_from_links": [
-            {
-                "text": "Fargo",
-                "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+1996&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stFult6VE71R91O_brQgHW8uyqZLWu5gHd2BQPzNcl4NxbG5D6iwXkPL3-uqSoI2OGEx17z30TnIdsSlDglYNNLucNUJqqY_TiOs_MoeKkhKYI1nCVDrtNC9G51-jOI8fHwwXMMdHnz-TFRv_lylhZ2S3qWS7&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQmxMoAHoECHQQAg"
-            }
-        ],
-        "genre": "Anthology; Crime drama; Noir; Thriller; Black comedy;",
-        "original_network": "FX",
-        "original_network_links": [
-            {
-                "text": "FX",
-                "link": "https://www.google.com/search?sca_esv=569950492&q=FX&stick=H4sIAAAAAAAAAONgVuLWT9c3NDI2NK7Ijl_EyuQWAQBlw1DyFAAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQmxMoAHoECHoQAg"
-            }
-        ],
-        "original_release": "April 15, 2014 \u2013; present",
-        "editorial_reviews": [
-            {
-                "title": "IMDb",
-                "rating": "8.9/10",
-                "link": "https://www.imdb.com/title/tt2802850/"
-            },
-            {
-                "title": "Rotten Tomatoes",
-                "rating": "93%",
-                "link": "https://www.rottentomatoes.com/tv/fargo"
-            }
-        ],
-        "clip": {
-            "title": "FARGO Teaser Trailer (2023) Juno Temple0:50",
-            "link": "https://m.youtube.com/watch?v=CW0WueNFTpM",
-            "duration": "0:50",
-            "image": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/5c9640c21aa1a30f373cfff4f81df5fbc59e3c0f9a6c9bb1d918dd24f9b5f213.jpeg"
-        },
-        "audience_reviews": [
-            {
-                "rating": 4.0,
-                "summary": "Inspired by the 1996 academy award winner film, directed by Coen brothers of its namesake, Fargo is a crime drama ..."
-            },
-            {
-                "rating": 4.0,
-                "summary": "As a fan of the 1996 film, I was skeptical, but so far I've been impressed. Season One was certainly good, but Season Two was quite ..."
-            }
-        ],
-        "user_statistics": {
-            "platform": "Google users",
-            "statistic": "87% liked this TV show"
-        },
-        "watch_now": [
-            {
-                "name": "Watch now Subscription",
-                "link": "https://www.hulu.com/series/203cda1b-7919-40fb-ab36-1e45b3ed2a50",
-                "image": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/5c9640c21aa1a30f373cfff4f81df5fbee0136f9f5b524f03a5f53f93b7d32fc23ff958c501db7c0.png"
+                "link": "https://www.google.com/search?sca_esv=569971392&q=gangs+of+wasseypur+characters&stick=H4sIAAAAAAAAAOPgE-LVT9c3NExKNkuvyjAq1pLPTrbST8vMyQUT8cWpRZmpxVbJGYlFicklqUXFi1hl0xPz0osV8tMUyhOLi1MrC0qLFBDyAAOUa6xSAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ44YBKAR6BAgZEAY"
             }
         ],
         "cast": [
             {
-                "name": "Billy Bob Thornton (Lorne Malvo)",
+                "name": "Manoj Bajpayee",
                 "extensions": [
-                    "Lorne Malvo"
+                    "Sardar Khan"
                 ],
-                "link": "https://www.google.com/search?sca_esv=569950492&q=Billy+Bob+Thornton&stick=H4sIAAAAAAAAAONgFuLSz9U3qDSvMElLUeIAsQ3TMiy1OEPCQvIdk0vyixaxCjll5uRUKjjlJymEZOQX5ZXk5-1gZQQA9ubDwTsAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxA16BAhhEAM",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Billy+Bob+Thornton&stick=H4sIAAAAAAAAAONgFuLSz9U3qDSvMElLUeIAsQ3TMiy1OEPCQvIdk0vyixaxCjll5uRUKjjlJymEZOQX5ZXk5-1gZQQA9ubDwTsAAAA",
-                "image": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/5c9640c21aa1a30f373cfff4f81df5fb8b465309cb1db95ea09c0feaa877b1e6.jpeg"
+                "link": "https://www.google.com/search?sca_esv=569971392&q=Manoj+Bajpayee&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLUz9U3sLAwjU_SksxOttJPy8zJBRPxxalFmanFVsmJxSWLWPl8E_PysxScErMKEitTU3ewMgIAfaok2UsAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQgOQBegQIPxAE",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Manoj+Bajpayee&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLUz9U3sLAwjU_SksxOttJPy8zJBRPxxalFmanFVsmJxSWLWPl8E_PysxScErMKEitTU3ewMgIAfaok2UsAAAA",
+                "image": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/0173c3f6ad32324ae9e4320b30720ba7fb95a24a986b8d76bd0960ea83fc8eb1.jpeg"
             },
             {
-                "name": "Martin Freeman (Lester Nygaard)",
+                "name": "Nawazuddin Siddiqui",
                 "extensions": [
-                    "Lester Nygaard"
+                    "Faizal Khan"
                 ],
-                "link": "https://www.google.com/search?sca_esv=569950492&q=Martin+Freeman&stick=H4sIAAAAAAAAAONgFuLSz9U3qDSvMElLUeIEsY3SqozLtThDwkLyHZNL8osWsfL5JhaVZOYpuBWlpuYm5u1gZQQA_iawozgAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxA16BAhhEAU",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Martin+Freeman&stick=H4sIAAAAAAAAAONgFuLSz9U3qDSvMElLUeIEsY3SqozLtThDwkLyHZNL8osWsfL5JhaVZOYpuBWlpuYm5u1gZQQA_iawozgAAAA",
-                "image": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/5c9640c21aa1a30f373cfff4f81df5fbb4c8d247921013b7431b5e259d7734ce.jpeg"
+                "link": "https://www.google.com/search?sca_esv=569971392&q=Nawazuddin+Siddiqui&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3MDPJLjdO05LMTrbST8vMyQUT8cWpRZmpxVbJicUli1iF_RLLE6tKU1Iy8xSCM4FUYWnmDlZGAHkVPJ5RAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQgOQBegQIPxAG",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nawazuddin+Siddiqui&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3MDPJLjdO05LMTrbST8vMyQUT8cWpRZmpxVbJicUli1iF_RLLE6tKU1Iy8xSCM4FUYWnmDlZGAHkVPJ5RAAAA",
+                "image": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/0173c3f6ad32324ae9e4320b30720ba7d8b3479617a03556b2503d03189bd2b5.jpeg"
             },
             {
-                "name": "Allison Tolman (Molly Solverson)",
+                "name": "Tigmanshu Dhulia",
                 "extensions": [
-                    "Molly Solverson"
+                    "Ramadhir Singh"
                 ],
-                "link": "https://www.google.com/search?sca_esv=569950492&q=Allison+Tolman&stick=H4sIAAAAAAAAAONgFuLSz9U3qDSvMElLUQKzCwzNjAsKtThDwkLyHZNL8osWsfI55uRkFufnKYTk5-Qm5u1gZQQAXG39OTkAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxA16BAhhEAc",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Allison+Tolman&stick=H4sIAAAAAAAAAONgFuLSz9U3qDSvMElLUQKzCwzNjAsKtThDwkLyHZNL8osWsfI55uRkFufnKYTk5-Qm5u1gZQQAXG39OTkAAAA",
-                "image": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/5c9640c21aa1a30f373cfff4f81df5fb96c42ff230da33bcaaf9618ef6d6f84d.jpeg"
+                "link": "https://www.google.com/search?sca_esv=569971392&q=Tigmanshu+Dhulia&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3MMkztMwq1pLMTrbST8vMyQUT8cWpRZmpxVbJicUli1gFQjLTcxPzijNKFVwySnMyE3ewMgIASfy6O04AAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQgOQBegQIPxAI",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tigmanshu+Dhulia&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3MMkztMwq1pLMTrbST8vMyQUT8cWpRZmpxVbJicUli1gFQjLTcxPzijNKFVwySnMyE3ewMgIASfy6O04AAAA",
+                "image": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/0173c3f6ad32324ae9e4320b30720ba7a96c279ceedbd339d0e1c4568898cc88.jpeg"
             },
             {
-                "name": "Colin Hanks (Gus Grimly)",
+                "name": "Zeishan Quadri",
                 "extensions": [
-                    "Gus Grimly"
+                    "Definite"
                 ],
-                "link": "https://www.google.com/search?sca_esv=569950492&q=Colin+Hanks&stick=H4sIAAAAAAAAAONgFuLSz9U3qDSvMElLUeIEsU2SLDKqtDhDwkLyHZNL8osWsXI75-dk5il4JOZlF-9gZQQAuuYLvzUAAAA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQxA16BAhhEAk",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Colin+Hanks&stick=H4sIAAAAAAAAAONgFuLSz9U3qDSvMElLUeIEsU2SLDKqtDhDwkLyHZNL8osWsXI75-dk5il4JOZlF-9gZQQAuuYLvzUAAAA",
-                "image": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/5c9640c21aa1a30f373cfff4f81df5fb46dbfd62d5ae7bfde4c12776db132099.jpeg"
+                "link": "https://www.google.com/search?sca_esv=569971392&q=Zeishan+Quadri&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3yE6zrCpP0pLMTrbST8vMyQUT8cWpRZmpxVbJicUli1j5olIzizMS8xQCSxNTijJ3sDICAEa131VMAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQgOQBegQIPxAK",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Zeishan+Quadri&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3yE6zrCpP0pLMTrbST8vMyQUT8cWpRZmpxVbJicUli1j5olIzizMS8xQCSxNTijJ3sDICAEa131VMAAAA",
+                "image": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/0173c3f6ad32324ae9e4320b30720ba7094b38febdc60502e39198417602fa77.jpeg"
+            },
+            {
+                "name": "Huma Qureshi",
+                "extensions": [
+                    "Mohsina"
+                ],
+                "link": "https://www.google.com/search?sca_esv=569971392&q=Huma+Qureshi&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3yCoxKjAs05LMTrbST8vMyQUT8cWpRZmpxVbJicUli1h5PEpzExUCS4tSizMyd7AyAgApGmsYSgAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQgOQBegQIPxAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Huma+Qureshi&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3yCoxKjAs05LMTrbST8vMyQUT8cWpRZmpxVbJicUli1h5PEpzExUCS4tSizMyd7AyAgApGmsYSgAAAA",
+                "image": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/0173c3f6ad32324ae9e4320b30720ba786a15bdc3a6cd106c19176c4d84ab6ef.jpeg"
+            },
+            {
+                "name": "Richa Chadha",
+                "extensions": [
+                    "Nagma Khatoon"
+                ],
+                "link": "https://www.google.com/search?sca_esv=569971392&q=Richa+Chadha&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3MC0wqzQt15LMTrbST8vMyQUT8cWpRZmpxVbJicUli1h5gjKTMxIVnDMSUzISd7AyAgC-U8EYSgAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQgOQBegQIPxAO",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Richa+Chadha&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3MC0wqzQt15LMTrbST8vMyQUT8cWpRZmpxVbJicUli1h5gjKTMxIVnDMSUzISd7AyAgC-U8EYSgAAAA",
+                "image": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/0173c3f6ad32324ae9e4320b30720ba7ad44121a28a32ef9e24656800ba1f1b8.jpeg"
+            },
+            {
+                "name": "Jaideep Ahlawat",
+                "extensions": [
+                    "Shahid Khan"
+                ],
+                "link": "https://www.google.com/search?sca_esv=569971392&q=Jaideep+Ahlawat&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3SEkvME0x0JLMTrbST8vMyQUT8cWpRZmpxVbJicUli1j5vRIzU1JTCxQcM3ISyxNLdrAyAgCkbPV0TQAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQgOQBegQIPxAQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jaideep+Ahlawat&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3SEkvME0x0JLMTrbST8vMyQUT8cWpRZmpxVbJicUli1j5vRIzU1JTCxQcM3ISyxNLdrAyAgCkbPV0TQAAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdiwdWGVYDXDvz_Bit6rE-5xUhZFF5Fw-QdnYhKMKTLrQ6MajwFbuRDdxhyA&s=10"
+            }
+        ],
+        "movies": [
+            {
+                "name": "Gangs of Wasseypur",
+                "extensions": [
+                    "2012"
+                ],
+                "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+Of+Wasseypur+Part+1&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3SM-uyM020pLKTrbST8vMyQUT8cWpRZmpxVYgdvEiVkn3xLz0YgX_NIXwxOLi1MqC0iKFgMSiEgXDHayMAIoEgoZYAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQgOQBegQIUBAE",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+Of+Wasseypur+Part+1&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3SM-uyM020pLKTrbST8vMyQUT8cWpRZmpxVYgdvEiVkn3xLz0YgX_NIXwxOLi1MqC0iKFgMSiEgXDHayMAIoEgoZYAAAA",
+                "image": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/0173c3f6ad32324ae9e4320b30720ba7af6d37e945c48fe783ec9f0a18f36867.jpeg"
+            },
+            {
+                "name": "Gangs of Wasseypur - Part 2",
+                "extensions": [
+                    "2012"
+                ],
+                "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+Of+Wasseypur+2&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3KDC3LM4y0ZLKTrbST8vMyQUT8cWpRZmpxVYgdvEiVhH3xLz0YgX_NIXwxOLi1MqC0iIFox2sjABdfnF3UwAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQgOQBegQIUBAG",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+Of+Wasseypur+2&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3KDC3LM4y0ZLKTrbST8vMyQUT8cWpRZmpxVYgdvEiVhH3xLz0YgX_NIXwxOLi1MqC0iIFox2sjABdfnF3UwAAAA",
+                "image": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/0173c3f6ad32324ae9e4320b30720ba776647298e600c9f0d90db30d5474d256.jpeg"
             }
         ],
         "people_also_search_for": [
             {
-                "name": "True Detective (Since\u00a02014)",
-                "extensions": [
-                    "Since\u00a02014"
-                ],
-                "link": "https://www.google.com/search?sca_esv=569950492&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFN6-Flh87kWoSFDcqtrj2JZjYcl1H-BcbR2zZdBkPPlwuLuor3Hh2F5-7ngxqu_Ld7bD6UtByZ5SUNLji_ZINV5qgjPVwJQQn6dXjXREdwnVsyOKNwZLiApFkLaxQC3BaQxbtZYNFqCHSFs-k1cvu-ua-u9328CfZTBl9NJ0WCQv7aGU4DvoA_6z0dI4JWjwe0yrnDcq2CMXMsGWQuC5oqNeJKdKeNct2a532peLPvTSmZNYk4GUt_rCn77P-rnjMBiUEZU%3D&q=True+Detective&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQs9oBKAB6BAhfEAI",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=True+Detective&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFN6-Flh87kWoSFDcqtrj2JZjYcl1H-BcbR2zZdBkPPlwuLuor3Hh2F5-7ngxqu_Ld7bD6UtByZ5SUNLji_ZINV5qgjPVwJQQn6dXjXREdwnVsyOKNwZLiApFkLaxQC3BaQxbtZYNFqCHSFs-k1cvu-ua-u9328CfZTBl9NJ0WCQv7aGU4DvoA_6z0dI4JWjwe0yrnDcq2CMXMsGWQuC5oqNeJKdKeNct2a532peLPvTSmZNYk4GUt_rCn77P-rnjMBiUEZU%3D",
-                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq5mdH1F24KKnctPaAaUZP_-R0f_ysCg-gtV27&s=0"
+                "name": "Mirzapur",
+                "link": "https://www.google.com/search?sca_esv=569971392&si=ALGXSlZZLz93Q5j8HVkpXyxpTaoqXw8cocmoi-DFAGsSj5diFyU8KcHV33ys_78MGXEVGUfFwpF2apl_v_oAKbWCoGo-exXY2WIZVm8GwZFKNF0vl6F6--_heHsoyNVITIgrnw0LwZumyMJf1cVPf91Kvq89Cfw_zTt7MEiySNOhesPs5jnAN4Mn71fduAHHz6MGIdCM5iDjR0D1nufJKgLqf0-HZ_bawuyHIjrODlXF7CEfzNfD28qD9djk4xIslWhGKtKNVMg35z-q70kLPvO34-JeVsDqMjxKNX09eqGLmJlKXL3_iwZRG_vLa_nvIniNBHeMK3gk&q=Mirzapur&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQs9oBKAB6BAgbEAI",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Mirzapur&si=ALGXSlZZLz93Q5j8HVkpXyxpTaoqXw8cocmoi-DFAGsSj5diFyU8KcHV33ys_78MGXEVGUfFwpF2apl_v_oAKbWCoGo-exXY2WIZVm8GwZFKNF0vl6F6--_heHsoyNVITIgrnw0LwZumyMJf1cVPf91Kvq89Cfw_zTt7MEiySNOhesPs5jnAN4Mn71fduAHHz6MGIdCM5iDjR0D1nufJKgLqf0-HZ_bawuyHIjrODlXF7CEfzNfD28qD9djk4xIslWhGKtKNVMg35z-q70kLPvO34-JeVsDqMjxKNX09eqGLmJlKXL3_iwZRG_vLa_nvIniNBHeMK3gk",
+                "image": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/0173c3f6ad32324ae9e4320b30720ba7519b2a64e7e3b30634b1b3e5c340d6911f69810c435f4af65587a1fbbc1e3770.jpeg"
             },
             {
-                "name": "Legion (2017 \u2013 2019)",
-                "extensions": [
-                    "2017 \u2013 2019"
-                ],
-                "link": "https://www.google.com/search?sca_esv=569950492&si=ALGXSlZZLz93Q5j8HVkpXyxpTaoqXw8cocmoi-DFAGsSj5diFzS9eiVXYiGGgoVbbRorFJgT6nmqzINF2dkrM-j2j20IGsKapzH1ACTnDZ3zDn7kW_jHiBkzmCrQQGQEjJujq6UmHels-dSU8b4O2azuUv40aO20pGiGEFASDG4ZpyAsM6gwLX1QUL7o05R8PWQTmVuXaAJJkqEAeGQyJy1fIC8lCXom2wcDe4iugWeTgtXm6sH5eGizj1Aa7TZMlTpXoFJjFafmscapPMO6eiD7_XARv8wuO-QS_vGBaxmCc2Z2Oj1y4By6D4Za4ZntHfSvZSwitP1N&q=Legion+(TV+series)&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQs9oBKAF6BAhfEAM",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Legion+%28TV+series%29&si=ALGXSlZZLz93Q5j8HVkpXyxpTaoqXw8cocmoi-DFAGsSj5diFzS9eiVXYiGGgoVbbRorFJgT6nmqzINF2dkrM-j2j20IGsKapzH1ACTnDZ3zDn7kW_jHiBkzmCrQQGQEjJujq6UmHels-dSU8b4O2azuUv40aO20pGiGEFASDG4ZpyAsM6gwLX1QUL7o05R8PWQTmVuXaAJJkqEAeGQyJy1fIC8lCXom2wcDe4iugWeTgtXm6sH5eGizj1Aa7TZMlTpXoFJjFafmscapPMO6eiD7_XARv8wuO-QS_vGBaxmCc2Z2Oj1y4By6D4Za4ZntHfSvZSwitP1N",
-                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmyxbo6QshoStwP7laOa5tN_RncgKnJNNxmZ2b&s=0"
+                "name": "Sacred Games",
+                "link": "https://www.google.com/search?sca_esv=569971392&si=ALGXSlZZLz93Q5j8HVkpXyxpTaoqXw8cocmoi-DFAGsSj5diF56-Y98Zn1_x5yWGzkv4HRwSO_YkNsdYqla5UUm03YRysqbrZWfhcz0G5oWKicF3Y53rJhkTxGo9slUBFKhV5Il-aXngVpH4tM1MoOrGnrijS73Lbh6ACsz6e-LHl8LaDqIcwngz8_NbdHUPlzQqrXrS6MXioNwhcAW7X9g6_5pE3t6CtUyEI6EdopashkAU7BfQ9QK67I-TMQnobYlhwGQcFq6hfsuIsdTfPN3HwrTbAOPgjfQDzpdtrZEceHgQ9jdj0pzLrZJ6FKbafytJqJ_4gxHs&q=Sacred+Games&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQs9oBKAF6BAgbEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sacred+Games&si=ALGXSlZZLz93Q5j8HVkpXyxpTaoqXw8cocmoi-DFAGsSj5diF56-Y98Zn1_x5yWGzkv4HRwSO_YkNsdYqla5UUm03YRysqbrZWfhcz0G5oWKicF3Y53rJhkTxGo9slUBFKhV5Il-aXngVpH4tM1MoOrGnrijS73Lbh6ACsz6e-LHl8LaDqIcwngz8_NbdHUPlzQqrXrS6MXioNwhcAW7X9g6_5pE3t6CtUyEI6EdopashkAU7BfQ9QK67I-TMQnobYlhwGQcFq6hfsuIsdTfPN3HwrTbAOPgjfQDzpdtrZEceHgQ9jdj0pzLrZJ6FKbafytJqJ_4gxHs",
+                "image": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/0173c3f6ad32324ae9e4320b30720ba7519b2a64e7e3b30634b1b3e5c340d6914a5bd0484c6b6b3eade320dcd53b7e85.jpeg"
             },
             {
-                "name": "Twin Peaks (Since\u00a01990)",
-                "extensions": [
-                    "Since\u00a01990"
-                ],
-                "link": "https://www.google.com/search?sca_esv=569950492&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2mevlcbKiTMIW2Td9wWD6Zpxw5_A6Y4pUQztjEvnvnj5dHzqFaBNmm6faIt5POhZ3TzUqAIo9sqVqAwkz5RuTtZGBtkdDk4ZHzALPx7XkJK5TAMsoLMya-ygay73X4ii9BVMkWig6qzrDx1JGKbsGQbl_6gSaHxrmvfQO0rFUIZIug7dbiRAxXeEQNY6nWRWv-X7v9SH_NaUrFAzBpiat3oRz6LPaNpI8RyAe2pewM0s3dKlhDKGy_H_BffosemyS6_acd08%3D&q=Twin+Peaks&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQs9oBKAJ6BAhfEAQ",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Twin+Peaks&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2mevlcbKiTMIW2Td9wWD6Zpxw5_A6Y4pUQztjEvnvnj5dHzqFaBNmm6faIt5POhZ3TzUqAIo9sqVqAwkz5RuTtZGBtkdDk4ZHzALPx7XkJK5TAMsoLMya-ygay73X4ii9BVMkWig6qzrDx1JGKbsGQbl_6gSaHxrmvfQO0rFUIZIug7dbiRAxXeEQNY6nWRWv-X7v9SH_NaUrFAzBpiat3oRz6LPaNpI8RyAe2pewM0s3dKlhDKGy_H_BffosemyS6_acd08%3D",
-                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2rtu9TnNGqicImBmlPN6edKoyPNwXS5SmNOHE&s=0"
+                "name": "Hera Pheri",
+                "link": "https://www.google.com/search?sca_esv=569971392&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stCh_uVDW6xJFQrkGvIFZKj1WxPp8CnbdO04hrteo6II_8oe-pnoSXioAKXGwqRBzkBk8uLJUo4C8e1TJITQELFtejp0yxfvoJtM9VwY49HR4aOcLbSieQG3DCzQFIVBhZaYXNoD6NmQiFF_mA3jPP_HLNVPFJjCOsGtCAzCHBh94efB-BXWDWiY1Jj_ZXfR8Dd3L4PFf08MfnXQkbcNaTBNWPrfyJlgn1qylitEWtCHBKuXT2odbemWbgkdypQHsyaGaH4M%3D&q=Hera+Pheri&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQs9oBKAJ6BAgbEAQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hera+Pheri&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stCh_uVDW6xJFQrkGvIFZKj1WxPp8CnbdO04hrteo6II_8oe-pnoSXioAKXGwqRBzkBk8uLJUo4C8e1TJITQELFtejp0yxfvoJtM9VwY49HR4aOcLbSieQG3DCzQFIVBhZaYXNoD6NmQiFF_mA3jPP_HLNVPFJjCOsGtCAzCHBh94efB-BXWDWiY1Jj_ZXfR8Dd3L4PFf08MfnXQkbcNaTBNWPrfyJlgn1qylitEWtCHBKuXT2odbemWbgkdypQHsyaGaH4M%3D",
+                "image": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/0173c3f6ad32324ae9e4320b30720ba7519b2a64e7e3b30634b1b3e5c340d69189fbc90c0c61896179a92d80e6b2aa71.jpeg"
             },
             {
-                "name": "American Crime Story (Since\u00a02016)",
-                "extensions": [
-                    "Since\u00a02016"
-                ],
-                "link": "https://www.google.com/search?sca_esv=569950492&si=ALGXSlYPkF2MKlZLFV56Lmj_Zy6ZT1rGy73vWpQufutnylBobRGjr9oE5qq7Ra8F3vkfS8I_sCCVTJdeLzcZID1FsQAu0DjMiW81_ygdPosBzKZ9sn93ETqh1Zi86P1o8V98uGi-25FpfQBat_Xblt6ikALGrNL4L3hpE6fD0dBfkqCqxQi9fsKXr2v0_zvchMH93ch6JtlbLKF_kJSZna7j9hJaX9D6M5Z788JpAAQVs5gA3N7XjuCFMK9KXDmAxrgsQt8Hik6_pliB6qUDepK3MDGeKJpVOswqWasEIj08b1ewrz276lDRGUpV7cjjjE-LPAfN47v4&q=American+Crime+Story&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQs9oBKAN6BAhfEAU",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=American+Crime+Story&si=ALGXSlYPkF2MKlZLFV56Lmj_Zy6ZT1rGy73vWpQufutnylBobRGjr9oE5qq7Ra8F3vkfS8I_sCCVTJdeLzcZID1FsQAu0DjMiW81_ygdPosBzKZ9sn93ETqh1Zi86P1o8V98uGi-25FpfQBat_Xblt6ikALGrNL4L3hpE6fD0dBfkqCqxQi9fsKXr2v0_zvchMH93ch6JtlbLKF_kJSZna7j9hJaX9D6M5Z788JpAAQVs5gA3N7XjuCFMK9KXDmAxrgsQt8Hik6_pliB6qUDepK3MDGeKJpVOswqWasEIj08b1ewrz276lDRGUpV7cjjjE-LPAfN47v4",
-                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIs_DErqeRC-whkOj8GPhKRXGmcG1_KgsNCB_qUXZLbiTUqhHNuSio&s=0"
+                "name": "3 Idiots",
+                "link": "https://www.google.com/search?sca_esv=569971392&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFF1qIWdtkAr09Z6K7ucgr8RsBVdt28UiI7LBDAz3xxaBWcL-wput8jRRU91m9bVfyruaVFPlVwLq5PT7PyeMHNR8MYxYQD9ioisD1VS3c8S4iJAWz6WsjqP2gAdrvJ95Dd3EvVy0ccPRJkhLiXfe_VrsfJO9MmEQ7s0QRxnjW8GdIuDA2nPGd_r7Hk3EFPN-9kKJ-N0kFMH82qN18tXfEtMWHk7UEwXWNPya9BAUs86OkRGOR7MQhw-nTdRDWqD7BXo9Gj8%3D&q=3+Idiots&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQs9oBKAN6BAgbEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=3+Idiots&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFF1qIWdtkAr09Z6K7ucgr8RsBVdt28UiI7LBDAz3xxaBWcL-wput8jRRU91m9bVfyruaVFPlVwLq5PT7PyeMHNR8MYxYQD9ioisD1VS3c8S4iJAWz6WsjqP2gAdrvJ95Dd3EvVy0ccPRJkhLiXfe_VrsfJO9MmEQ7s0QRxnjW8GdIuDA2nPGd_r7Hk3EFPN-9kKJ-N0kFMH82qN18tXfEtMWHk7UEwXWNPya9BAUs86OkRGOR7MQhw-nTdRDWqD7BXo9Gj8%3D",
+                "image": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/0173c3f6ad32324ae9e4320b30720ba7519b2a64e7e3b30634b1b3e5c340d6911bdb2ba4f04f20da23d99ff952c59821.jpeg"
             }
-        ]
+        ],
+        "people_also_search_for_link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVkLlagkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrknpiXXqyQn6YQnlhcnFpZUFq0g5XxFpskw4ErmUvcl86pCbExfs65KtLsWNA17ijJnUYAxmdn7oAAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ4qYDegQIGxAG",
+        "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVkLlagkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrknpiXXqyQn6YQnlhcnFpZUFq0g5XxFpskw4ErmUvcl86pCbExfs65KtLsWNA17ijJnUYAxmdn7oAAAAA"
     },
     "inline_images": [
         {
-            "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&tbm=isch&source=iu&ictx=1&vet=1&fir=gauIom-3SrctCM%252CAgHmtKb-GANbSM%252C%252Fm%252F0y7x4fd%253BeBENGHg1477vgM%252CwrpePBBhEVacsM%252C_%253B1fPFSsLuekipHM%252Cj9euNOc88EM3nM%252C_%253B0pyWwASSagkrxM%252CfakhMDwnGZZ4KM%252C_%253B4dExN6tPm9ThfM%252CTmd7B5fni2Yo4M%252C_%253BBa_swCP8G47QHM%252C9B7OeNTky28k7M%252C_%253By7kSLdzpwmnGFM%252CO2xEEmeM0tPLIM%252C_&usg=AI4_-kRuBD7IdHlQDsD6SfY77UN3Ti0Vag&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ_B16BAhpEAE#imgrc=gauIom-3SrctCM",
-            "source": "http://google.com/search?tbm=isch&q=Fargo",
-            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/7156c47d6610a776579d61e30b4850491b7113ade553156cb418c053f4326fb0.jpeg",
-            "original": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVbmhAGZL9wtdm9QAg_5sbj0koQQ0rtrUUjEJF1PowuZzjqR2C",
-            "source_name": "google.com"
-        },
-        {
-            "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&tbm=isch&source=iu&ictx=1&vet=1&fir=eBENGHg1477vgM%252CwrpePBBhEVacsM%252C_%253B1fPFSsLuekipHM%252Cj9euNOc88EM3nM%252C_%253B0pyWwASSagkrxM%252CfakhMDwnGZZ4KM%252C_%253B4dExN6tPm9ThfM%252CTmd7B5fni2Yo4M%252C_%253BBa_swCP8G47QHM%252C9B7OeNTky28k7M%252C_%253By7kSLdzpwmnGFM%252CO2xEEmeM0tPLIM%252C_&usg=AI4_-kQyEYHm3bQZ1vNCTlstjnqyF16AVA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ_h16BAhzEAE#imgrc=eBENGHg1477vgM",
-            "source": "https://www.amazon.com/Fargo-Season-1-DVD/dp/B00JPFTRB4",
-            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/7156c47d6610a7766e2381b1f0a92f774c6265eb7cb78ed1c9f21870740c428d.jpeg",
-            "original": "https://m.media-amazon.com/images/I/91yOXkF67oL._AC_UF894,1000_QL80_.jpg",
-            "title": "Fargo - Season 1 [DVD] [2014]",
+            "source": "https://www.amazon.com/Gangs-Wasseypur-Making-Modern-Classic/dp/9350296217",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4aUGZU8Cuk2TLu0xJYTuCMvzkGKuWXduJ0lXpp_OEKOpPe_PcfoEZqyY5&s",
+            "original": "https://m.media-amazon.com/images/I/71mntzZ3s1L._AC_UF1000,1000_QL80_.jpg",
+            "title": "Gangs of Wasseypur : The Making of a Modern Classic",
             "source_name": "Amazon"
         },
         {
-            "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&tbm=isch&source=iu&ictx=1&vet=1&fir=eBENGHg1477vgM%252CwrpePBBhEVacsM%252C_%253B1fPFSsLuekipHM%252Cj9euNOc88EM3nM%252C_%253B0pyWwASSagkrxM%252CfakhMDwnGZZ4KM%252C_%253B4dExN6tPm9ThfM%252CTmd7B5fni2Yo4M%252C_%253BBa_swCP8G47QHM%252C9B7OeNTky28k7M%252C_%253By7kSLdzpwmnGFM%252CO2xEEmeM0tPLIM%252C_&usg=AI4_-kQyEYHm3bQZ1vNCTlstjnqyF16AVA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ_h16BAhsEAE#imgrc=1fPFSsLuekipHM",
-            "source": "https://www.youtube.com/watch?v=I4ISTHi45_s",
-            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/7156c47d6610a77623893d6d236dfa154aa25454191835268a2921e49b53a57e.jpeg",
-            "original": "https://i.ytimg.com/vi/I4ISTHi45_s/maxresdefault.jpg",
-            "title": "Fargo Season 4 Trailer | Rotten Tomatoes TV",
+            "source": "https://en.wikipedia.org/wiki/Gangs_of_Wasseypur_%E2%80%93_Part_2",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA924UIP7jC4w7sF8xc0QA-jW0LD7meYsrtyVxHsLpBG4ria7KmCiZmCDa&s",
+            "original": "https://upload.wikimedia.org/wikipedia/en/5/58/Gangs_of_wasseypur_II.jpg",
+            "title": "Gangs of Wasseypur \u2013 Part 2 - Wikipedia",
+            "source_name": "Wikipedia"
+        },
+        {
+            "source": "https://m.youtube.com/watch?v=CiCc0Ds_Alc",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi5wpk_c78TJBT2AeWNCLOq9cmBsjDeeA2o8MHpqFLsj4xm0GIyueXskgE7w&s",
+            "original": "https://i.ytimg.com/vi/CiCc0Ds_Alc/maxresdefault.jpg",
+            "title": "Gangs Of Wasseypur - Part 1 | Scene 8 | Gangs of \u0935\u093e\u0938\u0947\u092a\u0941\u0930 | Manoj Bajpayee |  Viacom18 Studios",
             "source_name": "YouTube"
         },
         {
-            "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&tbm=isch&source=iu&ictx=1&vet=1&fir=eBENGHg1477vgM%252CwrpePBBhEVacsM%252C_%253B1fPFSsLuekipHM%252Cj9euNOc88EM3nM%252C_%253B0pyWwASSagkrxM%252CfakhMDwnGZZ4KM%252C_%253B4dExN6tPm9ThfM%252CTmd7B5fni2Yo4M%252C_%253BBa_swCP8G47QHM%252C9B7OeNTky28k7M%252C_%253By7kSLdzpwmnGFM%252CO2xEEmeM0tPLIM%252C_&usg=AI4_-kQyEYHm3bQZ1vNCTlstjnqyF16AVA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ_h16BAhyEAE#imgrc=0pyWwASSagkrxM",
-            "source": "https://www.npr.org/2020/09/25/916525982/fargo-season-4-is-as-good-as-it-gets-again",
-            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/7156c47d6610a776a00d2a80c8fbbe652133849a9ef14a368b7df60b16b05a23.jpeg",
-            "original": "https://media.npr.org/assets/img/2020/09/25/fargo_401_0172r_wide-76da68a4505fe1989e75e4915fe3ea0649bf3e26.jpg",
-            "title": "Fargo' Season 4 Review: It's As Good As It Gets \u2014 Again : NPR",
-            "source_name": "NPR"
-        },
-        {
-            "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&tbm=isch&source=iu&ictx=1&vet=1&fir=eBENGHg1477vgM%252CwrpePBBhEVacsM%252C_%253B1fPFSsLuekipHM%252Cj9euNOc88EM3nM%252C_%253B0pyWwASSagkrxM%252CfakhMDwnGZZ4KM%252C_%253B4dExN6tPm9ThfM%252CTmd7B5fni2Yo4M%252C_%253BBa_swCP8G47QHM%252C9B7OeNTky28k7M%252C_%253By7kSLdzpwmnGFM%252CO2xEEmeM0tPLIM%252C_&usg=AI4_-kQyEYHm3bQZ1vNCTlstjnqyF16AVA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ_h16BAhwEAE#imgrc=4dExN6tPm9ThfM",
-            "source": "https://deadline.com/2023/08/fargo-fifth-season-premiere-date-first-images-1235521371/",
-            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/7156c47d6610a776cc6e42593ff6314fb9dad08bcecaa6bd3a369ae0443b934a.jpeg",
-            "original": "https://deadline.com/wp-content/uploads/2023/08/FXs-Fargo-Sam-Spruell-as-Ole-Munch.jpg",
-            "title": "Fargo' Season 5 Premiere Date, Plot Details & First Images ...",
-            "source_name": "Deadline"
-        },
-        {
-            "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&tbm=isch&source=iu&ictx=1&vet=1&fir=eBENGHg1477vgM%252CwrpePBBhEVacsM%252C_%253B1fPFSsLuekipHM%252Cj9euNOc88EM3nM%252C_%253B0pyWwASSagkrxM%252CfakhMDwnGZZ4KM%252C_%253B4dExN6tPm9ThfM%252CTmd7B5fni2Yo4M%252C_%253BBa_swCP8G47QHM%252C9B7OeNTky28k7M%252C_%253By7kSLdzpwmnGFM%252CO2xEEmeM0tPLIM%252C_&usg=AI4_-kQyEYHm3bQZ1vNCTlstjnqyF16AVA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ_h16BAhuEAE#imgrc=Ba_swCP8G47QHM",
-            "source": "https://www.nytimes.com/2014/04/13/arts/television/a-tv-version-of-fargo-has-parallels-to-the-film.html",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX3qnnbiQu_7CTZpim0PxwYqNAmQB3E8nalW7CAbrd8w&s",
-            "original": "https://static01.nyt.com/images/2014/04/13/arts/13FARGO_SPAN/13FARGO-superJumbo.jpg",
-            "title": "A TV Version of 'Fargo' Has Parallels to the Film - The New ...",
-            "source_name": "The New York Times"
-        },
-        {
-            "link": "https://www.google.com/search?q=Fargo&sca_esv=569950492&tbm=isch&source=iu&ictx=1&vet=1&fir=eBENGHg1477vgM%252CwrpePBBhEVacsM%252C_%253B1fPFSsLuekipHM%252Cj9euNOc88EM3nM%252C_%253B0pyWwASSagkrxM%252CfakhMDwnGZZ4KM%252C_%253B4dExN6tPm9ThfM%252CTmd7B5fni2Yo4M%252C_%253BBa_swCP8G47QHM%252C9B7OeNTky28k7M%252C_%253By7kSLdzpwmnGFM%252CO2xEEmeM0tPLIM%252C_&usg=AI4_-kQyEYHm3bQZ1vNCTlstjnqyF16AVA&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ_h16BAh1EAE#imgrc=y7kSLdzpwmnGFM",
-            "source": "https://www.nbcnews.com/think/opinion/fargo-chris-rock-isn-t-most-exciting-season-it-may-ncna1241184",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh0tWmSnQmtxPLPjNDWWh-Hau4cSWaUk0yHcDnljrn9g&s",
-            "original": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_39/3415197/200925-fargo-season-4-fx-hulu-ac-1026p.jpg",
-            "title": "Fargo' with Chris Rock isn't the most exciting season. But ...",
-            "source_name": "NBC News"
+            "source": "https://www.imdb.com/title/tt1954470/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSptuVvCxFpaoe2f9h1nEJCsUu8Lq9kVUFfFXUqjWLXHF4IXXika3fAutSNRw&s",
+            "original": "https://m.media-amazon.com/images/M/MV5BMzYxZTFkOWEtZGJiMy00MDcwLTk0OWMtYmUzNGFjNmMxMTQyXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_QL75_UY281_CR0,0,500,281_.jpg",
+            "title": "Trailer [OV]",
+            "source_name": "IMDb"
         }
     ],
-    "top_stories": [
+    "inline_videos": [
         {
-            "title": "Attorney general rules Fargo unreasonably delayed release of public records; city disagrees",
-            "link": "https://www.inforum.com/news/fargo/attorney-general-rules-fargo-unreasonably-delayed-release-of-public-records-city-disagrees",
-            "source": "InForum",
-            "date": "1 day ago",
-            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/b793b158adc4a1725b683bd2de7d0c759aa75b129f9f5bef.jpeg"
+            "position": 1,
+            "title": "Gangs of Wasseypur Trailer",
+            "link": "https://www.youtube.com/watch?v=j-AkWDkXcMY",
+            "thumbnail": "https://i.ytimg.com/vi/j-AkWDkXcMY/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kZhmLWIDvAKiPcjzz__aKcaMDwNQ",
+            "channel": "Viacom18 Studios",
+            "platform": "YouTube",
+            "date": "May 3, 2012"
         },
         {
-            "title": "VNL Investigates: Situation of dogs found inside of vehicle in south Fargo is legal",
-            "link": "https://www.valleynewslive.com/2023/09/29/vnl-investigates-situation-dogs-found-inside-vehicle-south-fargo-is-legal/",
-            "source": "Valley News Live",
-            "date": "2 days ago",
-            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/b793b158adc4a1724e52fc2bd3ddbc38a395f2d9893a49ac.jpeg"
+            "position": 2,
+            "title": "Gangs Of Wasseypur - Part 1 | Scene 6 | Gangs of \u0935\u093e\u0938\u0947\u092a\u0941\u0930 ...",
+            "link": "https://www.youtube.com/watch?v=VZVn29oW9-k",
+            "thumbnail": "https://i.ytimg.com/vi/VZVn29oW9-k/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3k0PNETATy_1SHd_9C8XM66hT8Grw",
+            "channel": "Viacom18 Studios",
+            "platform": "YouTube",
+            "date": "Apr 26, 2021"
         },
         {
-            "title": "RedHawks claim championship at WBSC Baseball Champions tournament",
-            "link": "https://www.inforum.com/sports/pro/redhawks-claim-championship-at-wbsc-baseball-champions-tournament",
-            "source": "InForum",
-            "date": "4 hours ago",
-            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/b793b158adc4a172c003b9da76b79604496af5dcfb399ed2.jpeg"
+            "position": 3,
+            "title": "Gangs Of Wasseypur - Part 1 | Scene 8 | Gangs of \u0935\u093e\u0938\u0947\u092a\u0941\u0930 ...",
+            "link": "https://www.youtube.com/watch?v=CiCc0Ds_Alc",
+            "thumbnail": "https://i.ytimg.com/vi/CiCc0Ds_Alc/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kdbodsgweZ9Z1qQJN0cv0AV42s_Q",
+            "channel": "Viacom18 Studios",
+            "platform": "YouTube",
+            "date": "Apr 27, 2021"
         },
         {
-            "title": "Hell Yes, Season 5 Of 'Fargo' Looks So Good",
-            "link": "https://uproxx.com/tv/fargo-season-five-jon-hamm-juno-temple/",
-            "source": "Uproxx",
-            "date": "2 days ago",
-            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/b793b158adc4a17231d5bf637204d488c828f723dcea93c4.jpeg"
+            "position": 4,
+            "title": "Gangs Of Wasseypur: Sultan killed by Definite | Action Scene ...",
+            "link": "https://www.youtube.com/watch?v=jKg52SOhfF0",
+            "thumbnail": "https://i.ytimg.com/vi/jKg52SOhfF0/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3mGEWeRd3lNpuppkZ6YqeSlq9sJgw",
+            "channel": "Prime Video India",
+            "platform": "YouTube",
+            "date": "Jul 1, 2022"
         }
     ],
-    "top_stories_link": "https://www.google.com/search?sca_esv=569950492&q=Fargo&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQt8YBKAF6BAhUEAY",
-    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo&tbm=nws",
     "related_questions": [
         {
-            "question": "What true story is Fargo based on?",
-            "snippet": "It was indeed the murder of Helle Crafts that was cited as the crime behind the making of Fargo. After she was wedded to her husband, the couple relocated to Newtown, Connecticut, and settled into their family life.",
-            "title": "Fargo: Is The Coen Brothers' Movie Based on a True Story? - MovieWeb",
-            "date": "Mar 23, 2022",
-            "link": "https://movieweb.com/fargo-true-story-explained/#:~:text=It%20was%20indeed%20the%20murder,settled%20into%20their%20family%20life.",
-            "displayed_link": "https://movieweb.com \u203a fargo-true-story-explained",
-            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/aaae65c852a9e612a4d40c8a0e65d431c8b36d8842c9ed0376c53a00b7226811.png",
-            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVRGZFNWMDVYYXpSVWNXWlRSSGswTFhwT1EySjVUa2RqVkZwNGVYTjBibko0VjJSU1ZqTkNZVVZzU0VodFFVNXpaRVIyUWw5RlkxVk9PVXczZVdkcE5qUm5la05zRWhkNWJtZGhXbVkzVDBwTGNsRnJVRWxRYzNZMmJXdEJheG9pUVVwM2F5MDRaalU1VDFnek9XcG9XbHBLTUVSVlkxZFRUSFZUWVVaVmVYWlRkdyIsImZjdiI6IjMiLCJlaSI6InluZ2FaZjdPSktyUWtQSVBzdjZta0FrIiwicWMiOiJDZ1ZtWVhKbmJ4QUFmZVVySHo4IiwicXVlc3Rpb24iOiJXaGF0IHRydWUgc3RvcnkgaXMgRmFyZ28gYmFzZWQgb24/IiwibGsiOiJHaUYzYUdGMElIUnlkV1VnYzNSdmNua2dhWE1nWm1GeVoyOGdZbUZ6WldRZ2IyNCIsImJzIjoiY3oyT01RckNRQkJGc1ozS1JnaFdnMDBLTFN4dEpJVmlwLTNhVHRiQlhiTHNocDBKNGczMFNOWmV6Q1NLN2VmOXg0TVNGc2FSb3VhT1VUVGxPM3JCQS1WcndwcUVMNWhpVmJ6T3NJYmxBSmFDa2xCYXRwNENVcDA2X2RHbmxOWGhucHFrVkJVUEExdllHRGZxdktLbEVIclpGNzA1anNPbzFMQmdHOGd5LW9oSEh5UExlSC11WUE0ejQ3eDFmUlVwXzZ1cTRyMmJUajQiLCJpZCI6ImZjXzEifQ==",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVRGZFNWMDVYYXpSVWNXWlRSSGswTFhwT1EySjVUa2RqVkZwNGVYTjBibko0VjJSU1ZqTkNZVVZzU0VodFFVNXpaRVIyUWw5RlkxVk9PVXczZVdkcE5qUm5la05zRWhkNWJtZGhXbVkzVDBwTGNsRnJVRWxRYzNZMmJXdEJheG9pUVVwM2F5MDRaalU1VDFnek9XcG9XbHBLTUVSVlkxZFRUSFZUWVVaVmVYWlRkdyIsImZjdiI6IjMiLCJlaSI6InluZ2FaZjdPSktyUWtQSVBzdjZta0FrIiwicWMiOiJDZ1ZtWVhKbmJ4QUFmZVVySHo4IiwicXVlc3Rpb24iOiJXaGF0IHRydWUgc3RvcnkgaXMgRmFyZ28gYmFzZWQgb24%2FIiwibGsiOiJHaUYzYUdGMElIUnlkV1VnYzNSdmNua2dhWE1nWm1GeVoyOGdZbUZ6WldRZ2IyNCIsImJzIjoiY3oyT01RckNRQkJGc1ozS1JnaFdnMDBLTFN4dEpJVmlwLTNhVHRiQlhiTHNocDBKNGczMFNOWmV6Q1NLN2VmOXg0TVNGc2FSb3VhT1VUVGxPM3JCQS1WcndwcUVMNWhpVmJ6T3NJYmxBSmFDa2xCYXRwNENVcDA2X2RHbmxOWGhucHFrVkJVUEExdllHRGZxdktLbEVIclpGNzA1anNPbzFMQmdHOGd5LW9oSEh5UExlSC11WUE0ejQ3eDFmUlVwXzZ1cTRyMmJUajQiLCJpZCI6ImZjXzEifQ%3D%3D"
+            "question": "Is Gangs of Wasseypur in Netflix or Amazon Prime?",
+            "snippet": "Gangs of Wasseypur - Part 1 streaming: where to watch online? Currently you are able to watch \"Gangs of Wasseypur - Part 1\" streaming on Netflix, Voot, EPIC ON.",
+            "title": "Gangs of Wasseypur - Part 1 streaming online - JustWatch",
+            "link": "https://www.justwatch.com/in/movie/gangs-of-wasseypur#:~:text=Gangs%20of%20Wasseypur%20%2D%20Part%201%20streaming%3A%20where%20to%20watch%20online,Netflix%2C%20Voot%2C%20EPIC%20ON.",
+            "displayed_link": "https://www.justwatch.com \u203a movie \u203a gangs-of-wasseypur",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi6jSkfFeB86Ce8e55lH72yHwjvo_RcIUtCv2gt00woam_mip2C0jsRAJJTQ&s",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWGIxbGxWMlpMVGtGQlVuQmZkblJIUjJWUE5sVjRZazR0V0U5MFEzcG5RWFJSVkVvNWRVazVNakJ6VGtVMWJsTkJRa1UxZGs1alNtWkxkSFJoVURaeGIxVlNaMnRURWhkR1dVbGhXbG8yV0VwS0xYVjNZbXRRTFZsbFpXZEJVUm9pUVVwM2F5MDRaWE50U1U1U1pGVlFaSHBUU2pWVVNUQkNUbWR4V1Rkbk56WkZkdyIsImZjdiI6IjMiLCJlaSI6IkZZSWFaWjZYSkotdXdia1AtWWVlZ0FRIiwicWMiOiJDaEpuWVc1bmN5QnZaaUIzWVhOelpYbHdkWElRQUgzbEt4OF8iLCJxdWVzdGlvbiI6IklzIEdhbmdzIG9mIFdhc3NleXB1ciBpbiBOZXRmbGl4IG9yIEFtYXpvbiBQcmltZT8iLCJsayI6IkdqQnBjeUJuWVc1bmN5QnZaaUIzWVhOelpYbHdkWElnYVc0Z2JtVjBabXhwZUNCdmNpQmhiV0Y2YjI0Z2NISnBiV1UiLCJicyI6ImMtTXk0ekwwTEZad1Q4eExMMWJJVDFNSVR5d3VUcTBzS0MxU3lNeFQ4RXN0U2N2SnJGRElMMUp3ekUyc3lzOVRDQ2pLekUyMWw3Z215NlhHcFVoSW43M0V4bUF1WFM2TjhJelVvbFNGVEt5cWpSUVN5eEl6Y3hLVGNvREdQcmJqTXVVeThNeFRLTTlJTEFIYW1wSmFwRkNja1YtYWs2TGdxVkNlV0pLY2djVUllNGxQVVFLTUFBIiwiaWQiOiJmY181In0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWGIxbGxWMlpMVGtGQlVuQmZkblJIUjJWUE5sVjRZazR0V0U5MFEzcG5RWFJSVkVvNWRVazVNakJ6VGtVMWJsTkJRa1UxZGs1alNtWkxkSFJoVURaeGIxVlNaMnRURWhkR1dVbGhXbG8yV0VwS0xYVjNZbXRRTFZsbFpXZEJVUm9pUVVwM2F5MDRaWE50U1U1U1pGVlFaSHBUU2pWVVNUQkNUbWR4V1Rkbk56WkZkdyIsImZjdiI6IjMiLCJlaSI6IkZZSWFaWjZYSkotdXdia1AtWWVlZ0FRIiwicWMiOiJDaEpuWVc1bmN5QnZaaUIzWVhOelpYbHdkWElRQUgzbEt4OF8iLCJxdWVzdGlvbiI6IklzIEdhbmdzIG9mIFdhc3NleXB1ciBpbiBOZXRmbGl4IG9yIEFtYXpvbiBQcmltZT8iLCJsayI6IkdqQnBjeUJuWVc1bmN5QnZaaUIzWVhOelpYbHdkWElnYVc0Z2JtVjBabXhwZUNCdmNpQmhiV0Y2YjI0Z2NISnBiV1UiLCJicyI6ImMtTXk0ekwwTEZad1Q4eExMMWJJVDFNSVR5d3VUcTBzS0MxU3lNeFQ4RXN0U2N2SnJGRElMMUp3ekUyc3lzOVRDQ2pLekUyMWw3Z215NlhHcFVoSW43M0V4bUF1WFM2TjhJelVvbFNGVEt5cWpSUVN5eEl6Y3hLVGNvREdQcmJqTXVVeThNeFRLTTlJTEFIYW1wSmFwRkNja1YtYWs2TGdxVkNlV0pLY2djVUllNGxQVVFLTUFBIiwiaWQiOiJmY181In0%3D"
         },
         {
-            "question": "What's so special about Fargo North Dakota?",
-            "snippet": "The Fargo of today is a vibrant downtown of unique lodging, eating establishments and entertainment venues. It's the largest city in North Dakota and the home of Football Championship Subdivision national powerhouse North Dakota State University.",
-            "title": "Experience Fargo-West Fargo - North Dakota Tourism",
-            "link": "https://www.ndtourism.com/articles/experience-fargo-west-fargo#:~:text=The%20Fargo%20of%20today%20is,powerhouse%20North%20Dakota%20State%20University.",
-            "displayed_link": "https://www.ndtourism.com \u203a articles \u203a experience-fargo...",
-            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/aaae65c852a9e612a4d40c8a0e65d4317eb6848f9a3931c6bad36b97963ece6c.png",
-            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVRGZFNWMDVYYXpSVWNXWlRSSGswTFhwT1EySjVUa2RqVkZwNGVYTjBibko0VjJSU1ZqTkNZVVZzU0VodFFVNXpaRVIyUWw5RlkxVk9PVXczZVdkcE5qUm5la05zRWhkNWJtZGhXbVkzVDBwTGNsRnJVRWxRYzNZMmJXdEJheG9pUVVwM2F5MDRaalU1VDFnek9XcG9XbHBLTUVSVlkxZFRUSFZUWVVaVmVYWlRkdyIsImZjdiI6IjMiLCJlaSI6InluZ2FaZjdPSktyUWtQSVBzdjZta0FrIiwicWMiOiJDZ1ZtWVhKbmJ4QUFmZVVySHo4IiwicXVlc3Rpb24iOiJXaGF0J3Mgc28gc3BlY2lhbCBhYm91dCBGYXJnbyBOb3J0aCBEYWtvdGE/IiwibGsiOiJHaXAzYUdGMEozTWdjMjhnYzNCbFkybGhiQ0JoWW05MWRDQm1ZWEpuYnlCdWIzSjBhQ0JrWVd0dmRHRSIsImJzIjoiY3oyT01RckNRQkJGc1ozS1JnaFdnMDBLTFN4dEpJVmlwLTNhVHRiQlhiTHNocDBKNGczMFNOWmV6Q1NLN2VmOXg0TVNGc2FSb3VhT1VUVGxPM3JCQS1WcndwcUVMNWhpVmJ6T3NJYmxBSmFDa2xCYXRwNENVcDA2X2RHbmxOWGhucHFrVkJVUEExdllHRGZxdktLbEVIclpGNzA1anNPbzFMQmdHOGd5LW9oSEh5UExlSC11WUE0ejQ3eDFmUlVwXzZ1cTRyMmJUajQiLCJpZCI6ImZjXzEifQ==",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVRGZFNWMDVYYXpSVWNXWlRSSGswTFhwT1EySjVUa2RqVkZwNGVYTjBibko0VjJSU1ZqTkNZVVZzU0VodFFVNXpaRVIyUWw5RlkxVk9PVXczZVdkcE5qUm5la05zRWhkNWJtZGhXbVkzVDBwTGNsRnJVRWxRYzNZMmJXdEJheG9pUVVwM2F5MDRaalU1VDFnek9XcG9XbHBLTUVSVlkxZFRUSFZUWVVaVmVYWlRkdyIsImZjdiI6IjMiLCJlaSI6InluZ2FaZjdPSktyUWtQSVBzdjZta0FrIiwicWMiOiJDZ1ZtWVhKbmJ4QUFmZVVySHo4IiwicXVlc3Rpb24iOiJXaGF0J3Mgc28gc3BlY2lhbCBhYm91dCBGYXJnbyBOb3J0aCBEYWtvdGE%2FIiwibGsiOiJHaXAzYUdGMEozTWdjMjhnYzNCbFkybGhiQ0JoWW05MWRDQm1ZWEpuYnlCdWIzSjBhQ0JrWVd0dmRHRSIsImJzIjoiY3oyT01RckNRQkJGc1ozS1JnaFdnMDBLTFN4dEpJVmlwLTNhVHRiQlhiTHNocDBKNGczMFNOWmV6Q1NLN2VmOXg0TVNGc2FSb3VhT1VUVGxPM3JCQS1WcndwcUVMNWhpVmJ6T3NJYmxBSmFDa2xCYXRwNENVcDA2X2RHbmxOWGhucHFrVkJVUEExdllHRGZxdktLbEVIclpGNzA1anNPbzFMQmdHOGd5LW9oSEh5UExlSC11WUE0ejQ3eDFmUlVwXzZ1cTRyMmJUajQiLCJpZCI6ImZjXzEifQ%3D%3D"
+            "question": "Is Gangs of Wasseypur in Netflix?",
+            "snippet": "Watch Gangs of Wasseypur - Part 1 on Netflix Today!",
+            "title": "Watch Gangs of Wasseypur - Part 1 on Netflix Today! | NetflixMovies.com",
+            "link": "https://www.netflixmovies.com/gangs-of-wasseypur-part-1-2012#:~:text=Watch%20Gangs%20of%20Wasseypur%20%2D%20Part%201%20on%20Netflix%20Today!",
+            "displayed_link": "https://www.netflixmovies.com \u203a gangs-of-wasseypur-pa...",
+            "thumbnail": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/5e240f98ee6cd43e8bf2808b6841f9bdb72b6ee07072f96c6ca5377ff4f38a28.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWGIxbGxWMlpMVGtGQlVuQmZkblJIUjJWUE5sVjRZazR0V0U5MFEzcG5RWFJSVkVvNWRVazVNakJ6VGtVMWJsTkJRa1UxZGs1alNtWkxkSFJoVURaeGIxVlNaMnRURWhkR1dVbGhXbG8yV0VwS0xYVjNZbXRRTFZsbFpXZEJVUm9pUVVwM2F5MDRaWE50U1U1U1pGVlFaSHBUU2pWVVNUQkNUbWR4V1Rkbk56WkZkdyIsImZjdiI6IjMiLCJlaSI6IkZZSWFaWjZYSkotdXdia1AtWWVlZ0FRIiwicWMiOiJDaEpuWVc1bmN5QnZaaUIzWVhOelpYbHdkWElRQUgzbEt4OF8iLCJxdWVzdGlvbiI6IklzIEdhbmdzIG9mIFdhc3NleXB1ciBpbiBOZXRmbGl4PyIsImxrIjoiR2lCcGN5Qm5ZVzVuY3lCdlppQjNZWE56Wlhsd2RYSWdhVzRnYm1WMFpteHBlQSIsImJzIjoiYy1NeTR6TDBMRlp3VDh4TEwxYklUMU1JVHl3dVRxMHNLQzFTeU14VDhFc3RTY3ZKckZESUwxSnd6RTJzeXM5VENDakt6RTIxbDdnbXk2WEdwVWhJbjczRXhtQXVYUzZOOEl6VW9sU0ZUS3lxalJRU3l4SXpjeEtUY29ER1ByYmpNdVV5OE14VEtNOUlMQUhhbXBKYXBGQ2NrVi1hazZMZ3FWQ2VXSktjZ2NVSWU0bFBVUUtNQUEiLCJpZCI6ImZjXzUifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWGIxbGxWMlpMVGtGQlVuQmZkblJIUjJWUE5sVjRZazR0V0U5MFEzcG5RWFJSVkVvNWRVazVNakJ6VGtVMWJsTkJRa1UxZGs1alNtWkxkSFJoVURaeGIxVlNaMnRURWhkR1dVbGhXbG8yV0VwS0xYVjNZbXRRTFZsbFpXZEJVUm9pUVVwM2F5MDRaWE50U1U1U1pGVlFaSHBUU2pWVVNUQkNUbWR4V1Rkbk56WkZkdyIsImZjdiI6IjMiLCJlaSI6IkZZSWFaWjZYSkotdXdia1AtWWVlZ0FRIiwicWMiOiJDaEpuWVc1bmN5QnZaaUIzWVhOelpYbHdkWElRQUgzbEt4OF8iLCJxdWVzdGlvbiI6IklzIEdhbmdzIG9mIFdhc3NleXB1ciBpbiBOZXRmbGl4PyIsImxrIjoiR2lCcGN5Qm5ZVzVuY3lCdlppQjNZWE56Wlhsd2RYSWdhVzRnYm1WMFpteHBlQSIsImJzIjoiYy1NeTR6TDBMRlp3VDh4TEwxYklUMU1JVHl3dVRxMHNLQzFTeU14VDhFc3RTY3ZKckZESUwxSnd6RTJzeXM5VENDakt6RTIxbDdnbXk2WEdwVWhJbjczRXhtQXVYUzZOOEl6VW9sU0ZUS3lxalJRU3l4SXpjeEtUY29ER1ByYmpNdVV5OE14VEtNOUlMQUhhbXBKYXBGQ2NrVi1hazZMZ3FWQ2VXSktjZ2NVSWU0bFBVUUtNQUEiLCJpZCI6ImZjXzUifQ%3D%3D"
         },
         {
-            "question": "Why is it called Fargo when it takes place in Minnesota?",
-            "snippet": "Why did you call the film Fargo when the important action of the film is set in Brainerd, which is in Minnesota, and not Fargo? JC: Fargo seemed a more evocative title than 'Brainerd'\u2014that's the only reason. EC: It was just that we liked the sound of the word\u2014there's no hidden meaning.",
-            "title": "'Fargo': The Unforgettable Dark Comedy that Set the Coen Brothers ...",
-            "link": "https://cinephiliabeyond.org/fargo-unforgettable-dark-comedy-set-coen-brothers-recognizable-voice-american-cinema/#:~:text=Why%20did%20you%20call%20the,word%E2%80%94there's%20no%20hidden%20meaning.",
-            "displayed_link": "https://cinephiliabeyond.org \u203a fargo-unforgettable-dark-...",
-            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/aaae65c852a9e612a4d40c8a0e65d43196df43cc019640a168d05330ca9ec954.png",
-            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVRGZFNWMDVYYXpSVWNXWlRSSGswTFhwT1EySjVUa2RqVkZwNGVYTjBibko0VjJSU1ZqTkNZVVZzU0VodFFVNXpaRVIyUWw5RlkxVk9PVXczZVdkcE5qUm5la05zRWhkNWJtZGhXbVkzVDBwTGNsRnJVRWxRYzNZMmJXdEJheG9pUVVwM2F5MDRaalU1VDFnek9XcG9XbHBLTUVSVlkxZFRUSFZUWVVaVmVYWlRkdyIsImZjdiI6IjMiLCJlaSI6InluZ2FaZjdPSktyUWtQSVBzdjZta0FrIiwicWMiOiJDZ1ZtWVhKbmJ4QUFmZVVySHo4IiwicXVlc3Rpb24iOiJXaHkgaXMgaXQgY2FsbGVkIEZhcmdvIHdoZW4gaXQgdGFrZXMgcGxhY2UgaW4gTWlubmVzb3RhPyIsImxrIjoiR2pkM2FIa2dhWE1nYVhRZ1kyRnNiR1ZrSUdaaGNtZHZJSGRvWlc0Z2FYUWdkR0ZyWlhNZ2NHeGhZMlVnYVc0Z2JXbHVibVZ6YjNSaCIsImJzIjoiY3oyT01RckNRQkJGc1ozS1JnaFdnMDBLTFN4dEpJVmlwLTNhVHRiQlhiTHNocDBKNGczMFNOWmV6Q1NLN2VmOXg0TVNGc2FSb3VhT1VUVGxPM3JCQS1WcndwcUVMNWhpVmJ6T3NJYmxBSmFDa2xCYXRwNENVcDA2X2RHbmxOWGhucHFrVkJVUEExdllHRGZxdktLbEVIclpGNzA1anNPbzFMQmdHOGd5LW9oSEh5UExlSC11WUE0ejQ3eDFmUlVwXzZ1cTRyMmJUajQiLCJpZCI6ImZjXzEifQ==",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVRGZFNWMDVYYXpSVWNXWlRSSGswTFhwT1EySjVUa2RqVkZwNGVYTjBibko0VjJSU1ZqTkNZVVZzU0VodFFVNXpaRVIyUWw5RlkxVk9PVXczZVdkcE5qUm5la05zRWhkNWJtZGhXbVkzVDBwTGNsRnJVRWxRYzNZMmJXdEJheG9pUVVwM2F5MDRaalU1VDFnek9XcG9XbHBLTUVSVlkxZFRUSFZUWVVaVmVYWlRkdyIsImZjdiI6IjMiLCJlaSI6InluZ2FaZjdPSktyUWtQSVBzdjZta0FrIiwicWMiOiJDZ1ZtWVhKbmJ4QUFmZVVySHo4IiwicXVlc3Rpb24iOiJXaHkgaXMgaXQgY2FsbGVkIEZhcmdvIHdoZW4gaXQgdGFrZXMgcGxhY2UgaW4gTWlubmVzb3RhPyIsImxrIjoiR2pkM2FIa2dhWE1nYVhRZ1kyRnNiR1ZrSUdaaGNtZHZJSGRvWlc0Z2FYUWdkR0ZyWlhNZ2NHeGhZMlVnYVc0Z2JXbHVibVZ6YjNSaCIsImJzIjoiY3oyT01RckNRQkJGc1ozS1JnaFdnMDBLTFN4dEpJVmlwLTNhVHRiQlhiTHNocDBKNGczMFNOWmV6Q1NLN2VmOXg0TVNGc2FSb3VhT1VUVGxPM3JCQS1WcndwcUVMNWhpVmJ6T3NJYmxBSmFDa2xCYXRwNENVcDA2X2RHbmxOWGhucHFrVkJVUEExdllHRGZxdktLbEVIclpGNzA1anNPbzFMQmdHOGd5LW9oSEh5UExlSC11WUE0ejQ3eDFmUlVwXzZ1cTRyMmJUajQiLCJpZCI6ImZjXzEifQ%3D%3D"
+            "question": "Where is Gangs of Wasseypur 2 available?",
+            "snippet": "Currently you are able to watch \"Gangs of Wasseypur - Part 2\" streaming on Netflix. It is also possible to buy \"Gangs of Wasseypur - Part 2\" on Google Play Movies, YouTube, Apple TVas download or rent it on Google Play Movies, YouTube, Apple TVonline.",
+            "title": "Gangs of Wasseypur - Part 2 streaming online - JustWatch",
+            "link": "https://www.justwatch.com/in/movie/gangs-of-wasseypur-ii#:~:text=Currently%20you%20are%20able%20to,Movies%2C%20YouTube%2C%20Apple%20TVonline.",
+            "displayed_link": "https://www.justwatch.com \u203a movie \u203a gangs-of-wasseypu...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR18t7u4TQ_FQJTjazidapnvphiZFE-PNA8QiuTTEOLStTL0jF9xw8kxwi24w&s",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWGIxbGxWMlpMVGtGQlVuQmZkblJIUjJWUE5sVjRZazR0V0U5MFEzcG5RWFJSVkVvNWRVazVNakJ6VGtVMWJsTkJRa1UxZGs1alNtWkxkSFJoVURaeGIxVlNaMnRURWhkR1dVbGhXbG8yV0VwS0xYVjNZbXRRTFZsbFpXZEJVUm9pUVVwM2F5MDRaWE50U1U1U1pGVlFaSHBUU2pWVVNUQkNUbWR4V1Rkbk56WkZkdyIsImZjdiI6IjMiLCJlaSI6IkZZSWFaWjZYSkotdXdia1AtWWVlZ0FRIiwicWMiOiJDaEpuWVc1bmN5QnZaaUIzWVhOelpYbHdkWElRQUgzbEt4OF8iLCJxdWVzdGlvbiI6IldoZXJlIGlzIEdhbmdzIG9mIFdhc3NleXB1ciAyIGF2YWlsYWJsZT8iLCJsayI6IkdpZDNhR1Z5WlNCcGN5Qm5ZVzVuY3lCdlppQjNZWE56Wlhsd2RYSWdNaUJoZG1GcGJHRmliR1UiLCJicyI6ImMtTXk0ekwwTEZad1Q4eExMMWJJVDFNSVR5d3VUcTBzS0MxU3lNeFQ4RXN0U2N2SnJGRElMMUp3ekUyc3lzOVRDQ2pLekUyMWw3Z215NlhHcFVoSW43M0V4bUF1WFM2TjhJelVvbFNGVEt5cWpSUVN5eEl6Y3hLVGNvREdQcmJqTXVVeThNeFRLTTlJTEFIYW1wSmFwRkNja1YtYWs2TGdxVkNlV0pLY2djVUllNGxQVVFLTUFBIiwiaWQiOiJmY181In0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWGIxbGxWMlpMVGtGQlVuQmZkblJIUjJWUE5sVjRZazR0V0U5MFEzcG5RWFJSVkVvNWRVazVNakJ6VGtVMWJsTkJRa1UxZGs1alNtWkxkSFJoVURaeGIxVlNaMnRURWhkR1dVbGhXbG8yV0VwS0xYVjNZbXRRTFZsbFpXZEJVUm9pUVVwM2F5MDRaWE50U1U1U1pGVlFaSHBUU2pWVVNUQkNUbWR4V1Rkbk56WkZkdyIsImZjdiI6IjMiLCJlaSI6IkZZSWFaWjZYSkotdXdia1AtWWVlZ0FRIiwicWMiOiJDaEpuWVc1bmN5QnZaaUIzWVhOelpYbHdkWElRQUgzbEt4OF8iLCJxdWVzdGlvbiI6IldoZXJlIGlzIEdhbmdzIG9mIFdhc3NleXB1ciAyIGF2YWlsYWJsZT8iLCJsayI6IkdpZDNhR1Z5WlNCcGN5Qm5ZVzVuY3lCdlppQjNZWE56Wlhsd2RYSWdNaUJoZG1GcGJHRmliR1UiLCJicyI6ImMtTXk0ekwwTEZad1Q4eExMMWJJVDFNSVR5d3VUcTBzS0MxU3lNeFQ4RXN0U2N2SnJGRElMMUp3ekUyc3lzOVRDQ2pLekUyMWw3Z215NlhHcFVoSW43M0V4bUF1WFM2TjhJelVvbFNGVEt5cWpSUVN5eEl6Y3hLVGNvREdQcmJqTXVVeThNeFRLTTlJTEFIYW1wSmFwRkNja1YtYWs2TGdxVkNlV0pLY2djVUllNGxQVVFLTUFBIiwiaWQiOiJmY181In0%3D"
         },
         {
-            "question": "Which state is Fargo?",
-            "snippet": "The City of Fargo is located in Cass County, North Dakota, along the Red River of the North which forms the border between Minnesota and North Dakota. An estimated 124,844 (as of July 2018) people live in Fargo.",
-            "title": "North Dakota",
-            "info": "Fargo / State",
-            "link": "https://fargond.gov/explore/about-fargo#:~:text=The%20City%20of%20Fargo%20is,2018)%20people%20live%20in%20Fargo.",
-            "displayed_link": "https://fargond.gov \u203a explore \u203a about-fargo",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcSdVYzOO5EQewtj81J_ecgq3UqOF7Z5Q9SzRwwGvtkGsbjBZozg&s=0",
-            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVRGZFNWMDVYYXpSVWNXWlRSSGswTFhwT1EySjVUa2RqVkZwNGVYTjBibko0VjJSU1ZqTkNZVVZzU0VodFFVNXpaRVIyUWw5RlkxVk9PVXczZVdkcE5qUm5la05zRWhkNWJtZGhXbVkzVDBwTGNsRnJVRWxRYzNZMmJXdEJheG9pUVVwM2F5MDRaalU1VDFnek9XcG9XbHBLTUVSVlkxZFRUSFZUWVVaVmVYWlRkdyIsImZjdiI6IjMiLCJlaSI6InluZ2FaZjdPSktyUWtQSVBzdjZta0FrIiwicWMiOiJDZ1ZtWVhKbmJ4QUFmZVVySHo4IiwicXVlc3Rpb24iOiJXaGljaCBzdGF0ZSBpcyBGYXJnbz8iLCJsayI6IkdoUjNhR2xqYUNCemRHRjBaU0JwY3lCbVlYSm5idyIsImJzIjoiY3oyT01RckNRQkJGc1ozS1JnaFdnMDBLTFN4dEpJVmlwLTNhVHRiQlhiTHNocDBKNGczMFNOWmV6Q1NLN2VmOXg0TVNGc2FSb3VhT1VUVGxPM3JCQS1WcndwcUVMNWhpVmJ6T3NJYmxBSmFDa2xCYXRwNENVcDA2X2RHbmxOWGhucHFrVkJVUEExdllHRGZxdktLbEVIclpGNzA1anNPbzFMQmdHOGd5LW9oSEh5UExlSC11WUE0ejQ3eDFmUlVwXzZ1cTRyMmJUajQiLCJpZCI6ImZjXzEifQ==",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVRGZFNWMDVYYXpSVWNXWlRSSGswTFhwT1EySjVUa2RqVkZwNGVYTjBibko0VjJSU1ZqTkNZVVZzU0VodFFVNXpaRVIyUWw5RlkxVk9PVXczZVdkcE5qUm5la05zRWhkNWJtZGhXbVkzVDBwTGNsRnJVRWxRYzNZMmJXdEJheG9pUVVwM2F5MDRaalU1VDFnek9XcG9XbHBLTUVSVlkxZFRUSFZUWVVaVmVYWlRkdyIsImZjdiI6IjMiLCJlaSI6InluZ2FaZjdPSktyUWtQSVBzdjZta0FrIiwicWMiOiJDZ1ZtWVhKbmJ4QUFmZVVySHo4IiwicXVlc3Rpb24iOiJXaGljaCBzdGF0ZSBpcyBGYXJnbz8iLCJsayI6IkdoUjNhR2xqYUNCemRHRjBaU0JwY3lCbVlYSm5idyIsImJzIjoiY3oyT01RckNRQkJGc1ozS1JnaFdnMDBLTFN4dEpJVmlwLTNhVHRiQlhiTHNocDBKNGczMFNOWmV6Q1NLN2VmOXg0TVNGc2FSb3VhT1VUVGxPM3JCQS1WcndwcUVMNWhpVmJ6T3NJYmxBSmFDa2xCYXRwNENVcDA2X2RHbmxOWGhucHFrVkJVUEExdllHRGZxdktLbEVIclpGNzA1anNPbzFMQmdHOGd5LW9oSEh5UExlSC11WUE0ejQ3eDFmUlVwXzZ1cTRyMmJUajQiLCJpZCI6ImZjXzEifQ%3D%3D"
+            "question": "In what order should I watch Gangs of Wasseypur?",
+            "snippet": "So Part 1 is the story's half before interval and part 2 is the story's half after interval. So NO! you cant watch GANGS OF WASSEYPUR PART 2 before watching GANGS OF WASSEYPUR PART 1. So i will suggest that start your movie and watch it as curiousity will build up with every scene passing by.",
+            "title": "Can I watch Gangs of Wasseypur 2 before watching its part 1 ... - Quora",
+            "link": "https://www.quora.com/Can-I-watch-Gangs-of-Wasseypur-2-before-watching-its-part-1-Are-they-related#:~:text=So%20Part%201%20is%20the,with%20every%20scene%20passing%20by.",
+            "displayed_link": "https://www.quora.com \u203a Can-I-watch-Gangs-of-Wassey...",
+            "thumbnail": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/5e240f98ee6cd43e8bf2808b6841f9bd4c91f3e904366ad4bd27b33fc3724742.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWGIxbGxWMlpMVGtGQlVuQmZkblJIUjJWUE5sVjRZazR0V0U5MFEzcG5RWFJSVkVvNWRVazVNakJ6VGtVMWJsTkJRa1UxZGs1alNtWkxkSFJoVURaeGIxVlNaMnRURWhkR1dVbGhXbG8yV0VwS0xYVjNZbXRRTFZsbFpXZEJVUm9pUVVwM2F5MDRaWE50U1U1U1pGVlFaSHBUU2pWVVNUQkNUbWR4V1Rkbk56WkZkdyIsImZjdiI6IjMiLCJlaSI6IkZZSWFaWjZYSkotdXdia1AtWWVlZ0FRIiwicWMiOiJDaEpuWVc1bmN5QnZaaUIzWVhOelpYbHdkWElRQUgzbEt4OF8iLCJxdWVzdGlvbiI6IkluIHdoYXQgb3JkZXIgc2hvdWxkIEkgd2F0Y2ggR2FuZ3Mgb2YgV2Fzc2V5cHVyPyIsImxrIjoiR2lGbllXNW5jeUJ2WmlCM1lYTnpaWGx3ZFhJZ2IzSmtaWElnZEc4Z2QyRjBZMmciLCJicyI6ImMtTXk0ekwwTEZad1Q4eExMMWJJVDFNSVR5d3VUcTBzS0MxU3lNeFQ4RXN0U2N2SnJGRElMMUp3ekUyc3lzOVRDQ2pLekUyMWw3Z215NlhHcFVoSW43M0V4bUF1WFM2TjhJelVvbFNGVEt5cWpSUVN5eEl6Y3hLVGNvREdQcmJqTXVVeThNeFRLTTlJTEFIYW1wSmFwRkNja1YtYWs2TGdxVkNlV0pLY2djVUllNGxQVVFLTUFBIiwiaWQiOiJmY181In0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWGIxbGxWMlpMVGtGQlVuQmZkblJIUjJWUE5sVjRZazR0V0U5MFEzcG5RWFJSVkVvNWRVazVNakJ6VGtVMWJsTkJRa1UxZGs1alNtWkxkSFJoVURaeGIxVlNaMnRURWhkR1dVbGhXbG8yV0VwS0xYVjNZbXRRTFZsbFpXZEJVUm9pUVVwM2F5MDRaWE50U1U1U1pGVlFaSHBUU2pWVVNUQkNUbWR4V1Rkbk56WkZkdyIsImZjdiI6IjMiLCJlaSI6IkZZSWFaWjZYSkotdXdia1AtWWVlZ0FRIiwicWMiOiJDaEpuWVc1bmN5QnZaaUIzWVhOelpYbHdkWElRQUgzbEt4OF8iLCJxdWVzdGlvbiI6IkluIHdoYXQgb3JkZXIgc2hvdWxkIEkgd2F0Y2ggR2FuZ3Mgb2YgV2Fzc2V5cHVyPyIsImxrIjoiR2lGbllXNW5jeUJ2WmlCM1lYTnpaWGx3ZFhJZ2IzSmtaWElnZEc4Z2QyRjBZMmciLCJicyI6ImMtTXk0ekwwTEZad1Q4eExMMWJJVDFNSVR5d3VUcTBzS0MxU3lNeFQ4RXN0U2N2SnJGRElMMUp3ekUyc3lzOVRDQ2pLekUyMWw3Z215NlhHcFVoSW43M0V4bUF1WFM2TjhJelVvbFNGVEt5cWpSUVN5eEl6Y3hLVGNvREdQcmJqTXVVeThNeFRLTTlJTEFIYW1wSmFwRkNja1YtYWs2TGdxVkNlV0pLY2djVUllNGxQVVFLTUFBIiwiaWQiOiJmY181In0%3D"
         }
     ],
     "organic_results": [
         {
             "position": 1,
-            "title": "Fargo (1996)",
-            "link": "https://www.imdb.com/title/tt0116282/",
-            "displayed_link": "https://www.imdb.com \u203a title",
-            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd326281310dafaec9b83731953cfe82d583b0b44.jpeg",
-            "favicon": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd3262813f433f6a3bd213683c5c73fe4fc0c8c03.png",
-            "snippet": "Fargo: Directed by Joel Coen, Ethan Coen. With William H. Macy, Steve Buscemi, Peter Stormare, Kristin Rudr\u00fcd. Minnesota car salesman Jerry Lundegaard's ...",
+            "title": "Gangs of Wasseypur",
+            "link": "https://en.wikipedia.org/wiki/Gangs_of_Wasseypur",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Gangs_of_Wasseypur",
+            "favicon": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/d836a1a7ddabcd672accd1242976d01e979a8c0504890e73186425a15dd48e8a.png",
+            "snippet": "Gangs of Wasseypur is a 2012 Indian Hindi-language two-part gangster action crime film produced and directed by Anurag Kashyap, and written by Kashyap and ...",
             "snippet_highlighted_words": [
-                "Fargo"
+                "Gangs of Wasseypur"
             ],
             "sitelinks": {
                 "inline": [
                     {
-                        "title": "Edie Falco in Fargo (2003)",
-                        "link": "https://www.imdb.com/title/tt0382026/"
+                        "title": "Part 1",
+                        "link": "https://en.wikipedia.org/wiki/Gangs_of_Wasseypur_%E2%80%93_Part_1"
                     },
                     {
-                        "title": "Full Cast & Crew",
-                        "link": "https://www.imdb.com/title/tt0116282/fullcredits"
+                        "title": "Part 2",
+                        "link": "https://en.wikipedia.org/wiki/Gangs_of_Wasseypur_%E2%80%93_Part_2"
                     },
                     {
-                        "title": "Fargo",
-                        "link": "https://www.imdb.com/video/vi2228618777/"
+                        "title": "Zeishan Quadri",
+                        "link": "https://en.wikipedia.org/wiki/Zeishan_Quadri"
                     },
                     {
-                        "title": "Trivia",
-                        "link": "https://www.imdb.com/title/tt0116282/trivia/"
+                        "title": "\u0938\u0924\u094d\u092f\u0915\u093e\u092e \u0906\u0928\u0902\u0926",
+                        "link": "https://en.wikipedia.org/wiki/Satyakam_Anand"
                     }
                 ]
             },
-            "rich_snippet": {
-                "top": {
-                    "detected_extensions": {
-                        "rating": 8.1,
-                        "votes": 703764
-                    },
-                    "extensions": [
-                        "Rating: 8.1/10",
-                        "\u200e703,764 votes"
-                    ]
-                }
-            },
             "about_this_result": {},
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:m3R2Qs1O_OUJ:https://www.imdb.com/title/tt0116282/&cd=12&hl=en&ct=clnk&gl=us",
-            "source": "IMDb"
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:td1_gIYX05YJ:https://en.wikipedia.org/wiki/Gangs_of_Wasseypur&cd=20&hl=en&ct=clnk&gl=us",
+            "source": "Wikipedia"
         },
         {
             "position": 2,
-            "title": "Fargo (TV Series 2014\u20132024)",
-            "link": "https://www.imdb.com/title/tt2802850/",
-            "displayed_link": "https://www.imdb.com \u203a title",
-            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd3262813038f66740168ff0fcb7368263eb96969.jpeg",
-            "favicon": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd32628135d49946ce2f42129c51d938ac4fb1593.png",
-            "snippet": "Fargo: Created by Noah Hawley. With Allison Tolman, Billy Bob Thornton, Colin Hanks, Martin Freeman. Various chronicles of deception, intrigue, ...",
-            "snippet_highlighted_words": [
-                "Fargo"
-            ],
+            "title": "Watch Gangs of Wasseypur: Part I | Prime Video",
+            "link": "https://www.amazon.com/Gangs-Wasseypur-Manoj-Bajpai-Bajpayee/dp/B073SGLD17",
+            "displayed_link": "https://www.amazon.com \u203a Gangs-Wasseypur-Manoj-...",
+            "favicon": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/d836a1a7ddabcd672accd1242976d01e732865e20a2cb1a3bfef4e1cc6d12170.png",
+            "snippet": "The film is about the coal mafia in Dhanbad, Jharkhand. It is set across three generations and six decades. 251IMDb 8.22 h 40 min2014.",
             "rich_snippet": {
                 "top": {
                     "detected_extensions": {
-                        "rating": 8.9,
-                        "votes": 389831
+                        "rating": 4.5,
+                        "reviews": 251,
+                        "unknown": 30
                     },
                     "extensions": [
-                        "Rating: 8.9/10",
-                        "\u200e389,831 votes"
+                        "Rating: 4.5",
+                        "\u200e251 reviews",
+                        "\u200e30",
+                        "day returns"
                     ]
                 }
             },
             "about_this_result": {},
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zdyh3KiV8p0J:https://www.imdb.com/title/tt2802850/&cd=13&hl=en&ct=clnk&gl=us",
-            "source": "IMDb"
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2OOu8U31oWQJ:https://www.amazon.com/Gangs-Wasseypur-Manoj-Bajpai-Bajpayee/dp/B073SGLD17&cd=31&hl=en&ct=clnk&gl=us",
+            "source": "Amazon.com"
         },
         {
             "position": 3,
-            "title": "Fargo (TV series)",
-            "link": "https://en.wikipedia.org/wiki/Fargo_(TV_series)",
-            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Fargo_(TV_series)",
-            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd32628132c91b315823cb904ef66452dc27ff0ce.png",
-            "favicon": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd3262813a675113e7fd0507ae6c2172440e9e639.png",
-            "snippet": "Fargo is an American black comedy crime drama television series created and primarily written by Noah Hawley. The show is inspired by the 1996 film of the ...",
+            "title": "Gangs of Wasseypur (2012)",
+            "link": "https://www.imdb.com/title/tt1954470/",
+            "displayed_link": "https://www.imdb.com \u203a title",
+            "favicon": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/d836a1a7ddabcd672accd1242976d01e06b1c5007514a4b37e9d3e1e03f4dcd3.png",
+            "snippet": "A clash between Sultan and Shahid Khan leads to the expulsion of Khan from Wasseypur, and ignites a deadly blood feud spanning three generations.",
             "snippet_highlighted_words": [
-                "Fargo"
+                "Wasseypur"
             ],
-            "sitelinks": {
-                "inline": [
-                    {
-                        "title": "List of Fargo episodes",
-                        "link": "https://en.wikipedia.org/wiki/List_of_Fargo_episodes"
-                    },
-                    {
-                        "title": "Fargo (season 1)",
-                        "link": "https://en.wikipedia.org/wiki/Fargo_(season_1)"
-                    },
-                    {
-                        "title": "Fargo (season 2)",
-                        "link": "https://en.wikipedia.org/wiki/Fargo_(season_2)"
-                    },
-                    {
-                        "title": "Goran Bogdan",
-                        "link": "https://en.wikipedia.org/wiki/Goran_Bogdan"
-                    }
-                ]
-            },
-            "about_this_result": {},
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:wT4AgnkfzhkJ:https://en.wikipedia.org/wiki/Fargo_(TV_series)&cd=14&hl=en&ct=clnk&gl=us",
-            "related_pages_link": "https://www.google.com/search?sca_esv=569950492&q=related:https://en.wikipedia.org/wiki/Fargo_(TV_series)+Fargo",
-            "source": "Wikipedia"
-        },
-        {
-            "position": 4,
-            "title": "Fargo (1996 film)",
-            "link": "https://en.wikipedia.org/wiki/Fargo_(1996_film)",
-            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Fargo_(1996_film)",
-            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd32628134da4b0dc00e71a10437c2abe97968e49.jpeg",
-            "favicon": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd326281384b040e697607c2145fc634176cf844a.png",
-            "snippet": "Fargo is a 1996 black comedy crime film written, produced and directed by Joel and Ethan Coen. Frances McDormand stars as Marge Gunderson, a pregnant ...",
-            "snippet_highlighted_words": [
-                "Fargo"
-            ],
-            "sitelinks": {
-                "inline": [
-                    {
-                        "title": "Harve Presnell",
-                        "link": "https://en.wikipedia.org/wiki/Harve_Presnell"
-                    },
-                    {
-                        "title": "Kristin Rudr\u00fcd",
-                        "link": "https://en.wikipedia.org/wiki/Kristin_Rudr%C3%BCd"
-                    },
-                    {
-                        "title": "Steve Reevis",
-                        "link": "https://en.wikipedia.org/wiki/Steve_Reevis"
-                    },
-                    {
-                        "title": "Tony Denman",
-                        "link": "https://en.wikipedia.org/wiki/Tony_Denman"
-                    }
-                ]
-            },
-            "about_this_result": {},
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1ZVvlwu8egEJ:https://en.wikipedia.org/wiki/Fargo_(1996_film)&cd=15&hl=en&ct=clnk&gl=us",
-            "source": "Wikipedia"
-        },
-        {
-            "position": 5,
-            "title": "Fargo | Stream on Hulu",
-            "link": "https://www.fxnetworks.com/shows/fargo",
-            "displayed_link": "https://www.fxnetworks.com \u203a Shows",
-            "thumbnail": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd3262813714b7eac9f7477e1e74b877d51a6d27f.jpeg",
-            "favicon": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd3262813963bf4c3e9e1984a6c9c3b7218d446e3.png",
-            "snippet": "The latest installment of Fargo is set in Minnesota and North Dakota, 2019. After an unexpected series of events lands \u201cDorothy 'Dot' Lyon\u201d (Juno Temple) in ...",
-            "snippet_highlighted_words": [
-                "Fargo"
-            ],
-            "about_this_result": {},
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KJmJq4P5auQJ:https://www.fxnetworks.com/shows/fargo&cd=25&hl=en&ct=clnk&gl=us",
-            "source": "FX"
-        },
-        {
-            "position": 6,
-            "title": "The City of Fargo - Home Page",
-            "link": "https://fargond.gov/",
-            "displayed_link": "https://fargond.gov",
-            "favicon": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd32628135e0a58d4ad67861bba768c9fdc089d74.png",
-            "snippet": "Fargo City Commission \u00b7 View All Public Meetings \u203a \u00b7 View All City Calendar Events \u203a. Fargo City Hall. 225 4th Street North Fargo, ND 58102. Mayor's Office.",
-            "snippet_highlighted_words": [
-                "Fargo",
-                "Fargo",
-                "Fargo"
-            ],
-            "about_this_result": {},
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:sn4GvRFk5-cJ:https://fargond.gov/&cd=26&hl=en&ct=clnk&gl=us",
-            "source": "The City of Fargo (.gov)"
-        },
-        {
-            "position": 7,
-            "title": "Fargo (1996) | Official Trailer | MGM Studios - YouTube",
-            "link": "https://www.youtube.com/watch?v=ju75Sd4yAZw",
-            "displayed_link": "https://www.youtube.com \u203a watch",
-            "thumbnail": "https://i.ytimg.com/vi/ju75Sd4yAZw/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kn16RCREd3XguEr_f540NDP3dkQw",
-            "favicon": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd3262813d989fc27a1a1ef0d43d9109bf866e174.png",
-            "date": "Mar 18, 2021",
-            "snippet": "... Fargo (1996) Trailer | MGM Studios https://www.youtube.com/MGM #MGM #Fargo. ... Fargo (1996) | Official Trailer | MGM Studios. 588K views \u00b7 2 ...",
-            "duration": "2:09",
             "rich_snippet": {
                 "top": {
-                    "extensions": [
-                        "YouTube",
-                        "MGM",
-                        "Mar 18, 2021"
-                    ],
                     "detected_extensions": {
-                        "mar": 18
-                    }
+                        "rating": 8.2,
+                        "votes": 100988
+                    },
+                    "extensions": [
+                        "Rating: 8.2/10",
+                        "\u200e100,988 votes"
+                    ]
                 }
             },
             "about_this_result": {},
-            "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTtWYj0H64_fFIIUTVi1nLvZ6DH-5oN0q8u-g",
-            "source": "YouTube"
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:OrK07X10rFkJ:https://www.imdb.com/title/tt1954470/&cd=32&hl=en&ct=clnk&gl=us",
+            "source": "IMDb"
         },
         {
-            "position": 8,
-            "title": "Fargo",
-            "link": "https://www.rottentomatoes.com/m/fargo",
-            "displayed_link": "https://www.rottentomatoes.com \u203a fargo",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwlmaEBI2oLhQ_ayYg_eXkFdyaf1Etpd9Tld0KKdhvvCW06bFPN-8J&usqp=CAE&s",
-            "favicon": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd326281305af745f53631eeee4c8b77aaded28d0.png",
-            "snippet": "\"Fargo\" is a reality-based crime drama set in Minnesota in 1987. Jerry Lundegaard (William H. Macy) is a car salesman in Minneapolis who has gotten himself ...",
-            "snippet_highlighted_words": [
-                "Fargo"
-            ],
+            "position": 4,
+            "title": "Gangs of Wasseypur",
+            "link": "https://www.rottentomatoes.com/m/gangs_of_wasseypur",
+            "displayed_link": "https://www.rottentomatoes.com \u203a gangs_of_wasseypur",
+            "favicon": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/d836a1a7ddabcd672accd1242976d01ecfdfe469446683e30d591bab181d62e2.png",
+            "snippet": "It's a story about charismatic killers, men we love to hate, characters who are depraved, ennobled and finally doomed by their disregard for ordinary human ...",
             "rich_snippet": {
                 "top": {
                     "detected_extensions": {
                         "rating": 94,
-                        "votes": 105
+                        "votes": 32
                     },
                     "extensions": [
                         "Rating: 94%",
-                        "\u200e105 votes"
+                        "\u200e32 votes"
                     ]
                 }
             },
@@ -710,91 +479,159 @@
             "source": "Rotten Tomatoes"
         },
         {
-            "position": 9,
-            "title": "Official Tourism Website for Fargo, ND & Moorhead, MN",
-            "link": "https://www.fargomoorhead.org/",
-            "displayed_link": "https://www.fargomoorhead.org",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcXJP0Jf0wPzI00IKSSoYAoq-QJY1vDtyWoGBHkNTEg9X-E_8QAMrP&usqp=CAE&s",
-            "favicon": "https://serpapi.com/searches/651a78c9fe41d0ce85f6ddb3/images/8ae2beef7cda08a15361c1ecd3262813aec1804e9da61b8484658e2f80b3323c.png",
-            "snippet": "Visit Fargo-Moorhead is the official source for travel and tourism information about Fargo, North Dakota & Moorhead, Minnesota.",
+            "position": 5,
+            "title": "Gangs of Wasseypur Part 1 - Prime Video",
+            "link": "https://www.primevideo.com/detail/Gangs-of-Wasseypur-Part-1/0P0WX3CRD66D2TQEJC4XNRGWHC",
+            "displayed_link": "https://www.primevideo.com \u203a detail \u203a Gangs-of-Wa...",
+            "favicon": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/d836a1a7ddabcd672accd1242976d01edc015f8c602ca854c253d1f749e4b208.png",
+            "snippet": "A clash between Sultan and Shahid Khan leads to the expulsion of Khan from Wasseypur, and ignites a deadly blood feud spanning three generations.",
             "snippet_highlighted_words": [
-                "Fargo",
-                "Fargo"
+                "Wasseypur"
             ],
             "about_this_result": {},
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:vCMjM5e3zDcJ:https://www.fargomoorhead.org/&cd=33&hl=en&ct=clnk&gl=us",
-            "source": "Visit Fargo-Moorhead"
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jKTjY_qjfJoJ:https://www.primevideo.com/detail/Gangs-of-Wasseypur-Part-1/0P0WX3CRD66D2TQEJC4XNRGWHC&cd=42&hl=en&ct=clnk&gl=us",
+            "source": "primevideo.com"
+        },
+        {
+            "position": 6,
+            "title": "Gangs of Wasseypur",
+            "link": "https://www.metacritic.com/movie/gangs-of-wasseypur/",
+            "displayed_link": "https://www.metacritic.com \u203a movie \u203a gangs-of-wasse...",
+            "favicon": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/d836a1a7ddabcd672accd1242976d01e30eef073d06c2a350869e3795ee939bd.png",
+            "snippet": "Gangs of Wasseypur is a chessboard. The singhs and the khans. But the only player playing is Anurag Kashyap. There's plethora of pieces at his disposal fueled ...",
+            "snippet_highlighted_words": [
+                "Gangs of Wasseypur"
+            ],
+            "about_this_result": {},
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:TOKg6nKRO0IJ:https://www.metacritic.com/movie/gangs-of-wasseypur/&cd=43&hl=en&ct=clnk&gl=us",
+            "source": "Metacritic"
+        },
+        {
+            "position": 7,
+            "title": "Gangs of Wasseypur \u2013 Part 1",
+            "link": "https://en.wikipedia.org/wiki/Gangs_of_Wasseypur_%E2%80%93_Part_1",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Gangs_of_Wasseyp...",
+            "favicon": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/d836a1a7ddabcd672accd1242976d01e605bd049d0d592f4ea83e14a8bb8035e.png",
+            "snippet": "Gangs of Wasseypur \u2013 Part 1 is a 2012 Indian Hindi-language epic crime film directed by Anurag Kashyap, and written by Kashyap and Zeishan Quadri.",
+            "snippet_highlighted_words": [
+                "Gangs of Wasseypur"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Plot",
+                        "link": "https://en.wikipedia.org/wiki/Gangs_of_Wasseypur_%E2%80%93_Part_1#Plot"
+                    },
+                    {
+                        "title": "Cast",
+                        "link": "https://en.wikipedia.org/wiki/Gangs_of_Wasseypur_%E2%80%93_Part_1#Cast"
+                    },
+                    {
+                        "title": "Production",
+                        "link": "https://en.wikipedia.org/wiki/Gangs_of_Wasseypur_%E2%80%93_Part_1#Production"
+                    },
+                    {
+                        "title": "Themes and portrayals",
+                        "link": "https://en.wikipedia.org/wiki/Gangs_of_Wasseypur_%E2%80%93_Part_1#Themes_and_portrayals"
+                    }
+                ]
+            },
+            "about_this_result": {},
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:YXimDGG18Q8J:https://en.wikipedia.org/wiki/Gangs_of_Wasseypur_%25E2%2580%2593_Part_1&cd=44&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?sca_esv=569971392&q=related:https://en.wikipedia.org/wiki/Gangs_of_Wasseypur_%25E2%2580%2593_Part_1+Gangs+of+Wasseypur",
+            "source": "Wikipedia"
+        },
+        {
+            "position": 8,
+            "title": "Gangs of Wasseypur",
+            "link": "https://tv.apple.com/us/movie/gangs-of-wasseypur/umc.cmc.3jb83c23wyw6mkieayd3fdebp",
+            "displayed_link": "https://tv.apple.com \u203a movie \u203a gangs-of-wasseypur",
+            "favicon": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/d836a1a7ddabcd672accd1242976d01ed5cdb46489717d2638e11c7f40003450.png",
+            "snippet": "Staying true to its real life influences, the film explores this revenge saga throught the socio-political dynamic in erstwhile Bihar (North India), in the coal ...",
+            "about_this_result": {},
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-9h610VzQ58J:https://tv.apple.com/us/movie/gangs-of-wasseypur/umc.cmc.3jb83c23wyw6mkieayd3fdebp&cd=45&hl=en&ct=clnk&gl=us",
+            "source": "Apple TV"
         }
     ],
     "related_searches": [
         {
             "block_position": 1,
-            "query": "fargo season 5",
-            "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+season+5&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ1QJ6BAhEEAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+season+5"
+            "query": "gangs of wasseypur 2",
+            "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+2&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ1QJ6BAhKEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+2"
         },
         {
             "block_position": 1,
-            "query": "fargo netflix",
-            "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+Netflix&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ1QJ6BAhCEAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+Netflix"
+            "query": "gangs of wasseypur 3",
+            "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+3&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ1QJ6BAhIEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+3"
         },
         {
             "block_position": 1,
-            "query": "fargo meaning",
-            "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+meaning&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ1QJ6BAhBEAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+meaning"
+            "query": "gangs of wasseypur part 1",
+            "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+Part+1&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ1QJ6BAhHEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+Part+1"
         },
         {
             "block_position": 1,
-            "query": "fargo city",
-            "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+City&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ1QJ6BAhAEAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+City"
+            "query": "gangs of wasseypur 2 imdb",
+            "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+2+imdb&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ1QJ6BAhFEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+2+imdb"
         },
         {
             "block_position": 1,
-            "query": "fargo wikipedia",
-            "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+wikipedia&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ1QJ6BAg8EAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+wikipedia"
+            "query": "gangs of wasseypur 2 release date",
+            "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+2+release+date&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ1QJ6BAhBEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+2+release+date"
         },
         {
             "block_position": 1,
-            "query": "fargo movie",
-            "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+movie&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ1QJ6BAg6EAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+movie"
+            "query": "gangs of wasseypur imdb",
+            "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+imdb&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ1QJ6BAg8EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+imdb"
         },
         {
             "block_position": 1,
-            "query": "fargo imdb",
-            "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+imdb&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ1QJ6BAg3EAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+imdb"
+            "query": "gangs of wasseypur ott",
+            "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+OTT&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ1QJ6BAg2EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+OTT"
         },
         {
             "block_position": 1,
-            "query": "fargo true story",
-            "link": "https://www.google.com/search?sca_esv=569950492&q=Fargo+true+story&sa=X&ved=2ahUKEwj-24Xt8taBAxUqKEQIHTK_CZIQ1QJ6BAg2EAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo+true+story"
+            "query": "gangs of wasseypur' budget",
+            "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur%27+budget&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ1QJ6BAguEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur%27+budget"
         }
     ],
     "pagination": {
         "current": 1,
-        "next": "https://www.google.com/search?q=Fargo&oq=Fargo&start=10&sourceid=chrome&ie=UTF-8",
+        "next": "https://www.google.com/search?q=Gangs+of+Wasseypur&sca_esv=569971392&ei=FYIaZZ6XJJ-uwbkP-YeegAQ&start=10&sa=N&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ8NMDegQIBBAW",
         "other_pages": {
-            "2": "https://www.google.com/search?q=Fargo&oq=Fargo&start=10&sourceid=chrome&ie=UTF-8",
-            "3": "https://www.google.com/search?q=Fargo&oq=Fargo&start=20&sourceid=chrome&ie=UTF-8",
-            "4": "https://www.google.com/search?q=Fargo&oq=Fargo&start=30&sourceid=chrome&ie=UTF-8",
-            "5": "https://www.google.com/search?q=Fargo&oq=Fargo&start=40&sourceid=chrome&ie=UTF-8"
+            "2": "https://www.google.com/search?q=Gangs+of+Wasseypur&sca_esv=569971392&ei=FYIaZZ6XJJ-uwbkP-YeegAQ&start=10&sa=N&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ8tMDegQIBBAE",
+            "3": "https://www.google.com/search?q=Gangs+of+Wasseypur&sca_esv=569971392&ei=FYIaZZ6XJJ-uwbkP-YeegAQ&start=20&sa=N&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ8tMDegQIBBAG",
+            "4": "https://www.google.com/search?q=Gangs+of+Wasseypur&sca_esv=569971392&ei=FYIaZZ6XJJ-uwbkP-YeegAQ&start=30&sa=N&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ8tMDegQIBBAI",
+            "5": "https://www.google.com/search?q=Gangs+of+Wasseypur&sca_esv=569971392&ei=FYIaZZ6XJJ-uwbkP-YeegAQ&start=40&sa=N&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ8tMDegQIBBAK",
+            "6": "https://www.google.com/search?q=Gangs+of+Wasseypur&sca_esv=569971392&ei=FYIaZZ6XJJ-uwbkP-YeegAQ&start=50&sa=N&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ8tMDegQIBBAM",
+            "7": "https://www.google.com/search?q=Gangs+of+Wasseypur&sca_esv=569971392&ei=FYIaZZ6XJJ-uwbkP-YeegAQ&start=60&sa=N&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ8tMDegQIBBAO",
+            "8": "https://www.google.com/search?q=Gangs+of+Wasseypur&sca_esv=569971392&ei=FYIaZZ6XJJ-uwbkP-YeegAQ&start=70&sa=N&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ8tMDegQIBBAQ",
+            "9": "https://www.google.com/search?q=Gangs+of+Wasseypur&sca_esv=569971392&ei=FYIaZZ6XJJ-uwbkP-YeegAQ&start=80&sa=N&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ8tMDegQIBBAS",
+            "10": "https://www.google.com/search?q=Gangs+of+Wasseypur&sca_esv=569971392&ei=FYIaZZ6XJJ-uwbkP-YeegAQ&start=90&sa=N&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ8tMDegQIBBAU"
         }
     },
     "serpapi_pagination": {
         "current": 1,
-        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo&start=10",
-        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo&start=10",
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&start=10",
         "other_pages": {
-            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo&start=10",
-            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo&start=20",
-            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo&start=30",
-            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fargo&start=40"
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&start=90"
         }
     }
 }
