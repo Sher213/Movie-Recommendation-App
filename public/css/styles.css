@@ -11,7 +11,30 @@ h1 {
 
 body {
     height: 100vh;
-    background: linear-gradient(45deg, red, pink)
+    background-color: #ffeadb;
+}
+
+.container {
+    width: 100%;
+    align-items: center;
+    height: 100%;
+
+    /* Background image is centered vertically and horizontally at all times */
+    background-position: center center;
+
+    /* Background image doesn't tile */
+    background-repeat: no-repeat;
+
+    /* Background image is fixed in the viewport so that it doesn't move when 
+    the content's height is greater than the image's height */
+    background-attachment: fixed;
+
+    /* This is what makes the background image rescale based
+    on the container's size */
+    background-size: cover;
+
+    overflow: hidden;
+    background-image:url('/images/indexBG.png') 
 }
 
 form {
@@ -42,8 +65,12 @@ div.scrollmenu li {
   }
 
 button {
-    width: 50%;
+    width: 25%;
     margin-top: 5%;
+    height: 50%;
+    border: none;
+    background-color: white;
+    box-shadow: none;
 }
 
 button:hover {
@@ -88,4 +115,8 @@ ul {
 
 .primaryView {
     text-align: center;
+}
+
+@keyframes onload {
+    
 }

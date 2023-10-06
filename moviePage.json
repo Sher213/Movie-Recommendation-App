@@ -1,637 +1,812 @@
 {
     "search_metadata": {
-        "id": "651a82142c6878dcfc1f2b86",
+        "id": "651f982fdefa134070df0a82",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/a5916b3e1ec2d811/651a82142c6878dcfc1f2b86.json",
-        "created_at": "2023-10-02 08:40:52 UTC",
-        "processed_at": "2023-10-02 08:40:52 UTC",
-        "google_url": "https://www.google.com/search?q=Gangs+of+Wasseypur&oq=Gangs+of+Wasseypur&sourceid=chrome&ie=UTF-8",
-        "raw_html_file": "https://serpapi.com/searches/a5916b3e1ec2d811/651a82142c6878dcfc1f2b86.html",
-        "total_time_taken": 1.81
+        "json_endpoint": "https://serpapi.com/searches/2ddf0840030dfcdf/651f982fdefa134070df0a82.json",
+        "created_at": "2023-10-06 05:16:31 UTC",
+        "processed_at": "2023-10-06 05:16:31 UTC",
+        "google_url": "https://www.google.com/search?q=Y%C3%B4jinb%C3%B4&oq=Y%C3%B4jinb%C3%B4&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/2ddf0840030dfcdf/651f982fdefa134070df0a82.html",
+        "total_time_taken": 1.88
     },
     "search_parameters": {
         "engine": "google",
-        "q": "Gangs of Wasseypur",
+        "q": "Y\u00f4jinb\u00f4",
         "google_domain": "google.com",
         "device": "desktop"
     },
     "search_information": {
-        "query_displayed": "Gangs of Wasseypur",
-        "total_results": 4440000,
-        "time_taken_displayed": 0.39,
+        "query_displayed": "Y\u00f4jinb\u00f4",
+        "total_results": 65900,
+        "time_taken_displayed": 0.44,
         "menu_items": [
             {
                 "position": 1,
                 "title": "Images",
-                "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur&tbm=isch&source=lnms&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ0pQJegQICxAB",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=Gangs+of+Wasseypur"
+                "link": "https://www.google.com/search?sca_esv=571184275&q=Y%C3%B4jinb%C3%B4&tbm=isch&source=lnms&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQ0pQJegQIDhAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=Y%C3%B4jinb%C3%B4"
             },
             {
                 "position": 2,
                 "title": "Videos",
-                "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur&tbm=vid&source=lnms&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ0pQJegQIDhAB",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=Gangs+of+Wasseypur"
+                "link": "https://www.google.com/search?sca_esv=571184275&q=Y%C3%B4jinb%C3%B4&tbm=vid&source=lnms&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQ0pQJegQIDRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=Y%C3%B4jinb%C3%B4"
             },
             {
                 "position": 3,
-                "title": "News",
-                "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur&tbm=nws&source=lnms&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ0pQJegQIDRAB",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&tbm=nws"
+                "title": "Pronunciation",
+                "link": "https://www.google.com/search?sca_esv=571184275&q=Yojimbo+pronunciation&uds=H4sIAAAAAAAA_-My5uINKMrPK81LzkwsyczPE-KMPLwlKzMv6fAWA6Yi0cj8rMzcpHyFAmQ1Rgg1AEHyWYlAAAAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQxKsJegQIDBAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Yojimbo+pronunciation"
             },
             {
                 "position": 4,
-                "title": "Movie",
-                "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+movie&uds=H4sIAAAAAAAA_-My52L1zS_LTBUSck_MSy9WyE9TCE8sLk6tLCgtMmAsksAUVcgFqTfCoh4Ada3kik0AAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQxKsJegQIDBAB&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+movie"
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=571184275&q=Y%C3%B4jinb%C3%B4&tbm=nws&source=lnms&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQ0pQJegQICxAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Y%C3%B4jinb%C3%B4&tbm=nws"
             },
             {
                 "position": 5,
-                "title": "2 release date",
-                "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+2+release+date&uds=H4sIAAAAAAAA_-Py5OIzUihKzUlNLE5VSEksSRUSck_MSy9WyE9TCE8sLk6tLCgtMmAqUsQUVUDVaIRFIwCgcAxzXwAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQxKsJegUIigEQAQ&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+2+release+date"
+                "title": "Shopping",
+                "link": "https://www.google.com/search?sca_esv=571184275&q=Y%C3%B4jinb%C3%B4&tbm=shop&source=lnms&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQ0pQJegUInQEQAQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Y%C3%B4jinb%C3%B4"
             },
             {
                 "position": 6,
-                "title": "3 release date",
-                "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+3+release+date&uds=H4sIAAAAAAAA_-Py5OIzVihKzUlNLE5VSEksSRUSck_MSy9WyE9TCE8sLk6tLCgtMmAqUsQUVUDVaIRFIwAMSteXXwAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQxKsJegUIiAEQAQ&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+3+release+date"
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?sca_esv=571184275&output=search&q=Y%C3%B4jinb%C3%B4&source=lnms&entry=mc&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQ0pQJegUInwEQAQ"
             },
             {
                 "position": 7,
-                "title": "Series",
-                "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+series&uds=H4sIAAAAAAAA_-Oy5GILTi3KTC0WEnJPzEsvVshPUwhPLC5OrSwoLTJgLJLEFFUoBmswwqIBAOUXpkdPAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQxKsJegUIiwEQAQ&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+series"
+                "title": "Tsunagor\u00f4 Rash\u00f4mon",
+                "link": "https://www.google.com/search?sca_esv=571184275&q=Tsunagor%C3%B4+Rash%C3%B4mon&uds=H4sIAAAAAAAA_-Oy5BIJKS7NS0zPLzq8RSEosTjj8Jbc_DwhzsjDW7Iy85IObzFgKsKqxAihBAC3-c1PRgAAAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQxKsJegUIoAEQAQ&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tsunagor%C3%B4+Rash%C3%B4mon"
             },
             {
                 "position": 8,
-                "title": "Release date",
-                "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+release+date&uds=H4sIAAAAAAAA_-Ny5eIJSs1JTSxOVUhJLEkVEnJPzEsvVshPUwhPLC5OrSwoLTJgKpLHFFUoQtJmhEUbANkBybpbAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQxKsJegUIiQEQAQ&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+release+date"
+                "title": "Books",
+                "link": "https://www.google.com/search?sca_esv=571184275&q=Y%C3%B4jinb%C3%B4&tbm=bks&source=lnms&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQ0pQJegUIoQEQAQ"
             },
             {
                 "position": 9,
-                "title": "Collection",
-                "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+collection&uds=H4sIAAAAAAAA_-Ny5OJyzs_JSU0uyczPExJyT8xLL1bIT1MITywuTq0sKC0yYCqSxRRVSIZrMsKiCQDIFPMQVwAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQxKsJegUIhwEQAQ&ictx=0",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+collection"
+                "title": "Flights",
+                "link": "https://www.google.com/travel/flights?sca_esv=571184275&output=search&q=Y%C3%B4jinb%C3%B4&source=lnms&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQ0pQJegUIngEQAQ"
             }
         ],
         "organic_results_state": "Results for exact spelling"
     },
+    "available_on": [
+        {
+            "name": "Amazon Prime Video",
+            "link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.668a509d-cda7-44fa-a99f-0d7228f3646c?autoplay=0&ref_=atv_cf_strg_wb",
+            "price": "Premium subscription",
+            "thumbnail": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/5908beb32b699fcb5bfb7ece0f99798c4244882c092908ca33942890f7f7a9a6.png"
+        },
+        {
+            "name": "Apple TV",
+            "link": "https://tv.apple.com/us/movie/yojimbo/umc.cmc.5h8oqlf7pi0camwsxr2j3hoyu?action=play",
+            "price": "From $3.99",
+            "thumbnail": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/5908beb32b699fcb8b82ac1a65057878180d8088beaa53693ebb83d38d6eda9d.png"
+        },
+        {
+            "name": "Max",
+            "link": "https://www.max.com/movies/d1cf648d-3cf1-4a97-b497-648c02735403",
+            "price": "Subscription",
+            "thumbnail": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/5908beb32b699fcbdb9b773c563d25ab0bcda989176f273e32b51b592a7ad4f6.png"
+        }
+    ],
     "knowledge_graph": {
-        "title": "Gangs of Wasseypur",
-        "type": "Film series",
+        "title": "Yojimbo",
+        "type": "Not Rated 1961 \u2027 Adventure/Drama \u2027 1h 50m",
         "main_tab_text": "Overview",
-        "kgmid": "/g/11bc6gzh2s",
-        "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11bc6gzh2s&hl=en-US&q=Gangs+of+Wasseypur&kgs=803c0ecc4e574148&shndl=17&source=sh/x",
-        "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F11bc6gzh2s&q=Gangs+of+Wasseypur",
+        "kgmid": "/m/01tch8",
+        "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/01tch8&hl=en-US&q=Yojimbo&kgs=2bf9197160dc99f5&shndl=17&source=sh/x",
+        "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F01tch8&q=Yojimbo",
         "tabs": [
             {
                 "text": "Cast",
-                "si": "ALGXSlY5ASbfYIG_dHPdTIACvuSKYQ9k3Nfu7P71umYkI77Qh3p6KDTZDZwo-v0Qyt1h-wKTqjF0yqCR3ROhF737h--XOShp-YO1PxWSx9GboN1VZTPOQr4lsWHmId_K-UCsqvdNEkbGK-B7R3NiFQhXP9zV1Tr5_e86gE1moKvWWnnnhXh1xMhzX1rWfV0xfToJuqJzNdtM4RNfB44k7XhEdZtQtJayPbzBMmRGdDv8yukyAnUyRLbR3oMKFbW409yilqz3HomNTUvRgC_Z4enswrso0hqeWQ==",
-                "link": "https://www.google.com/search?si=ALGXSlY5ASbfYIG_dHPdTIACvuSKYQ9k3Nfu7P71umYkI77Qh3p6KDTZDZwo-v0Qyt1h-wKTqjF0yqCR3ROhF737h--XOShp-YO1PxWSx9GboN1VZTPOQr4lsWHmId_K-UCsqvdNEkbGK-B7R3NiFQhXP9zV1Tr5_e86gE1moKvWWnnnhXh1xMhzX1rWfV0xfToJuqJzNdtM4RNfB44k7XhEdZtQtJayPbzBMmRGdDv8yukyAnUyRLbR3oMKFbW409yilqz3HomNTUvRgC_Z4enswrso0hqeWQ==",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&si=ALGXSlY5ASbfYIG_dHPdTIACvuSKYQ9k3Nfu7P71umYkI77Qh3p6KDTZDZwo-v0Qyt1h-wKTqjF0yqCR3ROhF737h--XOShp-YO1PxWSx9GboN1VZTPOQr4lsWHmId_K-UCsqvdNEkbGK-B7R3NiFQhXP9zV1Tr5_e86gE1moKvWWnnnhXh1xMhzX1rWfV0xfToJuqJzNdtM4RNfB44k7XhEdZtQtJayPbzBMmRGdDv8yukyAnUyRLbR3oMKFbW409yilqz3HomNTUvRgC_Z4enswrso0hqeWQ%3D%3D"
+                "si": "ALGXSlYCCh7qEDaDcHEBy5zKn4mkH3oZ-vFcATGQzqRUetzvmqzH08N8RHPwF4sfRmP_5s8LrIrfaSBTIMz6pNELnAQP4jr4TwWO_O6R28teoz26abVvVLVl5lzGUX4O4xqxBw6yYSwYRQML0QLNOYxhQj4EwBTQ8M8slk3pz6BYuQwEQewalZsOVUKfYL5rS42et_KkNLCOWt8fO2Bn8t-EEwt15UH6iztVnrAb7ygfWWJSevpOq6XUoTD8mw5Vs3qkBNayK1kU",
+                "link": "https://www.google.com/search?si=ALGXSlYCCh7qEDaDcHEBy5zKn4mkH3oZ-vFcATGQzqRUetzvmqzH08N8RHPwF4sfRmP_5s8LrIrfaSBTIMz6pNELnAQP4jr4TwWO_O6R28teoz26abVvVLVl5lzGUX4O4xqxBw6yYSwYRQML0QLNOYxhQj4EwBTQ8M8slk3pz6BYuQwEQewalZsOVUKfYL5rS42et_KkNLCOWt8fO2Bn8t-EEwt15UH6iztVnrAb7ygfWWJSevpOq6XUoTD8mw5Vs3qkBNayK1kU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Y%C3%B4jinb%C3%B4&si=ALGXSlYCCh7qEDaDcHEBy5zKn4mkH3oZ-vFcATGQzqRUetzvmqzH08N8RHPwF4sfRmP_5s8LrIrfaSBTIMz6pNELnAQP4jr4TwWO_O6R28teoz26abVvVLVl5lzGUX4O4xqxBw6yYSwYRQML0QLNOYxhQj4EwBTQ8M8slk3pz6BYuQwEQewalZsOVUKfYL5rS42et_KkNLCOWt8fO2Bn8t-EEwt15UH6iztVnrAb7ygfWWJSevpOq6XUoTD8mw5Vs3qkBNayK1kU"
             },
             {
-                "text": "Movies",
-                "si": "ALGXSlZh34z_1QI0ige2vFUUkusb4B6qE-474yW9x-XD5QjJsuFr20m9-uJaWnz0dia5y2Bzv-oJqAcc0Xi1SCq0FtAUjkKar8DH1z_upSvY1DyhQOqKjAVmHIG6BrfKLsGCBaaPeMeNUF-1eSfKBn9_OLLO7zNML8zOc1jqs1Xv6Fj8HAkjH_-KAbaWdWVsWnKEqQsVmfgP",
-                "link": "https://www.google.com/search?si=ALGXSlZh34z_1QI0ige2vFUUkusb4B6qE-474yW9x-XD5QjJsuFr20m9-uJaWnz0dia5y2Bzv-oJqAcc0Xi1SCq0FtAUjkKar8DH1z_upSvY1DyhQOqKjAVmHIG6BrfKLsGCBaaPeMeNUF-1eSfKBn9_OLLO7zNML8zOc1jqs1Xv6Fj8HAkjH_-KAbaWdWVsWnKEqQsVmfgP",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&si=ALGXSlZh34z_1QI0ige2vFUUkusb4B6qE-474yW9x-XD5QjJsuFr20m9-uJaWnz0dia5y2Bzv-oJqAcc0Xi1SCq0FtAUjkKar8DH1z_upSvY1DyhQOqKjAVmHIG6BrfKLsGCBaaPeMeNUF-1eSfKBn9_OLLO7zNML8zOc1jqs1Xv6Fj8HAkjH_-KAbaWdWVsWnKEqQsVmfgP"
+                "text": "Watch movie",
+                "si": "ALGXSlYkQDdBSV9uI-V3DYQyIqPcrbk33E1yLtocPVjAx6hCI8fF5eDSNIcCc2LUCMJqj70jssIi7yN9_XVQ6G7TdUjbkGE0KEc38zWYzzU6BAfDjndzMse8mjr_DOPsI36a--1IcST-8AQHA1sbTQMOV7dYUZr5Xq8duUO2wnVqT7dAfg3GoDM=",
+                "link": "https://www.google.com/search?si=ALGXSlYkQDdBSV9uI-V3DYQyIqPcrbk33E1yLtocPVjAx6hCI8fF5eDSNIcCc2LUCMJqj70jssIi7yN9_XVQ6G7TdUjbkGE0KEc38zWYzzU6BAfDjndzMse8mjr_DOPsI36a--1IcST-8AQHA1sbTQMOV7dYUZr5Xq8duUO2wnVqT7dAfg3GoDM=",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Y%C3%B4jinb%C3%B4&si=ALGXSlYkQDdBSV9uI-V3DYQyIqPcrbk33E1yLtocPVjAx6hCI8fF5eDSNIcCc2LUCMJqj70jssIi7yN9_XVQ6G7TdUjbkGE0KEc38zWYzzU6BAfDjndzMse8mjr_DOPsI36a--1IcST-8AQHA1sbTQMOV7dYUZr5Xq8duUO2wnVqT7dAfg3GoDM%3D"
+            },
+            {
+                "text": "Reviews",
+                "si": "ALGXSlaD69LsqbJjW98OWcjCC_LsZKjzBUvey-W6anOmDt28jPe7tyHixKfRxzsZXtomzDXNXRgvFKCmamhLabelX6Vmnlocubei50srBbojmTI9C2rl_O3dYb16pVeg7s6dj9TDl_ZrYsFJPPCdWWYAK2woiy1jJsX7bbBJIuaMAIigm0zckCA=",
+                "link": "https://www.google.com/search?si=ALGXSlaD69LsqbJjW98OWcjCC_LsZKjzBUvey-W6anOmDt28jPe7tyHixKfRxzsZXtomzDXNXRgvFKCmamhLabelX6Vmnlocubei50srBbojmTI9C2rl_O3dYb16pVeg7s6dj9TDl_ZrYsFJPPCdWWYAK2woiy1jJsX7bbBJIuaMAIigm0zckCA=",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Y%C3%B4jinb%C3%B4&si=ALGXSlaD69LsqbJjW98OWcjCC_LsZKjzBUvey-W6anOmDt28jPe7tyHixKfRxzsZXtomzDXNXRgvFKCmamhLabelX6Vmnlocubei50srBbojmTI9C2rl_O3dYb16pVeg7s6dj9TDl_ZrYsFJPPCdWWYAK2woiy1jJsX7bbBJIuaMAIigm0zckCA%3D"
             },
             {
                 "text": "Trailers & clips",
-                "si": "ALGXSlaPCZ_SGxXEnnwBYrbYb3Cd0V2gl1DRY4H1Oy_BeZN0HH3ntCKVBTiFYaUX4P0jZoBq5yBh3go_pM5gAWbqMf2057jVKgD-dLXT69DbUxIKDkiCk4pfn00WZ1TanszzDFP-ytSiaTczZdtZD_oi0U58xTBjllo-9pWBZ6AJJLgt_UdlTMDS24mMctuScqzcRhx6atQz",
-                "link": "https://www.google.com/search?si=ALGXSlaPCZ_SGxXEnnwBYrbYb3Cd0V2gl1DRY4H1Oy_BeZN0HH3ntCKVBTiFYaUX4P0jZoBq5yBh3go_pM5gAWbqMf2057jVKgD-dLXT69DbUxIKDkiCk4pfn00WZ1TanszzDFP-ytSiaTczZdtZD_oi0U58xTBjllo-9pWBZ6AJJLgt_UdlTMDS24mMctuScqzcRhx6atQz",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&si=ALGXSlaPCZ_SGxXEnnwBYrbYb3Cd0V2gl1DRY4H1Oy_BeZN0HH3ntCKVBTiFYaUX4P0jZoBq5yBh3go_pM5gAWbqMf2057jVKgD-dLXT69DbUxIKDkiCk4pfn00WZ1TanszzDFP-ytSiaTczZdtZD_oi0U58xTBjllo-9pWBZ6AJJLgt_UdlTMDS24mMctuScqzcRhx6atQz"
+                "si": "ALGXSlaD69LsqbJjW98OWcjCC_LsZKjzBUvey-W6anOmDt28jPe7tyHixKfRxzsZXtomzDXNXRgvFKCmamhLabelX6Vmnlocubei50srBbojmTI9C2rl_O3dYb16pVeg7s6dj9TDl_ZrYsFJPPCdWWYAK2woiy1jJsX7bbBJIuaMAIigm0zckCA=",
+                "link": "https://www.google.com/search?si=ALGXSlaD69LsqbJjW98OWcjCC_LsZKjzBUvey-W6anOmDt28jPe7tyHixKfRxzsZXtomzDXNXRgvFKCmamhLabelX6Vmnlocubei50srBbojmTI9C2rl_O3dYb16pVeg7s6dj9TDl_ZrYsFJPPCdWWYAK2woiy1jJsX7bbBJIuaMAIigm0zckCA=",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Y%C3%B4jinb%C3%B4&si=ALGXSlaD69LsqbJjW98OWcjCC_LsZKjzBUvey-W6anOmDt28jPe7tyHixKfRxzsZXtomzDXNXRgvFKCmamhLabelX6Vmnlocubei50srBbojmTI9C2rl_O3dYb16pVeg7s6dj9TDl_ZrYsFJPPCdWWYAK2woiy1jJsX7bbBJIuaMAIigm0zckCA%3D"
+            },
+            {
+                "text": "Adaptations",
+                "si": "ALGXSlbuuyBAdH04alweXPWR6S9r-f14KdINMZXAf7ULzKSoENouiTX8hnOBuOhGiPhQq644r7ulureqqcJ3-i4lpjQ73KlW8lKEBr9TFWILD8rRlBxz6jGtmdzt1v4rZBte354Wq-T-KhVIRduOYf_EyUzeRRzUOPPhGeYfbtiKoJf2eM93y4z7BLIVMMhxwlWwj2Q-_Nbf8nw6nu1Cb6MAXQBfTxmJBpiRnI59dEbE60gc_tKo4_5rT97T0RgGE2wGqyw5oyka",
+                "link": "https://www.google.com/search?si=ALGXSlbuuyBAdH04alweXPWR6S9r-f14KdINMZXAf7ULzKSoENouiTX8hnOBuOhGiPhQq644r7ulureqqcJ3-i4lpjQ73KlW8lKEBr9TFWILD8rRlBxz6jGtmdzt1v4rZBte354Wq-T-KhVIRduOYf_EyUzeRRzUOPPhGeYfbtiKoJf2eM93y4z7BLIVMMhxwlWwj2Q-_Nbf8nw6nu1Cb6MAXQBfTxmJBpiRnI59dEbE60gc_tKo4_5rT97T0RgGE2wGqyw5oyka",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Y%C3%B4jinb%C3%B4&si=ALGXSlbuuyBAdH04alweXPWR6S9r-f14KdINMZXAf7ULzKSoENouiTX8hnOBuOhGiPhQq644r7ulureqqcJ3-i4lpjQ73KlW8lKEBr9TFWILD8rRlBxz6jGtmdzt1v4rZBte354Wq-T-KhVIRduOYf_EyUzeRRzUOPPhGeYfbtiKoJf2eM93y4z7BLIVMMhxwlWwj2Q-_Nbf8nw6nu1Cb6MAXQBfTxmJBpiRnI59dEbE60gc_tKo4_5rT97T0RgGE2wGqyw5oyka"
             },
             {
                 "text": "Quotes",
-                "si": "ALGXSla__sxgZWfRKwOxVewSFZEkhetyKSaMrDDyfJuKFBY-m_Y8FkrMm85rIx4kLgP6fYq4AWWslt1QfVHI8DCu0E4ffsRl6ciMSAtavHdoCxmJ__G50476Rs6dNIPZEBVC-MalLyOI6CnpIXd8j2QE-T-UjUYryTKDI0lEaUXLCxgL8jqfmqT7SudSxX2FDj-9eMylAWCqPiKqW3ir8azYabl0R9tzig==",
-                "link": "https://www.google.com/search?si=ALGXSla__sxgZWfRKwOxVewSFZEkhetyKSaMrDDyfJuKFBY-m_Y8FkrMm85rIx4kLgP6fYq4AWWslt1QfVHI8DCu0E4ffsRl6ciMSAtavHdoCxmJ__G50476Rs6dNIPZEBVC-MalLyOI6CnpIXd8j2QE-T-UjUYryTKDI0lEaUXLCxgL8jqfmqT7SudSxX2FDj-9eMylAWCqPiKqW3ir8azYabl0R9tzig==",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&si=ALGXSla__sxgZWfRKwOxVewSFZEkhetyKSaMrDDyfJuKFBY-m_Y8FkrMm85rIx4kLgP6fYq4AWWslt1QfVHI8DCu0E4ffsRl6ciMSAtavHdoCxmJ__G50476Rs6dNIPZEBVC-MalLyOI6CnpIXd8j2QE-T-UjUYryTKDI0lEaUXLCxgL8jqfmqT7SudSxX2FDj-9eMylAWCqPiKqW3ir8azYabl0R9tzig%3D%3D"
+                "si": "ALGXSlZnrJYyd6tgOkfzKCpUhvKPtKnJr9na4hBHKNSTf4QfP4FbpSi2Usk0iLGLPojIVOgZwOPaYUdZYCpc_R6yh3LZ4TK7UiT4mb74a1CcwR7YxuP878oHfTucEUMFMGe7thOFGkAhW0YkRri1pJaT_zfaj5AbMhW9SKPUE5ciXigZYP4rBio=",
+                "link": "https://www.google.com/search?si=ALGXSlZnrJYyd6tgOkfzKCpUhvKPtKnJr9na4hBHKNSTf4QfP4FbpSi2Usk0iLGLPojIVOgZwOPaYUdZYCpc_R6yh3LZ4TK7UiT4mb74a1CcwR7YxuP878oHfTucEUMFMGe7thOFGkAhW0YkRri1pJaT_zfaj5AbMhW9SKPUE5ciXigZYP4rBio=",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Y%C3%B4jinb%C3%B4&si=ALGXSlZnrJYyd6tgOkfzKCpUhvKPtKnJr9na4hBHKNSTf4QfP4FbpSi2Usk0iLGLPojIVOgZwOPaYUdZYCpc_R6yh3LZ4TK7UiT4mb74a1CcwR7YxuP878oHfTucEUMFMGe7thOFGkAhW0YkRri1pJaT_zfaj5AbMhW9SKPUE5ciXigZYP4rBio%3D"
             }
         ],
-        "description": "Gangs of Wasseypur is a 2012 Indian Hindi-language two-part gangster action crime film produced and directed by Anurag Kashyap, and written by Kashyap and Zeishan Quadri.",
-        "source": {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Gangs_of_Wasseypur"
-        },
-        "director": "Anurag Kashyap",
+        "description": "A nameless ronin, or samurai with no master (Toshir\u00f4 Mifune), enters a small village in feudal Japan where two rival businessmen are struggling for control of the local gambling trade. Taking the name Sanjuro Kuwabatake, the ronin convinces both silk merchant Tazaemon (Kamatari Fujiwara) and sake merchant Tokuemon (Takashi Shimura) to hire him as a personal bodyguard, then artfully sets in motion a full-scale gang war between the two ambitious and unscrupulous men.\u2026 MORE",
+        "release_date": "September 1961 (USA)",
+        "release_date_links": [
+            {
+                "text": "USA",
+                "link": "https://www.google.com/search?sca_esv=571184275&q=United+States&stick=H4sIAAAAAAAAAOPgE-LUz9U3MCxJzrBQAjMtk83LDbSMspOt9NMyc3LBhFVJRmpiSVFmcmKOQlFqemZ-nkJieWJRKpCTk5pYnKqQkliSuoiVNzQvsyQ1RSG4BMgt3sHKuIudiYMBAJi8EmlkAAAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQmxMoAHoECCQQAg"
+            }
+        ],
+        "director": "Akira Kurosawa",
         "director_links": [
             {
-                "text": "Anurag Kashyap",
-                "link": "https://www.google.com/search?sca_esv=569971392&q=Anurag+Kashyap&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFLoG1ejTEPTJXYnUx6dxWkFTk717TvXuLr4geKf3X7V4AT89AXmseAjgJzL28mdlxJOzMibRjtSN9-fBloCRw5V3ETrGU_1T8MvmZZBm-HpW1xOS0OOkn2byoBEBIGYmRYaHBRCnYI0T2KdfW5jBfDDGJI6SzqCpABGNoBIg4q7Imhn1gg%3D%3D&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQmxMoAHoECBgQAg"
+                "text": "Akira Kurosawa",
+                "link": "https://www.google.com/search?sca_esv=571184275&q=Akira+Kurosawa&si=ALGXSla-f6MMxwKu-SJiRY5AO1Qc3bk4T4KdI7iIt874xQYJOtCUTkwRX-GK5LV_MmRGufzNRKnRQUvkOdcmcMLeW8_-WP--dctYv3BdNOKSU3SSmcpD877F4F-YdCeQEum9pGkDIlSlHsomP5fG5tT1LJkAteP28BkQViV9en9DEJ7XdO7dQekD-33VjnEIvbgqp-IoVeBX&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQmxMoAHoECCIQAg"
             }
         ],
-        "characters": "Sardar Khan, Faizal Khan, Definite, Ramadhir Singh",
-        "characters_links": [
+        "cinematography": "Kazuo Miyagawa",
+        "cinematography_links": [
             {
-                "text": "Sardar Khan",
-                "link": "https://www.google.com/search?sca_esv=569971392&q=Sardar+Khan&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFEZSq_abxYmBljZCAH_VNXonSJ-RZh2g6VNxEDgvlmncOnFlnuqwzZS1P4KI_Z2Xu7joceOXiVJ6FbnuWTsMuwNQyXDY_BpRYcYWewMuocaD3zo9bV1g-lz0HkAfKRXPAicjUPNzN51ekzyf7xzo50H6jAcn_4vVWd7rCN8ZftV-0EPO3nAtjklx5RBc2bIm-RE7neTdSepdSkFUHp1b-YPKUGvQx-kcRHNF1yL_jxe1Jp2Wp0g3qJZY9Yz-yOSrGzHUwiY%3D&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQmxMoAHoECBkQAg"
+                "text": "Kazuo Miyagawa",
+                "link": "https://www.google.com/search?sca_esv=571184275&q=Kazuo+Miyagawa&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stBKCMEyzneSpx7-Zlyzgix69Xs9U22T2wfFYSDiRpJDOqaE0WbwSJyQgFe7rkJ70vFY2pTmPrjOCQyQeMyn-EJxAlsCPzIJ6VpQDVUfMzNEHTRqLlng_FHcY3UGMl5Vp4d0FnD-b0CAWHK-LXhOENkQNV81N&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQmxMoAHoECCAQAg"
+            }
+        ],
+        "sequel": "Sanjuro",
+        "sequel_links": [
+            {
+                "text": "Sanjuro",
+                "link": "https://www.google.com/search?sca_esv=571184275&q=Sanjuro&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stKCAYlajvnqcvSRn_7Om4HTUEPaLhDBIdBeU54CS3pNReKMKOA8pkAWRIusRQ5lCajuPEvGON1ZSclwMD4dHw4i1TRxsRhaKxkDcTJKYykr03wdEmQYC9OZYtJj6zojQM3fCyE7dIPaGDnVm5yDfjHwEm_s1&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQmxMoAHoECBsQAg"
+            }
+        ],
+        "budget": "90.87 million JPY",
+        "adaptations": "A Fistful of Dollars (1964), Last Man Standing (1996)",
+        "adaptations_links": [
+            {
+                "text": "A Fistful of Dollars",
+                "link": "https://www.google.com/search?sca_esv=571184275&q=A+Fistful+of+Dollars&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stKZJYZBaW6dKwcx8c6Iodx0CmP5pndj1qfmL0M0mxjrozYFnzoV2lz6WTV6HH1YooY3gNuQGv1BpLHjZLhCCnQ4Eeo1Vjx-0lvDtVRR-iGlL25mNuroXFDcbp3xMwwuo36YlAR8lJCvKZvGpNBfZeZuTWmgSfdpt_bcgZhFVLw1IDWlIlzqte5TMIw1vALuEODpprQP4ptzBiDep7Xub1NTslT4ElyX41dCPqkWXr4BemKJHkMGjR-0EpZhFaz1BI3Q1ElI%3D&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQmxMoAHoECCMQAg"
             },
             {
-                "text": "Faizal Khan",
-                "link": "https://www.google.com/search?sca_esv=569971392&q=Faizal+Khan+Gangs+of+Wasseypur&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFJFAuqtIvX9zJ3UiequXcdP_o03v5QgSkcfITCURswnaEfNXvEcfYbqlvDSOye0PuJ9shCp-4Mik4jrH1WuQY6dHYdojiFzoiTnS-2k2oEpZ9skjWQaiGhzgqp1sCoZVJCxoD5tBS52q8pFo3gXu5DUrbStEh4lbXj4LdWoSQLSzj3ao1HpCbhtPJunT2mU4w9mylR4f9VWrHSUyaNWPeCkjnrY6Nm05_XYI-AaS1LogyLKTMzhLdrMXlKqpCcSHlDhSOrGJSYaCnL1nDJHx7wkaGx32&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQmxMoAXoECBkQAw"
-            },
-            {
-                "text": "Definite",
-                "link": "https://www.google.com/search?sca_esv=569971392&q=Definite+Gangs+of+Wasseypur&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFCanTHCaLyCiCrvyuE0PT1dzNcdgGzgfTYzWZa_jdfcSE11a2zY5zmVXkSXVDXi-AodRW28ZsizgfNhqhU4tpQOgpAhcRQxEm8IwNTveRVzKom0n7Eu9s2uc5BQcqF94rKC5bCWq4CFDSU44flAnAF5Rzsh1nCIApiR1vrl-BrDiN484ngemDoHzbt7LIxYbMP-IiyIearLe5GrXOE9IFXjl05vzsr0lVcjam5-taH-aWrUKYGGuw_CGhXq0NIC0xylq3CNq1pdmfcXXdqQLggudwhvO&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQmxMoAnoECBkQBA"
-            },
-            {
-                "text": "Ramadhir Singh",
-                "link": "https://www.google.com/search?sca_esv=569971392&q=Ramadhir+Singh&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFGSFaXKxsP2Vz463FUnBCRHe3dlpZH5Y4vpAj4tOZZizX5YenaYxkMgfSZnqnPWNQgnNTb60gs3P0-cpW7k3VwxpGgNGLEBn6gVZjHWEWqE3q6hDz2u7dS9fxn_iQlirI5pM2f-gMeWgKBDS_9if37eHmqb8_QyeeOqwuQwi14wzbkslp20orTS2Cv8pj2VNk23THs5BIjf82FWIIE2gKmQgAGv67WB66LfFTcUUi3E7a9p_PqVNMNnVuW2liBcQ-14m0BM%3D&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQmxMoA3oECBkQBQ"
+                "text": "Last Man Standing",
+                "link": "https://www.google.com/search?sca_esv=571184275&q=Last+Man+Standing+1996&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stBkzW4bQl3Iqi6VCqSF7J4QuX7Msl6b-RrrlRHTg9kwKLOKqcHXB5peA7IFt4H1KFsHlr9FjGjBIRUYQ2MT737-yzFP3h8V_4YC_CgK3wheZKFx1fJyGyB1EmJmjFT-okRn5S-ZEOhSpxDx5cNgYZHcCPZpVMHTMQXQgmAyTmXa52RTu7rE7uOZmX5mIjE1jwuMzFUHZ8iQ01Flx0GzuobaUL9zcBjaaIgCw8_p73bhK0KRMV9D1KRhRjiciXV-Jz2sDVUk%3D&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQmxMoAXoECCMQAw"
             },
             {
                 "text": "MORE",
-                "link": "https://www.google.com/search?sca_esv=569971392&q=gangs+of+wasseypur+characters&stick=H4sIAAAAAAAAAOPgE-LVT9c3NExKNkuvyjAq1pLPTrbST8vMyQUT8cWpRZmpxVbJGYlFicklqUXFi1hl0xPz0osV8tMUyhOLi1MrC0qLFBDyAAOUa6xSAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ44YBKAR6BAgZEAY"
+                "link": "https://www.google.com/search?sca_esv=571184275&q=yojimbo+adaptations&stick=H4sIAAAAAAAAAOPgE-LUz9U3MCxJzrDQ0sxOttLPTU3JTIxPzs_Nzc_TT0xJLChJTYkvzy_KtgJzEksy8_OKF7EKV-ZnZeYm5SsgiQIA0NtMVk4AAAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQ44YBKAJ6BAgjEAQ"
             }
         ],
+        "editorial_reviews": [
+            {
+                "title": "IMDb",
+                "rating": "8.2/10",
+                "link": "https://www.imdb.com/title/tt0055630/"
+            },
+            {
+                "title": "Rotten Tomatoes",
+                "rating": "95%",
+                "link": "https://www.rottentomatoes.com/m/yojimbo"
+            }
+        ],
+        "user_statistics": {
+            "platform": "Google users",
+            "statistic": "91% liked this movie"
+        },
         "cast": [
             {
-                "name": "Manoj Bajpayee",
+                "name": "Toshiro Mifune",
                 "extensions": [
-                    "Sardar Khan"
+                    "Sanjuro Kuwabatake"
                 ],
-                "link": "https://www.google.com/search?sca_esv=569971392&q=Manoj+Bajpayee&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLUz9U3sLAwjU_SksxOttJPy8zJBRPxxalFmanFVsmJxSWLWPl8E_PysxScErMKEitTU3ewMgIAfaok2UsAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQgOQBegQIPxAE",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Manoj+Bajpayee&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLUz9U3sLAwjU_SksxOttJPy8zJBRPxxalFmanFVsmJxSWLWPl8E_PysxScErMKEitTU3ewMgIAfaok2UsAAAA",
-                "image": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/0173c3f6ad32324ae9e4320b30720ba7fb95a24a986b8d76bd0960ea83fc8eb1.jpeg"
+                "link": "https://www.google.com/search?sca_esv=571184275&q=Toshiro+Mifune&stick=H4sIAAAAAAAAAONgFuLUz9U3MCxJzrBQgjANjSpztISyk6300zJzcsGEVXJicckiVr6Q_OKMzKJ8Bd_MtNK81B2sjADKhDR-QAAAAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQgOQBegQIORAE",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Toshiro+Mifune&stick=H4sIAAAAAAAAAONgFuLUz9U3MCxJzrBQgjANjSpztISyk6300zJzcsGEVXJicckiVr6Q_OKMzKJ8Bd_MtNK81B2sjADKhDR-QAAAAA",
+                "image": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/4282457bb9aa2fa8fc36e62f307b46ad346540f7cb6192e90fd3ba06ac0979e6.jpeg"
             },
             {
-                "name": "Nawazuddin Siddiqui",
+                "name": "Tatsuya Nakadai",
                 "extensions": [
-                    "Faizal Khan"
+                    "Unosuke"
                 ],
-                "link": "https://www.google.com/search?sca_esv=569971392&q=Nawazuddin+Siddiqui&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3MDPJLjdO05LMTrbST8vMyQUT8cWpRZmpxVbJicUli1iF_RLLE6tKU1Iy8xSCM4FUYWnmDlZGAHkVPJ5RAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQgOQBegQIPxAG",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nawazuddin+Siddiqui&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3MDPJLjdO05LMTrbST8vMyQUT8cWpRZmpxVbJicUli1iF_RLLE6tKU1Iy8xSCM4FUYWnmDlZGAHkVPJ5RAAAA",
-                "image": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/0173c3f6ad32324ae9e4320b30720ba7d8b3479617a03556b2503d03189bd2b5.jpeg"
+                "link": "https://www.google.com/search?sca_esv=571184275&q=Tatsuya+Nakadai&stick=H4sIAAAAAAAAAONgFuLUz9U3MCxJzrBQAjNNK40qy7WEspOt9NMyc3LBhFVyYnHJIlb-kMSS4tLKRAW_xOzElMTMHayMAPWdq6tBAAAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQgOQBegQIORAG",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tatsuya+Nakadai&stick=H4sIAAAAAAAAAONgFuLUz9U3MCxJzrBQAjNNK40qy7WEspOt9NMyc3LBhFVyYnHJIlb-kMSS4tLKRAW_xOzElMTMHayMAPWdq6tBAAAA",
+                "image": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/4282457bb9aa2fa8fc36e62f307b46ad8ad67479c5187ee2b74013881af47128.jpeg"
             },
             {
-                "name": "Tigmanshu Dhulia",
+                "name": "Seizabur\u00f4 Kawazu",
                 "extensions": [
-                    "Ramadhir Singh"
+                    "Seib\u00ea - Brothel Operator"
                 ],
-                "link": "https://www.google.com/search?sca_esv=569971392&q=Tigmanshu+Dhulia&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3MMkztMwq1pLMTrbST8vMyQUT8cWpRZmpxVbJicUli1gFQjLTcxPzijNKFVwySnMyE3ewMgIASfy6O04AAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQgOQBegQIPxAI",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tigmanshu+Dhulia&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3MMkztMwq1pLMTrbST8vMyQUT8cWpRZmpxVbJicUli1gFQjLTcxPzijNKFVwySnMyE3ewMgIASfy6O04AAAA",
-                "image": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/0173c3f6ad32324ae9e4320b30720ba7a96c279ceedbd339d0e1c4568898cc88.jpeg"
+                "link": "https://www.google.com/search?sca_esv=571184275&q=Seizabur%C3%B4+Kawazu&stick=H4sIAAAAAAAAAONgFuLUz9U3MCxJzrBQAjOzjQ2y8rSEspOt9NMyc3LBhFVyYnHJIlbB4NTMqsSk0qLDWxS8E8sTq0p3sDICAMPM5tpDAAAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQgOQBegQIORAI",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Seizabur%C3%B4+Kawazu&stick=H4sIAAAAAAAAAONgFuLUz9U3MCxJzrBQAjOzjQ2y8rSEspOt9NMyc3LBhFVyYnHJIlbB4NTMqsSk0qLDWxS8E8sTq0p3sDICAMPM5tpDAAAA",
+                "image": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/4282457bb9aa2fa8fc36e62f307b46adfa4189889a625c0dc7e55445994c8db9.jpeg"
             },
             {
-                "name": "Zeishan Quadri",
+                "name": "Ky\u016b Sazanka",
                 "extensions": [
-                    "Definite"
+                    "Ushitora"
                 ],
-                "link": "https://www.google.com/search?sca_esv=569971392&q=Zeishan+Quadri&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3yE6zrCpP0pLMTrbST8vMyQUT8cWpRZmpxVbJicUli1j5olIzizMS8xQCSxNTijJ3sDICAEa131VMAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQgOQBegQIPxAK",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Zeishan+Quadri&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3yE6zrCpP0pLMTrbST8vMyQUT8cWpRZmpxVbJicUli1j5olIzizMS8xQCSxNTijJ3sDICAEa131VMAAAA",
-                "image": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/0173c3f6ad32324ae9e4320b30720ba7094b38febdc60502e39198417602fa77.jpeg"
+                "link": "https://www.google.com/search?sca_esv=571184275&q=Ky%C5%AB+Sazanka&stick=H4sIAAAAAAAAAONgFuLUz9U3MCxJzrBQ4gIxzUuSjY3ztISyk6300zJzcsGEVXJicckiVh7vyqOrFYITqxLzshN3sDICAD4conw_AAAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQgOQBegQIORAK",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Ky%C5%AB+Sazanka&stick=H4sIAAAAAAAAAONgFuLUz9U3MCxJzrBQ4gIxzUuSjY3ztISyk6300zJzcsGEVXJicckiVh7vyqOrFYITqxLzshN3sDICAD4conw_AAAA",
+                "image": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/4282457bb9aa2fa8fc36e62f307b46ade2624693bd8289979c6a32ac6ab08649.jpeg"
             },
             {
-                "name": "Huma Qureshi",
+                "name": "Eijir\u014d T\u014dno",
                 "extensions": [
-                    "Mohsina"
+                    "Gonji"
                 ],
-                "link": "https://www.google.com/search?sca_esv=569971392&q=Huma+Qureshi&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3yCoxKjAs05LMTrbST8vMyQUT8cWpRZmpxVbJicUli1h5PEpzExUCS4tSizMyd7AyAgApGmsYSgAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQgOQBegQIPxAM",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Huma+Qureshi&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3yCoxKjAs05LMTrbST8vMyQUT8cWpRZmpxVbJicUli1h5PEpzExUCS4tSizMyd7AyAgApGmsYSgAAAA",
-                "image": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/0173c3f6ad32324ae9e4320b30720ba786a15bdc3a6cd106c19176c4d84ab6ef.jpeg"
+                "link": "https://www.google.com/search?sca_esv=571184275&q=Eijir%C5%8D+T%C5%8Dno&stick=H4sIAAAAAAAAAONgFuLUz9U3MCxJzrBQAjNTCi1TirSEspOt9NMyc3LBhFVyYnHJIlZe18yszKKjvQohR3vz8newMgIAHGfkHD8AAAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQgOQBegQIORAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Eijir%C5%8D+T%C5%8Dno&stick=H4sIAAAAAAAAAONgFuLUz9U3MCxJzrBQAjNTCi1TirSEspOt9NMyc3LBhFVyYnHJIlZe18yszKKjvQohR3vz8newMgIAHGfkHD8AAAA",
+                "image": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/4282457bb9aa2fa8fc36e62f307b46ad863b2246efc8289e12e779e338b911c1.jpeg"
             },
             {
-                "name": "Richa Chadha",
+                "name": "Ikio Sawamura",
                 "extensions": [
-                    "Nagma Khatoon"
+                    "Hansuke"
                 ],
-                "link": "https://www.google.com/search?sca_esv=569971392&q=Richa+Chadha&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3MC0wqzQt15LMTrbST8vMyQUT8cWpRZmpxVbJicUli1h5gjKTMxIVnDMSUzISd7AyAgC-U8EYSgAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQgOQBegQIPxAO",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Richa+Chadha&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3MC0wqzQt15LMTrbST8vMyQUT8cWpRZmpxVbJicUli1h5gjKTMxIVnDMSUzISd7AyAgC-U8EYSgAAAA",
-                "image": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/0173c3f6ad32324ae9e4320b30720ba7ad44121a28a32ef9e24656800ba1f1b8.jpeg"
+                "link": "https://www.google.com/search?sca_esv=571184275&q=Ikio+Sawamura&stick=H4sIAAAAAAAAAONgFuLUz9U3MCxJzrBQAjOzKssr0rSEspOt9NMyc3LBhFVyYnHJIlZez-zMfIXgxPLE3NKixB2sjACPUwZDPwAAAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQgOQBegQIORAO",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Ikio+Sawamura&stick=H4sIAAAAAAAAAONgFuLUz9U3MCxJzrBQAjOzKssr0rSEspOt9NMyc3LBhFVyYnHJIlZez-zMfIXgxPLE3NKixB2sjACPUwZDPwAAAA",
+                "image": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/4282457bb9aa2fa8fc36e62f307b46ad3a891928be268a165f8f50880fa8bbe7.jpeg"
             },
             {
-                "name": "Jaideep Ahlawat",
+                "name": "Jerry Fujio",
                 "extensions": [
-                    "Shahid Khan"
+                    "Roku - Samurai Whose Arm Is Cut"
                 ],
-                "link": "https://www.google.com/search?sca_esv=569971392&q=Jaideep+Ahlawat&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3SEkvME0x0JLMTrbST8vMyQUT8cWpRZmpxVbJicUli1j5vRIzU1JTCxQcM3ISyxNLdrAyAgCkbPV0TQAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQgOQBegQIPxAQ",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jaideep+Ahlawat&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3SEkvME0x0JLMTrbST8vMyQUT8cWpRZmpxVbJicUli1j5vRIzU1JTCxQcM3ISyxNLdrAyAgCkbPV0TQAAAA",
-                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdiwdWGVYDXDvz_Bit6rE-5xUhZFF5Fw-QdnYhKMKTLrQ6MajwFbuRDdxhyA&s=10"
+                "link": "https://www.google.com/search?sca_esv=571184275&q=Jerry+Fujio&stick=H4sIAAAAAAAAAONgFuLUz9U3MCxJzrBQ4gIxM4yMzcpMtYSyk6300zJzcsGEVXJicckiVm6v1KKiSgW30qzM_B2sjACEiOIvPgAAAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQgOQBegQIORAQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Jerry+Fujio&stick=H4sIAAAAAAAAAONgFuLUz9U3MCxJzrBQ4gIxM4yMzcpMtYSyk6300zJzcsGEVXJicckiVm6v1KKiSgW30qzM_B2sjACEiOIvPgAAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv1lW-tldsIb-Yk1GeoIzZaMVZOvqrrgsRFbwon_yJ-DvTEgvSiWgLK_A&s=0"
             }
         ],
-        "movies": [
+        "watch_now": [
             {
-                "name": "Gangs of Wasseypur",
-                "extensions": [
-                    "2012"
-                ],
-                "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+Of+Wasseypur+Part+1&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3SM-uyM020pLKTrbST8vMyQUT8cWpRZmpxVYgdvEiVkn3xLz0YgX_NIXwxOLi1MqC0iKFgMSiEgXDHayMAIoEgoZYAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQgOQBegQIUBAE",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+Of+Wasseypur+Part+1&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3SM-uyM020pLKTrbST8vMyQUT8cWpRZmpxVYgdvEiVkn3xLz0YgX_NIXwxOLi1MqC0iKFgMSiEgXDHayMAIoEgoZYAAAA",
-                "image": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/0173c3f6ad32324ae9e4320b30720ba7af6d37e945c48fe783ec9f0a18f36867.jpeg"
-            },
-            {
-                "name": "Gangs of Wasseypur - Part 2",
-                "extensions": [
-                    "2012"
-                ],
-                "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+Of+Wasseypur+2&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3KDC3LM4y0ZLKTrbST8vMyQUT8cWpRZmpxVYgdvEiVhH3xLz0YgX_NIXwxOLi1MqC0iIFox2sjABdfnF3UwAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQgOQBegQIUBAG",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+Of+Wasseypur+2&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVuLSz9U3KDC3LM4y0ZLKTrbST8vMyQUT8cWpRZmpxVYgdvEiVhH3xLz0YgX_NIXwxOLi1MqC0iIFox2sjABdfnF3UwAAAA",
-                "image": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/0173c3f6ad32324ae9e4320b30720ba776647298e600c9f0d90db30d5474d256.jpeg"
+                "name": "Watch now Subscription",
+                "link": "https://www.max.com/movies/d1cf648d-3cf1-4a97-b497-648c02735403",
+                "image": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/4282457bb9aa2fa8fc36e62f307b46ad370e87c99beceebdc6c38ee16dc273c349899575090d30b4.png"
             }
         ],
         "people_also_search_for": [
             {
-                "name": "Mirzapur",
-                "link": "https://www.google.com/search?sca_esv=569971392&si=ALGXSlZZLz93Q5j8HVkpXyxpTaoqXw8cocmoi-DFAGsSj5diFyU8KcHV33ys_78MGXEVGUfFwpF2apl_v_oAKbWCoGo-exXY2WIZVm8GwZFKNF0vl6F6--_heHsoyNVITIgrnw0LwZumyMJf1cVPf91Kvq89Cfw_zTt7MEiySNOhesPs5jnAN4Mn71fduAHHz6MGIdCM5iDjR0D1nufJKgLqf0-HZ_bawuyHIjrODlXF7CEfzNfD28qD9djk4xIslWhGKtKNVMg35z-q70kLPvO34-JeVsDqMjxKNX09eqGLmJlKXL3_iwZRG_vLa_nvIniNBHeMK3gk&q=Mirzapur&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQs9oBKAB6BAgbEAI",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Mirzapur&si=ALGXSlZZLz93Q5j8HVkpXyxpTaoqXw8cocmoi-DFAGsSj5diFyU8KcHV33ys_78MGXEVGUfFwpF2apl_v_oAKbWCoGo-exXY2WIZVm8GwZFKNF0vl6F6--_heHsoyNVITIgrnw0LwZumyMJf1cVPf91Kvq89Cfw_zTt7MEiySNOhesPs5jnAN4Mn71fduAHHz6MGIdCM5iDjR0D1nufJKgLqf0-HZ_bawuyHIjrODlXF7CEfzNfD28qD9djk4xIslWhGKtKNVMg35z-q70kLPvO34-JeVsDqMjxKNX09eqGLmJlKXL3_iwZRG_vLa_nvIniNBHeMK3gk",
-                "image": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/0173c3f6ad32324ae9e4320b30720ba7519b2a64e7e3b30634b1b3e5c340d6911f69810c435f4af65587a1fbbc1e3770.jpeg"
+                "name": "Sanjuro (1962)",
+                "extensions": [
+                    "1962"
+                ],
+                "link": "https://www.google.com/search?sca_esv=571184275&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stKCAYlajvnqcvSRn_7Om4HRXTwVU6OGeP89T0Cbhh_TcoidDSyE3nTQhyKpCEljPxoYRRLx3cyhSEZpBvOJc9fWQU1VWFZGGzN16md7jMlwLikNKgA4SWn-xRK0OAdR0rg1q1ii3mWkhrFYiQ-Xm7W5NKR4X6cQJKceoFpL9encz3c6RQpjDojur-IpCj6NYqfrKsZMOH-dTOqiE4Cs6UOVZQdFg1hDhyOmlzHZv47BuLJrIqaNmOf2dGA5pgJAU-8L1lNA%3D&q=Sanjuro&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQs9oBKAB6BAgaEAI",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sanjuro&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stKCAYlajvnqcvSRn_7Om4HRXTwVU6OGeP89T0Cbhh_TcoidDSyE3nTQhyKpCEljPxoYRRLx3cyhSEZpBvOJc9fWQU1VWFZGGzN16md7jMlwLikNKgA4SWn-xRK0OAdR0rg1q1ii3mWkhrFYiQ-Xm7W5NKR4X6cQJKceoFpL9encz3c6RQpjDojur-IpCj6NYqfrKsZMOH-dTOqiE4Cs6UOVZQdFg1hDhyOmlzHZv47BuLJrIqaNmOf2dGA5pgJAU-8L1lNA%3D",
+                "image": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/4282457bb9aa2fa8fc36e62f307b46ad94be37b2130fea4a94ae85d4f1323a872b1733a5231cc783375cce23930014ec.jpeg"
             },
             {
-                "name": "Sacred Games",
-                "link": "https://www.google.com/search?sca_esv=569971392&si=ALGXSlZZLz93Q5j8HVkpXyxpTaoqXw8cocmoi-DFAGsSj5diF56-Y98Zn1_x5yWGzkv4HRwSO_YkNsdYqla5UUm03YRysqbrZWfhcz0G5oWKicF3Y53rJhkTxGo9slUBFKhV5Il-aXngVpH4tM1MoOrGnrijS73Lbh6ACsz6e-LHl8LaDqIcwngz8_NbdHUPlzQqrXrS6MXioNwhcAW7X9g6_5pE3t6CtUyEI6EdopashkAU7BfQ9QK67I-TMQnobYlhwGQcFq6hfsuIsdTfPN3HwrTbAOPgjfQDzpdtrZEceHgQ9jdj0pzLrZJ6FKbafytJqJ_4gxHs&q=Sacred+Games&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQs9oBKAF6BAgbEAM",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sacred+Games&si=ALGXSlZZLz93Q5j8HVkpXyxpTaoqXw8cocmoi-DFAGsSj5diF56-Y98Zn1_x5yWGzkv4HRwSO_YkNsdYqla5UUm03YRysqbrZWfhcz0G5oWKicF3Y53rJhkTxGo9slUBFKhV5Il-aXngVpH4tM1MoOrGnrijS73Lbh6ACsz6e-LHl8LaDqIcwngz8_NbdHUPlzQqrXrS6MXioNwhcAW7X9g6_5pE3t6CtUyEI6EdopashkAU7BfQ9QK67I-TMQnobYlhwGQcFq6hfsuIsdTfPN3HwrTbAOPgjfQDzpdtrZEceHgQ9jdj0pzLrZJ6FKbafytJqJ_4gxHs",
-                "image": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/0173c3f6ad32324ae9e4320b30720ba7519b2a64e7e3b30634b1b3e5c340d6914a5bd0484c6b6b3eade320dcd53b7e85.jpeg"
+                "name": "Seven Samurai (1954)",
+                "extensions": [
+                    "1954"
+                ],
+                "link": "https://www.google.com/search?sca_esv=571184275&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2mXNH1iCRn8dmFET7UOKu1ABUR-lMerocTRvOwGg1vpSAFFWCXxKkAMeZt-VBG-yblRPxofpjj6nJ-Vo8SYmrAiAsXexuycgO8B7O5lOpt8Pv0WveZBk1vuNSxEBKu95-PG7H5d3qWXsEZK7CWTdaj0QE6jOOdNOvjjU0aT4r5EjIdbMrMZLRH1L7o6yMo901iN8-i-h7nXjRC49zckNC2NOi5CDgyQ4fGaia2BiVPsUYmMQOgHv8uFys6lfSQ-S9QGbNo3I%3D&q=Seven+Samurai&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQs9oBKAF6BAgaEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Seven+Samurai&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2mXNH1iCRn8dmFET7UOKu1ABUR-lMerocTRvOwGg1vpSAFFWCXxKkAMeZt-VBG-yblRPxofpjj6nJ-Vo8SYmrAiAsXexuycgO8B7O5lOpt8Pv0WveZBk1vuNSxEBKu95-PG7H5d3qWXsEZK7CWTdaj0QE6jOOdNOvjjU0aT4r5EjIdbMrMZLRH1L7o6yMo901iN8-i-h7nXjRC49zckNC2NOi5CDgyQ4fGaia2BiVPsUYmMQOgHv8uFys6lfSQ-S9QGbNo3I%3D",
+                "image": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/4282457bb9aa2fa8fc36e62f307b46ad94be37b2130fea4a94ae85d4f1323a87907600d171fc2396f3db86efb4e35ece.jpeg"
             },
             {
-                "name": "Hera Pheri",
-                "link": "https://www.google.com/search?sca_esv=569971392&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stCh_uVDW6xJFQrkGvIFZKj1WxPp8CnbdO04hrteo6II_8oe-pnoSXioAKXGwqRBzkBk8uLJUo4C8e1TJITQELFtejp0yxfvoJtM9VwY49HR4aOcLbSieQG3DCzQFIVBhZaYXNoD6NmQiFF_mA3jPP_HLNVPFJjCOsGtCAzCHBh94efB-BXWDWiY1Jj_ZXfR8Dd3L4PFf08MfnXQkbcNaTBNWPrfyJlgn1qylitEWtCHBKuXT2odbemWbgkdypQHsyaGaH4M%3D&q=Hera+Pheri&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQs9oBKAJ6BAgbEAQ",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hera+Pheri&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stCh_uVDW6xJFQrkGvIFZKj1WxPp8CnbdO04hrteo6II_8oe-pnoSXioAKXGwqRBzkBk8uLJUo4C8e1TJITQELFtejp0yxfvoJtM9VwY49HR4aOcLbSieQG3DCzQFIVBhZaYXNoD6NmQiFF_mA3jPP_HLNVPFJjCOsGtCAzCHBh94efB-BXWDWiY1Jj_ZXfR8Dd3L4PFf08MfnXQkbcNaTBNWPrfyJlgn1qylitEWtCHBKuXT2odbemWbgkdypQHsyaGaH4M%3D",
-                "image": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/0173c3f6ad32324ae9e4320b30720ba7519b2a64e7e3b30634b1b3e5c340d69189fbc90c0c61896179a92d80e6b2aa71.jpeg"
+                "name": "Throne of Blood (1957)",
+                "extensions": [
+                    "1957"
+                ],
+                "link": "https://www.google.com/search?sca_esv=571184275&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2mRfHxngkW8uf-3UkxxjukxJWD46jTRxiPV0uRbadTpeTYnf6a7PosgWtwKMPhpzNN_h2uJeGlfUtLtwEtGY0GD8yI8NcYYN0MhCbGiDRO3FTrKUTdhR30HkR59ndP8c6iXuZAo9NfR8jKpcSMuPVTwYfZxzKtAwmHMBLNIi64cTn9GN93-thQ8G4UVks10-x2CHyO8C39JSqnw_nHGa2adI0bMf76gvbAz9QhVQwrN6o81xN22VjnzGCW9WQXrVS77iAcnY%3D&q=Throne+of+Blood&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQs9oBKAJ6BAgaEAQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Throne+of+Blood&si=ALGXSlZS0YT-iRe81F2cKC9lM9KWTK4y0m5Atx8g9YliNNw2mRfHxngkW8uf-3UkxxjukxJWD46jTRxiPV0uRbadTpeTYnf6a7PosgWtwKMPhpzNN_h2uJeGlfUtLtwEtGY0GD8yI8NcYYN0MhCbGiDRO3FTrKUTdhR30HkR59ndP8c6iXuZAo9NfR8jKpcSMuPVTwYfZxzKtAwmHMBLNIi64cTn9GN93-thQ8G4UVks10-x2CHyO8C39JSqnw_nHGa2adI0bMf76gvbAz9QhVQwrN6o81xN22VjnzGCW9WQXrVS77iAcnY%3D",
+                "image": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/4282457bb9aa2fa8fc36e62f307b46ad94be37b2130fea4a94ae85d4f1323a87f140ee2a8bdd867f3d299f113e81a3ed.jpeg"
             },
             {
-                "name": "3 Idiots",
-                "link": "https://www.google.com/search?sca_esv=569971392&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFF1qIWdtkAr09Z6K7ucgr8RsBVdt28UiI7LBDAz3xxaBWcL-wput8jRRU91m9bVfyruaVFPlVwLq5PT7PyeMHNR8MYxYQD9ioisD1VS3c8S4iJAWz6WsjqP2gAdrvJ95Dd3EvVy0ccPRJkhLiXfe_VrsfJO9MmEQ7s0QRxnjW8GdIuDA2nPGd_r7Hk3EFPN-9kKJ-N0kFMH82qN18tXfEtMWHk7UEwXWNPya9BAUs86OkRGOR7MQhw-nTdRDWqD7BXo9Gj8%3D&q=3+Idiots&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQs9oBKAN6BAgbEAU",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=3+Idiots&si=ALGXSlYzFQQn5id74gU-GPAR8UsllKNebHx5zj2txQsc1FfqFF1qIWdtkAr09Z6K7ucgr8RsBVdt28UiI7LBDAz3xxaBWcL-wput8jRRU91m9bVfyruaVFPlVwLq5PT7PyeMHNR8MYxYQD9ioisD1VS3c8S4iJAWz6WsjqP2gAdrvJ95Dd3EvVy0ccPRJkhLiXfe_VrsfJO9MmEQ7s0QRxnjW8GdIuDA2nPGd_r7Hk3EFPN-9kKJ-N0kFMH82qN18tXfEtMWHk7UEwXWNPya9BAUs86OkRGOR7MQhw-nTdRDWqD7BXo9Gj8%3D",
-                "image": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/0173c3f6ad32324ae9e4320b30720ba7519b2a64e7e3b30634b1b3e5c340d6911bdb2ba4f04f20da23d99ff952c59821.jpeg"
+                "name": "The Hidden Fortress (1958)",
+                "extensions": [
+                    "1958"
+                ],
+                "link": "https://www.google.com/search?sca_esv=571184275&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stNaCfoKhT0nXMYl_vynzSl_k5gZAbf6zIjAP_XGvMgjWiDaKoQuvqy1zn5tVjj1unbahjh2iKPNi6guE9gFwE0DlYb9wTEGw8gUEVM6eu0fv1gTIOhMlTtCgaH4JEFSTEWREqBGTiKHK8uIWSLrcvR-XQ_YxaM8W_U7Mo7V-HAxzqQn8U4PG2y-VcUcdydvB4fo95a4eNxuuAEF4PWByRWym2uh9kytc4HMwb1oGoSv2kkoxW10rcZruexWWvupttBCa7Vg%3D&q=The+Hidden+Fortress&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQs9oBKAN6BAgaEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Hidden+Fortress&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stNaCfoKhT0nXMYl_vynzSl_k5gZAbf6zIjAP_XGvMgjWiDaKoQuvqy1zn5tVjj1unbahjh2iKPNi6guE9gFwE0DlYb9wTEGw8gUEVM6eu0fv1gTIOhMlTtCgaH4JEFSTEWREqBGTiKHK8uIWSLrcvR-XQ_YxaM8W_U7Mo7V-HAxzqQn8U4PG2y-VcUcdydvB4fo95a4eNxuuAEF4PWByRWym2uh9kytc4HMwb1oGoSv2kkoxW10rcZruexWWvupttBCa7Vg%3D",
+                "image": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/4282457bb9aa2fa8fc36e62f307b46ad94be37b2130fea4a94ae85d4f1323a870268def8ca09cac4c0eb0519ea289fe3.jpeg"
             }
         ],
-        "people_also_search_for_link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur&stick=H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVkLlagkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrknpiXXqyQn6YQnlhcnFpZUFq0g5XxFpskw4ErmUvcl86pCbExfs65KtLsWNA17ijJnUYAxmdn7oAAAAA&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ4qYDegQIGxAG",
-        "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLVT9c3NExKNkuvyjAqVkLlagkGZ6aklidWFvulVpQEl6QWFP9iFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9axCrknpiXXqyQn6YQnlhcnFpZUFq0g5XxFpskw4ErmUvcl86pCbExfs65KtLsWNA17ijJnUYAxmdn7oAAAAA"
+        "people_also_search_for_link": "https://www.google.com/search?sca_esv=571184275&q=Yojimbo&stick=H4sIAAAAAAAAAONgFuLUz9U3MCxJzrBQQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iZY_Mz8rMTcrfwcp4i02S4cCVzCXuS-fUhNgYP-dcFWl2LOgad5TkTiMAi6xPrG0AAAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQ4qYDegQIGhAG",
+        "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3MCxJzrBQQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iZY_Mz8rMTcrfwcp4i02S4cCVzCXuS-fUhNgYP-dcFWl2LOgad5TkTiMAi6xPrG0AAAA"
     },
     "inline_images": [
         {
-            "source": "https://www.amazon.com/Gangs-Wasseypur-Making-Modern-Classic/dp/9350296217",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4aUGZU8Cuk2TLu0xJYTuCMvzkGKuWXduJ0lXpp_OEKOpPe_PcfoEZqyY5&s",
-            "original": "https://m.media-amazon.com/images/I/71mntzZ3s1L._AC_UF1000,1000_QL80_.jpg",
-            "title": "Gangs of Wasseypur : The Making of a Modern Classic",
-            "source_name": "Amazon"
-        },
-        {
-            "source": "https://en.wikipedia.org/wiki/Gangs_of_Wasseypur_%E2%80%93_Part_2",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA924UIP7jC4w7sF8xc0QA-jW0LD7meYsrtyVxHsLpBG4ria7KmCiZmCDa&s",
-            "original": "https://upload.wikimedia.org/wikipedia/en/5/58/Gangs_of_wasseypur_II.jpg",
-            "title": "Gangs of Wasseypur \u2013 Part 2 - Wikipedia",
+            "source": "https://en.wikipedia.org/wiki/Yojimbo",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsLJ4RJZPtI_qLP17sHBD6VFYOj4XML1hzWAODzngwYKzgk1LcQnzWbAl8&s",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/9/94/Yojimbo_poster.jpg",
+            "title": "Yojimbo - Wikipedia",
             "source_name": "Wikipedia"
         },
         {
-            "source": "https://m.youtube.com/watch?v=CiCc0Ds_Alc",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi5wpk_c78TJBT2AeWNCLOq9cmBsjDeeA2o8MHpqFLsj4xm0GIyueXskgE7w&s",
-            "original": "https://i.ytimg.com/vi/CiCc0Ds_Alc/maxresdefault.jpg",
-            "title": "Gangs Of Wasseypur - Part 1 | Scene 8 | Gangs of \u0935\u093e\u0938\u0947\u092a\u0941\u0930 | Manoj Bajpayee |  Viacom18 Studios",
-            "source_name": "YouTube"
+            "source": "https://www.cinemaclock.com/movies/yojinbo-1961",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqLqG4BpuEsr_3xNUXDU1PkL2SGxlGKdd6u6RNBtaNnNxWLSXdAqLAsXGL&s",
+            "original": "https://www.cinemaclock.com/images/posters/1000x1500/45/yojimbo-1961-us-poster.jpg",
+            "title": "Y\u00f4jinb\u00f4 (1961) by Akira Kurosawa",
+            "source_name": "Cinema Clock"
         },
         {
-            "source": "https://www.imdb.com/title/tt1954470/",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSptuVvCxFpaoe2f9h1nEJCsUu8Lq9kVUFfFXUqjWLXHF4IXXika3fAutSNRw&s",
-            "original": "https://m.media-amazon.com/images/M/MV5BMzYxZTFkOWEtZGJiMy00MDcwLTk0OWMtYmUzNGFjNmMxMTQyXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_QL75_UY281_CR0,0,500,281_.jpg",
-            "title": "Trailer [OV]",
-            "source_name": "IMDb"
+            "source": "https://www.blu-ray.com/movies/Yojimbo-Blu-ray/159296/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdyrtkipFBhs89fJrHBwEa841pzISTQCZ7ud2pMUnK&s",
+            "original": "https://images.static-bluray.com/movies/covers/159296_large.jpg",
+            "title": "Yojimbo Blu-ray (Akira Kurosawa: The Masterworks / \u7528\u5fc3\u68d2 ...",
+            "source_name": "Blu-ray.com"
+        },
+        {
+            "source": "https://www.blu-ray.com/movies/Yojimbo-4K-Blu-ray/332600/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbPEeNfmU2CTJbeYts-9H3R3xsDWiLXO4tYFkuJT6sY2TNXomtM6BWLL1Q&s",
+            "original": "https://images.static-bluray.com/movies/covers/332600_large.jpg",
+            "title": "Yojimbo 4K Blu-ray (\u7528\u5fc3\u68d2 / Y\u00f4jinb\u00f4) (Japan)",
+            "source_name": "Blu-ray.com"
+        },
+        {
+            "source": "https://www.movieposterdb.com/yojinbo-i55630",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0kbgRU3ta_VWsCp5R6Fr3nGOeyt65a_nE1WT6gJ10cuinmq9Lnzz_Sk17&s",
+            "original": "https://posters.movieposterdb.com/21_11/1961/55630/l_55630_f8aeb4b9.jpg",
+            "title": "Y\u00f4jinb\u00f4 (1961) movie posters",
+            "source_name": "MoviePosterDB"
+        },
+        {
+            "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=6434.html",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWwcQuFt-U4wxDyFyI5Didudf3YhJNAGF6tskAM4xdMo4fuIs2MK36_h0i&s",
+            "original": "https://fr.web.img5.acsta.net/c_310_420/pictures/17/04/14/16/42/165429.jpg",
+            "title": "Y\u00f4jinb\u00f4 - film 1961 - AlloCin\u00e9",
+            "source_name": "AlloCin\u00e9"
         }
     ],
     "inline_videos": [
         {
             "position": 1,
-            "title": "Gangs of Wasseypur Trailer",
-            "link": "https://www.youtube.com/watch?v=j-AkWDkXcMY",
-            "thumbnail": "https://i.ytimg.com/vi/j-AkWDkXcMY/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kZhmLWIDvAKiPcjzz__aKcaMDwNQ",
-            "channel": "Viacom18 Studios",
+            "title": "YOJIMBO Trailer (1961) - The Criterion Collection",
+            "link": "https://www.youtube.com/watch?v=y_1iT_GmHTE",
+            "thumbnail": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/ae6d0a5c4f061aee2224782a35fbe9410302b6a7c2f6f53cedd2f02f348d1dcb.jpeg",
+            "channel": "criterioncollection",
             "platform": "YouTube",
-            "date": "May 3, 2012"
+            "date": "Jan 19, 2010"
         },
         {
             "position": 2,
-            "title": "Gangs Of Wasseypur - Part 1 | Scene 6 | Gangs of \u0935\u093e\u0938\u0947\u092a\u0941\u0930 ...",
-            "link": "https://www.youtube.com/watch?v=VZVn29oW9-k",
-            "thumbnail": "https://i.ytimg.com/vi/VZVn29oW9-k/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3k0PNETATy_1SHd_9C8XM66hT8Grw",
-            "channel": "Viacom18 Studios",
+            "title": "Yojimbo | 1961 | Movie Review | Criterion Collection #52 ...",
+            "link": "https://www.youtube.com/watch?v=dVvtzydfOAI",
+            "thumbnail": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/ae6d0a5c4f061aee46d2b0d64ffdd37626c02b4f8eb86b11ebd0e81bcb918fca.jpeg",
+            "channel": "Man v Film",
             "platform": "YouTube",
-            "date": "Apr 26, 2021"
+            "date": "Jun 23, 2020"
         },
         {
             "position": 3,
-            "title": "Gangs Of Wasseypur - Part 1 | Scene 8 | Gangs of \u0935\u093e\u0938\u0947\u092a\u0941\u0930 ...",
-            "link": "https://www.youtube.com/watch?v=CiCc0Ds_Alc",
-            "thumbnail": "https://i.ytimg.com/vi/CiCc0Ds_Alc/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kdbodsgweZ9Z1qQJN0cv0AV42s_Q",
-            "channel": "Viacom18 Studios",
-            "platform": "YouTube",
-            "date": "Apr 27, 2021"
-        },
-        {
-            "position": 4,
-            "title": "Gangs Of Wasseypur: Sultan killed by Definite | Action Scene ...",
-            "link": "https://www.youtube.com/watch?v=jKg52SOhfF0",
-            "thumbnail": "https://i.ytimg.com/vi/jKg52SOhfF0/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3mGEWeRd3lNpuppkZ6YqeSlq9sJgw",
-            "channel": "Prime Video India",
-            "platform": "YouTube",
-            "date": "Jul 1, 2022"
+            "title": "Zatoichi meets Yojimbo 1970 1h56m aka Zat\u00f4ichi to Y\u00f4jinb\u00f4 ...",
+            "link": "https://www.facebook.com/AikidoofMontclairVillage/videos/zatoichi-meets-yojimbo-1970-1h56m-aka-zat%C3%B4ichi-to-y%C3%B4jinb%C3%B4/548052872635477/",
+            "thumbnail": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/ae6d0a5c4f061aee920c6fb977a4ffddba6981bad9fda9229df4764fcd3f48c7.jpeg",
+            "channel": "Aikido of Montclair Village, Shindo Dojo",
+            "platform": "Facebook",
+            "date": "Sep 29, 2019"
         }
     ],
     "related_questions": [
         {
-            "question": "Is Gangs of Wasseypur in Netflix or Amazon Prime?",
-            "snippet": "Gangs of Wasseypur - Part 1 streaming: where to watch online? Currently you are able to watch \"Gangs of Wasseypur - Part 1\" streaming on Netflix, Voot, EPIC ON.",
-            "title": "Gangs of Wasseypur - Part 1 streaming online - JustWatch",
-            "link": "https://www.justwatch.com/in/movie/gangs-of-wasseypur#:~:text=Gangs%20of%20Wasseypur%20%2D%20Part%201%20streaming%3A%20where%20to%20watch%20online,Netflix%2C%20Voot%2C%20EPIC%20ON.",
-            "displayed_link": "https://www.justwatch.com \u203a movie \u203a gangs-of-wasseypur",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi6jSkfFeB86Ce8e55lH72yHwjvo_RcIUtCv2gt00woam_mip2C0jsRAJJTQ&s",
-            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWGIxbGxWMlpMVGtGQlVuQmZkblJIUjJWUE5sVjRZazR0V0U5MFEzcG5RWFJSVkVvNWRVazVNakJ6VGtVMWJsTkJRa1UxZGs1alNtWkxkSFJoVURaeGIxVlNaMnRURWhkR1dVbGhXbG8yV0VwS0xYVjNZbXRRTFZsbFpXZEJVUm9pUVVwM2F5MDRaWE50U1U1U1pGVlFaSHBUU2pWVVNUQkNUbWR4V1Rkbk56WkZkdyIsImZjdiI6IjMiLCJlaSI6IkZZSWFaWjZYSkotdXdia1AtWWVlZ0FRIiwicWMiOiJDaEpuWVc1bmN5QnZaaUIzWVhOelpYbHdkWElRQUgzbEt4OF8iLCJxdWVzdGlvbiI6IklzIEdhbmdzIG9mIFdhc3NleXB1ciBpbiBOZXRmbGl4IG9yIEFtYXpvbiBQcmltZT8iLCJsayI6IkdqQnBjeUJuWVc1bmN5QnZaaUIzWVhOelpYbHdkWElnYVc0Z2JtVjBabXhwZUNCdmNpQmhiV0Y2YjI0Z2NISnBiV1UiLCJicyI6ImMtTXk0ekwwTEZad1Q4eExMMWJJVDFNSVR5d3VUcTBzS0MxU3lNeFQ4RXN0U2N2SnJGRElMMUp3ekUyc3lzOVRDQ2pLekUyMWw3Z215NlhHcFVoSW43M0V4bUF1WFM2TjhJelVvbFNGVEt5cWpSUVN5eEl6Y3hLVGNvREdQcmJqTXVVeThNeFRLTTlJTEFIYW1wSmFwRkNja1YtYWs2TGdxVkNlV0pLY2djVUllNGxQVVFLTUFBIiwiaWQiOiJmY181In0=",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWGIxbGxWMlpMVGtGQlVuQmZkblJIUjJWUE5sVjRZazR0V0U5MFEzcG5RWFJSVkVvNWRVazVNakJ6VGtVMWJsTkJRa1UxZGs1alNtWkxkSFJoVURaeGIxVlNaMnRURWhkR1dVbGhXbG8yV0VwS0xYVjNZbXRRTFZsbFpXZEJVUm9pUVVwM2F5MDRaWE50U1U1U1pGVlFaSHBUU2pWVVNUQkNUbWR4V1Rkbk56WkZkdyIsImZjdiI6IjMiLCJlaSI6IkZZSWFaWjZYSkotdXdia1AtWWVlZ0FRIiwicWMiOiJDaEpuWVc1bmN5QnZaaUIzWVhOelpYbHdkWElRQUgzbEt4OF8iLCJxdWVzdGlvbiI6IklzIEdhbmdzIG9mIFdhc3NleXB1ciBpbiBOZXRmbGl4IG9yIEFtYXpvbiBQcmltZT8iLCJsayI6IkdqQnBjeUJuWVc1bmN5QnZaaUIzWVhOelpYbHdkWElnYVc0Z2JtVjBabXhwZUNCdmNpQmhiV0Y2YjI0Z2NISnBiV1UiLCJicyI6ImMtTXk0ekwwTEZad1Q4eExMMWJJVDFNSVR5d3VUcTBzS0MxU3lNeFQ4RXN0U2N2SnJGRElMMUp3ekUyc3lzOVRDQ2pLekUyMWw3Z215NlhHcFVoSW43M0V4bUF1WFM2TjhJelVvbFNGVEt5cWpSUVN5eEl6Y3hLVGNvREdQcmJqTXVVeThNeFRLTTlJTEFIYW1wSmFwRkNja1YtYWs2TGdxVkNlV0pLY2djVUllNGxQVVFLTUFBIiwiaWQiOiJmY181In0%3D"
+            "question": "What does Yojimbo mean in Japanese?",
+            "snippet": "Yojimbo means bodyguard in Japanese. In context it can also be translated as protector or escort.",
+            "title": "bodyguard",
+            "link": "https://www.imdb.com/title/tt0055630/trivia/#:~:text=Yojimbo%20means%20bodyguard%20in%20Japanese,translated%20as%20protector%20or%20escort.",
+            "displayed_link": "https://www.imdb.com \u203a title \u203a trivia",
+            "thumbnail": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/cf423756867d904a3033d4a55cd6de9e6a62fbadb7fe3c2d095784b7ba5f1688.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlpqTkxaVmR2V0RoeU9YWmtjRmRETTBsUVJrYzRXVlE0ZUhCVmMybG9jVTFXYVVsRE1WZDFObUkxWlU0M01IWjVZamg2U21obk5XOVFTWEU0WW10SlpWbHhTbXB3RWhkTlNtZG1XbUV0TTB0S1NHdzFUbTlRY0U5WGIyOUJTUm9pUVVwM2F5MDRaR1IwWkhrNFRuRnBXRFpRTVVsNU5UbHhUVzFMWVdkV1ZuWnpVUSIsImZjdiI6IjMiLCJlaSI6Ik1KZ2ZaYS0zS0pIbDVOb1BwT1dvb0FJIiwicWMiOiJDZ2w1dzdScWFXNWl3N1FRQUgzbEt4OF8iLCJxdWVzdGlvbiI6IldoYXQgZG9lcyBZb2ppbWJvIG1lYW4gaW4gSmFwYW5lc2U/IiwibGsiOiJHaUozYUdGMElHUnZaWE1nZVc5cWFXMWlieUJ0WldGdUlHbHVJR3BoY0dGdVpYTmwiLCJicyI6ImMtUFM0RklPejBnc1VVakpUeTFXaU16UHlzeE55bGZJVFUzTVU4ak1VX0JLTEVqTVN5MU90WmM0SGMwbHlTVVNub2hRazZoUWxKLVhtV2N2Y1M2V1M1VkxJVHdqWHlHeldLRWtJMVVoUFRNeHIwUWh2YlFTWkFSVXViMUVBeHVYRnBjcXdxN2d4THlzMGlLRVhkNmw1WWxKaVNXSjJVRGJQa2tMTUFJQSIsImlkIjoiZmNfMyJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlpqTkxaVmR2V0RoeU9YWmtjRmRETTBsUVJrYzRXVlE0ZUhCVmMybG9jVTFXYVVsRE1WZDFObUkxWlU0M01IWjVZamg2U21obk5XOVFTWEU0WW10SlpWbHhTbXB3RWhkTlNtZG1XbUV0TTB0S1NHdzFUbTlRY0U5WGIyOUJTUm9pUVVwM2F5MDRaR1IwWkhrNFRuRnBXRFpRTVVsNU5UbHhUVzFMWVdkV1ZuWnpVUSIsImZjdiI6IjMiLCJlaSI6Ik1KZ2ZaYS0zS0pIbDVOb1BwT1dvb0FJIiwicWMiOiJDZ2w1dzdScWFXNWl3N1FRQUgzbEt4OF8iLCJxdWVzdGlvbiI6IldoYXQgZG9lcyBZb2ppbWJvIG1lYW4gaW4gSmFwYW5lc2U%2FIiwibGsiOiJHaUozYUdGMElHUnZaWE1nZVc5cWFXMWlieUJ0WldGdUlHbHVJR3BoY0dGdVpYTmwiLCJicyI6ImMtUFM0RklPejBnc1VVakpUeTFXaU16UHlzeE55bGZJVFUzTVU4ak1VX0JLTEVqTVN5MU90WmM0SGMwbHlTVVNub2hRazZoUWxKLVhtV2N2Y1M2V1M1VkxJVHdqWHlHeldLRWtJMVVoUFRNeHIwUWh2YlFTWkFSVXViMUVBeHVYRnBjcXdxN2d4THlzMGlLRVhkNmw1WWxKaVNXSjJVRGJQa2tMTUFJQSIsImlkIjoiZmNfMyJ9"
         },
         {
-            "question": "Is Gangs of Wasseypur in Netflix?",
-            "snippet": "Watch Gangs of Wasseypur - Part 1 on Netflix Today!",
-            "title": "Watch Gangs of Wasseypur - Part 1 on Netflix Today! | NetflixMovies.com",
-            "link": "https://www.netflixmovies.com/gangs-of-wasseypur-part-1-2012#:~:text=Watch%20Gangs%20of%20Wasseypur%20%2D%20Part%201%20on%20Netflix%20Today!",
-            "displayed_link": "https://www.netflixmovies.com \u203a gangs-of-wasseypur-pa...",
-            "thumbnail": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/5e240f98ee6cd43e8bf2808b6841f9bdb72b6ee07072f96c6ca5377ff4f38a28.png",
-            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWGIxbGxWMlpMVGtGQlVuQmZkblJIUjJWUE5sVjRZazR0V0U5MFEzcG5RWFJSVkVvNWRVazVNakJ6VGtVMWJsTkJRa1UxZGs1alNtWkxkSFJoVURaeGIxVlNaMnRURWhkR1dVbGhXbG8yV0VwS0xYVjNZbXRRTFZsbFpXZEJVUm9pUVVwM2F5MDRaWE50U1U1U1pGVlFaSHBUU2pWVVNUQkNUbWR4V1Rkbk56WkZkdyIsImZjdiI6IjMiLCJlaSI6IkZZSWFaWjZYSkotdXdia1AtWWVlZ0FRIiwicWMiOiJDaEpuWVc1bmN5QnZaaUIzWVhOelpYbHdkWElRQUgzbEt4OF8iLCJxdWVzdGlvbiI6IklzIEdhbmdzIG9mIFdhc3NleXB1ciBpbiBOZXRmbGl4PyIsImxrIjoiR2lCcGN5Qm5ZVzVuY3lCdlppQjNZWE56Wlhsd2RYSWdhVzRnYm1WMFpteHBlQSIsImJzIjoiYy1NeTR6TDBMRlp3VDh4TEwxYklUMU1JVHl3dVRxMHNLQzFTeU14VDhFc3RTY3ZKckZESUwxSnd6RTJzeXM5VENDakt6RTIxbDdnbXk2WEdwVWhJbjczRXhtQXVYUzZOOEl6VW9sU0ZUS3lxalJRU3l4SXpjeEtUY29ER1ByYmpNdVV5OE14VEtNOUlMQUhhbXBKYXBGQ2NrVi1hazZMZ3FWQ2VXSktjZ2NVSWU0bFBVUUtNQUEiLCJpZCI6ImZjXzUifQ==",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWGIxbGxWMlpMVGtGQlVuQmZkblJIUjJWUE5sVjRZazR0V0U5MFEzcG5RWFJSVkVvNWRVazVNakJ6VGtVMWJsTkJRa1UxZGs1alNtWkxkSFJoVURaeGIxVlNaMnRURWhkR1dVbGhXbG8yV0VwS0xYVjNZbXRRTFZsbFpXZEJVUm9pUVVwM2F5MDRaWE50U1U1U1pGVlFaSHBUU2pWVVNUQkNUbWR4V1Rkbk56WkZkdyIsImZjdiI6IjMiLCJlaSI6IkZZSWFaWjZYSkotdXdia1AtWWVlZ0FRIiwicWMiOiJDaEpuWVc1bmN5QnZaaUIzWVhOelpYbHdkWElRQUgzbEt4OF8iLCJxdWVzdGlvbiI6IklzIEdhbmdzIG9mIFdhc3NleXB1ciBpbiBOZXRmbGl4PyIsImxrIjoiR2lCcGN5Qm5ZVzVuY3lCdlppQjNZWE56Wlhsd2RYSWdhVzRnYm1WMFpteHBlQSIsImJzIjoiYy1NeTR6TDBMRlp3VDh4TEwxYklUMU1JVHl3dVRxMHNLQzFTeU14VDhFc3RTY3ZKckZESUwxSnd6RTJzeXM5VENDakt6RTIxbDdnbXk2WEdwVWhJbjczRXhtQXVYUzZOOEl6VW9sU0ZUS3lxalJRU3l4SXpjeEtUY29ER1ByYmpNdVV5OE14VEtNOUlMQUhhbXBKYXBGQ2NrVi1hazZMZ3FWQ2VXSktjZ2NVSWU0bFBVUUtNQUEiLCJpZCI6ImZjXzUifQ%3D%3D"
+            "question": "Was Yojimbo a ronin?",
+            "snippet": "A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",
+            "title": "Yojimbo (1961) - IMDb",
+            "link": "https://www.imdb.com/title/tt0055630/#:~:text=A%20crafty%20ronin%20comes%20to,other%20to%20free%20the%20town.",
+            "displayed_link": "https://www.imdb.com \u203a title",
+            "thumbnail": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/cf423756867d904a3033d4a55cd6de9ea6f14330c77ad5165dae00f756875626.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlpqTkxaVmR2V0RoeU9YWmtjRmRETTBsUVJrYzRXVlE0ZUhCVmMybG9jVTFXYVVsRE1WZDFObUkxWlU0M01IWjVZamg2U21obk5XOVFTWEU0WW10SlpWbHhTbXB3RWhkTlNtZG1XbUV0TTB0S1NHdzFUbTlRY0U5WGIyOUJTUm9pUVVwM2F5MDRaR1IwWkhrNFRuRnBXRFpRTVVsNU5UbHhUVzFMWVdkV1ZuWnpVUSIsImZjdiI6IjMiLCJlaSI6Ik1KZ2ZaYS0zS0pIbDVOb1BwT1dvb0FJIiwicWMiOiJDZ2w1dzdScWFXNWl3N1FRQUgzbEt4OF8iLCJxdWVzdGlvbiI6IldhcyBZb2ppbWJvIGEgcm9uaW4/IiwibGsiOiJHaE4zWVhNZ2VXOXFhVzFpYnlCaElISnZibWx1IiwiYnMiOiJjLVBTNEZJT3owZ3NVVWpKVHkxV2lNelB5c3hOeWxmSVRVM01VOGpNVV9CS0xFak1TeTFPdFpjNEhjMGx5U1VTbm9oUWs2aFFsSi1YbVdjdmNTNldTNVZMSVR3alh5R3pXS0VrSTFVaFBUTXhyMFFodmJRU1pBUlV1YjFFQXh1WEZwY3F3cTdneEx5czBpS0VYZDZsNVlsSmlTV0oyVURiUGtrTE1BSUEiLCJpZCI6ImZjXzMifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlpqTkxaVmR2V0RoeU9YWmtjRmRETTBsUVJrYzRXVlE0ZUhCVmMybG9jVTFXYVVsRE1WZDFObUkxWlU0M01IWjVZamg2U21obk5XOVFTWEU0WW10SlpWbHhTbXB3RWhkTlNtZG1XbUV0TTB0S1NHdzFUbTlRY0U5WGIyOUJTUm9pUVVwM2F5MDRaR1IwWkhrNFRuRnBXRFpRTVVsNU5UbHhUVzFMWVdkV1ZuWnpVUSIsImZjdiI6IjMiLCJlaSI6Ik1KZ2ZaYS0zS0pIbDVOb1BwT1dvb0FJIiwicWMiOiJDZ2w1dzdScWFXNWl3N1FRQUgzbEt4OF8iLCJxdWVzdGlvbiI6IldhcyBZb2ppbWJvIGEgcm9uaW4%2FIiwibGsiOiJHaE4zWVhNZ2VXOXFhVzFpYnlCaElISnZibWx1IiwiYnMiOiJjLVBTNEZJT3owZ3NVVWpKVHkxV2lNelB5c3hOeWxmSVRVM01VOGpNVV9CS0xFak1TeTFPdFpjNEhjMGx5U1VTbm9oUWs2aFFsSi1YbVdjdmNTNldTNVZMSVR3alh5R3pXS0VrSTFVaFBUTXhyMFFodmJRU1pBUlV1YjFFQXh1WEZwY3F3cTdneEx5czBpS0VYZDZsNVlsSmlTV0oyVURiUGtrTE1BSUEiLCJpZCI6ImZjXzMifQ%3D%3D"
         },
         {
-            "question": "Where is Gangs of Wasseypur 2 available?",
-            "snippet": "Currently you are able to watch \"Gangs of Wasseypur - Part 2\" streaming on Netflix. It is also possible to buy \"Gangs of Wasseypur - Part 2\" on Google Play Movies, YouTube, Apple TVas download or rent it on Google Play Movies, YouTube, Apple TVonline.",
-            "title": "Gangs of Wasseypur - Part 2 streaming online - JustWatch",
-            "link": "https://www.justwatch.com/in/movie/gangs-of-wasseypur-ii#:~:text=Currently%20you%20are%20able%20to,Movies%2C%20YouTube%2C%20Apple%20TVonline.",
-            "displayed_link": "https://www.justwatch.com \u203a movie \u203a gangs-of-wasseypu...",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR18t7u4TQ_FQJTjazidapnvphiZFE-PNA8QiuTTEOLStTL0jF9xw8kxwi24w&s",
-            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWGIxbGxWMlpMVGtGQlVuQmZkblJIUjJWUE5sVjRZazR0V0U5MFEzcG5RWFJSVkVvNWRVazVNakJ6VGtVMWJsTkJRa1UxZGs1alNtWkxkSFJoVURaeGIxVlNaMnRURWhkR1dVbGhXbG8yV0VwS0xYVjNZbXRRTFZsbFpXZEJVUm9pUVVwM2F5MDRaWE50U1U1U1pGVlFaSHBUU2pWVVNUQkNUbWR4V1Rkbk56WkZkdyIsImZjdiI6IjMiLCJlaSI6IkZZSWFaWjZYSkotdXdia1AtWWVlZ0FRIiwicWMiOiJDaEpuWVc1bmN5QnZaaUIzWVhOelpYbHdkWElRQUgzbEt4OF8iLCJxdWVzdGlvbiI6IldoZXJlIGlzIEdhbmdzIG9mIFdhc3NleXB1ciAyIGF2YWlsYWJsZT8iLCJsayI6IkdpZDNhR1Z5WlNCcGN5Qm5ZVzVuY3lCdlppQjNZWE56Wlhsd2RYSWdNaUJoZG1GcGJHRmliR1UiLCJicyI6ImMtTXk0ekwwTEZad1Q4eExMMWJJVDFNSVR5d3VUcTBzS0MxU3lNeFQ4RXN0U2N2SnJGRElMMUp3ekUyc3lzOVRDQ2pLekUyMWw3Z215NlhHcFVoSW43M0V4bUF1WFM2TjhJelVvbFNGVEt5cWpSUVN5eEl6Y3hLVGNvREdQcmJqTXVVeThNeFRLTTlJTEFIYW1wSmFwRkNja1YtYWs2TGdxVkNlV0pLY2djVUllNGxQVVFLTUFBIiwiaWQiOiJmY181In0=",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWGIxbGxWMlpMVGtGQlVuQmZkblJIUjJWUE5sVjRZazR0V0U5MFEzcG5RWFJSVkVvNWRVazVNakJ6VGtVMWJsTkJRa1UxZGs1alNtWkxkSFJoVURaeGIxVlNaMnRURWhkR1dVbGhXbG8yV0VwS0xYVjNZbXRRTFZsbFpXZEJVUm9pUVVwM2F5MDRaWE50U1U1U1pGVlFaSHBUU2pWVVNUQkNUbWR4V1Rkbk56WkZkdyIsImZjdiI6IjMiLCJlaSI6IkZZSWFaWjZYSkotdXdia1AtWWVlZ0FRIiwicWMiOiJDaEpuWVc1bmN5QnZaaUIzWVhOelpYbHdkWElRQUgzbEt4OF8iLCJxdWVzdGlvbiI6IldoZXJlIGlzIEdhbmdzIG9mIFdhc3NleXB1ciAyIGF2YWlsYWJsZT8iLCJsayI6IkdpZDNhR1Z5WlNCcGN5Qm5ZVzVuY3lCdlppQjNZWE56Wlhsd2RYSWdNaUJoZG1GcGJHRmliR1UiLCJicyI6ImMtTXk0ekwwTEZad1Q4eExMMWJJVDFNSVR5d3VUcTBzS0MxU3lNeFQ4RXN0U2N2SnJGRElMMUp3ekUyc3lzOVRDQ2pLekUyMWw3Z215NlhHcFVoSW43M0V4bUF1WFM2TjhJelVvbFNGVEt5cWpSUVN5eEl6Y3hLVGNvREdQcmJqTXVVeThNeFRLTTlJTEFIYW1wSmFwRkNja1YtYWs2TGdxVkNlV0pLY2djVUllNGxQVVFLTUFBIiwiaWQiOiJmY181In0%3D"
+            "question": "Who is the giant guy in Yojimbo?",
+            "snippet": "Tsunagor\u00f4 Rash\u00f4mon: Kannuki the Giant.",
+            "title": "Tsunagor\u00f4 Rash\u00f4mon",
+            "link": "https://www.imdb.com/title/tt0055630/characters/nm1351617#:~:text=Tsunagor%C3%B4%20Rash%C3%B4mon%3A%20Kannuki%20the%20Giant",
+            "displayed_link": "https://www.imdb.com \u203a title \u203a characters",
+            "thumbnail": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/cf423756867d904a3033d4a55cd6de9e3b5b0fe26504ffe79259bf547efd32a6.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlpqTkxaVmR2V0RoeU9YWmtjRmRETTBsUVJrYzRXVlE0ZUhCVmMybG9jVTFXYVVsRE1WZDFObUkxWlU0M01IWjVZamg2U21obk5XOVFTWEU0WW10SlpWbHhTbXB3RWhkTlNtZG1XbUV0TTB0S1NHdzFUbTlRY0U5WGIyOUJTUm9pUVVwM2F5MDRaR1IwWkhrNFRuRnBXRFpRTVVsNU5UbHhUVzFMWVdkV1ZuWnpVUSIsImZjdiI6IjMiLCJlaSI6Ik1KZ2ZaYS0zS0pIbDVOb1BwT1dvb0FJIiwicWMiOiJDZ2w1dzdScWFXNWl3N1FRQUgzbEt4OF8iLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgZ2lhbnQgZ3V5IGluIFlvamltYm8/IiwibGsiOiJHaFpuYVdGdWRDQm5kWGtnWm5KdmJTQjViMnBwYldKdiIsImJzIjoiYy1QUzRGSU96MGdzVVVqSlR5MVdpTXpQeXN4TnlsZklUVTNNVThqTVVfQktMRWpNU3kxT3RaYzRIYzBseVNVU25vaFFrNmhRbEotWG1XY3ZjUzZXUzVWTElUd2pYeUd6V0tFa0kxVWhQVE14cjBRaHZiUVNaQVJVdWIxRUF4dVhGcGNxd3E3Z3hMeXMwaUtFWGQ2bDVZbEppU1dKMlVEYlBra0xNQUlBIiwiaWQiOiJmY18zIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlpqTkxaVmR2V0RoeU9YWmtjRmRETTBsUVJrYzRXVlE0ZUhCVmMybG9jVTFXYVVsRE1WZDFObUkxWlU0M01IWjVZamg2U21obk5XOVFTWEU0WW10SlpWbHhTbXB3RWhkTlNtZG1XbUV0TTB0S1NHdzFUbTlRY0U5WGIyOUJTUm9pUVVwM2F5MDRaR1IwWkhrNFRuRnBXRFpRTVVsNU5UbHhUVzFMWVdkV1ZuWnpVUSIsImZjdiI6IjMiLCJlaSI6Ik1KZ2ZaYS0zS0pIbDVOb1BwT1dvb0FJIiwicWMiOiJDZ2w1dzdScWFXNWl3N1FRQUgzbEt4OF8iLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgZ2lhbnQgZ3V5IGluIFlvamltYm8%2FIiwibGsiOiJHaFpuYVdGdWRDQm5kWGtnWm5KdmJTQjViMnBwYldKdiIsImJzIjoiYy1QUzRGSU96MGdzVVVqSlR5MVdpTXpQeXN4TnlsZklUVTNNVThqTVVfQktMRWpNU3kxT3RaYzRIYzBseVNVU25vaFFrNmhRbEotWG1XY3ZjUzZXUzVWTElUd2pYeUd6V0tFa0kxVWhQVE14cjBRaHZiUVNaQVJVdWIxRUF4dVhGcGNxd3E3Z3hMeXMwaUtFWGQ2bDVZbEppU1dKMlVEYlBra0xNQUlBIiwiaWQiOiJmY18zIn0%3D"
         },
         {
-            "question": "In what order should I watch Gangs of Wasseypur?",
-            "snippet": "So Part 1 is the story's half before interval and part 2 is the story's half after interval. So NO! you cant watch GANGS OF WASSEYPUR PART 2 before watching GANGS OF WASSEYPUR PART 1. So i will suggest that start your movie and watch it as curiousity will build up with every scene passing by.",
-            "title": "Can I watch Gangs of Wasseypur 2 before watching its part 1 ... - Quora",
-            "link": "https://www.quora.com/Can-I-watch-Gangs-of-Wasseypur-2-before-watching-its-part-1-Are-they-related#:~:text=So%20Part%201%20is%20the,with%20every%20scene%20passing%20by.",
-            "displayed_link": "https://www.quora.com \u203a Can-I-watch-Gangs-of-Wassey...",
-            "thumbnail": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/5e240f98ee6cd43e8bf2808b6841f9bd4c91f3e904366ad4bd27b33fc3724742.png",
-            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWGIxbGxWMlpMVGtGQlVuQmZkblJIUjJWUE5sVjRZazR0V0U5MFEzcG5RWFJSVkVvNWRVazVNakJ6VGtVMWJsTkJRa1UxZGs1alNtWkxkSFJoVURaeGIxVlNaMnRURWhkR1dVbGhXbG8yV0VwS0xYVjNZbXRRTFZsbFpXZEJVUm9pUVVwM2F5MDRaWE50U1U1U1pGVlFaSHBUU2pWVVNUQkNUbWR4V1Rkbk56WkZkdyIsImZjdiI6IjMiLCJlaSI6IkZZSWFaWjZYSkotdXdia1AtWWVlZ0FRIiwicWMiOiJDaEpuWVc1bmN5QnZaaUIzWVhOelpYbHdkWElRQUgzbEt4OF8iLCJxdWVzdGlvbiI6IkluIHdoYXQgb3JkZXIgc2hvdWxkIEkgd2F0Y2ggR2FuZ3Mgb2YgV2Fzc2V5cHVyPyIsImxrIjoiR2lGbllXNW5jeUJ2WmlCM1lYTnpaWGx3ZFhJZ2IzSmtaWElnZEc4Z2QyRjBZMmciLCJicyI6ImMtTXk0ekwwTEZad1Q4eExMMWJJVDFNSVR5d3VUcTBzS0MxU3lNeFQ4RXN0U2N2SnJGRElMMUp3ekUyc3lzOVRDQ2pLekUyMWw3Z215NlhHcFVoSW43M0V4bUF1WFM2TjhJelVvbFNGVEt5cWpSUVN5eEl6Y3hLVGNvREdQcmJqTXVVeThNeFRLTTlJTEFIYW1wSmFwRkNja1YtYWs2TGdxVkNlV0pLY2djVUllNGxQVVFLTUFBIiwiaWQiOiJmY181In0=",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWGIxbGxWMlpMVGtGQlVuQmZkblJIUjJWUE5sVjRZazR0V0U5MFEzcG5RWFJSVkVvNWRVazVNakJ6VGtVMWJsTkJRa1UxZGs1alNtWkxkSFJoVURaeGIxVlNaMnRURWhkR1dVbGhXbG8yV0VwS0xYVjNZbXRRTFZsbFpXZEJVUm9pUVVwM2F5MDRaWE50U1U1U1pGVlFaSHBUU2pWVVNUQkNUbWR4V1Rkbk56WkZkdyIsImZjdiI6IjMiLCJlaSI6IkZZSWFaWjZYSkotdXdia1AtWWVlZ0FRIiwicWMiOiJDaEpuWVc1bmN5QnZaaUIzWVhOelpYbHdkWElRQUgzbEt4OF8iLCJxdWVzdGlvbiI6IkluIHdoYXQgb3JkZXIgc2hvdWxkIEkgd2F0Y2ggR2FuZ3Mgb2YgV2Fzc2V5cHVyPyIsImxrIjoiR2lGbllXNW5jeUJ2WmlCM1lYTnpaWGx3ZFhJZ2IzSmtaWElnZEc4Z2QyRjBZMmciLCJicyI6ImMtTXk0ekwwTEZad1Q4eExMMWJJVDFNSVR5d3VUcTBzS0MxU3lNeFQ4RXN0U2N2SnJGRElMMUp3ekUyc3lzOVRDQ2pLekUyMWw3Z215NlhHcFVoSW43M0V4bUF1WFM2TjhJelVvbFNGVEt5cWpSUVN5eEl6Y3hLVGNvREdQcmJqTXVVeThNeFRLTTlJTEFIYW1wSmFwRkNja1YtYWs2TGdxVkNlV0pLY2djVUllNGxQVVFLTUFBIiwiaWQiOiJmY181In0%3D"
+            "question": "What does Sanjuro mean in Kuwabatake?",
+            "snippet": "In both movies, Mifune says that he's called Sanjuro, which means \u201c30 years old,\u201d and quips, \u201cgoing on 40.\u201d He also tacks on a name inspired by whatever vegetation is nearest: In Yojimbo, he's Sanjuro \u201cKuwabatake\u201d (\u201cmulberry field\u201d); in Sanjuro, he's Sanjuro \u201cTsubaki\u201d (\u201ccamellia\u201d).",
+            "title": "mulberry field",
+            "link": "https://www.criterion.com/current/posts/61-sanjuro-return-of-the-ronin#:~:text=In%20both%20movies%2C%20Mifune%20says,%E2%80%9D%20(%E2%80%9Ccamellia%E2%80%9D).",
+            "displayed_link": "https://www.criterion.com \u203a current \u203a posts \u203a 61-sanjuro-...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYU3fegJjuAbr_IYdZJV7FAyff7aOCWQsken73sejR6GB9SecP8YgJ8u9bGQ&s",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlpqTkxaVmR2V0RoeU9YWmtjRmRETTBsUVJrYzRXVlE0ZUhCVmMybG9jVTFXYVVsRE1WZDFObUkxWlU0M01IWjVZamg2U21obk5XOVFTWEU0WW10SlpWbHhTbXB3RWhkTlNtZG1XbUV0TTB0S1NHdzFUbTlRY0U5WGIyOUJTUm9pUVVwM2F5MDRaR1IwWkhrNFRuRnBXRFpRTVVsNU5UbHhUVzFMWVdkV1ZuWnpVUSIsImZjdiI6IjMiLCJlaSI6Ik1KZ2ZaYS0zS0pIbDVOb1BwT1dvb0FJIiwicWMiOiJDZ2w1dzdScWFXNWl3N1FRQUgzbEt4OF8iLCJxdWVzdGlvbiI6IldoYXQgZG9lcyBTYW5qdXJvIG1lYW4gaW4gS3V3YWJhdGFrZT8iLCJsayI6IkdocHJkWGRoWW1GMFlXdGxJSE5oYm1wMWNtOGdiV1ZoYm1sdVp3IiwiYnMiOiJjLVBTNEZJT3owZ3NVVWpKVHkxV2lNelB5c3hOeWxmSVRVM01VOGpNVV9CS0xFak1TeTFPdFpjNEhjMGx5U1VTbm9oUWs2aFFsSi1YbVdjdmNTNldTNVZMSVR3alh5R3pXS0VrSTFVaFBUTXhyMFFodmJRU1pBUlV1YjFFQXh1WEZwY3F3cTdneEx5czBpS0VYZDZsNVlsSmlTV0oyVURiUGtrTE1BSUEiLCJpZCI6ImZjXzMifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlpqTkxaVmR2V0RoeU9YWmtjRmRETTBsUVJrYzRXVlE0ZUhCVmMybG9jVTFXYVVsRE1WZDFObUkxWlU0M01IWjVZamg2U21obk5XOVFTWEU0WW10SlpWbHhTbXB3RWhkTlNtZG1XbUV0TTB0S1NHdzFUbTlRY0U5WGIyOUJTUm9pUVVwM2F5MDRaR1IwWkhrNFRuRnBXRFpRTVVsNU5UbHhUVzFMWVdkV1ZuWnpVUSIsImZjdiI6IjMiLCJlaSI6Ik1KZ2ZaYS0zS0pIbDVOb1BwT1dvb0FJIiwicWMiOiJDZ2w1dzdScWFXNWl3N1FRQUgzbEt4OF8iLCJxdWVzdGlvbiI6IldoYXQgZG9lcyBTYW5qdXJvIG1lYW4gaW4gS3V3YWJhdGFrZT8iLCJsayI6IkdocHJkWGRoWW1GMFlXdGxJSE5oYm1wMWNtOGdiV1ZoYm1sdVp3IiwiYnMiOiJjLVBTNEZJT3owZ3NVVWpKVHkxV2lNelB5c3hOeWxmSVRVM01VOGpNVV9CS0xFak1TeTFPdFpjNEhjMGx5U1VTbm9oUWs2aFFsSi1YbVdjdmNTNldTNVZMSVR3alh5R3pXS0VrSTFVaFBUTXhyMFFodmJRU1pBUlV1YjFFQXh1WEZwY3F3cTdneEx5czBpS0VYZDZsNVlsSmlTV0oyVURiUGtrTE1BSUEiLCJpZCI6ImZjXzMifQ%3D%3D"
         }
     ],
     "organic_results": [
         {
             "position": 1,
-            "title": "Gangs of Wasseypur",
-            "link": "https://en.wikipedia.org/wiki/Gangs_of_Wasseypur",
-            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Gangs_of_Wasseypur",
-            "favicon": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/d836a1a7ddabcd672accd1242976d01e979a8c0504890e73186425a15dd48e8a.png",
-            "snippet": "Gangs of Wasseypur is a 2012 Indian Hindi-language two-part gangster action crime film produced and directed by Anurag Kashyap, and written by Kashyap and ...",
-            "snippet_highlighted_words": [
-                "Gangs of Wasseypur"
-            ],
+            "title": "Yojimbo (1961)",
+            "link": "https://www.imdb.com/title/tt0055630/",
+            "displayed_link": "https://www.imdb.com \u203a title",
+            "favicon": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/13f63cecc9c8f5acb4fefd4adde798b5404fe23072b2c10ce245bb2b3c1a6104.png",
+            "snippet": "A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.A crafty ronin comes to a town ...",
             "sitelinks": {
                 "inline": [
                     {
-                        "title": "Part 1",
-                        "link": "https://en.wikipedia.org/wiki/Gangs_of_Wasseypur_%E2%80%93_Part_1"
+                        "title": "Full Cast & Crew",
+                        "link": "https://www.imdb.com/title/tt0055630/fullcredits"
                     },
                     {
-                        "title": "Part 2",
-                        "link": "https://en.wikipedia.org/wiki/Gangs_of_Wasseypur_%E2%80%93_Part_2"
+                        "title": "Trivia",
+                        "link": "https://www.imdb.com/title/tt0055630/trivia/"
                     },
                     {
-                        "title": "Zeishan Quadri",
-                        "link": "https://en.wikipedia.org/wiki/Zeishan_Quadri"
+                        "title": "Plot",
+                        "link": "https://www.imdb.com/title/tt0055630/plotsummary/"
                     },
                     {
-                        "title": "\u0938\u0924\u094d\u092f\u0915\u093e\u092e \u0906\u0928\u0902\u0926",
-                        "link": "https://en.wikipedia.org/wiki/Satyakam_Anand"
+                        "title": "Parents Guide",
+                        "link": "https://www.imdb.com/title/tt0055630/parentalguide"
                     }
                 ]
             },
-            "about_this_result": {},
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:td1_gIYX05YJ:https://en.wikipedia.org/wiki/Gangs_of_Wasseypur&cd=20&hl=en&ct=clnk&gl=us",
-            "source": "Wikipedia"
-        },
-        {
-            "position": 2,
-            "title": "Watch Gangs of Wasseypur: Part I | Prime Video",
-            "link": "https://www.amazon.com/Gangs-Wasseypur-Manoj-Bajpai-Bajpayee/dp/B073SGLD17",
-            "displayed_link": "https://www.amazon.com \u203a Gangs-Wasseypur-Manoj-...",
-            "favicon": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/d836a1a7ddabcd672accd1242976d01e732865e20a2cb1a3bfef4e1cc6d12170.png",
-            "snippet": "The film is about the coal mafia in Dhanbad, Jharkhand. It is set across three generations and six decades. 251IMDb 8.22 h 40 min2014.",
             "rich_snippet": {
                 "top": {
                     "detected_extensions": {
-                        "rating": 4.5,
-                        "reviews": 251,
+                        "rating": 8.2,
+                        "votes": 128119
+                    },
+                    "extensions": [
+                        "Rating: 8.2/10",
+                        "\u200e128,119 votes"
+                    ]
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.imdb.com/title/tt0055630/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0055630%2F",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uA9nYKWYtWAJ:https://www.imdb.com/title/tt0055630/&cd=23&hl=en&ct=clnk&gl=us",
+            "source": "IMDb"
+        },
+        {
+            "position": 2,
+            "title": "Yojimbo",
+            "link": "https://en.wikipedia.org/wiki/Yojimbo",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Yojimbo",
+            "favicon": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/13f63cecc9c8f5acb4fefd4adde798b5efa4c7c6b6510f8d32ad1d8f1ebd8580.png",
+            "snippet": "Yojimbo is a 1961 Japanese samurai film co-written, produced, edited, and directed by Akira Kurosawa. The film stars Toshiro Mifune, Tatsuya Nakadai, ...",
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Sanjuro",
+                        "link": "https://en.wikipedia.org/wiki/Sanjuro"
+                    },
+                    {
+                        "title": "Yoko Tsukasa",
+                        "link": "https://en.wikipedia.org/wiki/Yoko_Tsukasa"
+                    },
+                    {
+                        "title": "Izakaya",
+                        "link": "https://en.wikipedia.org/wiki/Izakaya"
+                    },
+                    {
+                        "title": "Atsushi Watanabe (actor, born...",
+                        "link": "https://en.wikipedia.org/wiki/Atsushi_Watanabe_(actor,_born_1898)"
+                    }
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Yojimbo&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FYojimbo",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Yw5YzJbZnkkJ:https://en.wikipedia.org/wiki/Yojimbo&cd=25&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?sca_esv=571184275&q=related:https://en.wikipedia.org/wiki/Yojimbo+Y%C3%B4jinb%C3%B4",
+            "source": "Wikipedia"
+        },
+        {
+            "position": 3,
+            "title": "Yo-Jin-Bo",
+            "link": "https://en.wikipedia.org/wiki/Yo-Jin-Bo",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Yo-Jin-Bo",
+            "favicon": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/13f63cecc9c8f5acb4fefd4adde798b583dc916174ee73379cffb0f04e763a73.png",
+            "snippet": "Yo-Jin-Bo (The Bodyguards) (\u7528\u5fc3\u68d2, Y\u014djinb\u014d) is a Japanese visual novel produced by Two-Five. In October 2006, Hirameki International released an English ...",
+            "snippet_highlighted_words": [
+                "Yo-Jin-Bo"
+            ],
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Yo-Jin-Bo&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FYo-Jin-Bo",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1uu4gVWopIoJ:https://en.wikipedia.org/wiki/Yo-Jin-Bo&cd=42&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?sca_esv=571184275&q=related:https://en.wikipedia.org/wiki/Yo-Jin-Bo+Y%C3%B4jinb%C3%B4",
+            "source": "Wikipedia"
+        },
+        {
+            "position": 4,
+            "title": "Yojimbo 4K Blu-ray (\u7528\u5fc3\u68d2 / Y\u00f4jinb\u00f4) (Japan)",
+            "link": "https://www.blu-ray.com/movies/Yojimbo-4K-Blu-ray/332600/",
+            "displayed_link": "https://www.blu-ray.com \u203a movies",
+            "favicon": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/13f63cecc9c8f5acb4fefd4adde798b59e4998a5802723c980c59b59ebb10fbc.png",
+            "snippet": "Yojimbo 4K Blu-ray Release Date April 19, 2023 (\u7528\u5fc3\u68d2, Y\u00f4jinb\u00f4). Blu-ray reviews, news, specs, ratings, screenshots. Cheap Blu-ray movies and deals.",
+            "snippet_highlighted_words": [
+                "Y\u00f4jinb\u00f4"
+            ],
+            "about_page_link": "https://www.google.com/search?q=About+https://www.blu-ray.com/movies/Yojimbo-4K-Blu-ray/332600/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.blu-ray.com%2Fmovies%2FYojimbo-4K-Blu-ray%2F332600%2F",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:YGkOBkq__-AJ:https://www.blu-ray.com/movies/Yojimbo-4K-Blu-ray/332600/&cd=43&hl=en&ct=clnk&gl=us",
+            "source": "Blu-ray.com"
+        },
+        {
+            "position": 5,
+            "title": "Visual Novel / Yo-Jin-Bo",
+            "link": "https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/YoJinBo",
+            "displayed_link": "https://tvtropes.org \u203a VisualNovel",
+            "favicon": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/13f63cecc9c8f5acb4fefd4adde798b55113cd0f46f972f1facf9ed939207a41.png",
+            "snippet": "Epunymous Title: \"Yojinbo\" (more commonly romanized as \"yojimbo\") is a Japanese word meaning \"bodyguard.\" The three main characters are called Yo, Jin, and Bo.",
+            "snippet_highlighted_words": [
+                "Yojinbo"
+            ],
+            "about_page_link": "https://www.google.com/search?q=About+https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/YoJinBo&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ftvtropes.org%2Fpmwiki%2Fpmwiki.php%2FVisualNovel%2FYoJinBo",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:C3Gj4zVfyLYJ:https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/YoJinBo&cd=44&hl=en&ct=clnk&gl=us",
+            "source": "TV Tropes"
+        },
+        {
+            "position": 6,
+            "title": "Yojimbo ( Y\u00f4jinb\u00f4 ) [ Origine Italienne, Sans Langue ...",
+            "link": "https://www.amazon.com/Yojimbo-Y%C3%B4jinb%C3%B4-Origine-Italienne-Francaise/dp/B0846CX4WP",
+            "displayed_link": "https://www.amazon.com \u203a Yojimbo-Y\u00f4jinb\u00f4-Origine...",
+            "favicon": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/13f63cecc9c8f5acb4fefd4adde798b5e0b61cae2fd272f076f7d38ef3511836.png",
+            "snippet": "Yojimbo ( Y\u00f4jinb\u00f4 ) [ Origine Italienne, Sans Langue Francaise ] ... Usually ships within 4 to 5 days. ... This item can be returned in its original condition for a ...",
+            "snippet_highlighted_words": [
+                "Y\u00f4jinb\u00f4"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "price": 62.99,
+                        "currency": "$",
                         "unknown": 30
                     },
                     "extensions": [
-                        "Rating: 4.5",
-                        "\u200e251 reviews",
+                        "$62.99",
                         "\u200e30",
                         "day returns"
                     ]
                 }
             },
-            "about_this_result": {},
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2OOu8U31oWQJ:https://www.amazon.com/Gangs-Wasseypur-Manoj-Bajpai-Bajpayee/dp/B073SGLD17&cd=31&hl=en&ct=clnk&gl=us",
+            "about_page_link": "https://www.google.com/search?q=About+https://www.amazon.com/Yojimbo-Y%C3%B4jinb%C3%B4-Origine-Italienne-Francaise/dp/B0846CX4WP&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FYojimbo-Y%25C3%25B4jinb%25C3%25B4-Origine-Italienne-Francaise%2Fdp%2FB0846CX4WP",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:SMwqroMdSGMJ:https://www.amazon.com/Yojimbo-Y%25C3%25B4jinb%25C3%25B4-Origine-Italienne-Francaise/dp/B0846CX4WP&cd=51&hl=en&ct=clnk&gl=us",
             "source": "Amazon.com"
         },
         {
-            "position": 3,
-            "title": "Gangs of Wasseypur (2012)",
-            "link": "https://www.imdb.com/title/tt1954470/",
-            "displayed_link": "https://www.imdb.com \u203a title",
-            "favicon": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/d836a1a7ddabcd672accd1242976d01e06b1c5007514a4b37e9d3e1e03f4dcd3.png",
-            "snippet": "A clash between Sultan and Shahid Khan leads to the expulsion of Khan from Wasseypur, and ignites a deadly blood feud spanning three generations.",
-            "snippet_highlighted_words": [
-                "Wasseypur"
-            ],
-            "rich_snippet": {
-                "top": {
-                    "detected_extensions": {
-                        "rating": 8.2,
-                        "votes": 100988
-                    },
-                    "extensions": [
-                        "Rating: 8.2/10",
-                        "\u200e100,988 votes"
-                    ]
-                }
-            },
-            "about_this_result": {},
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:OrK07X10rFkJ:https://www.imdb.com/title/tt1954470/&cd=32&hl=en&ct=clnk&gl=us",
-            "source": "IMDb"
-        },
-        {
-            "position": 4,
-            "title": "Gangs of Wasseypur",
-            "link": "https://www.rottentomatoes.com/m/gangs_of_wasseypur",
-            "displayed_link": "https://www.rottentomatoes.com \u203a gangs_of_wasseypur",
-            "favicon": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/d836a1a7ddabcd672accd1242976d01ecfdfe469446683e30d591bab181d62e2.png",
-            "snippet": "It's a story about charismatic killers, men we love to hate, characters who are depraved, ennobled and finally doomed by their disregard for ordinary human ...",
-            "rich_snippet": {
-                "top": {
-                    "detected_extensions": {
-                        "rating": 94,
-                        "votes": 32
-                    },
-                    "extensions": [
-                        "Rating: 94%",
-                        "\u200e32 votes"
-                    ]
-                }
-            },
-            "about_this_result": {},
-            "source": "Rotten Tomatoes"
-        },
-        {
-            "position": 5,
-            "title": "Gangs of Wasseypur Part 1 - Prime Video",
-            "link": "https://www.primevideo.com/detail/Gangs-of-Wasseypur-Part-1/0P0WX3CRD66D2TQEJC4XNRGWHC",
-            "displayed_link": "https://www.primevideo.com \u203a detail \u203a Gangs-of-Wa...",
-            "favicon": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/d836a1a7ddabcd672accd1242976d01edc015f8c602ca854c253d1f749e4b208.png",
-            "snippet": "A clash between Sultan and Shahid Khan leads to the expulsion of Khan from Wasseypur, and ignites a deadly blood feud spanning three generations.",
-            "snippet_highlighted_words": [
-                "Wasseypur"
-            ],
-            "about_this_result": {},
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jKTjY_qjfJoJ:https://www.primevideo.com/detail/Gangs-of-Wasseypur-Part-1/0P0WX3CRD66D2TQEJC4XNRGWHC&cd=42&hl=en&ct=clnk&gl=us",
-            "source": "primevideo.com"
-        },
-        {
-            "position": 6,
-            "title": "Gangs of Wasseypur",
-            "link": "https://www.metacritic.com/movie/gangs-of-wasseypur/",
-            "displayed_link": "https://www.metacritic.com \u203a movie \u203a gangs-of-wasse...",
-            "favicon": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/d836a1a7ddabcd672accd1242976d01e30eef073d06c2a350869e3795ee939bd.png",
-            "snippet": "Gangs of Wasseypur is a chessboard. The singhs and the khans. But the only player playing is Anurag Kashyap. There's plethora of pieces at his disposal fueled ...",
-            "snippet_highlighted_words": [
-                "Gangs of Wasseypur"
-            ],
-            "about_this_result": {},
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:TOKg6nKRO0IJ:https://www.metacritic.com/movie/gangs-of-wasseypur/&cd=43&hl=en&ct=clnk&gl=us",
-            "source": "Metacritic"
-        },
-        {
             "position": 7,
-            "title": "Gangs of Wasseypur \u2013 Part 1",
-            "link": "https://en.wikipedia.org/wiki/Gangs_of_Wasseypur_%E2%80%93_Part_1",
-            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Gangs_of_Wasseyp...",
-            "favicon": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/d836a1a7ddabcd672accd1242976d01e605bd049d0d592f4ea83e14a8bb8035e.png",
-            "snippet": "Gangs of Wasseypur \u2013 Part 1 is a 2012 Indian Hindi-language epic crime film directed by Anurag Kashyap, and written by Kashyap and Zeishan Quadri.",
-            "snippet_highlighted_words": [
-                "Gangs of Wasseypur"
-            ],
-            "sitelinks": {
-                "inline": [
-                    {
-                        "title": "Plot",
-                        "link": "https://en.wikipedia.org/wiki/Gangs_of_Wasseypur_%E2%80%93_Part_1#Plot"
-                    },
-                    {
-                        "title": "Cast",
-                        "link": "https://en.wikipedia.org/wiki/Gangs_of_Wasseypur_%E2%80%93_Part_1#Cast"
-                    },
-                    {
-                        "title": "Production",
-                        "link": "https://en.wikipedia.org/wiki/Gangs_of_Wasseypur_%E2%80%93_Part_1#Production"
-                    },
-                    {
-                        "title": "Themes and portrayals",
-                        "link": "https://en.wikipedia.org/wiki/Gangs_of_Wasseypur_%E2%80%93_Part_1#Themes_and_portrayals"
-                    }
-                ]
-            },
-            "about_this_result": {},
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:YXimDGG18Q8J:https://en.wikipedia.org/wiki/Gangs_of_Wasseypur_%25E2%2580%2593_Part_1&cd=44&hl=en&ct=clnk&gl=us",
-            "related_pages_link": "https://www.google.com/search?sca_esv=569971392&q=related:https://en.wikipedia.org/wiki/Gangs_of_Wasseypur_%25E2%2580%2593_Part_1+Gangs+of+Wasseypur",
-            "source": "Wikipedia"
+            "title": "Y\u00f4jinb\u00f4 (1961)",
+            "link": "https://www.icheckmovies.com/movies/yojinbo/",
+            "displayed_link": "https://www.icheckmovies.com \u203a movies \u203a yojinbo",
+            "favicon": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/13f63cecc9c8f5acb4fefd4adde798b5f3c5fad48088859442af44dc32156f86.png",
+            "snippet": "A.k.a.: Yojimbo; Year: 1961; Runtime: 110 min. Director: Akira Kurosawa; Genres: Action, Drama, Thriller; Rating *: 8.3; Votes *: 76,514; Checks: 13,765 ...",
+            "about_page_link": "https://www.google.com/search?q=About+https://www.icheckmovies.com/movies/yojinbo/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.icheckmovies.com%2Fmovies%2Fyojinbo%2F",
+            "source": "iCheckMovies"
         },
         {
             "position": 8,
-            "title": "Gangs of Wasseypur",
-            "link": "https://tv.apple.com/us/movie/gangs-of-wasseypur/umc.cmc.3jb83c23wyw6mkieayd3fdebp",
-            "displayed_link": "https://tv.apple.com \u203a movie \u203a gangs-of-wasseypur",
-            "favicon": "https://serpapi.com/searches/651a82142c6878dcfc1f2b86/images/d836a1a7ddabcd672accd1242976d01ed5cdb46489717d2638e11c7f40003450.png",
-            "snippet": "Staying true to its real life influences, the film explores this revenge saga throught the socio-political dynamic in erstwhile Bihar (North India), in the coal ...",
-            "about_this_result": {},
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-9h610VzQ58J:https://tv.apple.com/us/movie/gangs-of-wasseypur/umc.cmc.3jb83c23wyw6mkieayd3fdebp&cd=45&hl=en&ct=clnk&gl=us",
-            "source": "Apple TV"
+            "title": "Yojimbo, Y\u00f4jinb\u00f4 (1961) - Akira Kurosawa, Toshir\u00f4 Mifune ...",
+            "link": "https://www.ebay.com/itm/132047069603",
+            "displayed_link": "https://www.ebay.com \u203a ... \u203a DVDs & Blu-ray Discs",
+            "favicon": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/13f63cecc9c8f5acb4fefd4adde798b539aaaa5423accc13802f9f66f31cc972.png",
+            "snippet": "Yojimbo, Y\u00f4jinb\u00f4 (1961) - Akira Kurosawa, Toshir\u00f4 Mifune DVD NEW ; Quantity. 39 sold. More than 10 available ; Item Number. 132047069603 ; Director. Akira Kurosawa.",
+            "snippet_highlighted_words": [
+                "Y\u00f4jinb\u00f4"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "price": 6.9,
+                        "currency": "$"
+                    },
+                    "extensions": [
+                        "$6.90"
+                    ]
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.ebay.com/itm/132047069603&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ebay.com%2Fitm%2F132047069603",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:tahgJPg40yAJ:https://www.ebay.com/itm/132047069603&cd=53&hl=en&ct=clnk&gl=us",
+            "source": "eBay"
+        },
+        {
+            "position": 9,
+            "title": "Yo-Jin-Bo - PC/Mac : Video Games",
+            "link": "https://www.amazon.com/Yo-Jin-Bo-PC-Mac/dp/B000KMCEXE",
+            "displayed_link": "https://www.amazon.com \u203a Yo-Jin-Bo-PC-Mac",
+            "favicon": "https://serpapi.com/searches/651f982fdefa134070df0a82/images/13f63cecc9c8f5acb4fefd4adde798b586795d868fe2474fea9ad673174bc921.png",
+            "snippet": "The premise of YoJinBo is pretty simple. Princess Hatsuhime/Sayori is being chased by ninjas so she can never take the thrown. Six bodyguards run with her ...",
+            "snippet_highlighted_words": [
+                "YoJinBo"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 4,
+                        "reviews": 8,
+                        "unknown": 30
+                    },
+                    "extensions": [
+                        "Rating: 4",
+                        "\u200e8 reviews",
+                        "\u200e30",
+                        "day returns"
+                    ]
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.amazon.com/Yo-Jin-Bo-PC-Mac/dp/B000KMCEXE&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FYo-Jin-Bo-PC-Mac%2Fdp%2FB000KMCEXE",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:7szHu4LKxHgJ:https://www.amazon.com/Yo-Jin-Bo-PC-Mac/dp/B000KMCEXE&cd=54&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?sca_esv=571184275&q=related:https://www.amazon.com/Yo-Jin-Bo-PC-Mac/dp/B000KMCEXE+Y%C3%B4jinb%C3%B4",
+            "source": "Amazon.com"
         }
     ],
     "related_searches": [
         {
             "block_position": 1,
-            "query": "gangs of wasseypur 2",
-            "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+2&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ1QJ6BAhKEAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+2"
+            "query": "Directed by Akira Kurosawa",
+            "items": [
+                {
+                    "name": "Rashomon",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2y8QD9_u4NwLunOnJzud1LnIac_0ugD9b4XosNQ&s=0",
+                    "link": "https://www.google.com/search?sca_esv=571184275&q=Rashomon&stick=H4sIAAAAAAAAAOOQUeLUz9U3MLTMKyg3kkrJLEpNLklNUUiqVEjMzixKVMguLcovTixPjOKMPLwlKzMv6fCWU4xgLUYWVRmGULahRU6R-SlGDhDbvNDcAiYMMhUqnG2UawYTziuzNIWyTdLMTZKhSgoqS4BMXv10fUPDJPNs45K0EmOYoUUlab8YpVyQ3OcIdp831H2LWDmCEosz8nPz826xSTIcuJK5RPu8cJ55Z5b5grUSX--5NqVqqm4-AwBg4_zr8AAAAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQs9oBKAB6BAh7EAI",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Rashomon&stick=H4sIAAAAAAAAAOOQUeLUz9U3MLTMKyg3kkrJLEpNLklNUUiqVEjMzixKVMguLcovTixPjOKMPLwlKzMv6fCWU4xgLUYWVRmGULahRU6R-SlGDhDbvNDcAiYMMhUqnG2UawYTziuzNIWyTdLMTZKhSgoqS4BMXv10fUPDJPNs45K0EmOYoUUlab8YpVyQ3OcIdp831H2LWDmCEosz8nPz826xSTIcuJK5RPu8cJ55Z5b5grUSX--5NqVqqm4-AwBg4_zr8AAAAA"
+                },
+                {
+                    "name": "The Magnificent Seven",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlPxReBrnWJnc7nyiwtS1wMUgYNPLbwxAhv_A7gg&s=0",
+                    "link": "https://www.google.com/search?sca_esv=571184275&q=The+Magnificent+Seven+2016&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwyzzYuSSsxNpJKySxKTS5JTVFIqlRIzM4sSlTILi3KL04sT4zijDy8JSszL-nwllOMnPq5-gZGFlUZhlC2oUVOkfkpRg4Q27zQ3AImbJlXUA4VzjbKNYMJ55VZmkLZJmnmJslQJQWVJUAmqptghhaVpP1ilHJBcp8j2H3eUPctYpUKyUhV8E1Mz8tMy0xOzStRCE4tS81TMDIwNLvFJslw4ErmEu3zwnnmnVnmC9ZKfL3n2pSqqbr5DAA2kmgRBgEAAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQs9oBKAF6BAh7EAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Magnificent+Seven+2016&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwyzzYuSSsxNpJKySxKTS5JTVFIqlRIzM4sSlTILi3KL04sT4zijDy8JSszL-nwllOMnPq5-gZGFlUZhlC2oUVOkfkpRg4Q27zQ3AImbJlXUA4VzjbKNYMJ55VZmkLZJmnmJslQJQWVJUAmqptghhaVpP1ilHJBcp8j2H3eUPctYpUKyUhV8E1Mz8tMy0xOzStRCE4tS81TMDIwNLvFJslw4ErmEu3zwnnmnVnmC9ZKfL3n2pSqqbr5DAA2kmgRBgEAAA"
+                },
+                {
+                    "name": "The Magnificent Seven",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4uk6ZU3tVXVur4Ew-SDFff60nGhAXa47PGrboIg&s=0",
+                    "link": "https://www.google.com/search?sca_esv=571184275&q=The+Magnificent+Seven+1960&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC8qSTOSSsksSk0uSU1RSKpUSMzOLEpUyC4tyi9OLE-M4ow8vCUrMy_p8JZTjJwgHUYWVRmGULahRU6R-SlGiEmF5hYwYcu8gnKocLZRrhlMOK_M0hTKNkkzN0mGKimoLAEyefXT9Q0Nk8yzjUvSSoxhhgKd94tRygXJfY5g93lD3beIVSokI1XBNzE9LzMtMzk1r0QhOLUsNU_B0NLM4BabJMOBK5lLtM8L55l3ZpkvWCvx9Z5rU6qm6uYzADFoXsUBAQAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQs9oBKAJ6BAh7EAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Magnificent+Seven+1960&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC8qSTOSSsksSk0uSU1RSKpUSMzOLEpUyC4tyi9OLE-M4ow8vCUrMy_p8JZTjJwgHUYWVRmGULahRU6R-SlGiEmF5hYwYcu8gnKocLZRrhlMOK_M0hTKNkkzN0mGKimoLAEyefXT9Q0Nk8yzjUvSSoxhhgKd94tRygXJfY5g93lD3beIVSokI1XBNzE9LzMtMzk1r0QhOLUsNU_B0NLM4BabJMOBK5lLtM8L55l3ZpkvWCvx9Z5rU6qm6uYzADFoXsUBAQAA"
+                },
+                {
+                    "name": "A Fistful of Dollars",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr4I9aFo6SOv3cORlio489htwPnZdLIa9iKBgphA&s=0",
+                    "link": "https://www.google.com/search?sca_esv=571184275&q=A+Fistful+of+Dollars&stick=H4sIAAAAAAAAAOOQUeLUz9U3MLKoyjA0kkrJLEpNLklNUUiqVEjMzixKVMguLcovTixPjOKMPLwlKzMv6fCWU4wILVC2oUVOkfkpRg4Q27zQ3AImbJlXUA4VzjbKNYMJ55VZmkLZJmnmJslQJQWVJUAmr366vqFhknm2cUlaiTHM0KKStF-MUi5I7nMEu88b6r5FrCKOCm6ZxSVppTkK-WkKLvk5OYlFxbfYJBkOXMlcon1eOM-8M8t8wVqJr_dcm1I1VTefAQBuXbhn_AAAAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQs9oBKAN6BAh7EAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=A+Fistful+of+Dollars&stick=H4sIAAAAAAAAAOOQUeLUz9U3MLKoyjA0kkrJLEpNLklNUUiqVEjMzixKVMguLcovTixPjOKMPLwlKzMv6fCWU4wILVC2oUVOkfkpRg4Q27zQ3AImbJlXUA4VzjbKNYMJ55VZmkLZJmnmJslQJQWVJUAmr366vqFhknm2cUlaiTHM0KKStF-MUi5I7nMEu88b6r5FrCKOCm6ZxSVppTkK-WkKLvk5OYlFxbfYJBkOXMlcon1eOM-8M8t8wVqJr_dcm1I1VTefAQBuXbhn_AAAAA"
+                },
+                {
+                    "name": "Sanjuro",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ImG7ARaU3ydCsXVgt2A4_iZHBIfvHZQ7k8qOdw&s=0",
+                    "link": "https://www.google.com/search?sca_esv=571184275&q=Sanjuro&stick=H4sIAAAAAAAAAOOQUeLUz9U3MLTIKTI3kkrJLEpNLklNUUiqVEjMzixKVMguLcovTixPjOKMPLwlKzMv6fCWU4xgLUYWVRmGUDZY-ylGDhDbvNDcAiZsmVdQDhXONso1gwnnlVmaQtkmaeYmyVAlBZUlQCavfrq-oWGSebZxSVqJMczQopK0X4xSLkjucwS7zxvqvkWs7MGJeVlA3i02SYYDVzKXaJ8XzjPvzDJfsFbi6z3XplRN1c1nAA9xUK_vAAAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQs9oBKAR6BAh7EAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sanjuro&stick=H4sIAAAAAAAAAOOQUeLUz9U3MLTIKTI3kkrJLEpNLklNUUiqVEjMzixKVMguLcovTixPjOKMPLwlKzMv6fCWU4xgLUYWVRmGUDZY-ylGDhDbvNDcAiZsmVdQDhXONso1gwnnlVmaQtkmaeYmyVAlBZUlQCavfrq-oWGSebZxSVqJMczQopK0X4xSLkjucwS7zxvqvkWs7MGJeVlA3i02SYYDVzKXaJ8XzjPvzDJfsFbi6z3XplRN1c1nAA9xUK_vAAAA"
+                },
+                {
+                    "name": "Seven Samurai",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwXRGK3X1fWjnvp4Ju-ux8cNXPA3-wfa-7P05_Rw&s=0",
+                    "link": "https://www.google.com/search?sca_esv=571184275&q=Seven+Samurai&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC80tzCSSsksSk0uSU1RSKpUSMzOLEpUyC4tyi9OLE-M4ow8vCUrMy_p8JZTjJwgHUYWVRmGULahRU6R-SlGuEkwYcu8gnKocLZRrhlMOK_M0hTKNkkzN0mGKimoLAEyefXT9Q0Nk8yzjUvSSoxhhhaVpP1ilHJBcp8j2H3eUPctYuUNTi1LzVMITswtLUrMvMUmyXDgSuYS7fPCeeadWeYL1kp8vefalKqpuvkMAGj4-JP0AAAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQs9oBKAV6BAh7EAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Seven+Samurai&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC80tzCSSsksSk0uSU1RSKpUSMzOLEpUyC4tyi9OLE-M4ow8vCUrMy_p8JZTjJwgHUYWVRmGULahRU6R-SlGuEkwYcu8gnKocLZRrhlMOK_M0hTKNkkzN0mGKimoLAEyefXT9Q0Nk8yzjUvSSoxhhhaVpP1ilHJBcp8j2H3eUPctYuUNTi1LzVMITswtLUrMvMUmyXDgSuYS7fPCeeadWeYL1kp8vefalKqpuvkMAGj4-JP0AAAA"
+                }
+            ],
+            "link": "https://www.google.com/search?sca_esv=571184275&q=Directed+by+Akira+Kurosawa&stick=H4sIAAAAAAAAAOOQMZJKySxKTS5JTVFIqlRIzM4sSlTILi3KL04sT4zijDy8JSszL-nwllOMnPq5-gZGFlUZhlC2oUVOkfkpRg4Q27zQ3AImbJlXUA4VzjbKNYMJ55VZmkLZJmnmJslQJQWVJUAmr366vqFhknm2cUlaiTHM0KKStF-MUi5I7nMEu88b6r5FrHgkb7FJMhy4krlE-7xwnnlnlvmCtRJf77k2pWqqbj4DAEwsWjv3AAAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQ4qYDegQIexAI",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Directed+by+Akira+Kurosawa&stick=H4sIAAAAAAAAAOOQMZJKySxKTS5JTVFIqlRIzM4sSlTILi3KL04sT4zijDy8JSszL-nwllOMnPq5-gZGFlUZhlC2oUVOkfkpRg4Q27zQ3AImbJlXUA4VzjbKNYMJ55VZmkLZJmnmJslQJQWVJUAmr366vqFhknm2cUlaiTHM0KKStF-MUi5I7nMEu88b6r5FrHgkb7FJMhy4krlE-7xwnnlnlvmCtRJf77k2pWqqbj4DAEwsWjv3AAAA"
         },
         {
             "block_position": 1,
-            "query": "gangs of wasseypur 3",
-            "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+3&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ1QJ6BAhIEAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+3"
+            "query": "Japanese television drama movies",
+            "items": [
+                {
+                    "name": "Harakiri",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Zxhay8rQ2TRg9FDS7k-G2eTbXwlT7qjybP0XYA&s=0",
+                    "link": "https://www.google.com/search?sca_esv=571184275&q=Harakiri+1962&stick=H4sIAAAAAAAAAOOQUeLUz9U3sCgpK0gxUshKLEjMSy1OVShJzUktyyzOzM9TSClKzE1UyM0vy0wtjuKMPLwlKzMv6fCWU4xgjYaWeQXlUDbYECg7PSm7zBCmJsu0Iv4UIxdYvKTMpDgPyjEqyM4zLjrFyKufrm9omGSWkpSRV2hxipEbrMvYpCCnxACqNC-9oCqp5BejghcBJy5i5fVILErMzizKVDC0NDO6xSbJcOBK5pI3E1XlV6yqKa3eJxf-fEd6Z6vtRE0Ax9dyk_4AAAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQs9oBKAB6BAh_EAI",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Harakiri+1962&stick=H4sIAAAAAAAAAOOQUeLUz9U3sCgpK0gxUshKLEjMSy1OVShJzUktyyzOzM9TSClKzE1UyM0vy0wtjuKMPLwlKzMv6fCWU4xgjYaWeQXlUDbYECg7PSm7zBCmJsu0Iv4UIxdYvKTMpDgPyjEqyM4zLjrFyKufrm9omGSWkpSRV2hxipEbrMvYpCCnxACqNC-9oCqp5BejghcBJy5i5fVILErMzizKVDC0NDO6xSbJcOBK5pI3E1XlV6yqKa3eJxf-fEd6Z6vtRE0Ax9dyk_4AAAA"
+                },
+                {
+                    "name": "Zat\u014dichi",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXnxLc_st6MMzVFxWKzg_1tjzwUIrMpgYANosy3w&s=0",
+                    "link": "https://www.google.com/search?sca_esv=571184275&q=Zat%C5%8Dichi+2003&stick=H4sIAAAAAAAAAOOQUeLUz9U3SE_KLjM0UshKLEjMSy1OVShJzUktyyzOzM9TSClKzE1UyM0vy0wtjuKMPLwlKzMv6fCWU4xgjYaWeQXlULZFSVlBCpQNNhCmJsu0Iv4UIxdYvKTMpDgPyjEqyM4zLjrFyKufrm9omGSWkpSRV2hxipEbrMvYpCCnxACqNC-9oCqp5BejghcBJy5i5YtKLDnam5mckalgZGBgfItNkuHAlcwlbyaqyq9YVVNavU8u_PmO9M5W24maAGSEJXH_AAAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQs9oBKAF6BAh_EAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Zat%C5%8Dichi+2003&stick=H4sIAAAAAAAAAOOQUeLUz9U3SE_KLjM0UshKLEjMSy1OVShJzUktyyzOzM9TSClKzE1UyM0vy0wtjuKMPLwlKzMv6fCWU4xgjYaWeQXlULZFSVlBCpQNNhCmJsu0Iv4UIxdYvKTMpDgPyjEqyM4zLjrFyKufrm9omGSWkpSRV2hxipEbrMvYpCCnxACqNC-9oCqp5BejghcBJy5i5YtKLDnam5mckalgZGBgfItNkuHAlcwlbyaqyq9YVVNavU8u_PmO9M5W24maAGSEJXH_AAAA"
+                },
+                {
+                    "name": "Red Beard",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZH5Ke_HsrlP3sUr7AhEBYinuuoudrYrK5q6d13w&s=0",
+                    "link": "https://www.google.com/search?sca_esv=571184275&q=Red+Beard&stick=H4sIAAAAAAAAAOOQUeLUz9U3MMwyrYg3UshKLEjMSy1OVShJzUktyyzOzM9TSClKzE1UyM0vy0wtjuKMPLwlKzMv6fCWU4wQjZZ5BeVQtkVJWUEKlJ2elF1mCFMDMvwUIxdYvKTMpDgPyjEqyM4zLjrFyKufrm9omGSWkpSRV2hxipEbrMvYpCCnxACqNC-9oCqp5BejghcBJy5i5QxKTVFwSk0sSrnFJslw4ErmkjcTVeVXrKoprd4nF_58R3pnq-1ETQBMEEOt-gAAAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQs9oBKAJ6BAh_EAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Red+Beard&stick=H4sIAAAAAAAAAOOQUeLUz9U3MMwyrYg3UshKLEjMSy1OVShJzUktyyzOzM9TSClKzE1UyM0vy0wtjuKMPLwlKzMv6fCWU4wQjZZ5BeVQtkVJWUEKlJ2elF1mCFMDMvwUIxdYvKTMpDgPyjEqyM4zLjrFyKufrm9omGSWkpSRV2hxipEbrMvYpCCnxACqNC-9oCqp5BejghcBJy5i5QxKTVFwSk0sSrnFJslw4ErmkjcTVeVXrKoprd4nF_58R3pnq-1ETQBMEEOt-gAAAA"
+                },
+                {
+                    "name": "Yearning",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrD2Psikc3FfbARTovqyqH8sJEXCJTQz1CRXofeQ&s=0",
+                    "link": "https://www.google.com/search?sca_esv=571184275&q=Yearning+1964&stick=H4sIAAAAAAAAAOOQUeLSz9U3SC8pMynOM1LISixIzEstTlUoSc1JLcsszszPU0gpSsxNVMjNL8tMLY7ijDy8JSszL-nwllOMnCCdhpZ5BeVQtkVJWUEKlJ2elF1mCFOTZVoRf4oRySYox6ggO8-46BQjr366vqFhkllKUkZeocUpRm6wLmOTgpwSA6jSvPSCqqSSX4wKXgScuIiVNzI1sSgvMy9dwdDSzOQWmyTDgSuZS95MVJVfsaqmtHqfXPjzHemdrbYTNQFTd4Iu_wAAAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQs9oBKAN6BAh_EAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Yearning+1964&stick=H4sIAAAAAAAAAOOQUeLSz9U3SC8pMynOM1LISixIzEstTlUoSc1JLcsszszPU0gpSsxNVMjNL8tMLY7ijDy8JSszL-nwllOMnCCdhpZ5BeVQtkVJWUEKlJ2elF1mCFOTZVoRf4oRySYox6ggO8-46BQjr366vqFhkllKUkZeocUpRm6wLmOTgpwSA6jSvPSCqqSSX4wKXgScuIiVNzI1sSgvMy9dwdDSzOQWmyTDgSuZS95MVJVfsaqmtHqfXPjzHemdrbYTNQFTd4Iu_wAAAA"
+                },
+                {
+                    "name": "Nanami: The Inferno of First Love",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn7UeTn6I2yJ73qbL0z-NXRUiCHur1vZBnHRRtBg&s=0",
+                    "link": "https://www.google.com/search?sca_esv=571184275&q=Nanami:+The+Inferno+of+First+Love&stick=H4sIAAAAAAAAAOOQUeLSz9U3MCrIzjMuMlLISixIzEstTlUoSc1JLcsszszPU0gpSsxNVMjNL8tMLY7ijDy8JSszL-nwllOMnCCdhpZ5BeVQtkVJWUEKlJ2elF1mCFOTZVoRf4oRbFN6SZlJcR6UA7H2FCOvfrq-oWGSWUpSRl6hxSlGbrAuY5OCnBIDqNK89IKqpJJfjApeBJy4iFXRLzEvMTfTSiEkI1XBMy8ttSgvXyE_TcEts6i4RMEnvyz1Fpskw4ErmUveTFSVX7GqprR6n1z48x3pna22EzUBK3p9VRMBAAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQs9oBKAR6BAh_EAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nanami%3A+The+Inferno+of+First+Love&stick=H4sIAAAAAAAAAOOQUeLSz9U3MCrIzjMuMlLISixIzEstTlUoSc1JLcsszszPU0gpSsxNVMjNL8tMLY7ijDy8JSszL-nwllOMnCCdhpZ5BeVQtkVJWUEKlJ2elF1mCFOTZVoRf4oRbFN6SZlJcR6UA7H2FCOvfrq-oWGSWUpSRl6hxSlGbrAuY5OCnBIDqNK89IKqpJJfjApeBJy4iFXRLzEvMTfTSiEkI1XBMy8ttSgvXyE_TcEts6i4RMEnvyz1Fpskw4ErmUveTFSVX7GqprR6n1z48x3pna22EzUBK3p9VRMBAAA"
+                },
+                {
+                    "name": "0.5mm",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQbR4cejzJ0JvkhT9km5kYcoq65VHoCJ0t36v5kVzxYN94Rpht5oCj6A&s=0",
+                    "link": "https://www.google.com/search?sca_esv=571184275&q=0.5mm&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwyS0nKyCu0MFLISixIzEstTlUoSc1JLcsszszPU0gpSsxNVMjNL8tMLY7ijDy8JSszL-nwllOMnPq5-gaGlnkF5VC2RUlZQQqUnZ6UXWYIU5NlWhF_ipELLF5SZlKcB-UYFWTnGRedYkR1xilGbrAuY5OCnBIDqNK89IKqpJJfjApeBJy4iJXVQM80N_cWmyTDgSuZS95MVJVfsaqmtHqfXPjzHemdrbYTNQH2UU_f-gAAAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQs9oBKAV6BAh_EAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=0.5mm&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwyS0nKyCu0MFLISixIzEstTlUoSc1JLcsszszPU0gpSsxNVMjNL8tMLY7ijDy8JSszL-nwllOMnPq5-gaGlnkF5VC2RUlZQQqUnZ6UXWYIU5NlWhF_ipELLF5SZlKcB-UYFWTnGRedYkR1xilGbrAuY5OCnBIDqNK89IKqpJJfjApeBJy4iJXVQM80N_cWmyTDgSuZS95MVJVfsaqmtHqfXPjzHemdrbYTNQH2UU_f-gAAAA"
+                }
+            ],
+            "link": "https://www.google.com/search?sca_esv=571184275&q=Japanese+television+drama+movies&stick=H4sIAAAAAAAAAOOQMVLISixIzEstTlUoSc1JLcsszszPU0gpSsxNVMjNL8tMLY7ijDy8JSszL-nwllOMnPq5-gaGlnkF5VC2RUlZQQqUnZ6UXWYIU5NlWhF_ipELLF5SZlKcB-UYFWTnGRedYuTVT9c3NEwyS0nKyCu0OMXIDdZlbFKQU2IAVZqXXlCVVPKLUcGLgBMXsRJUcotNkuHAlcwlbyaqyq9YVVNavU8u_PmO9M5W24maAIuMwLkGAQAA&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQ4qYDegQIfxAI",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Japanese+television+drama+movies&stick=H4sIAAAAAAAAAOOQMVLISixIzEstTlUoSc1JLcsszszPU0gpSsxNVMjNL8tMLY7ijDy8JSszL-nwllOMnPq5-gaGlnkF5VC2RUlZQQqUnZ6UXWYIU5NlWhF_ipELLF5SZlKcB-UYFWTnGRedYuTVT9c3NEwyS0nKyCu0OMXIDdZlbFKQU2IAVZqXXlCVVPKLUcGLgBMXsRJUcotNkuHAlcwlbyaqyq9YVVNavU8u_PmO9M5W24maAIuMwLkGAQAA"
         },
         {
             "block_position": 1,
-            "query": "gangs of wasseypur part 1",
-            "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+Part+1&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ1QJ6BAhHEAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+Part+1"
+            "query": "yojimbo meaning",
+            "link": "https://www.google.com/search?sca_esv=571184275&q=Yojimbo+meaning&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQ1QJ6BQiLARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Yojimbo+meaning"
         },
         {
             "block_position": 1,
-            "query": "gangs of wasseypur 2 imdb",
-            "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+2+imdb&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ1QJ6BAhFEAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+2+imdb"
+            "query": "yojimbo full movie",
+            "link": "https://www.google.com/search?sca_esv=571184275&q=Yojimbo+full+movie&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQ1QJ6BQiGARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Yojimbo+full+movie"
         },
         {
             "block_position": 1,
-            "query": "gangs of wasseypur 2 release date",
-            "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+2+release+date&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ1QJ6BAhBEAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+2+release+date"
+            "query": "yojimbo unosuke",
+            "link": "https://www.google.com/search?sca_esv=571184275&q=Yojimbo+Unosuke&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQ1QJ6BQiFARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Yojimbo+Unosuke"
         },
         {
             "block_position": 1,
-            "query": "gangs of wasseypur imdb",
-            "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+imdb&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ1QJ6BAg8EAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+imdb"
+            "query": "yojimbo final fantasy",
+            "link": "https://www.google.com/search?sca_esv=571184275&q=Yojimbo+Final+Fantasy&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQ1QJ6BQiKARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Yojimbo+Final+Fantasy"
         },
         {
             "block_position": 1,
-            "query": "gangs of wasseypur ott",
-            "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur+OTT&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ1QJ6BAg2EAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur+OTT"
+            "query": "kuwabatake sanjuro",
+            "link": "https://www.google.com/search?sca_esv=571184275&q=Kuwabatake+Sanjuro&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQ1QJ6BQiIARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Kuwabatake+Sanjuro"
         },
         {
             "block_position": 1,
-            "query": "gangs of wasseypur' budget",
-            "link": "https://www.google.com/search?sca_esv=569971392&q=Gangs+of+Wasseypur%27+budget&sa=X&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ1QJ6BAguEAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur%27+budget"
+            "query": "yojimbo western remake",
+            "link": "https://www.google.com/search?sca_esv=571184275&q=Yojimbo+Western+remake&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQ1QJ6BQiHARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Yojimbo+Western+remake"
+        },
+        {
+            "block_position": 1,
+            "query": "tsunagor\u00f4 rash\u00f4mon",
+            "link": "https://www.google.com/search?sca_esv=571184275&q=Tsunagor%C3%B4+Rash%C3%B4mon&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQ1QJ6BQiEARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tsunagor%C3%B4+Rash%C3%B4mon"
+        },
+        {
+            "block_position": 1,
+            "query": "yojimbo characters",
+            "link": "https://www.google.com/search?sca_esv=571184275&q=Yojimbo+characters&sa=X&ved=2ahUKEwivj_K_1eCBAxWRMlkFHaQyCiQQ1QJ6BQiJARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Yojimbo+characters"
         }
     ],
     "pagination": {
         "current": 1,
-        "next": "https://www.google.com/search?q=Gangs+of+Wasseypur&sca_esv=569971392&ei=FYIaZZ6XJJ-uwbkP-YeegAQ&start=10&sa=N&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ8NMDegQIBBAW",
+        "next": "https://www.google.com/search?q=Y%C3%B4jinb%C3%B4&oq=Y%C3%B4jinb%C3%B4&start=10&sourceid=chrome&ie=UTF-8",
         "other_pages": {
-            "2": "https://www.google.com/search?q=Gangs+of+Wasseypur&sca_esv=569971392&ei=FYIaZZ6XJJ-uwbkP-YeegAQ&start=10&sa=N&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ8tMDegQIBBAE",
-            "3": "https://www.google.com/search?q=Gangs+of+Wasseypur&sca_esv=569971392&ei=FYIaZZ6XJJ-uwbkP-YeegAQ&start=20&sa=N&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ8tMDegQIBBAG",
-            "4": "https://www.google.com/search?q=Gangs+of+Wasseypur&sca_esv=569971392&ei=FYIaZZ6XJJ-uwbkP-YeegAQ&start=30&sa=N&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ8tMDegQIBBAI",
-            "5": "https://www.google.com/search?q=Gangs+of+Wasseypur&sca_esv=569971392&ei=FYIaZZ6XJJ-uwbkP-YeegAQ&start=40&sa=N&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ8tMDegQIBBAK",
-            "6": "https://www.google.com/search?q=Gangs+of+Wasseypur&sca_esv=569971392&ei=FYIaZZ6XJJ-uwbkP-YeegAQ&start=50&sa=N&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ8tMDegQIBBAM",
-            "7": "https://www.google.com/search?q=Gangs+of+Wasseypur&sca_esv=569971392&ei=FYIaZZ6XJJ-uwbkP-YeegAQ&start=60&sa=N&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ8tMDegQIBBAO",
-            "8": "https://www.google.com/search?q=Gangs+of+Wasseypur&sca_esv=569971392&ei=FYIaZZ6XJJ-uwbkP-YeegAQ&start=70&sa=N&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ8tMDegQIBBAQ",
-            "9": "https://www.google.com/search?q=Gangs+of+Wasseypur&sca_esv=569971392&ei=FYIaZZ6XJJ-uwbkP-YeegAQ&start=80&sa=N&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ8tMDegQIBBAS",
-            "10": "https://www.google.com/search?q=Gangs+of+Wasseypur&sca_esv=569971392&ei=FYIaZZ6XJJ-uwbkP-YeegAQ&start=90&sa=N&ved=2ahUKEwje9bfb-9aBAxUfVzABHfmDB0AQ8tMDegQIBBAU"
+            "2": "https://www.google.com/search?q=Y%C3%B4jinb%C3%B4&oq=Y%C3%B4jinb%C3%B4&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=Y%C3%B4jinb%C3%B4&oq=Y%C3%B4jinb%C3%B4&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=Y%C3%B4jinb%C3%B4&oq=Y%C3%B4jinb%C3%B4&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=Y%C3%B4jinb%C3%B4&oq=Y%C3%B4jinb%C3%B4&start=40&sourceid=chrome&ie=UTF-8"
         }
     },
     "serpapi_pagination": {
         "current": 1,
-        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&start=10",
-        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&start=10",
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Y%C3%B4jinb%C3%B4&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Y%C3%B4jinb%C3%B4&start=10",
         "other_pages": {
-            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&start=10",
-            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&start=20",
-            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&start=30",
-            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&start=40",
-            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&start=50",
-            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&start=60",
-            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&start=70",
-            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&start=80",
-            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gangs+of+Wasseypur&start=90"
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Y%C3%B4jinb%C3%B4&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Y%C3%B4jinb%C3%B4&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Y%C3%B4jinb%C3%B4&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Y%C3%B4jinb%C3%B4&start=40"
         }
     }
 }
