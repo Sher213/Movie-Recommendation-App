@@ -1,1194 +1,421 @@
 {
     "search_metadata": {
-        "id": "651f98335c10599b2377eadc",
+        "id": "652143a249ecdbf776bdebb9",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/f06e2d0967072dcd/651f98335c10599b2377eadc.json",
-        "created_at": "2023-10-06 05:16:35 UTC",
-        "processed_at": "2023-10-06 05:16:35 UTC",
-        "google_url": "https://www.google.com/search?q=Y%C3%B4jinb%C3%B4+related+movies&oq=Y%C3%B4jinb%C3%B4+related+movies&sourceid=chrome&ie=UTF-8",
-        "raw_html_file": "https://serpapi.com/searches/f06e2d0967072dcd/651f98335c10599b2377eadc.html",
-        "total_time_taken": 2.77
+        "json_endpoint": "https://serpapi.com/searches/7681701db8edcc51/652143a249ecdbf776bdebb9.json",
+        "created_at": "2023-10-07 11:40:18 UTC",
+        "processed_at": "2023-10-07 11:40:18 UTC",
+        "google_url": "https://www.google.com/search?q=Hacksaw+Ridge+related+movies&oq=Hacksaw+Ridge+related+movies&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/7681701db8edcc51/652143a249ecdbf776bdebb9.html",
+        "total_time_taken": 1.54
     },
     "search_parameters": {
         "engine": "google",
-        "q": "Y\u00f4jinb\u00f4 related movies",
+        "q": "Hacksaw Ridge related movies",
         "google_domain": "google.com",
         "device": "desktop"
     },
     "search_information": {
-        "query_displayed": "Y\u00f4jinb\u00f4 related movies",
-        "total_results": 1420000,
-        "time_taken_displayed": 0.56,
+        "query_displayed": "Hacksaw Ridge related movies",
+        "total_results": 1400000,
+        "time_taken_displayed": 0.48,
         "menu_items": [
             {
                 "position": 1,
-                "title": "All"
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=571547253&q=Hacksaw+Ridge+related+movies&tbm=isch&source=lnms&sa=X&ved=2ahUKEwimhdOS7eOBAxVjnGoFHYNVC2gQ0pQJegQICBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=Hacksaw+Ridge+related+movies"
             },
             {
                 "position": 2,
-                "title": "Images",
-                "link": "https://www.google.com/search?q=Y%C3%B4jinb%C3%B4+related+movies&sca_esv=571184275&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q_AUoAXoECAIQAw",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=Y%C3%B4jinb%C3%B4+related+movies"
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=571547253&q=Hacksaw+Ridge+related+movies&tbm=vid&source=lnms&sa=X&ved=2ahUKEwimhdOS7eOBAxVjnGoFHYNVC2gQ0pQJegQICxAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=Hacksaw+Ridge+related+movies"
             },
             {
                 "position": 3,
-                "title": "Videos",
-                "link": "https://www.google.com/search?q=Y%C3%B4jinb%C3%B4+related+movies&sca_esv=571184275&tbm=vid&source=lnms&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q_AUoAnoECAIQBA",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=Y%C3%B4jinb%C3%B4+related+movies"
+                "title": "List",
+                "link": "https://www.google.com/search?sca_esv=571547253&q=Hacksaw+ridge+related+movies+list&uds=H4sIAAAAAAAA_-Py5GLxySwuEZLxSEzOLk4sVwjKTElPVShKzUksSU1RyM0vy0wtNhAqUoTJF2GRV8gBGmGE1wgABXSybmkAAAA&sa=X&ved=2ahUKEwimhdOS7eOBAxVjnGoFHYNVC2gQxKsJegQIDRAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hacksaw+ridge+related+movies+list"
             },
             {
                 "position": 4,
-                "title": "Shopping",
-                "link": "https://www.google.com/search?q=Y%C3%B4jinb%C3%B4+related+movies&sca_esv=571184275&tbm=shop&source=lnms&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q_AUoA3oECAIQBQ",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Y%C3%B4jinb%C3%B4+related+movies"
+                "title": "On netflix",
+                "link": "https://www.google.com/search?sca_esv=571547253&q=Hacksaw+ridge+related+movies+on+netflix&uds=H4sIAAAAAAAA_-MK5eLyz1PISy1Jy8msEJLxSEzOLk4sVwjKTElPVShKzUksSU1RyM0vy0wtNhAqUofJF2GRV8iHG2SE1yAA3EvuwnUAAAA&sa=X&ved=2ahUKEwimhdOS7eOBAxVjnGoFHYNVC2gQxKsJegQIDBAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hacksaw+ridge+related+movies+on+netflix"
             },
             {
                 "position": 5,
-                "title": "News",
-                "link": "https://www.google.com/search?q=Y%C3%B4jinb%C3%B4+related+movies&sca_esv=571184275&tbm=nws&source=lnms&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q_AUoBHoECAIQBg",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Y%C3%B4jinb%C3%B4+related+movies&tbm=nws"
+                "title": "Reddit",
+                "link": "https://www.google.com/search?sca_esv=571547253&q=Movies+like+Hacksaw+Ridge+Reddit&uds=H4sIAAAAAAAA_-Py4mILSk1JySwRkvFITM4uTixXCMpMSU9VKErNSSxJTVHIzS_LTC02YCpS8AWzFHIys1MVUNVCTDDCawIA3PaK0GoAAAA&sa=X&ved=2ahUKEwimhdOS7eOBAxVjnGoFHYNVC2gQxKsJegQISRAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Movies+like+Hacksaw+Ridge+Reddit"
             },
             {
                 "position": 6,
-                "title": "Maps",
-                "link": "https://maps.google.com/maps?q=Y%C3%B4jinb%C3%B4+related+movies&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q_AUoAHoECAIQCg"
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=571547253&q=Hacksaw+Ridge+related+movies&tbm=nws&source=lnms&sa=X&ved=2ahUKEwimhdOS7eOBAxVjnGoFHYNVC2gQ0pQJegQIRxAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hacksaw+Ridge+related+movies&tbm=nws"
             },
             {
                 "position": 7,
-                "title": "Books",
-                "link": "https://www.google.com/search?q=Y%C3%B4jinb%C3%B4+related+movies&sca_esv=571184275&tbm=bks&source=lnms&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q_AUoAXoECAIQCw"
+                "title": "Christian",
+                "link": "https://www.google.com/search?sca_esv=571547253&q=Christian+movies+like+Hacksaw+Ridge&uds=H4sIAAAAAAAA_-MK4OJ0zijKLC7JTMwTkvFITM4uTixXCMpMSU9VKErNSSxJTVHIzS_LTC02YCpShiuFiinkZGanKqDoMsJrCAD2yQhGcAAAAA&sa=X&ved=2ahUKEwimhdOS7eOBAxVjnGoFHYNVC2gQxKsJegQIShAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Christian+movies+like+Hacksaw+Ridge"
             },
             {
                 "position": 8,
-                "title": "Flights",
-                "link": "https://www.google.com/travel/flights?q=Y%C3%B4jinb%C3%B4+related+movies&sca_esv=571184275&tbm=flm&source=lnms&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q_AUoAnoECAIQDA"
+                "title": "Shopping",
+                "link": "https://www.google.com/search?sca_esv=571547253&q=Hacksaw+Ridge+related+movies&tbm=shop&source=lnms&sa=X&ved=2ahUKEwimhdOS7eOBAxVjnGoFHYNVC2gQ0pQJegQISBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Hacksaw+Ridge+related+movies"
             },
             {
                 "position": 9,
-                "title": "Finance",
-                "link": "https://www.google.com/finance?sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q_AUoA3oECAIQDQ"
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?sca_esv=571547253&output=search&q=Hacksaw+Ridge+related+movies&source=lnms&entry=mc&sa=X&ved=2ahUKEwimhdOS7eOBAxVjnGoFHYNVC2gQ0pQJegQIRhAB"
             }
         ],
         "organic_results_state": "Results for exact spelling"
     },
     "knowledge_graph": {
-        "if_you_like_yojimbo": [
+        "movies_like_hacksaw_ridge": [
             {
-                "name": "13 Assassins",
-                "extensions": [
-                    "R",
-                    "2h 21m",
-                    "2010",
-                    "Hulu"
-                ],
-                "watch_options": [
-                    {
-                        "name": "Hulu Subscription",
-                        "link": "https://www.hulu.com/watch/2a4d87e6-83c9-420d-bd80-f11cfa43522e"
-                    },
-                    {
-                        "name": "fuboTV Subscription",
-                        "link": "https://link.fubo.tv/al1%3Fv%3D1%26a%3Dplay%26t%3Dprogram%26pid%3DMV003449880000%26o%3D0"
-                    },
-                    {
-                        "name": "YouTube Primetime subscription",
-                        "link": "https://www.youtube.com/attribution_link?utm_campaign=ytcore&yt_product=ytalc&yt_goal=acq&utm_source=int&utm_medium=gs&utm_content=ump&yt_campaign_id=ytalc22&c=ytcore-ytalc-acq-int-gs-ump-ytalc22&utm_term=video&u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D12wAvvJXcG0"
-                    },
-                    {
-                        "name": "Amazon Prime Video Premium subscription",
-                        "link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7aa9f76c-757b-f6eb-06b7-04301b0c568d?autoplay=0&ref_=atv_cf_strg_wb"
-                    },
-                    {
-                        "name": "Google Play Movies & TV From $2.99",
-                        "link": "https://play.google.com/store/movies/details?id=DWNls4vCVNU"
-                    },
-                    {
-                        "name": "Redbox From $2.99",
-                        "link": "https://www.redbox.com/ondemand-movies/13-assassins?source=googlefeed"
-                    },
-                    {
-                        "name": "Vudu From $2.99",
-                        "link": "https://www.vudu.com/content/movies/details/13-Assassins/190794?cmp=OrganicSearch~Vudu~GoogleWatch"
-                    },
-                    {
-                        "name": "Apple TV From $3.99",
-                        "link": "https://tv.apple.com/us/movie/13-assassins/umc.cmc.2rne1eo0w38c22v5q95kztt0i?action=play"
-                    }
-                ],
-                "link": "https://www.google.com/search?sca_esv=571184275&q=13+Assassins&stick=H4sIAAAAAAAAAJ1V3YsbVRSfyZLsZHZLN3etLfEljSJLoDuZSTIfC7K7fqAiRehu0UXoMF-ZzGS-cu_tTLKPBf8BUanggywIIn3woU8FpbWIuIgPVepboX1SQdpHEUFnk7mZpGVBnacz5_zOOb_f795JmGKd5XyuqftG2_CFM3u3r7tOoN--XoOWp2HLrPlh7FjokJ6BHdInOJvjebsHDVFA9iFdPirKEi_3CTCGA1nJCq1OSyexjOPIzECC1BygJCsoQQcNSYO7H3ezWJD3e3wWt4PBSM9iXeq7Msl3pbZB4sS1CV5sRQZhx8selMguEfb9fBcSp7vUYUqUGRMVWoQzL43iNhmpK0ozg0QjTLaKPd2zs3Rf8MlAiTfNmAzvNnXiY1uCwx4B8VE8aBE2tjcQc2ZJP4ttvR8TVea-4qvZLmkgERN4JYiImS0-dS2DuCiJpnQMqOabYEAgakwgfBArnSzdaqvTPRCPsrCD3AGZkXInM_Rh0yNHoOqxOxUHp3714jYmEMEW9Qf0L_TSyq9_3Fut3qPfu_bdXfpnmj3dNzY43zIdbSPpaVjFoZpo2OiBVbZ4_igNWMCwpfPjawmabHnH8R1Pg7shOFFdYidLU7wsPMVOrqkbwSZ0RXvl1qOrdH0gXLpx58MfSm9XqPR5_9Odrepao8KWXg59zQkqn3_w59_ff_Rws7HKMrvaMAxCf1S5Gqr3P_np98362TI1fh5tHnXXXvC2t86Ua9QazaevW2-8Vr3ZoG7ShStfffZ1iWHoFUooMNR-gSktHyx8W5iy_pFOaRuXdcvcjX3wDc0uaNAGX9LgRlp4PcAWRJaBwUvs4puRBbXABDIQ2eKrMLwcgVN5dtaJp_P0Eiizi7vxTi9MEODz_PPgObZ8YfJdp3adZkuvBNjBo8eMA528pQHWZluembZUqiczez1bMJRY6Vbrx_141NJJNXTEpl7hjNDzUnFOGHBdx_NRI1_cpF58drY-vgWqNV6oGulAO4TpuIOFWzS7uBe6jq-H4Mqcl_rEynfA3qyRx1j2_3TWK7-9-_FfS6nJU-LVbGI9T83LelL2wcK1Aru87Xk1ZMHYMVI680ouTZS8BS7-CyX__ZDrp8YqToLHDvHYf4D6PHBe39knj01DyMJqBNNmMyV_QelhHKENjkuSZN1GWMOOsW6EPte3zuHY5xIh4TTPyztU7HjWOopti6KY7YPiMt-qbSOUznUC9EWx8A-13h4-uwYAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q8sMGegQIKRAK",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=13+Assassins&stick=H4sIAAAAAAAAAJ1V3YsbVRSfyZLsZHZLN3etLfEljSJLoDuZSTIfC7K7fqAiRehu0UXoMF-ZzGS-cu_tTLKPBf8BUanggywIIn3woU8FpbWIuIgPVepboX1SQdpHEUFnk7mZpGVBnacz5_zOOb_f795JmGKd5XyuqftG2_CFM3u3r7tOoN--XoOWp2HLrPlh7FjokJ6BHdInOJvjebsHDVFA9iFdPirKEi_3CTCGA1nJCq1OSyexjOPIzECC1BygJCsoQQcNSYO7H3ezWJD3e3wWt4PBSM9iXeq7Msl3pbZB4sS1CV5sRQZhx8selMguEfb9fBcSp7vUYUqUGRMVWoQzL43iNhmpK0ozg0QjTLaKPd2zs3Rf8MlAiTfNmAzvNnXiY1uCwx4B8VE8aBE2tjcQc2ZJP4ttvR8TVea-4qvZLmkgERN4JYiImS0-dS2DuCiJpnQMqOabYEAgakwgfBArnSzdaqvTPRCPsrCD3AGZkXInM_Rh0yNHoOqxOxUHp3714jYmEMEW9Qf0L_TSyq9_3Fut3qPfu_bdXfpnmj3dNzY43zIdbSPpaVjFoZpo2OiBVbZ4_igNWMCwpfPjawmabHnH8R1Pg7shOFFdYidLU7wsPMVOrqkbwSZ0RXvl1qOrdH0gXLpx58MfSm9XqPR5_9Odrepao8KWXg59zQkqn3_w59_ff_Rws7HKMrvaMAxCf1S5Gqr3P_np98362TI1fh5tHnXXXvC2t86Ua9QazaevW2-8Vr3ZoG7ShStfffZ1iWHoFUooMNR-gSktHyx8W5iy_pFOaRuXdcvcjX3wDc0uaNAGX9LgRlp4PcAWRJaBwUvs4puRBbXABDIQ2eKrMLwcgVN5dtaJp_P0Eiizi7vxTi9MEODz_PPgObZ8YfJdp3adZkuvBNjBo8eMA528pQHWZluembZUqiczez1bMJRY6Vbrx_141NJJNXTEpl7hjNDzUnFOGHBdx_NRI1_cpF58drY-vgWqNV6oGulAO4TpuIOFWzS7uBe6jq-H4Mqcl_rEynfA3qyRx1j2_3TWK7-9-_FfS6nJU-LVbGI9T83LelL2wcK1Aru87Xk1ZMHYMVI680ouTZS8BS7-CyX__ZDrp8YqToLHDvHYf4D6PHBe39knj01DyMJqBNNmMyV_QelhHKENjkuSZN1GWMOOsW6EPte3zuHY5xIh4TTPyztU7HjWOopti6KY7YPiMt-qbSOUznUC9EWx8A-13h4-uwYAAA",
-                "image": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/87dbf59a03b80bad50dd6a9f676c453602d725ca2406b013005bea1a6aba30340516e2871b28f65d2bf66ef0af849da6.jpeg"
+                "name": "Saving Private Ryan",
+                "image": "https://serpapi.com/searches/652143a249ecdbf776bdebb9/images/d93591f12e5dbd58ec7282c26f9575ca7787728e7d1d4ff34cde3b2f7a97bdc441a9b1e5d2c5137f2d67598a5ecae452dd033ac021f73a9d.jpeg"
             },
             {
-                "name": "Mifune: the last samurai",
-                "extensions": [
-                    "Not Rated",
-                    "1h 20m",
-                    "2015",
-                    "Amazon Prime Video"
-                ],
-                "watch_options": [
-                    {
-                        "name": "Amazon Prime Video Premium subscription",
-                        "link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ceae0eb8-08de-2288-b6c6-1faff3f4979a?autoplay=0&ref_=atv_cf_strg_wb"
-                    },
-                    {
-                        "name": "Vudu From $2.99",
-                        "link": "https://www.vudu.com/content/movies/details/Mifune-The-Last-Samurai/852424?cmp=OrganicSearch~Vudu~GoogleWatch"
-                    },
-                    {
-                        "name": "YouTube From $3.99",
-                        "link": "http://www.youtube.com/watch?v=EEhNWVhNBsA"
-                    },
-                    {
-                        "name": "Google Play Movies & TV From $3.99",
-                        "link": "https://play.google.com/store/movies/details?id=EEhNWVhNBsA"
-                    },
-                    {
-                        "name": "Apple TV From $3.99",
-                        "link": "https://tv.apple.com/us/movie/mifune-the-last-samurai/umc.cmc.4f1ahnjmwrxo2fqxu4m78jv8h?action=play"
-                    }
-                ],
-                "link": "https://www.google.com/search?sca_esv=571184275&q=Mifune:+the+last+samurai&stick=H4sIAAAAAAAAAJ1V3YsbVRSfyZJsMtvSzV1rl_gyjSJLoDuZSTIfC7K7fqAii9DdoovQYWYymY_MV-69O5PsY8F_QFQq-CALgkgffOhTQWktIi7iQ5X6VmifVJD2UUTQ2WRuZtOyoM7TmXN-55zf73fvJOVi_TRncTxv2dAQBWQJy7u3r7tOoN--zkLT07DZZf0wdkx0SDOczzV132gb_iE923ZIV46KssTLfQKM4UBWskKr09JJLOM46mYgQWoOUJIVlKCDhqTB3Y97WSzI-zafxe1gMNKzWJf6rkzyPaltkDhxLYIXW5FB2PGyByWyS4R9P9-FxOkudZgSLY-JCi3CmZdGcZuM1BWlmUGiESZbRVv3rCzdF3wyUOK73ZgM7zV14mNbgkObgPgoHrQIG8sbiDmzpJ_Flt6PiaruvuKr2S5pIBETeCWIiJktPnUtg7goiaZ0DKjmm2BAIGpMIHwQK50s3Wqr0z0Qj7Kwg9wBmZFyJzP0YdMjR6DqsTsVB6d-2XEbE4hgifoD-hd6YfHXP-4t1e7R71377i79M82c6xtrnG92HW0tsTWs4lBNNGzYYIkpbh2lAQPKTGlrfC1Bk6lsO77jaXAnBKdrC8xkaYqXhaeYyTV1I9iErmgt3np0la4PhMs37nz4Q-ntKpU-73-6vVFbaVSZ0suhrzlB9fMP_vz7-48erjeWmPKONgyD0B9Vr4bq_U9--n29fr5CjZ9H60fd7Ave5sZyhaVWaD593XjjtdrNBnWTLlz56rOvS-UyvUgJhTK1XyiXTh3MfVuYsv6RTmkbe7rZ3Yl98A3NzGnQAl_S4EZaeD3AJkSmgcFLzPybkQm1oAtkIDLFV2G4F4Gzefa4E0_n6QVQYeZ34m07TBDg8_zz4DmmcnHyXad2nWNKrwTYwaPHjAOdvKUBVo63PDNtqdbOZPZ6lmAosdKr1U_68WDTSSw6YlOvckboeak4Jwy4nuP5qJEvblIvPnu8Pr4FqjleqBrpQCuE6biDuVs0M78buo6vh-DKjJf6xMp3wO5xI0-w7P_prFd_e_fjvxZSk6fEa9nEep6alfWk7IO5awXm1KbnsciEsWOkdGaVXJ4oeQtc-hdK_vsh18-OVZwBjx3iif8A9VngrL7zTx6bhpCJ1Qimzd2U_EXFxjhCaxyXJMmqhbCGHWPVCH2ub17Asc8lQsJpnpd3qNjxzFUUWyZFlTcPistbTm8vMNdYbJuspyHMIs3fg5rzRbHwD3n90fLKBgAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q8sMGegQIKRA3",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Mifune%3A+the+last+samurai&stick=H4sIAAAAAAAAAJ1V3YsbVRSfyZJsMtvSzV1rl_gyjSJLoDuZSTIfC7K7fqAii9DdoovQYWYymY_MV-69O5PsY8F_QFQq-CALgkgffOhTQWktIi7iQ5X6VmifVJD2UUTQ2WRuZtOyoM7TmXN-55zf73fvJOVi_TRncTxv2dAQBWQJy7u3r7tOoN--zkLT07DZZf0wdkx0SDOczzV132gb_iE923ZIV46KssTLfQKM4UBWskKr09JJLOM46mYgQWoOUJIVlKCDhqTB3Y97WSzI-zafxe1gMNKzWJf6rkzyPaltkDhxLYIXW5FB2PGyByWyS4R9P9-FxOkudZgSLY-JCi3CmZdGcZuM1BWlmUGiESZbRVv3rCzdF3wyUOK73ZgM7zV14mNbgkObgPgoHrQIG8sbiDmzpJ_Flt6PiaruvuKr2S5pIBETeCWIiJktPnUtg7goiaZ0DKjmm2BAIGpMIHwQK50s3Wqr0z0Qj7Kwg9wBmZFyJzP0YdMjR6DqsTsVB6d-2XEbE4hgifoD-hd6YfHXP-4t1e7R71377i79M82c6xtrnG92HW0tsTWs4lBNNGzYYIkpbh2lAQPKTGlrfC1Bk6lsO77jaXAnBKdrC8xkaYqXhaeYyTV1I9iErmgt3np0la4PhMs37nz4Q-ntKpU-73-6vVFbaVSZ0suhrzlB9fMP_vz7-48erjeWmPKONgyD0B9Vr4bq_U9--n29fr5CjZ9H60fd7Ave5sZyhaVWaD593XjjtdrNBnWTLlz56rOvS-UyvUgJhTK1XyiXTh3MfVuYsv6RTmkbe7rZ3Yl98A3NzGnQAl_S4EZaeD3AJkSmgcFLzPybkQm1oAtkIDLFV2G4F4Gzefa4E0_n6QVQYeZ34m07TBDg8_zz4DmmcnHyXad2nWNKrwTYwaPHjAOdvKUBVo63PDNtqdbOZPZ6lmAosdKr1U_68WDTSSw6YlOvckboeak4Jwy4nuP5qJEvblIvPnu8Pr4FqjleqBrpQCuE6biDuVs0M78buo6vh-DKjJf6xMp3wO5xI0-w7P_prFd_e_fjvxZSk6fEa9nEep6alfWk7IO5awXm1KbnsciEsWOkdGaVXJ4oeQtc-hdK_vsh18-OVZwBjx3iif8A9VngrL7zTx6bhpCJ1Qimzd2U_EXFxjhCaxyXJMmqhbCGHWPVCH2ub17Asc8lQsJpnpd3qNjxzFUUWyZFlTcPistbTm8vMNdYbJuspyHMIs3fg5rzRbHwD3n90fLKBgAA",
-                "image": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/87dbf59a03b80bad50dd6a9f676c453602d725ca2406b013005bea1a6aba30342b7c30f1961ab3b8bc0edda8def52f4d.jpeg"
+                "name": "Dunkirk",
+                "image": "https://serpapi.com/searches/652143a249ecdbf776bdebb9/images/d93591f12e5dbd58ec7282c26f9575ca7787728e7d1d4ff34cde3b2f7a97bdc441a9b1e5d2c5137fc9165d572f8033eb5c9a3b7515fc1197.jpeg"
             },
             {
-                "name": "Onibaba",
-                "extensions": [
-                    "Not Rated",
-                    "1h 43m",
-                    "1964",
-                    "Max"
-                ],
-                "watch_options": [
-                    {
-                        "name": "Max Subscription",
-                        "link": "https://www.max.com/movies/3e7d146c-70cc-4851-a2e5-0a64da2653d3"
-                    },
-                    {
-                        "name": "Amazon Prime Video Premium subscription",
-                        "link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.67261357-d1bf-47e2-8555-ef85fe7e833b?autoplay=0&ref_=atv_cf_strg_wb"
-                    }
-                ],
-                "link": "https://www.google.com/search?sca_esv=571184275&q=Onibaba&stick=H4sIAAAAAAAAAJ1V24sbVRifyZLsZLalm7PWlviSjiJLoDuZSTKXBdldL6hIKXRXdCl0mFsmM5lbzpyeSfax4D8gKhV8kAVBpA8-9KmgtBYRF_FBRd8K-qSC2EcpBZ1N5mQ2LQvqPH35zu_7fpczSZgyV-UDvqXIgjIQz-7evem5oXH3ZgPavo5sqxFE2LWTA5o9RBmB2TGDA_ok7_CC4PShKYmJc0AXKwgQw6Gi5gftbtsgtYJwbOUgUW4NkzQ_UMNuMiID3h7u5bWo7PWFvO6Ew7GR14Y88BTS78kdk9Sp5xC81I5Nok5QfCgTLgkOgoIrkWZc2igTykyEim2iWZDHuENWGqrayiHxGBFWqW_4Tt4eiAFZKAuWhcnyXssgOXZkOOoTkBDjYZuocfyhVChLB3ntGANMXFl7aqDlXPJQJiEIahiTMNtClloO8ZI0nskxoVYwwZBANEwgQojVbt5ud7QZD0TjvOwm3pDsyLSTHcao5ZMr0AzszczBWV593EEEIjqS8Qv9K720_Ntf91bq9-i3b3z9I_0TzZ4ZmOt8YFuuvp72daShSEt1ZPbBClu-cNgGLGDYyoXJawlabHXbDVxfhzsROFlfYqekGV4Rn2Cnr6kXwxb0JGf5zv3rNDcUr9z67r1vK2_WqOx556Ptzfpqs8ZWXowC3Q1rn7z74O9v3v9zo7nCMjv6KAqjYFy7Hmk_f_jDHxvcuSo1ee5vHE43nvO3Ns9WG9QqLWQfN197pX67Sd2mS9c-__iLCsPQy5RYYqi9ElM5sb_wVWmm-ns6k21eNWxrBwfgS5pd0KEDPqPBrezg1RDZMLFNBF5gFy_GNtRDCyhAYssvw-hqDE4X3aNJPFm0l0CVXdzB2_0oTYBQ9J8Fz7DVS9PvdRbXGbbyUohcNH4kONAtRppg9ejIU7ORWv1UHq_viKaK1V6dO-7Ho5FtaiSHargab0a-n5lzo5DvuX6QNAviFvX800fPJ2-BZk8INTNb6EQwW7e_cIdmF3cjzw2MCFyby9KYRnkZ7B4N8pjI_p9Prvb7Wx88XMpCngmv5xu5ojVv63Hb-ws3SuyJLd9vJDbErpnJmXdyZerkDfD6v3Dy3y-ZOz1xcQo8conH_gNw88B5f-cevzY9SWykxTAbtjLxl9Q-QnGyzvNpmq45CdKRa66ZUcAP7PMIB3wqprzu-8WEhlzfXkuwY1MUs7VfXrwYuoZu6J-WS_8AozPszrUGAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q8sMGegQIKRBb",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Onibaba&stick=H4sIAAAAAAAAAJ1V24sbVRifyZLsZLalm7PWlviSjiJLoDuZSTKXBdldL6hIKXRXdCl0mFsmM5lbzpyeSfax4D8gKhV8kAVBpA8-9KmgtBYRF_FBRd8K-qSC2EcpBZ1N5mQ2LQvqPH35zu_7fpczSZgyV-UDvqXIgjIQz-7evem5oXH3ZgPavo5sqxFE2LWTA5o9RBmB2TGDA_ok7_CC4PShKYmJc0AXKwgQw6Gi5gftbtsgtYJwbOUgUW4NkzQ_UMNuMiID3h7u5bWo7PWFvO6Ew7GR14Y88BTS78kdk9Sp5xC81I5Nok5QfCgTLgkOgoIrkWZc2igTykyEim2iWZDHuENWGqrayiHxGBFWqW_4Tt4eiAFZKAuWhcnyXssgOXZkOOoTkBDjYZuocfyhVChLB3ntGANMXFl7aqDlXPJQJiEIahiTMNtClloO8ZI0nskxoVYwwZBANEwgQojVbt5ud7QZD0TjvOwm3pDsyLSTHcao5ZMr0AzszczBWV593EEEIjqS8Qv9K720_Ntf91bq9-i3b3z9I_0TzZ4ZmOt8YFuuvp72daShSEt1ZPbBClu-cNgGLGDYyoXJawlabHXbDVxfhzsROFlfYqekGV4Rn2Cnr6kXwxb0JGf5zv3rNDcUr9z67r1vK2_WqOx556Ptzfpqs8ZWXowC3Q1rn7z74O9v3v9zo7nCMjv6KAqjYFy7Hmk_f_jDHxvcuSo1ee5vHE43nvO3Ns9WG9QqLWQfN197pX67Sd2mS9c-__iLCsPQy5RYYqi9ElM5sb_wVWmm-ns6k21eNWxrBwfgS5pd0KEDPqPBrezg1RDZMLFNBF5gFy_GNtRDCyhAYssvw-hqDE4X3aNJPFm0l0CVXdzB2_0oTYBQ9J8Fz7DVS9PvdRbXGbbyUohcNH4kONAtRppg9ejIU7ORWv1UHq_viKaK1V6dO-7Ho5FtaiSHargab0a-n5lzo5DvuX6QNAviFvX800fPJ2-BZk8INTNb6EQwW7e_cIdmF3cjzw2MCFyby9KYRnkZ7B4N8pjI_p9Prvb7Wx88XMpCngmv5xu5ojVv63Hb-ws3SuyJLd9vJDbErpnJmXdyZerkDfD6v3Dy3y-ZOz1xcQo8conH_gNw88B5f-cevzY9SWykxTAbtjLxl9Q-QnGyzvNpmq45CdKRa66ZUcAP7PMIB3wqprzu-8WEhlzfXkuwY1MUs7VfXrwYuoZu6J-WS_8AozPszrUGAAA",
-                "image": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/87dbf59a03b80bad50dd6a9f676c453602d725ca2406b013005bea1a6aba303428f7e9c4d64af6568e19ba5c96f857e8.jpeg"
+                "name": "Unbroken",
+                "image": "https://serpapi.com/searches/652143a249ecdbf776bdebb9/images/d93591f12e5dbd58ec7282c26f9575ca7787728e7d1d4ff34cde3b2f7a97bdc441a9b1e5d2c5137f846c1ccde3c263e6b7f75062fb22ce70.jpeg"
             },
             {
-                "name": "Woman in the Dunes",
-                "extensions": [
-                    "Not Rated",
-                    "2h 27m",
-                    "1964",
-                    "From $3.99"
-                ],
-                "watch_options": [
-                    {
-                        "name": "Apple TV From $3.99",
-                        "link": "https://tv.apple.com/us/movie/woman-in-the-dunes/umc.cmc.46ejs7s838bi79h0y8xqlrc0u?action=play"
-                    },
-                    {
-                        "name": "Amazon Prime Video From $3.99",
-                        "link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d2a9f707-9db6-d3c7-b87c-9c6164bd17ad?autoplay=0&ref_=atv_cf_strg_wb"
-                    }
-                ],
-                "link": "https://www.google.com/search?sca_esv=571184275&q=Woman+in+the+Dunes&stick=H4sIAAAAAAAAAJ1V3YvcVBRPZpnZTLalO3etLeNLGkWWATeTzEw-FmR3taIiReiu1EVoyNfkY_I1N3eTmX0s-A-ISgUfZEEQ6YMPfSoorUXERXyoom8FfVJB7KOIoNmZ3MlOy4KapzPn_M45v9_v3mSoKktzAdfWUziUFeH87t2bnhvqd28y0PI1ZJlMEKWulRySU1hgdI3gkDzN2RzP2w40RCGxD8n6UVGWeHmAgZN5RaHT6-g4llEamwVIkNrDJCsKSthLRrjB20_7RSzI-w5fxN1wONaLWJcGnozzfalr4DjzbIwXO7GB2fGyDyW8S4SDoNyViLNd6ignSk2ICh3MmZfGaReP1BWlXUDiMcJbRUf37SI9EAI8UOJNM8XD-20d-9iV4MjBID5Ohx3MxvaHYsksGxSxrQ9SrMrcVwK12CUNJWwCr4QxNrPD564VEC_J4hkdA6rlJhhiiJpiCB-mSq9Id7rqbA9E4yLsJd4Qz8i54xn6qO3jI1D11JuJgzO_nLSLMESwRf0n8mdyafmXP-6vNO-Tb9346nvyB5I-NzDWucAyXW09czSkokjNNGQ4YIWuXjpKAxpQdO3S5FqCNl3fdgPX1-BOBE43l-jp0hwvC4_R02vqxbANPdFevvPgOskOhau37r37Te31BpE_b3-4vdlcbTXo2sUo0Nyw8fE7f_799Xu_b7RWaGpHG0VhFIwb1yP1xw---22DvVAnJs-DjaNu5ll_a_N8nSFWST7_ufnKS83bLeI2Wbn22Uef1yiKXCaECkXsV6jaqYOFLysz1t-SOW1jT7fMnTQAX5D0ggZt8CkJbuWFl0NkwcQyEHieXnw1tqAWmkAGIl19EUZ7MThbZo878XiZXgJ1enEn3XaiLAF8mX8aPEXXL0_f69yuc3TthRC5aPyQcaBXtrTA6vGWJ2YtjeaZwl7fFgwlVfpN9qSPB5NPYpIjNmyDMyLfz8W5Ucj1XT9IWuXiNvHck8frk1ugWpOFqpEPtCOYjztYuEPSi7uR5wZ6BK7NealPrXwD7B438gTL_p9OtvHrm-__tZSbPCPeLCayZWpe1qOyDxZuVOhTW77PJBZMXSOnM6_k6lTJFfDav1Dy3w-ZPTtRcQY8dIgn_gOw88B5fRcePTYtSSykxjBvNnPylxUHoThZ57gsy9bsBGnINdaMKOAG1jMoDbhMyDjN98sOFbm-tZaktkUQ1NZBFVzJ39CQcUMGORZzcS-0kk-qlX8AaWpHKsEGAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q8sMGegQIKRB1",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Woman+in+the+Dunes&stick=H4sIAAAAAAAAAJ1V3YvcVBRPZpnZTLalO3etLeNLGkWWATeTzEw-FmR3taIiReiu1EVoyNfkY_I1N3eTmX0s-A-ISgUfZEEQ6YMPfSoorUXERXyoom8FfVJB7KOIoNmZ3MlOy4KapzPn_M45v9_v3mSoKktzAdfWUziUFeH87t2bnhvqd28y0PI1ZJlMEKWulRySU1hgdI3gkDzN2RzP2w40RCGxD8n6UVGWeHmAgZN5RaHT6-g4llEamwVIkNrDJCsKSthLRrjB20_7RSzI-w5fxN1wONaLWJcGnozzfalr4DjzbIwXO7GB2fGyDyW8S4SDoNyViLNd6ignSk2ICh3MmZfGaReP1BWlXUDiMcJbRUf37SI9EAI8UOJNM8XD-20d-9iV4MjBID5Ohx3MxvaHYsksGxSxrQ9SrMrcVwK12CUNJWwCr4QxNrPD564VEC_J4hkdA6rlJhhiiJpiCB-mSq9Id7rqbA9E4yLsJd4Qz8i54xn6qO3jI1D11JuJgzO_nLSLMESwRf0n8mdyafmXP-6vNO-Tb9346nvyB5I-NzDWucAyXW09czSkokjNNGQ4YIWuXjpKAxpQdO3S5FqCNl3fdgPX1-BOBE43l-jp0hwvC4_R02vqxbANPdFevvPgOskOhau37r37Te31BpE_b3-4vdlcbTXo2sUo0Nyw8fE7f_799Xu_b7RWaGpHG0VhFIwb1yP1xw---22DvVAnJs-DjaNu5ll_a_N8nSFWST7_ufnKS83bLeI2Wbn22Uef1yiKXCaECkXsV6jaqYOFLysz1t-SOW1jT7fMnTQAX5D0ggZt8CkJbuWFl0NkwcQyEHieXnw1tqAWmkAGIl19EUZ7MThbZo878XiZXgJ1enEn3XaiLAF8mX8aPEXXL0_f69yuc3TthRC5aPyQcaBXtrTA6vGWJ2YtjeaZwl7fFgwlVfpN9qSPB5NPYpIjNmyDMyLfz8W5Ucj1XT9IWuXiNvHck8frk1ugWpOFqpEPtCOYjztYuEPSi7uR5wZ6BK7NealPrXwD7B438gTL_p9OtvHrm-__tZSbPCPeLCayZWpe1qOyDxZuVOhTW77PJBZMXSOnM6_k6lTJFfDav1Dy3w-ZPTtRcQY8dIgn_gOw88B5fRcePTYtSSykxjBvNnPylxUHoThZ57gsy9bsBGnINdaMKOAG1jMoDbhMyDjN98sOFbm-tZaktkUQ1NZBFVzJ39CQcUMGORZzcS-0kk-qlX8AaWpHKsEGAAA",
-                "image": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/87dbf59a03b80bad50dd6a9f676c453602d725ca2406b013005bea1a6aba303427a1ff15c4bbe14f36a6f9562012116a.jpeg"
+                "name": "Fury",
+                "image": "https://serpapi.com/searches/652143a249ecdbf776bdebb9/images/d93591f12e5dbd58ec7282c26f9575ca7787728e7d1d4ff34cde3b2f7a97bdc441a9b1e5d2c5137fbbad368e235bc1f1f3fafb1cd253eb76.jpeg"
             },
             {
-                "name": "To Live",
-                "extensions": [
-                    "Not Rated",
-                    "2h 23m",
-                    "1952",
-                    "Max"
-                ],
-                "watch_options": [
-                    {
-                        "name": "Max Subscription",
-                        "link": "https://www.max.com/movies/f14d203a-067a-4ecb-9234-2f4ae1b709fd"
-                    },
-                    {
-                        "name": "Amazon Prime Video Premium subscription",
-                        "link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2a61976e-36c6-4738-b7c5-58bd490ea430?autoplay=0&ref_=atv_cf_strg_wb"
-                    },
-                    {
-                        "name": "YouTube From $2.99",
-                        "link": "http://www.youtube.com/watch?v=9tljVhQbs8k"
-                    },
-                    {
-                        "name": "Google Play Movies & TV From $2.99",
-                        "link": "https://play.google.com/store/movies/details?id=9tljVhQbs8k"
-                    },
-                    {
-                        "name": "Vudu From $2.99",
-                        "link": "https://www.vudu.com/content/movies/details/Ikiru/37747?cmp=OrganicSearch~Vudu~GoogleWatch"
-                    },
-                    {
-                        "name": "Apple TV From $3.99",
-                        "link": "https://tv.apple.com/us/movie/ikiru/umc.cmc.52fkxbe3toqs259outmn47cdg?action=play"
-                    }
-                ],
-                "link": "https://www.google.com/search?sca_esv=571184275&q=To+Live&stick=H4sIAAAAAAAAAJ1VXYsbVRieyZLsZLalm7PWlniTjiJLwJ3MJJnJLMju-oGKFqEb0UXoMF-Zj8xXzpyeSfay4B8QlQpeyIIg0gsvelVQWouIi3ihoncFvVJB7KWIoLPJnMymZUGdqzfved7nfZ7nTBKmzFX5gG-1u21dEc_v3bnhuaF-50YDWr6GLLMRRNi1kkOaPULpgdExgkP6NG_zgmA70JDExD6kpxQ9WegNCRDDUU_JD6bcBIRwbOYgUW6NkjQ_UMJuMiYD3j4e5LXY23eEvO6Eo4me17o89HqkP5A7BqlTzyZ4qR0bRJ3Q86FMdklwGBS7Emm-Sx1nQpmpULFNNAvyBHcIpa4orRwSTxDZKjm6b-ftoRgQQlkwTUzIBy2d5NiR4dghICHGozZRY_sjqVCWDvPa1oeYuDL3lUDNd8kjmYQgKGFMwmwLWWo5xEvSeC7HgGqxCYYEomICEUKsdPN2u6PO90A0yctu4o0IR6adcOjjlk-uQNWxNzcH53k5uIMIRLQl_Sf6Z3pl9Zc_7q7V79JvXv_ye_oHmj03NDb5wDJdbTN1NKSiSE01ZDhgjS1fPGoDFjBs5eL0tQQttrrrBq6vwX4ETtdX2NnSDN8TH2Jnr6kXwxb0JHv19r1rNDcSL9_85p2vK6_VqOx564Pd7fp6s8ZWnokCzQ1rH739599fvfv7VnONZfraOAqjYFK7Fqk_vv_db1vchSo1fe5tHU03nvR3ts9XG9Q6LWQft198vn6rSd2iS1c__fCzCsPQq5RYYqj9ElM5dbD0RWmu-ls6k21c0S2zjwPwOc0uadAGn9DgZnbwQogsmFgGAk-zyy_HFtRCE_SAxJafg9GVGJwtuseTeLhor4Aqu9zHu06UJkAo-o-Dx9jqpdn3OovrHFt5NkQumtwXHOgWI02wfnzkkflIrX4mj9e3RUPByqDOnfTj0ciYGsmRGq7GG5HvZ-bcKOQHrh8kzWJxi3rq0ePn07dAtaYLVSMjtCOY0R0s3abZ5b3IcwM9AlcXstRnUb4O9o4HeUJk_88nV_v1jff-WslCnguv54xc0Vq09aDtg6XrJfbUju83Egti18jkLDq5PHPyKnjlXzj575fMnZ26OAPuu8QT_wG4ReCivwsPXpuWJBZSY5gNm5n4S4qDUJxs8nyapht2gjTkGhtGFPBD6wmEAz4VU17z_WJCRa5vbSTYtiiK2TkoL_ejxksutj4ul_4BlYbpcLUGAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q8sMGegUIKRCPAQ",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=To+Live&stick=H4sIAAAAAAAAAJ1VXYsbVRieyZLsZLalm7PWlniTjiJLwJ3MJJnJLMju-oGKFqEb0UXoMF-Zj8xXzpyeSfay4B8QlQpeyIIg0gsvelVQWouIi3ihoncFvVJB7KWIoLPJnMymZUGdqzfved7nfZ7nTBKmzFX5gG-1u21dEc_v3bnhuaF-50YDWr6GLLMRRNi1kkOaPULpgdExgkP6NG_zgmA70JDExD6kpxQ9WegNCRDDUU_JD6bcBIRwbOYgUW6NkjQ_UMJuMiYD3j4e5LXY23eEvO6Eo4me17o89HqkP5A7BqlTzyZ4qR0bRJ3Q86FMdklwGBS7Emm-Sx1nQpmpULFNNAvyBHcIpa4orRwSTxDZKjm6b-ftoRgQQlkwTUzIBy2d5NiR4dghICHGozZRY_sjqVCWDvPa1oeYuDL3lUDNd8kjmYQgKGFMwmwLWWo5xEvSeC7HgGqxCYYEomICEUKsdPN2u6PO90A0yctu4o0IR6adcOjjlk-uQNWxNzcH53k5uIMIRLQl_Sf6Z3pl9Zc_7q7V79JvXv_ye_oHmj03NDb5wDJdbTN1NKSiSE01ZDhgjS1fPGoDFjBs5eL0tQQttrrrBq6vwX4ETtdX2NnSDN8TH2Jnr6kXwxb0JHv19r1rNDcSL9_85p2vK6_VqOx564Pd7fp6s8ZWnokCzQ1rH739599fvfv7VnONZfraOAqjYFK7Fqk_vv_db1vchSo1fe5tHU03nvR3ts9XG9Q6LWQft198vn6rSd2iS1c__fCzCsPQq5RYYqj9ElM5dbD0RWmu-ls6k21c0S2zjwPwOc0uadAGn9DgZnbwQogsmFgGAk-zyy_HFtRCE_SAxJafg9GVGJwtuseTeLhor4Aqu9zHu06UJkAo-o-Dx9jqpdn3OovrHFt5NkQumtwXHOgWI02wfnzkkflIrX4mj9e3RUPByqDOnfTj0ciYGsmRGq7GG5HvZ-bcKOQHrh8kzWJxi3rq0ePn07dAtaYLVSMjtCOY0R0s3abZ5b3IcwM9AlcXstRnUb4O9o4HeUJk_88nV_v1jff-WslCnguv54xc0Vq09aDtg6XrJfbUju83Egti18jkLDq5PHPyKnjlXzj575fMnZ26OAPuu8QT_wG4ReCivwsPXpuWJBZSY5gNm5n4S4qDUJxs8nyapht2gjTkGhtGFPBD6wmEAz4VU17z_WJCRa5vbSTYtiiK2TkoL_ejxksutj4ul_4BlYbpcLUGAAA",
-                "image": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/87dbf59a03b80bad50dd6a9f676c453602d725ca2406b013005bea1a6aba3034965641363ffd17163bbff817bf367103.jpeg"
+                "name": "Black Hawk Down",
+                "image": "https://serpapi.com/searches/652143a249ecdbf776bdebb9/images/d93591f12e5dbd58ec7282c26f9575ca7787728e7d1d4ff34cde3b2f7a97bdc441a9b1e5d2c5137f917f8e5902334975577831df15a0dfcc.jpeg"
             },
             {
-                "name": "Harakiri",
-                "extensions": [
-                    "2h 13m",
-                    "1962",
-                    "From $3.99"
-                ],
-                "watch_options": [
-                    {
-                        "name": "Apple TV From $3.99",
-                        "link": "https://tv.apple.com/us/movie/harakiri/umc.cmc.dm5rxaoii0bot86ft54y4xvk?action=play"
-                    },
-                    {
-                        "name": "Amazon Prime Video From $3.99",
-                        "link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.38a9f735-1601-f377-9d36-df2aa614f2e3?autoplay=0&ref_=atv_cf_strg_wb"
-                    }
-                ],
-                "link": "https://www.google.com/search?sca_esv=571184275&q=Harakiri&stick=H4sIAAAAAAAAAJ1V24sbVRifyZLs5GxLN2etLfElHUWWQHcyk2QmsyC76wUrUoTuii6FDnPLZO6TM6czyT4W_AdEpYIPsiCI9MGHPhWU1iLiIj6o6FtBn1QQ-yiloLPJnMymZUGdpy_f-X3f73ImCVNmq5zPtXo4iQzh7O7dm44daHdvNpDpqdg0Gn6Y2GZ8QINDlObrHd0_oE9yFsfz1gDpohBbB_R0hcT3XAJM0LAn5wftblsj9YQnBwlSaxin-YEcdOMRGXD2kn5eC729AZ_XnWA41vJak1ynR_p9qaOTOnUsghfbkU7U8T0PSYRLRK5fcMXijEsZZUKZiVChTTTz0jjpkJWaLLdySDTGhFUcaJ6Vt13BJwsl3jASsrzf0kiOHQmNBgTER8mwTdRY3lAslKVuXluamxBXxp7sKzmXNJRICLwcRCTMNp-llkOcOI1mcnSkFEwoIBAlIRA-SORu3m53lBkPwuO87MbOkOzItJMd2qjlkStQtMSZmUOzvAZJBxOIYInaL_Sv9NLyb3_dW6nfo9--8fWP9E80OOPq65xvGra6ng5UrOBQSVWsD-AKKF88bEMAGVC5OHktYQtUt23f9lS0E8KT9SUwJc3wPeEJMH1NnQi1kCNay3fuX6fZoXDl1nfvfVt5s0ZlzzsfbW_WV5s1UHkx9FU7qH3y7oO_v3n_z43mCmB21FEYhP64dj1Ufv7whz822HNVavLc3zicbjznbW2erTaoVZrPPm6-eqF-u0ndpkvXPv_4iwrD0MuUUGKovRJTObG_8FVppvp7OpOtX9VMYyfx4Zc0WFCRBT-j4a3s4JUAmyg2dQxfAIuvRSZSAwP2oAjKL6PwagRPF92jSTxZtJdgFSzuJNuDMI0hX_Sfhc-A6qXp9zqL6wyovBRgG48fCQ52i5EmXD068tRspFY_lcfrWYIuJ3K_zh7349HINjXiQzVsjdNDz8vM2WHA9W3Pj5sFcYt6_umj55O3QDEnhIqeLbRClK3bX7hDg8Xd0LF9LYTX5rLUplFehrtHgzwmsv_nk639_tYHD5eykGfC6_lGtmjN23rc9v7CjRI4seV5jdhEia1ncuadXJk6eQO-_i-c_PdLZk9PXJyCj1zisf8A7Dxw3t-5x69NjWMTKxHKho1M_CV5gHEUr3NcmqZrVoxVbOtreuhzrnkeJz6XCimnel4xoWDbM9fixDIpitnaLzMXVKS6NrI_LZf-AcSpiIe2BgAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q8sMGegUIKRC1AQ",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Harakiri&stick=H4sIAAAAAAAAAJ1V24sbVRifyZLs5GxLN2etLfElHUWWQHcyk2QmsyC76wUrUoTuii6FDnPLZO6TM6czyT4W_AdEpYIPsiCI9MGHPhWU1iLiIj6o6FtBn1QQ-yiloLPJnMymZUGdpy_f-X3f73ImCVNmq5zPtXo4iQzh7O7dm44daHdvNpDpqdg0Gn6Y2GZ8QINDlObrHd0_oE9yFsfz1gDpohBbB_R0hcT3XAJM0LAn5wftblsj9YQnBwlSaxin-YEcdOMRGXD2kn5eC729AZ_XnWA41vJak1ynR_p9qaOTOnUsghfbkU7U8T0PSYRLRK5fcMXijEsZZUKZiVChTTTz0jjpkJWaLLdySDTGhFUcaJ6Vt13BJwsl3jASsrzf0kiOHQmNBgTER8mwTdRY3lAslKVuXluamxBXxp7sKzmXNJRICLwcRCTMNp-llkOcOI1mcnSkFEwoIBAlIRA-SORu3m53lBkPwuO87MbOkOzItJMd2qjlkStQtMSZmUOzvAZJBxOIYInaL_Sv9NLyb3_dW6nfo9--8fWP9E80OOPq65xvGra6ng5UrOBQSVWsD-AKKF88bEMAGVC5OHktYQtUt23f9lS0E8KT9SUwJc3wPeEJMH1NnQi1kCNay3fuX6fZoXDl1nfvfVt5s0ZlzzsfbW_WV5s1UHkx9FU7qH3y7oO_v3n_z43mCmB21FEYhP64dj1Ufv7whz822HNVavLc3zicbjznbW2erTaoVZrPPm6-eqF-u0ndpkvXPv_4iwrD0MuUUGKovRJTObG_8FVppvp7OpOtX9VMYyfx4Zc0WFCRBT-j4a3s4JUAmyg2dQxfAIuvRSZSAwP2oAjKL6PwagRPF92jSTxZtJdgFSzuJNuDMI0hX_Sfhc-A6qXp9zqL6wyovBRgG48fCQ52i5EmXD068tRspFY_lcfrWYIuJ3K_zh7349HINjXiQzVsjdNDz8vM2WHA9W3Pj5sFcYt6_umj55O3QDEnhIqeLbRClK3bX7hDg8Xd0LF9LYTX5rLUplFehrtHgzwmsv_nk639_tYHD5eykGfC6_lGtmjN23rc9v7CjRI4seV5jdhEia1ncuadXJk6eQO-_i-c_PdLZk9PXJyCj1zisf8A7Dxw3t-5x69NjWMTKxHKho1M_CV5gHEUr3NcmqZrVoxVbOtreuhzrnkeJz6XCimnel4xoWDbM9fixDIpitnaLzMXVKS6NrI_LZf-AcSpiIe2BgAA",
-                "image": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/87dbf59a03b80bad50dd6a9f676c453602d725ca2406b013005bea1a6aba3034c71f01816df40d176d336645ecde272e.jpeg"
+                "name": "Platoon",
+                "image": "https://serpapi.com/searches/652143a249ecdbf776bdebb9/images/d93591f12e5dbd58ec7282c26f9575ca7787728e7d1d4ff34cde3b2f7a97bdc441a9b1e5d2c5137f81e6c4e136e0d64e4a877c53b4953391.jpeg"
             },
             {
-                "name": "The 47 Ronin",
-                "extensions": [
-                    "4h 1m",
-                    "1941",
-                    "PLEX"
-                ],
-                "watch_options": [
-                    {
-                        "name": "PLEX Free",
-                        "link": "https://watch.plex.tv/movie/the-47-ronin?autoplay=1&utm_content=5d776881ebdf2200209c0d88&utm_medium=deeplink&utm_source=google-catalog"
-                    },
-                    {
-                        "name": "Max Subscription",
-                        "link": "https://www.max.com/movies/485da298-ca43-4cde-a5af-dfef3e68509d"
-                    },
-                    {
-                        "name": "YouTube Primetime subscription",
-                        "link": "https://www.youtube.com/attribution_link?utm_campaign=ytcore&yt_product=ytalc&yt_goal=acq&utm_source=int&utm_medium=gs&utm_content=ump&yt_campaign_id=ytalc22&c=ytcore-ytalc-acq-int-gs-ump-ytalc22&utm_term=video&u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7CNnqrW1_V4"
-                    },
-                    {
-                        "name": "The Roku Channel Premium subscription",
-                        "link": "https://therokuchannel.roku.com/watch/3e3c10c87e4b58f5887a232c97d7cb71?source=google"
-                    },
-                    {
-                        "name": "Amazon Prime Video Premium subscription",
-                        "link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d71c3632-a792-4133-8ff6-2f14165369a2?autoplay=0&ref_=atv_cf_strg_wb"
-                    }
-                ],
-                "link": "https://www.google.com/search?sca_esv=571184275&q=The+47+Ronin&stick=H4sIAAAAAAAAAJ1V24sbVRifyZLsZHZLN2etLfFlGkWWQHcyk2QuC7K7XlCRIuxGdBE6zC1zydxy5nQm2ceC_4CoVPBBFgSRPvjQp4LSWkRcxIcq-lbQJxWkfRQp1NlkTmbTsqDO05fv_L7vdzmThCo3aNZnW7zYGsYpf27v9nXXCbTb1xloeioyDcYPE8eMD8kJTPP1ju4fkqdYi-U4y4a6wMfWIVk9OpREThpgYAKHkpwftLttDdcSSiIjB01J8wM56MYjPODuJ_285qV9m8vrTjAca3mtiQNXwv2-2NFxnboWxgvtSMfqOMmDIuYS4MAvuGJhxqWMMqHURCjfxpo5cZx08EpNlls5JBojzCrYmmfl7QHv44UiZxgJXt5vaTjHjghHNgZxUTJsYzWWNxQKZekgry1tkGBXxr7sKzmXOBRxCJwcRDjMNpellkPcOI1mcnSoFEwwwBAlwRAuSORu3m53lBkPROO87MbuEO_ItOMd2qjl4StQtMSdmYOzvOykgzCEtwTtV_I3cmnl97_urtbvku9e-_Yn8meSPjvQN1jfNBx1I7VVpKBQSVWk22CVLl88agMaUHTl4uS1BC26uuv4jqfCXghO1ZfoKWmGl_gn6Olr6kawBV3BWrl1_yrZGPKXbtz54PvKWzUie977ZHervtas0ZUXQ191gtpn7__98LsP7202V2mqp47CIPTHtauh8svHP_652ThfJSbP_c2jaeY5b3vrXJUh1kgu-7j12iv1m03iJlm68uWnX1Uoilwh-BJF7JeoyvLBwjelmeofyEy2flkzjV7ig69JekGFFviCBDeyg1cDZMLY1BF4gV58PTKhGhhAAgJdfhmGlyNwpugeT-LJor0EqvRiL9m1wzQGXNF_FjxDV3em3-ssrrN05aUAOWj8SHCgW4w0wdrxkadmI7X66Txez-J1OZH79cZJPx5MtomJj9Q0aqweel5mzgkDtu94ftwsiFvE808fP5-8BYo5IVT0bKEVwmzdwcItkl7cC13H10JwZS5LbRrl22DveJAnRPb_fDZqf7zz0YOlLOSZ8Hq-sVG05m09bvtg4VqJXt72PCY2YeLomZx5J5emTt4Eb_wLJ__9khtnJi5Og0cu8cR_gMY8cN7f-cevTY1jEykRzIaNTPyObCMUxRssm6bpuhUjFTn6uh767MC8gBKfTfmUVT2vmFCQ45nrcWKZBEFtH5SXe7bJdERmJwyc4PNy6R9KtZg6uwYAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q8sMGegUIKRDOAQ",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+47+Ronin&stick=H4sIAAAAAAAAAJ1V24sbVRifyZLsZHZLN2etLfFlGkWWQHcyk2QuC7K7XlCRIuxGdBE6zC1zydxy5nQm2ceC_4CoVPBBFgSRPvjQp4LSWkRcxIcq-lbQJxWkfRQp1NlkTmbTsqDO05fv_L7vdzmThCo3aNZnW7zYGsYpf27v9nXXCbTb1xloeioyDcYPE8eMD8kJTPP1ju4fkqdYi-U4y4a6wMfWIVk9OpREThpgYAKHkpwftLttDdcSSiIjB01J8wM56MYjPODuJ_285qV9m8vrTjAca3mtiQNXwv2-2NFxnboWxgvtSMfqOMmDIuYS4MAvuGJhxqWMMqHURCjfxpo5cZx08EpNlls5JBojzCrYmmfl7QHv44UiZxgJXt5vaTjHjghHNgZxUTJsYzWWNxQKZekgry1tkGBXxr7sKzmXOBRxCJwcRDjMNpellkPcOI1mcnSoFEwwwBAlwRAuSORu3m53lBkPROO87MbuEO_ItOMd2qjl4StQtMSdmYOzvOykgzCEtwTtV_I3cmnl97_urtbvku9e-_Yn8meSPjvQN1jfNBx1I7VVpKBQSVWk22CVLl88agMaUHTl4uS1BC26uuv4jqfCXghO1ZfoKWmGl_gn6Olr6kawBV3BWrl1_yrZGPKXbtz54PvKWzUie977ZHervtas0ZUXQ191gtpn7__98LsP7202V2mqp47CIPTHtauh8svHP_652ThfJSbP_c2jaeY5b3vrXJUh1kgu-7j12iv1m03iJlm68uWnX1Uoilwh-BJF7JeoyvLBwjelmeofyEy2flkzjV7ig69JekGFFviCBDeyg1cDZMLY1BF4gV58PTKhGhhAAgJdfhmGlyNwpugeT-LJor0EqvRiL9m1wzQGXNF_FjxDV3em3-ssrrN05aUAOWj8SHCgW4w0wdrxkadmI7X66Txez-J1OZH79cZJPx5MtomJj9Q0aqweel5mzgkDtu94ftwsiFvE808fP5-8BYo5IVT0bKEVwmzdwcItkl7cC13H10JwZS5LbRrl22DveJAnRPb_fDZqf7zz0YOlLOSZ8Hq-sVG05m09bvtg4VqJXt72PCY2YeLomZx5J5emTt4Eb_wLJ__9khtnJi5Og0cu8cR_gMY8cN7f-cevTY1jEykRzIaNTPyObCMUxRssm6bpuhUjFTn6uh767MC8gBKfTfmUVT2vmFCQ45nrcWKZBEFtH5SXe7bJdERmJwyc4PNy6R9KtZg6uwYAAA",
-                "image": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/87dbf59a03b80bad50dd6a9f676c453602d725ca2406b013005bea1a6aba303418f7473e849332431e97eb2f3f3c9933.jpeg"
+                "name": "Jarhead",
+                "image": "https://serpapi.com/searches/652143a249ecdbf776bdebb9/images/d93591f12e5dbd58ec7282c26f9575ca7787728e7d1d4ff34cde3b2f7a97bdc441a9b1e5d2c5137f64acc04cc9acffae141fbd5ef7fc7166.jpeg"
             },
             {
-                "name": "Django",
-                "extensions": [
-                    "1h 37m",
-                    "1966",
-                    "Pluto TV"
-                ],
-                "watch_options": [
-                    {
-                        "name": "Pluto TV Free",
-                        "link": "https://pluto.tv/on-demand/movies/django-1965-1-1?utm_medium=textsearch&utm_source=google"
-                    },
-                    {
-                        "name": "Tubi Free",
-                        "link": "https://tubitv.com/movies/518180/django-dubbed?start=true&tracking=google-feed&utm_source=google-feed"
-                    },
-                    {
-                        "name": "Peacock Free",
-                        "link": "https://www.peacocktv.com/watch/asset/movies/django/4e94aba6-3826-3f2a-8243-7d3564079240"
-                    },
-                    {
-                        "name": "Sling TV Free",
-                        "link": "https://watch.sling.com/1/program/2e541d5ceef1d8edb8fef6ddb6164965/watch?trackingid=google-feed"
-                    },
-                    {
-                        "name": "Vudu Free",
-                        "link": "https://www.vudu.com/content/movies/play/20883/ADVERT_CONTENT"
-                    },
-                    {
-                        "name": "PLEX Free",
-                        "link": "https://watch.plex.tv/movie/django-1966?autoplay=1&utm_content=5d9f34fb6fc551001ef7fc99&utm_medium=deeplink&utm_source=google-catalog"
-                    },
-                    {
-                        "name": "YouTube Primetime subscription",
-                        "link": "https://www.youtube.com/attribution_link?utm_campaign=ytcore&yt_product=ytalc&yt_goal=acq&utm_source=int&utm_medium=gs&utm_content=ump&yt_campaign_id=ytalc22&c=ytcore-ytalc-acq-int-gs-ump-ytalc22&utm_term=video&u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dk8cp9xSQmx4"
-                    },
-                    {
-                        "name": "The Roku Channel Premium subscription",
-                        "link": "https://therokuchannel.roku.com/watch/d02a44bab6e45b1abf57f9b7ca780203?source=google"
-                    },
-                    {
-                        "name": "Amazon Prime Video Premium subscription",
-                        "link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7cbc353c-e226-4c89-f3a7-be97d4ac20c0?autoplay=0&ref_=atv_cf_strg_wb"
-                    },
-                    {
-                        "name": "Google Play Movies & TV From $1.99",
-                        "link": "https://play.google.com/store/movies/details?id=AONdCjfFVo4.P"
-                    },
-                    {
-                        "name": "Apple TV $3.99",
-                        "link": "https://tv.apple.com/us/movie/django-1966/umc.cmc.5qtcla47a2a0o8w5uctv19d38?action=play"
-                    }
-                ],
-                "link": "https://www.google.com/search?sca_esv=571184275&q=Django&stick=H4sIAAAAAAAAAJ1V24sbVRifyZLs5GxLN2etLfElHUWWQHcyk2QuC7K7WlGRInRXdCl0mFsmM5lbzpzOJPtY8B8QlQo-yIIg0gcf-lRQWouIi_igom8FfVJB7KOUgs4mczKblgV1nr585_d9v8uZJEyZrXI-11KCbjwSzu7evek6gX73ZgNZnoYts-GHiWPFBzQ4ROm-0TH8A_okZ3M8b_eRIQqxfUBPVsgSLw8IMEFDWckP2t22TmoZJ5GZgwSpNYzT_GAigAy4e0kvrwV5r8_ndScYjvW81qWBK5N-T-oYpE5dm-DFdmQQdbzsIYlwiWjgF1yxOONSR5lQZiJUaBPNvDROOmSlriitHBKNMWEV-7pn5-2B4JOFEm-aCVnea-kkx46ERn0C4qNk2CZqbG8oFsrSQV7b-iAhrsw9xVdzLmkokRB4JYhImG0-Sy2HuHEazeQYSC2YUEAgakIgfJAo3bzd7qgzHoTHedmN3SHZkWknO_RRyyNXoOqJOzOHZnn1kw4mEMEW9V_oX-ml5d_-urdSv0e_fePrH-mfaHBmYKxzvmU62nra17CKQzXVsNGHK6B88bANAWRA5eLktYQtUN12fMfT0E4IT9aXwJQ0w8vCE2D6mroRaiFXtJfv3L9Os0Phyq3v3vu28maNyp53PtrerK82a6ByIfQ1J6h98u6Dv795_8-N5gpgdrRRGIT-uHY9VH_-8Ic_NthzVWry3N84nG48521tnq02qFWazz5uvvpy_XaTuk2Xrn3-8RcVhqGXKaHEUHslpnJif-Gr0kz193Qm27iqW-ZO4sMvabCgIRt-RsNb2cErAbZQbBkYvgAWX4sspAUmlKEIyi-h8GoETxfdo0k8WbSXYBUs7iTb_TCNIV_0n4XPgOql6fc6i-sMqLwYYAePHwkOdouRJlw9OvLUbKRWP5XH69mCoSRKr84e9-PRyDY14kM1bI0zQs_LzDlhwPUcz4-bBXGLev7po-eTt0C1JoSqkS20Q5St21-4Q4PF3dB1fD2E1-ay1KdRXoa7R4M8JrL_55Ot_f7WBw-XspBnwuv5RrZozdt63Pb-wo0SOLHleY3YQoljZHLmnVyZOnkDvv4vnPz3S2ZPT1ycgo9c4rH_AOw8cN7fucevTYtjC6sRyobNTPwlpY9xFK9zXJqma3aMNewYa0bocwPrPE58LhVSTvO8YkLFjmetxYltURSztV-uXHC1wA4_LZf-AfPe3Bi0BgAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q8sMGegUIKRDwAQ",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Django&stick=H4sIAAAAAAAAAJ1V24sbVRifyZLs5GxLN2etLfElHUWWQHcyk2QuC7K7WlGRInRXdCl0mFsmM5lbzpzOJPtY8B8QlQo-yIIg0gcf-lRQWouIi_igom8FfVJB7KOUgs4mczKblgV1nr585_d9v8uZJEyZrXI-11KCbjwSzu7evek6gX73ZgNZnoYts-GHiWPFBzQ4ROm-0TH8A_okZ3M8b_eRIQqxfUBPVsgSLw8IMEFDWckP2t22TmoZJ5GZgwSpNYzT_GAigAy4e0kvrwV5r8_ndScYjvW81qWBK5N-T-oYpE5dm-DFdmQQdbzsIYlwiWjgF1yxOONSR5lQZiJUaBPNvDROOmSlriitHBKNMWEV-7pn5-2B4JOFEm-aCVnea-kkx46ERn0C4qNk2CZqbG8oFsrSQV7b-iAhrsw9xVdzLmkokRB4JYhImG0-Sy2HuHEazeQYSC2YUEAgakIgfJAo3bzd7qgzHoTHedmN3SHZkWknO_RRyyNXoOqJOzOHZnn1kw4mEMEW9V_oX-ml5d_-urdSv0e_fePrH-mfaHBmYKxzvmU62nra17CKQzXVsNGHK6B88bANAWRA5eLktYQtUN12fMfT0E4IT9aXwJQ0w8vCE2D6mroRaiFXtJfv3L9Os0Phyq3v3vu28maNyp53PtrerK82a6ByIfQ1J6h98u6Dv795_8-N5gpgdrRRGIT-uHY9VH_-8Ic_NthzVWry3N84nG48521tnq02qFWazz5uvvpy_XaTuk2Xrn3-8RcVhqGXKaHEUHslpnJif-Gr0kz193Qm27iqW-ZO4sMvabCgIRt-RsNb2cErAbZQbBkYvgAWX4sspAUmlKEIyi-h8GoETxfdo0k8WbSXYBUs7iTb_TCNIV_0n4XPgOql6fc6i-sMqLwYYAePHwkOdouRJlw9OvLUbKRWP5XH69mCoSRKr84e9-PRyDY14kM1bI0zQs_LzDlhwPUcz4-bBXGLev7po-eTt0C1JoSqkS20Q5St21-4Q4PF3dB1fD2E1-ay1KdRXoa7R4M8JrL_55Ot_f7WBw-XspBnwuv5RrZozdt63Pb-wo0SOLHleY3YQoljZHLmnVyZOnkDvv4vnPz3S2ZPT1ycgo9c4rH_AOw8cN7fucevTYtjC6sRyobNTPwlpY9xFK9zXJqma3aMNewYa0bocwPrPE58LhVSTvO8YkLFjmetxYltURSztV-uXHC1wA4_LZf-AfPe3Bi0BgAA",
-                "image": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/87dbf59a03b80bad50dd6a9f676c453602d725ca2406b013005bea1a6aba30349943b699e5a357ae731077a8aa6ac8d8.jpeg"
+                "name": "The Imitation Game",
+                "image": "https://serpapi.com/searches/652143a249ecdbf776bdebb9/images/d93591f12e5dbd58ec7282c26f9575ca7787728e7d1d4ff34cde3b2f7a97bdc441a9b1e5d2c5137ffced5de37a3ea56e30c1cc1290464d73.jpeg"
             },
             {
-                "name": "Harakiri",
-                "extensions": [
-                    "2h 13m",
-                    "1962",
-                    "From $3.99"
-                ],
-                "watch_options": [
-                    {
-                        "name": "Apple TV From $3.99",
-                        "link": "https://tv.apple.com/us/movie/harakiri/umc.cmc.dm5rxaoii0bot86ft54y4xvk?action=play"
-                    },
-                    {
-                        "name": "Amazon Prime Video From $3.99",
-                        "link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.38a9f735-1601-f377-9d36-df2aa614f2e3?autoplay=0&ref_=atv_cf_strg_wb"
-                    }
-                ],
-                "link": "https://www.google.com/search?sca_esv=571184275&q=Harakiri&stick=H4sIAAAAAAAAAJ1U3WvTUBzN7WiX3imud06lvtQoMgoubdY16UC2-YGKiOAmOgRDkqZpvtPkmqx7FPwHREXBBxkIIj744JOg-IGIQ3xQ0TdBn1QQfRQRNG3TZXUM1Dyde-7v97vnnJuETFJp2qQLHPadKrNl7vEdTbXEx3dyrmwIWK7mTNtXZW8JxFURFlld4yJc5AyXXQKwhRVdK42NLRc1uIUYj9UiPM6JejPCpUBTilEzwxYaXhBtKKLuF7tFNbYkLQGyhdkGy0X1oimVJDPinSaWuoLqrChGtM6Y5S5t-ZXxLq5YThCNqTl81dOWwHpaoYvFmtb0Xa6sd9eeYrGmM1-KGpmqNtbVa9X4eaa7WCg32IWuw3JdNJQP4CMYGPz0_d1Q9h04f-vZG_AWwM26NEGbclUVJoK6gHls84GApToagskjLRpBRMLUkXbwqADTM6qpGoI7a6P12QHYER_Wc8xG2BGoOW7B1crK4MNvlwHVYE7ffXnpRepkhgifC9dnprIj-QxM7bNNQbUyNy_--PX8ytfJ_BAkZ4V527LNZuayzb-_9vrLJLUtTbSfb5Ot7txuY3pqSzpHjIBiuJw6fDD7IE88AImz9288SpEkGCSYBEksJMjUusW-p4ll1a9AKFs6I8rVWd9ETwDsE1wF3QPobrhxyMKy68kSRnth_1FHdgWrijhUhskDrn3GQcMxuzKJTTE9gNKwf9afqduBh4oxvxPtgOljnTc3jGszTO23sIqbfwSHxuOWPBpZ2bJ1uSWT3RDFayiMVPErtSy11ueRCyflvJYaKkNLtmGE5lTbomuqYXr5-OACsWf7yv32W8DL7QN5KRyo2G44brHvIYD9c7ammqKNzvZkKXaiPIXmVga5RmT_55PKfD539edAGPKy8Gw0kYqpXlurbS_23UrAddOGkfNk11elUE6vk9MdJyfQ8b9w8u-XTA23XWxAf1zimv84qrew19-21dcmeJ6MeccNm6uh-GOVOsaON0HTQRCMKh4WsCqNSrZJ6_Iu7Jt0wAS0YBhxB49VQx71fEUmCHJ6MUkeFFxBV131djLxGzxZ0LiYBQAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q8sMGegQIKhAK",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Harakiri&stick=H4sIAAAAAAAAAJ1U3WvTUBzN7WiX3imud06lvtQoMgoubdY16UC2-YGKiOAmOgRDkqZpvtPkmqx7FPwHREXBBxkIIj744JOg-IGIQ3xQ0TdBn1QQfRQRNG3TZXUM1Dyde-7v97vnnJuETFJp2qQLHPadKrNl7vEdTbXEx3dyrmwIWK7mTNtXZW8JxFURFlld4yJc5AyXXQKwhRVdK42NLRc1uIUYj9UiPM6JejPCpUBTilEzwxYaXhBtKKLuF7tFNbYkLQGyhdkGy0X1oimVJDPinSaWuoLqrChGtM6Y5S5t-ZXxLq5YThCNqTl81dOWwHpaoYvFmtb0Xa6sd9eeYrGmM1-KGpmqNtbVa9X4eaa7WCg32IWuw3JdNJQP4CMYGPz0_d1Q9h04f-vZG_AWwM26NEGbclUVJoK6gHls84GApToagskjLRpBRMLUkXbwqADTM6qpGoI7a6P12QHYER_Wc8xG2BGoOW7B1crK4MNvlwHVYE7ffXnpRepkhgifC9dnprIj-QxM7bNNQbUyNy_--PX8ytfJ_BAkZ4V527LNZuayzb-_9vrLJLUtTbSfb5Ot7txuY3pqSzpHjIBiuJw6fDD7IE88AImz9288SpEkGCSYBEksJMjUusW-p4ll1a9AKFs6I8rVWd9ETwDsE1wF3QPobrhxyMKy68kSRnth_1FHdgWrijhUhskDrn3GQcMxuzKJTTE9gNKwf9afqduBh4oxvxPtgOljnTc3jGszTO23sIqbfwSHxuOWPBpZ2bJ1uSWT3RDFayiMVPErtSy11ueRCyflvJYaKkNLtmGE5lTbomuqYXr5-OACsWf7yv32W8DL7QN5KRyo2G44brHvIYD9c7ammqKNzvZkKXaiPIXmVga5RmT_55PKfD539edAGPKy8Gw0kYqpXlurbS_23UrAddOGkfNk11elUE6vk9MdJyfQ8b9w8u-XTA23XWxAf1zimv84qrew19-21dcmeJ6MeccNm6uh-GOVOsaON0HTQRCMKh4WsCqNSrZJ6_Iu7Jt0wAS0YBhxB49VQx71fEUmCHJ6MUkeFFxBV131djLxGzxZ0LiYBQAA",
-                "image": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/87dbf59a03b80bad50dd6a9f676c453602d725ca2406b013005bea1a6aba3034fb22057c75c1c0c9047243250a21df77.jpeg"
-            },
-            {
-                "name": "Samurai I: Musashi Miyamoto",
-                "extensions": [
-                    "1h 33m",
-                    "1954",
-                    "Max"
-                ],
-                "watch_options": [
-                    {
-                        "name": "Max Subscription",
-                        "link": "https://www.max.com/movies/32b3794c-6ec9-4254-a181-b928f2bcc3b5"
-                    },
-                    {
-                        "name": "Amazon Prime Video Premium subscription",
-                        "link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4c1e58b0-4ec3-4681-be85-130514df9811?autoplay=0&ref_=atv_cf_strg_wb"
-                    },
-                    {
-                        "name": "Apple TV From $3.99",
-                        "link": "https://tv.apple.com/us/movie/samurai-i-musashi-miyamoto/umc.cmc.33shqhhl7dd7ud2zzziotn5j4?action=play"
-                    }
-                ],
-                "link": "https://www.google.com/search?sca_esv=571184275&q=Samurai+I:+Musashi+Miyamoto&stick=H4sIAAAAAAAAAJ1U32vUWBjNnTLTzK1i59ZfjC8xipQBm5l0OskUpK27yypLEWxltywYkkwmk0xubia5TTp9FPwHxF0UfJDCwrL4sA8-CS7-YFks4oO7uG-CPu0uLPooImhmJtPpKAU1T9899zvfPefcJGyazwpYKGpS05bFgyv3b9qWq92_yfmGo1KjxmESWkawCbpdMg29WlJ3GUldkh1f2gSwU5tNuzw9vdXUktcH9XQ9qWdkrdlO6nJkm6WELErFVhAlG6bWDEv9prpU1jcB26mlliQn_RrWyzpOcK9N9b6ghqRpCdwUcaUPu2F1pl9XXS9KxtQ9pRbYm2C3YAqlUt1uh75cafbXgelK2FsrJ0SxZk_39bp1ZU3sL9YrLWm977DS0BzzOfgHjI3_--rpRP4puHTjwRPwN4AHmvqsgI2apc5GDZUqlCiRSvUGmoDpxQ6MIGJhZrEbPCrC7JKFLUf1lwnanR-DPfFxvyzuhT2BtucXfbtijt99eQXwLfH8rcc_Psp8l2Pi5_JPS_P5yUIOZr4kWLXc3C8_vH778OqLucIEZJfVNeIS3M5dIcqz63_9P8cfzjLd5-Vch82dcBbmD2Y5ZhKU4uX8N6fydwrMHZC68NvP9zIsC8YZMcUy6yk2s2tj5I_Uluo_QSxbX9WM2nKI0e8Ajqi-iW4DdCveOO1Sww8MnaIv4OgZz_BVt4ZkVIHpr32y6qF9A3R7EvsH8BjKwtHlcKlBogCVBvgxdBRmz_be3DiuAzDzlUst2n4vODQzoBTQ5HbKoS1KLr8nidcxRb0aVut5fqfPg4sncUFHDZ8TdOI4sTmLuELdcnBQGBxcZE4e2b7ffQsUo3ugoscDTeLH4zZG7gI4ukJsC2sEXRjKUutF-T1a2R7kDpF9nk8-99_Fa2_G4pC3hOeTifwAGrb1oe2NkRspuGvBcbjA8ENLj-UMOznfc_ItOvcRTj79kvl9XRd70HuXuOM_jh9uHPZ3-MNrU4PAoIrnx-RaLP5stUGpF8wKQhRFU2ZAVWrpUzrBQtM4TkMsRGIkqI4zYCjUcoypIDQNhmEXNtKHllS86qsWd3qWW1wN1KBhcYtWW8WEkl_TqXcc7CQJqwUAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q8sMGegQIKhAj",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Samurai+I%3A+Musashi+Miyamoto&stick=H4sIAAAAAAAAAJ1U32vUWBjNnTLTzK1i59ZfjC8xipQBm5l0OskUpK27yypLEWxltywYkkwmk0xubia5TTp9FPwHxF0UfJDCwrL4sA8-CS7-YFks4oO7uG-CPu0uLPooImhmJtPpKAU1T9899zvfPefcJGyazwpYKGpS05bFgyv3b9qWq92_yfmGo1KjxmESWkawCbpdMg29WlJ3GUldkh1f2gSwU5tNuzw9vdXUktcH9XQ9qWdkrdlO6nJkm6WELErFVhAlG6bWDEv9prpU1jcB26mlliQn_RrWyzpOcK9N9b6ghqRpCdwUcaUPu2F1pl9XXS9KxtQ9pRbYm2C3YAqlUt1uh75cafbXgelK2FsrJ0SxZk_39bp1ZU3sL9YrLWm977DS0BzzOfgHjI3_--rpRP4puHTjwRPwN4AHmvqsgI2apc5GDZUqlCiRSvUGmoDpxQ6MIGJhZrEbPCrC7JKFLUf1lwnanR-DPfFxvyzuhT2BtucXfbtijt99eQXwLfH8rcc_Psp8l2Pi5_JPS_P5yUIOZr4kWLXc3C8_vH778OqLucIEZJfVNeIS3M5dIcqz63_9P8cfzjLd5-Vch82dcBbmD2Y5ZhKU4uX8N6fydwrMHZC68NvP9zIsC8YZMcUy6yk2s2tj5I_Uluo_QSxbX9WM2nKI0e8Ajqi-iW4DdCveOO1Sww8MnaIv4OgZz_BVt4ZkVIHpr32y6qF9A3R7EvsH8BjKwtHlcKlBogCVBvgxdBRmz_be3DiuAzDzlUst2n4vODQzoBTQ5HbKoS1KLr8nidcxRb0aVut5fqfPg4sncUFHDZ8TdOI4sTmLuELdcnBQGBxcZE4e2b7ffQsUo3ugoscDTeLH4zZG7gI4ukJsC2sEXRjKUutF-T1a2R7kDpF9nk8-99_Fa2_G4pC3hOeTifwAGrb1oe2NkRspuGvBcbjA8ENLj-UMOznfc_ItOvcRTj79kvl9XRd70HuXuOM_jh9uHPZ3-MNrU4PAoIrnx-RaLP5stUGpF8wKQhRFU2ZAVWrpUzrBQtM4TkMsRGIkqI4zYCjUcoypIDQNhmEXNtKHllS86qsWd3qWW1wN1KBhcYtWW8WEkl_TqXcc7CQJqwUAAA",
-                "image": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/87dbf59a03b80bad50dd6a9f676c453602d725ca2406b013005bea1a6aba30341a00290c037becc262ddbe766d91188d.jpeg"
-            },
-            {
-                "name": "Sanjuro",
-                "extensions": [
-                    "PG-13",
-                    "1h 36m",
-                    "1962",
-                    "From $3.59"
-                ],
-                "watch_options": [
-                    {
-                        "name": "Amazon Prime Video From $3.59",
-                        "link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5aa9f782-822a-47cc-e7d9-d415889f400d?autoplay=0&ref_=atv_cf_strg_wb"
-                    },
-                    {
-                        "name": "Apple TV From $3.99",
-                        "link": "https://tv.apple.com/us/movie/sanjuro/umc.cmc.tp7hgrm1z7khui4ch6w1fjvw?action=play"
-                    }
-                ],
-                "link": "https://www.google.com/search?sca_esv=571184275&q=Sanjuro&stick=H4sIAAAAAAAAAJ1U32vTUBjN7WiX3ilb75yT-lKjyCi4tFnXpAPZ5g9UZAhuokMwJGmaJs2vJnfJukfBf0BUFHyQgSDigw8-CYpziDjEBxV9G-iTCqKPIoKmbbquGwM1T9899zvfPefcJGSUitMGnclyusMyu2aXH2iqKS4_SDmyLmC5mDIsT5XdFdDo4rBnF8NaZCsaF9YN9gqA9VqpaLmRkbWmKrfQrkdKYT3KiZVaWOd8TcmGZIbNVF0_3FDEipdtNZXYnLQCyHrNVlku7BcNKScZIW7XsNQSVGZFMYQrjJFvwaZXGG3VBdP2wzElmy-62grYTit0NlvSap7D5SuttauYrGHP50IiU9RGWnrNEj_PtBYL-Sq70HKYL4u68hF8Aj19n3-s9idXweV7L96B9wAOVqQx2pCLqjDmlwXMY4v3BSyVUT-MTtVhBBEJY1ON4FEGxqdVQ9UFZ8ZC25M9sCk-6OeYHbApULOdjKPllb6l79cBVWUuPHx97VXsXIIIniu3pyeSQ-kEjB2xDEE1E3ev_vz98sa38XQ_JGeEecu0jFriusV_uPX26zi1J040nu_jdXbqoD45sSueIoZANlhOnDyefJImnoDIxcd3nsZIEvQRTIQkFiJkbNti1_PImuo3IJAtzYlyccYz0DMAuwRHQY8AehhsnDCx7LiyhNFh2H3Klh3BLCIO5WH0mGPN2Wigja5PYmcb7kFx2D3jTZct30XZNr4f7YPx0803N4hrEMaOmljFtQ3BodE2JY2G1lN2r1ESyd4wXl1hpIJXKCWprT6PVDAp5dbVUAlasnQ9MKdaJl1SdcNNtw_OEIf2rt9vvAW83DiQl4KBiuUE4xa7lgDsnrU01RAtdLEjS7EZ5Xk0uz7ILSL7P59U4sulm796gpDXhCfDiVQb6rS12fZi170I3Dap6ylXdjxVCuR0OrnQdHIWnfkLJ_9-ydRAw0Uv2nCJW_7jqM7GTn97Nl-b4Loy5m0nIBcD8acLZYxtd4ymfd8fVlwsYFUaliyDrsgHsGfQPuPTgq63GTxWdXnY9RSZIMjJxWj3tGBqc451Pxr5Ay01YkOXBQAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q8sMGegQIKhA_",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sanjuro&stick=H4sIAAAAAAAAAJ1U32vTUBjN7WiX3ilb75yT-lKjyCi4tFnXpAPZ5g9UZAhuokMwJGmaJs2vJnfJukfBf0BUFHyQgSDigw8-CYpziDjEBxV9G-iTCqKPIoKmbbquGwM1T9899zvfPefcJGSUitMGnclyusMyu2aXH2iqKS4_SDmyLmC5mDIsT5XdFdDo4rBnF8NaZCsaF9YN9gqA9VqpaLmRkbWmKrfQrkdKYT3KiZVaWOd8TcmGZIbNVF0_3FDEipdtNZXYnLQCyHrNVlku7BcNKScZIW7XsNQSVGZFMYQrjJFvwaZXGG3VBdP2wzElmy-62grYTit0NlvSap7D5SuttauYrGHP50IiU9RGWnrNEj_PtBYL-Sq70HKYL4u68hF8Aj19n3-s9idXweV7L96B9wAOVqQx2pCLqjDmlwXMY4v3BSyVUT-MTtVhBBEJY1ON4FEGxqdVQ9UFZ8ZC25M9sCk-6OeYHbApULOdjKPllb6l79cBVWUuPHx97VXsXIIIniu3pyeSQ-kEjB2xDEE1E3ev_vz98sa38XQ_JGeEecu0jFriusV_uPX26zi1J040nu_jdXbqoD45sSueIoZANlhOnDyefJImnoDIxcd3nsZIEvQRTIQkFiJkbNti1_PImuo3IJAtzYlyccYz0DMAuwRHQY8AehhsnDCx7LiyhNFh2H3Klh3BLCIO5WH0mGPN2Wigja5PYmcb7kFx2D3jTZct30XZNr4f7YPx0803N4hrEMaOmljFtQ3BodE2JY2G1lN2r1ESyd4wXl1hpIJXKCWprT6PVDAp5dbVUAlasnQ9MKdaJl1SdcNNtw_OEIf2rt9vvAW83DiQl4KBiuUE4xa7lgDsnrU01RAtdLEjS7EZ5Xk0uz7ILSL7P59U4sulm796gpDXhCfDiVQb6rS12fZi170I3Dap6ylXdjxVCuR0OrnQdHIWnfkLJ_9-ydRAw0Uv2nCJW_7jqM7GTn97Nl-b4Loy5m0nIBcD8acLZYxtd4ymfd8fVlwsYFUaliyDrsgHsGfQPuPTgq63GTxWdXnY9RSZIMjJxWj3tGBqc451Pxr5Ay01YkOXBQAA",
-                "image": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/87dbf59a03b80bad50dd6a9f676c453602d725ca2406b013005bea1a6aba303462eb8cc5e2f0f2c2260c28d9a3785c6d.jpeg"
-            },
-            {
-                "name": "Hara\u2011Kiri: Death of a Samurai",
-                "extensions": [
-                    "2h 8m",
-                    "2011",
-                    "YouTube"
-                ],
-                "watch_options": [
-                    {
-                        "name": "YouTube Free",
-                        "link": "http://www.youtube.com/watch?v=9C_jWktlLCc"
-                    },
-                    {
-                        "name": "Pluto TV Free",
-                        "link": "https://pluto.tv/on-demand/movies/hara-kiri-death-of-a-samurai-2010-1-1?utm_medium=textsearch&utm_source=google"
-                    },
-                    {
-                        "name": "Tubi Free",
-                        "link": "https://tubitv.com/movies/491639/hara-kiri-death-of-a-samurai?start=true&tracking=google-feed&utm_source=google-feed"
-                    },
-                    {
-                        "name": "Vudu Free",
-                        "link": "https://www.vudu.com/content/movies/play/346529/ADVERT_CONTENT"
-                    },
-                    {
-                        "name": "Amazon Prime Video Free",
-                        "link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a8a9f71a-d0d9-e758-0c9d-d7c3a889afa2?autoplay=0&ref_=atv_cf_strg_wb"
-                    },
-                    {
-                        "name": "PLEX Free",
-                        "link": "https://watch.plex.tv/movie/hara-kiri-death-of-a-samurai?autoplay=1&utm_content=5d9f35d1adeb7a0021ce316e&utm_medium=deeplink&utm_source=google-catalog"
-                    }
-                ],
-                "link": "https://www.google.com/search?sca_esv=571184275&q=Hara-Kiri:+Death+of+a+Samurai&stick=H4sIAAAAAAAAAJ1U3YvTWBzN7dBOekdxescvKgsxigwFJ22m06QDy8y4LioigjPiDoLhJk3TpPlqcieZzqOw_4CoKPiwDCwsiw_74JOg-IGIg_jgLvomuE-7guijiKBpm07bGQbUPP3uub_zu-ecm4ROspCzuLxWN4qTk_zexYe3DN2WH95iPNXERK0wlhPoqr8G0q02kQRuJa5loW6IcV0QTU9YA32j1psa4kqvnqzG9ZQo15txXQwNrRCTeSHf8MN4Q5PrQaHbVBWKyhqgW7XQEMS4X7aUomLFuNskSldQTZDlGK7zVqkL20F5qluXbTeMx1RdqeIba2A7p3GFQtVoBp5YqnfXvmYLlrtcjIl8xZjs6rWr0jLfXayUGsJK12GpJpvav-A_MDL6_4dXY9lX4NLNJy_ASwD31JVpzlIrOp4Oa5hIxJFCTJQaGoPJUy0YQUTD1Kl28CgP0_O6pZvYW3DQ9uwI7IiP-kV-J-wINFwv7xklbfT--2uAbfAXbj-_-iz1S4aKnsu_z89mx3MZmDrqWFi3M39e-fj56fV3M7kxSC_gZcd2rGbmmiO9_u2ftzPs_jTVft7PtNjMj-bc7N40Q42DQrScPXk8ey9H3QOJi3f_eJCiaTBK8QmaWknQqW2rQ48T66r_BpFsZUlWKwuBhR4BOIQ9Dd0B6Ha0ccImquerCkE_weHTruphu4JEVILJY56z5KJdPbQ_id09eASl4fBCMF9zQh8VevghdBCmz3Te3CiuPTD1s0100twQHJrqUXJovJ-yb52Sye6I4zU1XikH5WqW3erzYKJJjN9Sw2Y4xTHNyJzu2FxVNy0_1zs4Tx050L_ffgsktX2gpEQDNceLxq0O3QdweNExdEt20MWBLOVOlOfRYn-QW0T2fT7ZzJtfb3waiUJeF56NJ7I9aNDWZturQzcTcNucaTK-6gW6EskZdHKh4-QcOvsVTr79ktldbRc70IZL3PIfxw42Dvrbv_nasO-rRHK9iFyJxJ8p1whx_WmOC8NwQvMJJroyoTgWV1cPk8DiQj7ksGn2GBLRTXXCDzSVoui51eQPx7GHD5_UPX2aOapiUmOcKoOZeWwteVj_K5n4Ag-HzJ6uBQAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q8sMGegQIKhBZ",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hara-Kiri%3A+Death+of+a+Samurai&stick=H4sIAAAAAAAAAJ1U3YvTWBzN7dBOekdxescvKgsxigwFJ22m06QDy8y4LioigjPiDoLhJk3TpPlqcieZzqOw_4CoKPiwDCwsiw_74JOg-IGIg_jgLvomuE-7guijiKBpm07bGQbUPP3uub_zu-ecm4ROspCzuLxWN4qTk_zexYe3DN2WH95iPNXERK0wlhPoqr8G0q02kQRuJa5loW6IcV0QTU9YA32j1psa4kqvnqzG9ZQo15txXQwNrRCTeSHf8MN4Q5PrQaHbVBWKyhqgW7XQEMS4X7aUomLFuNskSldQTZDlGK7zVqkL20F5qluXbTeMx1RdqeIba2A7p3GFQtVoBp5YqnfXvmYLlrtcjIl8xZjs6rWr0jLfXayUGsJK12GpJpvav-A_MDL6_4dXY9lX4NLNJy_ASwD31JVpzlIrOp4Oa5hIxJFCTJQaGoPJUy0YQUTD1Kl28CgP0_O6pZvYW3DQ9uwI7IiP-kV-J-wINFwv7xklbfT--2uAbfAXbj-_-iz1S4aKnsu_z89mx3MZmDrqWFi3M39e-fj56fV3M7kxSC_gZcd2rGbmmiO9_u2ftzPs_jTVft7PtNjMj-bc7N40Q42DQrScPXk8ey9H3QOJi3f_eJCiaTBK8QmaWknQqW2rQ48T66r_BpFsZUlWKwuBhR4BOIQ9Dd0B6Ha0ccImquerCkE_weHTruphu4JEVILJY56z5KJdPbQ_id09eASl4fBCMF9zQh8VevghdBCmz3Te3CiuPTD1s0100twQHJrqUXJovJ-yb52Sye6I4zU1XikH5WqW3erzYKJJjN9Sw2Y4xTHNyJzu2FxVNy0_1zs4Tx050L_ffgsktX2gpEQDNceLxq0O3QdweNExdEt20MWBLOVOlOfRYn-QW0T2fT7ZzJtfb3waiUJeF56NJ7I9aNDWZturQzcTcNucaTK-6gW6EskZdHKh4-QcOvsVTr79ktldbRc70IZL3PIfxw42Dvrbv_nasO-rRHK9iFyJxJ8p1whx_WmOC8NwQvMJJroyoTgWV1cPk8DiQj7ksGn2GBLRTXXCDzSVoui51eQPx7GHD5_UPX2aOapiUmOcKoOZeWwteVj_K5n4Ag-HzJ6uBQAA",
-                "image": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/87dbf59a03b80bad50dd6a9f676c453602d725ca2406b013005bea1a6aba30345e4935d8bdbc5873297f5f7273cf3b18.jpeg"
-            },
-            {
-                "name": "Samurai III: Duel at Ganryu Island",
-                "extensions": [
-                    "Not Rated",
-                    "1h 45m",
-                    "1956",
-                    "Max"
-                ],
-                "watch_options": [
-                    {
-                        "name": "Max Subscription",
-                        "link": "https://www.max.com/movies/511179cb-8c1d-424b-8b31-4f600d4b50e3"
-                    },
-                    {
-                        "name": "Amazon Prime Video Premium subscription",
-                        "link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4c66dbcd-ed4a-43f5-88ec-9cea48c3cd36?autoplay=0&ref_=atv_cf_strg_wb"
-                    },
-                    {
-                        "name": "Apple TV From $3.99",
-                        "link": "https://tv.apple.com/us/movie/samurai-iii-duel-at-ganryu-island/umc.cmc.65wmz5ki7tsimwlxqfyff5b01?action=play"
-                    }
-                ],
-                "link": "https://www.google.com/search?sca_esv=571184275&q=Samurai+III:+Duel+at+Ganryu+Island&stick=H4sIAAAAAAAAAJ1U3WvTUBzN7WiX3imud35RX2IUGQWXNuuadCDb_ECLiOAmOgRDkqZp0nw1uU3WPQr-A6Ki4IMMBBEffPBJUPxAxCE-qOiboE8qiD6KCJq26boqAzVP5577-_3uOecmIeN0kjGZrMTV-UV26_yj27pmSY9uU65iiFgpU6bta4q3DNpVPPadcoQlrqbzEc7xhsstA9jCak3Pj4-vFIVje3i8EuEJXqo1I5wPdDUXNbNctu4F0YYq1fxct6jC5eVlQLYwV-f4qF4y5bxsRrzTxHJXUJWTpIiusWahS1t-caKLi5YTRGMqjlD29GWwnlGZXK6iN32XL9S6a0-1ONNZyEeNbFkf7-q1KsIC210sFurcYtdhoSoZ6nvwAQwNf_z2diT9Fpy7-fQ1eAPglpo8yZhKWRMng6qIBWwLgYjlKhqB8SMtGkFEwsSRdvAoC5OzmqkZojtno_XpIdgRH9bz7EbYEag7btbVC-rwg6-XAF1nT995cfF54mSKCJ_z12an06OZFEzst01Rs1I3Lnz_-ezyl6nMCCTnxAXbss1m6pItvLv66vMUvT1JtJ-vU61uao8xM701SRGjIBcupw8fSt_PEPdB7My96w8TJAmGCTZGEosxMrFuaeBJbEX1SxDKlhuSUp7zTfQYwAHRVdFdgO6EGyULK66nyBjtg4NHHcUVrTLiUQHGD7p2w0GbeuzqJDb36CGUhINz_mzVDjyU6_G70E6YPNZ5c8O4tsDEAQtruPlbcGii15JBo6tbtq20pNIbongNlZWLfrGSptf6PKhwEuW11NApRrYNIzSn2RZT0QzTy_QOzhJ7d6zeb78FgtI-UJDDgarthuOWBh4AODhv65op2ehMX5ZSJ8pTaH51kGtE9n8-6dSns1d-DIUhrwhPRxPpHtVv60_bSwM3Y3DdjGFQnuL6mhzK6XdyuuPkBDr-F07-_ZLpTW0XG9Bvl7jmP47uL-z3t_3PaxM9T8GC44bN5VD8sWIVY8ebZJggCMZUD4tYk8dk22Rqym7sm0zABoxoGL0OAWuGMub5qkIQ5MxSnJ4VzYYralSpVJqk9jcUgxIxdVC03GaDKnlGaP5WPPYLOikn4rIFAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q8sMGegQIKhB_",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Samurai+III%3A+Duel+at+Ganryu+Island&stick=H4sIAAAAAAAAAJ1U3WvTUBzN7WiX3imud35RX2IUGQWXNuuadCDb_ECLiOAmOgRDkqZp0nw1uU3WPQr-A6Ki4IMMBBEffPBJUPxAxCE-qOiboE8qiD6KCJq26boqAzVP5577-_3uOecmIeN0kjGZrMTV-UV26_yj27pmSY9uU65iiFgpU6bta4q3DNpVPPadcoQlrqbzEc7xhsstA9jCak3Pj4-vFIVje3i8EuEJXqo1I5wPdDUXNbNctu4F0YYq1fxct6jC5eVlQLYwV-f4qF4y5bxsRrzTxHJXUJWTpIiusWahS1t-caKLi5YTRGMqjlD29GWwnlGZXK6iN32XL9S6a0-1ONNZyEeNbFkf7-q1KsIC210sFurcYtdhoSoZ6nvwAQwNf_z2diT9Fpy7-fQ1eAPglpo8yZhKWRMng6qIBWwLgYjlKhqB8SMtGkFEwsSRdvAoC5OzmqkZojtno_XpIdgRH9bz7EbYEag7btbVC-rwg6-XAF1nT995cfF54mSKCJ_z12an06OZFEzst01Rs1I3Lnz_-ezyl6nMCCTnxAXbss1m6pItvLv66vMUvT1JtJ-vU61uao8xM701SRGjIBcupw8fSt_PEPdB7My96w8TJAmGCTZGEosxMrFuaeBJbEX1SxDKlhuSUp7zTfQYwAHRVdFdgO6EGyULK66nyBjtg4NHHcUVrTLiUQHGD7p2w0GbeuzqJDb36CGUhINz_mzVDjyU6_G70E6YPNZ5c8O4tsDEAQtruPlbcGii15JBo6tbtq20pNIbongNlZWLfrGSptf6PKhwEuW11NApRrYNIzSn2RZT0QzTy_QOzhJ7d6zeb78FgtI-UJDDgarthuOWBh4AODhv65op2ehMX5ZSJ8pTaH51kGtE9n8-6dSns1d-DIUhrwhPRxPpHtVv60_bSwM3Y3DdjGFQnuL6mhzK6XdyuuPkBDr-F07-_ZLpTW0XG9Bvl7jmP47uL-z3t_3PaxM9T8GC44bN5VD8sWIVY8ebZJggCMZUD4tYk8dk22Rqym7sm0zABoxoGL0OAWuGMub5qkIQ5MxSnJ4VzYYralSpVJqk9jcUgxIxdVC03GaDKnlGaP5WPPYLOikn4rIFAAA",
-                "image": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/87dbf59a03b80bad50dd6a9f676c453602d725ca2406b013005bea1a6aba303434d0c0dad5dc51d2237d469e6fe91593.jpeg"
-            },
-            {
-                "name": "Samurai II: Duel at Ichijoji Temple",
-                "extensions": [
-                    "1h 43m",
-                    "1955",
-                    "Max"
-                ],
-                "watch_options": [
-                    {
-                        "name": "Max Subscription",
-                        "link": "https://www.max.com/movies/8b20b6f1-fafa-463c-87c9-ff68aae3063e"
-                    },
-                    {
-                        "name": "Amazon Prime Video Premium subscription",
-                        "link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.65dfd49c-6221-4455-bc53-575ef2cb8208?autoplay=0&ref_=atv_cf_strg_wb"
-                    },
-                    {
-                        "name": "Apple TV From $3.99",
-                        "link": "https://tv.apple.com/us/movie/samurai-ii-duel-at-ichijoji-temple/umc.cmc.5bmdtf2svmzanl3jo12jrasy6?action=play"
-                    }
-                ],
-                "link": "https://www.google.com/search?sca_esv=571184275&q=Samurai+II:+Duel+at+Ichijoji+Temple&stick=H4sIAAAAAAAAAJ1U32vbVhjVdbAj37Q0vll_4L6o6hjB0MiWHUsOlCRbRxtKGTQebShUSPK1LFlXkqUbKc5jYf_A2EoHexiBwRh92EOfChv9wRgNZQ_b2N4K7VNbKOvjKIVWtuU4bgms1dO5537fp3POvRKb5rMCEYqa1Ck3xSNrd29YpqPdvcH52FYpbnDEDU0cbIN-lUxDr5FgTWpbcoJLsu1L2wD2sNG2KuXyTlFH3hzhcjPB87LW7ia4EllGKWkWpWIniJINQ2uHpWFRU6ro24DtYakjyUm9RvSKThLe61J9KKglaVpCt0VSHdJOWJsf4prjRcmYpqc0Amsb7BcMoVRqWt3Ql6vt4TowHIl4G5WkUWxY5aFep6lsiMPFZrUjbQ4dVluabTwCj8HU9JP_HszkH4Avr9_7G_wD4OG2viAQ3DDVhailUoW6SqRSvYVmYPpcj0YQsTBzrh88KsLsqklMW_XrLtqfn4ID8XG9LH4ABwItzy_6VtWYvv38GuA74uWbf1z9PXMxx8TPV9-vLuVnCzmYOeUS1XRyP3794tX9b_5dLMxAtq5uuI5LurlrrvLwu7-eLfLHskz_eb7Y6-ZO2stLR7IcMwtK8XLp7Jn8rQJzC6Su_PLDnQzLgmlGTLHMZorN7Nua-C21o_pPEMvW1zXcqIcE_QrghOob6GeAbsYbKw7FfoB1ij6Bk5952FedBpJRFaZP--66hw6O2N1JHBrRUygLJ-vhasuNAlQa8R-hD2H2_ODmxnEdhplPHWrS7hvBoflRSwHN7m45utOSyx9I4rUNUa-FtWae3-vz4OJJXNBTw-cE3bXt2JzpOkLTtElQGL24yHx8fPd-_xYouP9CRY8HGq4fj9uauA3g5JprmURz0ZWxLLVBlJfQ2u4g94js_XzyuadffPtyKg55R3g-mciPqHFbb9vemriegvuWbZsLsB-aeixn3MnlgZML6PP_4eTdD5k_2HdxAL1xiHv-4_jxwnF_x94-NjUIMFU8P25uxOLP11qUesGCIERRNGcEVKWmPqe7RGjjEzQkQiRGgmrbow6FmjaeC0IDMwy7vJU-vqqSdV81uZWVBe7UOrY5lXIresu04pvA1THxbPxTOvUajS5loLMFAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q8sMGegUIKhCcAQ",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Samurai+II%3A+Duel+at+Ichijoji+Temple&stick=H4sIAAAAAAAAAJ1U32vbVhjVdbAj37Q0vll_4L6o6hjB0MiWHUsOlCRbRxtKGTQebShUSPK1LFlXkqUbKc5jYf_A2EoHexiBwRh92EOfChv9wRgNZQ_b2N4K7VNbKOvjKIVWtuU4bgms1dO5537fp3POvRKb5rMCEYqa1Ck3xSNrd29YpqPdvcH52FYpbnDEDU0cbIN-lUxDr5FgTWpbcoJLsu1L2wD2sNG2KuXyTlFH3hzhcjPB87LW7ia4EllGKWkWpWIniJINQ2uHpWFRU6ro24DtYakjyUm9RvSKThLe61J9KKglaVpCt0VSHdJOWJsf4prjRcmYpqc0Amsb7BcMoVRqWt3Ql6vt4TowHIl4G5WkUWxY5aFep6lsiMPFZrUjbQ4dVluabTwCj8HU9JP_HszkH4Avr9_7G_wD4OG2viAQ3DDVhailUoW6SqRSvYVmYPpcj0YQsTBzrh88KsLsqklMW_XrLtqfn4ID8XG9LH4ABwItzy_6VtWYvv38GuA74uWbf1z9PXMxx8TPV9-vLuVnCzmYOeUS1XRyP3794tX9b_5dLMxAtq5uuI5LurlrrvLwu7-eLfLHskz_eb7Y6-ZO2stLR7IcMwtK8XLp7Jn8rQJzC6Su_PLDnQzLgmlGTLHMZorN7Nua-C21o_pPEMvW1zXcqIcE_QrghOob6GeAbsYbKw7FfoB1ij6Bk5952FedBpJRFaZP--66hw6O2N1JHBrRUygLJ-vhasuNAlQa8R-hD2H2_ODmxnEdhplPHWrS7hvBoflRSwHN7m45utOSyx9I4rUNUa-FtWae3-vz4OJJXNBTw-cE3bXt2JzpOkLTtElQGL24yHx8fPd-_xYouP9CRY8HGq4fj9uauA3g5JprmURz0ZWxLLVBlJfQ2u4g94js_XzyuadffPtyKg55R3g-mciPqHFbb9vemriegvuWbZsLsB-aeixn3MnlgZML6PP_4eTdD5k_2HdxAL1xiHv-4_jxwnF_x94-NjUIMFU8P25uxOLP11qUesGCIERRNGcEVKWmPqe7RGjjEzQkQiRGgmrbow6FmjaeC0IDMwy7vJU-vqqSdV81uZWVBe7UOrY5lXIresu04pvA1THxbPxTOvUajS5loLMFAAA",
-                "image": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/87dbf59a03b80bad50dd6a9f676c453602d725ca2406b013005bea1a6aba30347a2453c4215e887a0e053d7342a86fec.jpeg"
-            },
-            {
-                "name": "The Men Who Tread on the Tiger's Tail",
-                "extensions": [
-                    "Not Rated",
-                    "1h 0m",
-                    "1952",
-                    "PLEX"
-                ],
-                "watch_options": [
-                    {
-                        "name": "PLEX Free",
-                        "link": "https://watch.plex.tv/movie/the-men-who-tread-on-the-tigers-tail?autoplay=1&utm_content=5d776ceb7a53e9001e74cd2f&utm_medium=deeplink&utm_source=google-catalog"
-                    },
-                    {
-                        "name": "YouTube Primetime subscription",
-                        "link": "https://www.youtube.com/attribution_link?utm_campaign=ytcore&yt_product=ytalc&yt_goal=acq&utm_source=int&utm_medium=gs&utm_content=ump&yt_campaign_id=ytalc22&c=ytcore-ytalc-acq-int-gs-ump-ytalc22&utm_term=video&u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEq9e9p48JrQ"
-                    },
-                    {
-                        "name": "The Roku Channel Premium subscription",
-                        "link": "https://therokuchannel.roku.com/watch/3b7993c9ad6851ab9af3efdb8ca97281?source=google"
-                    },
-                    {
-                        "name": "Amazon Prime Video Premium subscription",
-                        "link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3eab001a-68fa-7c65-95c2-cb2c3f3847fb?autoplay=0&ref_=atv_cf_strg_wb"
-                    }
-                ],
-                "link": "https://www.google.com/search?sca_esv=571184275&q=The+Men+Who+Tread+on+the+Tiger%27s+Tail&stick=H4sIAAAAAAAAAJ1U32vbVhjVdbAj37Q0vlnX4r2oarsFQyNbcSw5UJLsB20ZodB4tGFQoR_XsmRJV5ZupTiPhf4DYxsd7GEEBmP0YQ99KrS0K6U0jD1sY3srtE9tYayPYww62ZbjuCXQTk_fPfc73z3nXElsls8LrlBekLV2Vzy8fve6bXna3etcgB2VYoNzSWThcBv0u2Qa-UZaa1LbltO6IjuBtA1grzbbdnV-fqepI2-O6vlmWvePS-tqbJuVlCxK5U4Ypxum1o4qw6amVNW3AdurpY4kp_2aq1d1N8X9LtWHglqSpqVwW3RrQ9iL6gvDuu75cTqm6StGaG-D_YIpVCpNuxsFcq09XIemJ7n-RjUlioY9P9TrNZUNcbjYrHWkzaHDWktzzMfgCZiafvr3w5niQ_DZtQe_gz8APNTWFwUXG5a6GLdUqlCixCrVW2gGZld7MIKIhbnVfvCoDPNrlms5atAgaH9xCg7EJ_2y-BYcCLT9oBzYNXP6zvOrgO-IF2_88uXPuQsFJnk-_3ZtuThbKsDch8RVLa_w_Rf_vPjpq7-WSjOQbagbxCNut3CVKI---e3PJf5Inuk_z5d6bO6ks7J8OM8xs6CSLJc_Pl28XWJug8zlW9_9mGNZMM2IGZbZzLC5fVsT9zM7qn8FiWz9koaNRuSiewBOqIGJbgJ0I9k441EchFin6AM4edbHgeoZSEY1mD0VkEs-OjhCdyfx9gieQnk42YjWWiQOUWWEv4uOwfy5wZubxHUI5j7yqEW7LwWHFkaUEprdTXlnh1IoHkjjdUxRr0f1ZpHf6_Pgkklc2FPDFwSdOE5iziKe0LQcNyyNDi4z7x_dvd9_CxTcP1DRk4EmCZJxWxN3AJxcJ7blagRdHstSG0T5KVrfHeQekf0_n3zh2ZWv_51KQt4RXkwn8iNo3NartrcmrmXgvhXH4UIcRJaeyBl3cnHg5Dz65DWcvPkl8wf7Lg6gly5xz38cP9447u_Iq9emhiGmih8kZCMRf67eotQPFwUhjuM5M6QqtfQ5nbhCG5-gkSvEYiyojjNiKNRy8FwYmZhh2JWt7PFGC3Or2OPOtwjXCLBqcMTjaAI2LBMH74VcQ7WcH7KZ_wA_1aJftQUAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q8sMGegUIKhC4AQ",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Men+Who+Tread+on+the+Tiger%27s+Tail&stick=H4sIAAAAAAAAAJ1U32vbVhjVdbAj37Q0vlnX4r2oarsFQyNbcSw5UJLsB20ZodB4tGFQoR_XsmRJV5ZupTiPhf4DYxsd7GEEBmP0YQ99KrS0K6U0jD1sY3srtE9tYayPYww62ZbjuCXQTk_fPfc73z3nXElsls8LrlBekLV2Vzy8fve6bXna3etcgB2VYoNzSWThcBv0u2Qa-UZaa1LbltO6IjuBtA1grzbbdnV-fqepI2-O6vlmWvePS-tqbJuVlCxK5U4Ypxum1o4qw6amVNW3AdurpY4kp_2aq1d1N8X9LtWHglqSpqVwW3RrQ9iL6gvDuu75cTqm6StGaG-D_YIpVCpNuxsFcq09XIemJ7n-RjUlioY9P9TrNZUNcbjYrHWkzaHDWktzzMfgCZiafvr3w5niQ_DZtQe_gz8APNTWFwUXG5a6GLdUqlCixCrVW2gGZld7MIKIhbnVfvCoDPNrlms5atAgaH9xCg7EJ_2y-BYcCLT9oBzYNXP6zvOrgO-IF2_88uXPuQsFJnk-_3ZtuThbKsDch8RVLa_w_Rf_vPjpq7-WSjOQbagbxCNut3CVKI---e3PJf5Inuk_z5d6bO6ks7J8OM8xs6CSLJc_Pl28XWJug8zlW9_9mGNZMM2IGZbZzLC5fVsT9zM7qn8FiWz9koaNRuSiewBOqIGJbgJ0I9k441EchFin6AM4edbHgeoZSEY1mD0VkEs-OjhCdyfx9gieQnk42YjWWiQOUWWEv4uOwfy5wZubxHUI5j7yqEW7LwWHFkaUEprdTXlnh1IoHkjjdUxRr0f1ZpHf6_Pgkklc2FPDFwSdOE5iziKe0LQcNyyNDi4z7x_dvd9_CxTcP1DRk4EmCZJxWxN3AJxcJ7blagRdHstSG0T5KVrfHeQekf0_n3zh2ZWv_51KQt4RXkwn8iNo3NartrcmrmXgvhXH4UIcRJaeyBl3cnHg5Dz65DWcvPkl8wf7Lg6gly5xz38cP9447u_Iq9emhiGmih8kZCMRf67eotQPFwUhjuM5M6QqtfQ5nbhCG5-gkSvEYiyojjNiKNRy8FwYmZhh2JWt7PFGC3Or2OPOtwjXCLBqcMTjaAI2LBMH74VcQ7WcH7KZ_wA_1aJftQUAAA",
-                "image": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/87dbf59a03b80bad50dd6a9f676c453602d725ca2406b013005bea1a6aba3034552b8d757c7e20ca68898003ef7cafa9.jpeg"
-            },
-            {
-                "name": "The Sword of Doom",
-                "extensions": [
-                    "Not Rated",
-                    "2h 0m",
-                    "1966",
-                    "From $3.99"
-                ],
-                "watch_options": [
-                    {
-                        "name": "Apple TV From $3.99",
-                        "link": "https://tv.apple.com/us/movie/the-sword-of-doom/umc.cmc.4k2pd4ftpk8mrvcrmtskmdgsj?action=play"
-                    },
-                    {
-                        "name": "Amazon Prime Video From $3.99",
-                        "link": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.62a9f755-34cf-76ee-83d9-9a9af168f189?autoplay=0&ref_=atv_cf_strg_wb"
-                    }
-                ],
-                "link": "https://www.google.com/search?sca_esv=571184275&q=The+Sword+of+Doom&stick=H4sIAAAAAAAAAJ1U32vbVhjVdbAj3zQ0vlnX4L2oainB0MhWHEsOjCRrxjZGKTQubShU6JdlyZKuLN1KcR4D_QfKNjrYwwgUSunDHvIUaOkPxlgYfWjH-lZon9rBWB5HKWyyLcdxSmCbns797ne-e865kug0m-UcrliOLKPET60-3rJMV3m8xfi6LRNdYxwcmnqwA7pdIgk9LcGK0LTEBJdE2xd2AOxgo2mVZ2f3mlri-gDP1hM8JyrNdoK7RydkXii2gijZMJRmWOo31YWyugPoDhZagpj0K45aVp2k7rWJ2hfUEBQlKTd5p9Ivu2F1ro-rrhclY-qepAXWDhjnDK5Uqlvt0Bcrzf46MFzB8dbKCZHXrNm-XrcurfH9xXqlJaz3HVYaim28Aq_B2MSbv15M5l-AG3d__g08B_B4U53nHF0z5fmoIROJYCmSidpAkzB9rlNGENEwc64bPCrC7IrpmLbs1zAaz4_Bnvi4X-Q_gD2BlucXfatiTDzcvQnYFn91--k3TzKXc1T8fHVrZTE_XcjBzDJ2ZNPN3fn67d-_fPvnQmES0jV5DbvYaeduYunl97_-scCeyFLdZ3ehw2Y-tpcWp7IMNQ1K8XLxy8_zDwrUA5DauH_7UYamwQTFp2hqPUVnjmyO_JTaU_0MxLLVa4qu1UIH_QjgiOwb6B5A2_HGFy7R_UBXCToLR897ui-7GhJRBaY_8_E1Dx0bVPcn8eGgPIaycLQWrjRwFKDSoH4anYLZC703N47rOMx86hKTtA8Eh-YGlAKa3k_5aI-Syx9N4rUNXq2G1XqePezzYOJJTNBRw-Y4Fdt2bM7ELlc3bScoDA4uUp-c3L_ffQskvXugpMYDDezH4zZHHgI4uoot01Ew2hjKUulFeQWt7g_ykMj-n0829_v1796NxSHvCc8nE9lBadjW-7Y3R-6m4JEl22YC3Q9NNZYz7ORqz8kldPFfOPnvl8we67o4ig5c4qH_OHa4cdjfifevTQ4CnUieH5O1WPyFaoMQL5jnuCiKZoyAyMRUZ1TscE39DAkdLuIjTrbtAUMipq3PBKGhUxS9tJnO1Ro6sxJhX2NwnVnG2PkhnfoHMrzMY6EFAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q8sMGegUIKhDYAQ",
-                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Sword+of+Doom&stick=H4sIAAAAAAAAAJ1U32vbVhjVdbAj3zQ0vlnX4L2oainB0MhWHEsOjCRrxjZGKTQubShU6JdlyZKuLN1KcR4D_QfKNjrYwwgUSunDHvIUaOkPxlgYfWjH-lZon9rBWB5HKWyyLcdxSmCbns797ne-e865kug0m-UcrliOLKPET60-3rJMV3m8xfi6LRNdYxwcmnqwA7pdIgk9LcGK0LTEBJdE2xd2AOxgo2mVZ2f3mlri-gDP1hM8JyrNdoK7RydkXii2gijZMJRmWOo31YWyugPoDhZagpj0K45aVp2k7rWJ2hfUEBQlKTd5p9Ivu2F1ro-rrhclY-qepAXWDhjnDK5Uqlvt0Bcrzf46MFzB8dbKCZHXrNm-XrcurfH9xXqlJaz3HVYaim28Aq_B2MSbv15M5l-AG3d__g08B_B4U53nHF0z5fmoIROJYCmSidpAkzB9rlNGENEwc64bPCrC7IrpmLbs1zAaz4_Bnvi4X-Q_gD2BlucXfatiTDzcvQnYFn91--k3TzKXc1T8fHVrZTE_XcjBzDJ2ZNPN3fn67d-_fPvnQmES0jV5DbvYaeduYunl97_-scCeyFLdZ3ehw2Y-tpcWp7IMNQ1K8XLxy8_zDwrUA5DauH_7UYamwQTFp2hqPUVnjmyO_JTaU_0MxLLVa4qu1UIH_QjgiOwb6B5A2_HGFy7R_UBXCToLR897ui-7GhJRBaY_8_E1Dx0bVPcn8eGgPIaycLQWrjRwFKDSoH4anYLZC703N47rOMx86hKTtA8Eh-YGlAKa3k_5aI-Syx9N4rUNXq2G1XqePezzYOJJTNBRw-Y4Fdt2bM7ELlc3bScoDA4uUp-c3L_ffQskvXugpMYDDezH4zZHHgI4uoot01Ew2hjKUulFeQWt7g_ykMj-n0829_v1796NxSHvCc8nE9lBadjW-7Y3R-6m4JEl22YC3Q9NNZYz7ORqz8kldPFfOPnvl8we67o4ig5c4qH_OHa4cdjfifevTQ4CnUieH5O1WPyFaoMQL5jnuCiKZoyAyMRUZ1TscE39DAkdLuIjTrbtAUMipq3PBKGhUxS9tJnO1Ro6sxJhX2NwnVnG2PkhnfoHMrzMY6EFAAA",
-                "image": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/87dbf59a03b80bad50dd6a9f676c453602d725ca2406b013005bea1a6aba3034419a9c81a35c36769d7a2b56a0805433.jpeg"
+                "name": "Lone Survivor",
+                "image": "https://serpapi.com/searches/652143a249ecdbf776bdebb9/images/d93591f12e5dbd58ec7282c26f9575ca7787728e7d1d4ff34cde3b2f7a97bdc441a9b1e5d2c5137f20d6d6874257b71f64cba935272cd017.jpeg"
             }
-        ]
+        ],
+        "movies_like_hacksaw_ridge_link": "https://www.google.com#"
     },
-    "inline_videos": [
-        {
-            "position": 1,
-            "title": "YOJIMBO Trailer (1961) - The Criterion Collection",
-            "link": "https://www.youtube.com/watch?v=y_1iT_GmHTE",
-            "thumbnail": "https://i.ytimg.com/vi/y_1iT_GmHTE/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3mQvG2llY0psGqaj-6tLGQkCdyBQg",
-            "channel": "criterioncollection",
-            "platform": "YouTube",
-            "date": "Jan 19, 2010"
-        },
-        {
-            "position": 2,
-            "title": "YOJIMBO & A FISTFUL OF DOLLARS - How The Western ...",
-            "link": "https://www.youtube.com/watch?v=_0kJkShY1-E",
-            "thumbnail": "https://i.ytimg.com/vi/_0kJkShY1-E/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3mG39gAnSxpg31NvRNfwAbM7WBrTw",
-            "channel": "Matt Draper",
-            "platform": "YouTube",
-            "date": "Aug 5, 2020",
-            "key_moments": [
-                {
-                    "time": "00:15",
-                    "title": "Akira Kurosawa and Sergio Leone",
-                    "link": "https://www.youtube.com/watch?v=_0kJkShY1-E&t=15",
-                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpIWLwg8BmFzP36yUA3TROjxdN0QFAb8n8enzk1dW2fg&s"
-                },
-                {
-                    "time": "01:26",
-                    "title": "Kurosawa",
-                    "link": "https://www.youtube.com/watch?v=_0kJkShY1-E&t=86",
-                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCvgwA_vZRDdhmupNC9wcLxiSlJ1Prc0ZqRQYBHt50oA&s"
-                },
-                {
-                    "time": "05:34",
-                    "title": "Setting",
-                    "link": "https://www.youtube.com/watch?v=_0kJkShY1-E&t=334",
-                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlmluA6pyAAwdO4TVtnQAgebVjT47qLzGHuZhjWyc11g&s"
-                },
-                {
-                    "time": "13:40",
-                    "title": "Super Samurai",
-                    "link": "https://www.youtube.com/watch?v=_0kJkShY1-E&t=820",
-                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP_QmExaYyIRhH-oS3d-GawciCwZuYz4-wScudKRHlCw&s"
-                }
-            ]
-        },
-        {
-            "position": 3,
-            "title": "Yojimbo -- What Makes This Movie Great? (Episode 40)",
-            "link": "https://www.youtube.com/watch?v=8GZwRcaz-tc",
-            "thumbnail": "https://i.ytimg.com/vi/8GZwRcaz-tc/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3koIqLipWh5ILzUfsuLhbC8KQ63kw",
-            "channel": "Learning about Movies",
-            "platform": "YouTube",
-            "date": "May 8, 2020",
-            "key_moments": [
-                {
-                    "time": "00:13",
-                    "title": "Yojimbo",
-                    "link": "https://www.youtube.com/watch?v=8GZwRcaz-tc&t=13",
-                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ74EWunKww0k82jdlGQd_g1Ux6n53kIWOxDWzKFExysg&s"
-                },
-                {
-                    "time": "00:55",
-                    "title": "The Samurai",
-                    "link": "https://www.youtube.com/watch?v=8GZwRcaz-tc&t=55",
-                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYtQO4146wWE0Zig-fx-xyZLtZz8ojd-DbEml-ayrkIQ&s"
-                },
-                {
-                    "time": "06:29",
-                    "title": "Samurai",
-                    "link": "https://www.youtube.com/watch?v=8GZwRcaz-tc&t=389",
-                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Y3xeHfKakjW54eAcHKwckb8iXaRKn_Y9LGT3Cgso1A&s"
-                },
-                {
-                    "time": "07:22",
-                    "title": "Male Cowardice versus Male Courage",
-                    "link": "https://www.youtube.com/watch?v=8GZwRcaz-tc&t=442",
-                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfE73oceIJx--ANPZRctUeLLYI544LqSRPYeVoO1Tcdg&s"
-                },
-                {
-                    "time": "07:50",
-                    "title": "Sendero",
-                    "link": "https://www.youtube.com/watch?v=8GZwRcaz-tc&t=470",
-                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4CBzyldIzalX1HmEMltkS2molSy-5lVIC-8vwjaAOlQ&s"
-                },
-                {
-                    "time": "08:14",
-                    "title": "Score",
-                    "link": "https://www.youtube.com/watch?v=8GZwRcaz-tc&t=494",
-                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQclKQP8rOBkBr7YknBCxJDUtM7T-m02VD3JiQqSTSFiA&s"
-                }
-            ]
-        }
-    ],
-    "inline_people_also_search_for": [
-        {
-            "title": "Kurosawa films",
-            "items": [
-                {
-                    "name": "A Fistful of Dollars",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr4I9aFo6SOv3cORlio489htwPnZdLIa9iKBgphA&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=A+Fistful+of+Dollars&stick=H4sIAAAAAAAAAOOQUeLUz9U3MLKoyjA04ssuLcovTixPVEjLzMktjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4wIXVC2YUlyhgWMbZFTZA5jW-YVlJ9i5ACxzQvNLaDMbKNcM5hoUUkaTHFemaUplG1sapxkCRPPLslO-cXI543ivgYWxkWsIo4KbpnFJWmlOQr5aQou-Tk5iUXFt9gkGQ5cyVzy60TSPj01zgkJOZwmG2ZyfD_MsusSAGHybZnzAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAB6BAhLEAI",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=A+Fistful+of+Dollars&stick=H4sIAAAAAAAAAOOQUeLUz9U3MLKoyjA04ssuLcovTixPVEjLzMktjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4wIXVC2YUlyhgWMbZFTZA5jW-YVlJ9i5ACxzQvNLaDMbKNcM5hoUUkaTHFemaUplG1sapxkCRPPLslO-cXI543ivgYWxkWsIo4KbpnFJWmlOQr5aQou-Tk5iUXFt9gkGQ5cyVzy60TSPj01zgkJOZwmG2ZyfD_MsusSAGHybZnzAAAA"
-                },
-                {
-                    "name": "Yojimbo",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVhGY-HZcoUTJtwftAzWiuIj1o5m9sAxbv6uzj9w&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=Yojimbo&stick=H4sIAAAAAAAAAOOQUeLUz9U3MCxJzrAw4ssuLcovTixPVEjLzMktjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4xgXUYWVRmGUDbYBBjbIqfIHMa2zCsoP8XIAWKbF5pbQJnZRrlmMNGikjSY4rwyS1Mo29jUOMkSJp5dkp3yi5HPG8V9DSyMi1jZI_OzMnOT8m-xSTIcuJK55NeJpH16apwTEnI4TTbM5Ph-mGXXJQADTrlq5gAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAF6BAhLEAM",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Yojimbo&stick=H4sIAAAAAAAAAOOQUeLUz9U3MCxJzrAw4ssuLcovTixPVEjLzMktjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4xgXUYWVRmGUDbYBBjbIqfIHMa2zCsoP8XIAWKbF5pbQJnZRrlmMNGikjSY4rwyS1Mo29jUOMkSJp5dkp3yi5HPG8V9DSyMi1jZI_OzMnOT8m-xSTIcuJK55NeJpH16apwTEnI4TTbM5Ph-mGXXJQADTrlq5gAAAA"
-                },
-                {
-                    "name": "Sanjuro",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ImG7ARaU3ydCsXVgt2A4_iZHBIfvHZQ7k8qOdw&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=Sanjuro&stick=H4sIAAAAAAAAAOOQUeLUz9U3MLTIKTI34ssuLcovTixPVEjLzMktjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4xgXUYWVRmGULZhSXKGBYwNMg3GtswrKD_FyAFimxeaW0CZ2Ua5ZjDRopI0mOK8MktTKNvY1DjJEiaeXZKd8ouRzxvFfQ0sjItY2YMT87KAwrfYJBkOXMlc8utE0j49Nc4JCTmcJhtmcnw_zLLrEgBFhBhT5gAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAJ6BAhLEAQ",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sanjuro&stick=H4sIAAAAAAAAAOOQUeLUz9U3MLTIKTI34ssuLcovTixPVEjLzMktjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4xgXUYWVRmGULZhSXKGBYwNMg3GtswrKD_FyAFimxeaW0CZ2Ua5ZjDRopI0mOK8MktTKNvY1DjJEiaeXZKd8ouRzxvFfQ0sjItY2YMT87KAwrfYJBkOXMlc8utE0j49Nc4JCTmcJhtmcnw_zLLrEgBFhBhT5gAAAA"
-                },
-                {
-                    "name": "Rashomon",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2y8QD9_u4NwLunOnJzud1LnIac_0ugD9b4XosNQ&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=Rashomon&stick=H4sIAAAAAAAAAOOQUeLUz9U3MLTMKyg34ssuLcovTixPVEjLzMktjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4xgXUYWVRmGULZhSXKGBYxtkVNkDmODTD7FyAFimxeaW0CZ2Ua5ZjDRopI0mOK8MktTKNvY1DjJEiaeXZKd8ouRzxvFfQ0sjItYOYISizPyc_PzbrFJMhy4krnk14mkfXpqnBMScjhNNszk-H6YZdclAKcAh5TnAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAN6BAhLEAU",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Rashomon&stick=H4sIAAAAAAAAAOOQUeLUz9U3MLTMKyg34ssuLcovTixPVEjLzMktjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4xgXUYWVRmGULZhSXKGBYxtkVNkDmODTD7FyAFimxeaW0CZ2Ua5ZjDRopI0mOK8MktTKNvY1DjJEiaeXZKd8ouRzxvFfQ0sjItYOYISizPyc_PzbrFJMhy4krnk14mkfXpqnBMScjhNNszk-H6YZdclAKcAh5TnAAAA"
-                },
-                {
-                    "name": "Seven Samurai",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwXRGK3X1fWjnvp4Ju-ux8cNXPA3-wfa-7P05_Rw&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=Seven+Samurai&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC80tzDiyy4tyi9OLE9USMvMyS2Okog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjJwgTUYWVRmGULZhSXKGBYxtkVNkDmNb5hWUn2KEWwJlZhvlmsFEi0rSYIrzyixNoWxjU-MkS5h4dkl2yi9GPm8U9zWwMC5i5Q1OLUvNUwhOzC0tSsy8xSbJcOBK5pJfJ5L26alxTkjI4TTZMJPj-2GWXZcAPO_cm-sAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAR6BAhLEAY",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Seven+Samurai&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC80tzDiyy4tyi9OLE9USMvMyS2Okog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjJwgTUYWVRmGULZhSXKGBYxtkVNkDmNb5hWUn2KEWwJlZhvlmsFEi0rSYIrzyixNoWxjU-MkS5h4dkl2yi9GPm8U9zWwMC5i5Q1OLUvNUwhOzC0tSsy8xSbJcOBK5pJfJ5L26alxTkjI4TTZMJPj-2GWXZcAPO_cm-sAAAA"
-                },
-                {
-                    "name": "Ran",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQan4I693-GvWk0auqlTj5sYXEXLpOFg-wk7O0RSw&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=Ran+(film)&stick=H4sIAAAAAAAAAOOQUeLQz9U3yDbKNTPiyy4tyi9OLE9USMvMyS2Okog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjJwgTUYWVRmGULZhSXKGBYxtkVNkDmNb5hWUn2IEW2JeaG4BZYLsg4kWlaTBFOeVWZpC2camxkmWMPHskuyUX4x83ijua2BhXMTKFZSYp6AB4mveYpNkOHAlc8mvE0n79NQ4JyTkcJpsmMnx_TDLrksAXQxLEugAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAV6BAhLEAc",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Ran+%28film%29&stick=H4sIAAAAAAAAAOOQUeLQz9U3yDbKNTPiyy4tyi9OLE9USMvMyS2Okog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjJwgTUYWVRmGULZhSXKGBYxtkVNkDmNb5hWUn2IEW2JeaG4BZYLsg4kWlaTBFOeVWZpC2camxkmWMPHskuyUX4x83ijua2BhXMTKFZSYp6AB4mveYpNkOHAlc8mvE0n79NQ4JyTkcJpsmMnx_TDLrksAXQxLEugAAAA"
-                }
-            ],
-            "see_more_link": "https://www.google.com/search?sca_esv=571184275&q=Kurosawa+films&stick=H4sIAAAAAAAAAOOQMeLLLi3KL04sT1RIy8zJLY6SiDy8JSszL-nwFoWi1JzEktQUhdz8sszU4lOMnPq5-gZGFlUZhlC2YUlyhgWMbZFTZA5jW-YVlJ9i5ACxzQvNLaDMbKNcM5hoUUkaTHFemaUplG1sapxkCRPPLslO-cXI543ivgYWxkWsaGK32CQZDlzJXPLrRNI-PTXOCQk5nCYbZnJ8P8yy6xIAlYkt0uIAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q4qYDegQISxAI",
-            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Kurosawa+films&stick=H4sIAAAAAAAAAOOQMeLLLi3KL04sT1RIy8zJLY6SiDy8JSszL-nwFoWi1JzEktQUhdz8sszU4lOMnPq5-gZGFlUZhlC2YUlyhgWMbZFTZA5jW-YVlJ9i5ACxzQvNLaDMbKNcM5hoUUkaTHFemaUplG1sapxkCRPPLslO-cXI543ivgYWxkWsaGK32CQZDlzJXPLrRNI-PTXOCQk5nCYbZnJ8P8yy6xIAlYkt0uIAAAA"
-        },
-        {
-            "title": "Yojimbo adaptations",
-            "items": [
-                {
-                    "name": "Last Man Standing",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFgoRieGUYkcmRP3e5YS4VTXkAIxsh2N7o4_w84A&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=Last+Man+Standing+1996&stick=H4sIAAAAAAAAAOOQUeLUz9U3sMgyM6o0Eq7Mz8rMTcpXSExJLChJLMnMzyuOkog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjGCtRhZVGYZQNtiYU4xcYHHzkjQLcyjHxNA4JbcMqirNMt4o_RejcCSmbQ0sjItYxXwSi0sUfBPzFIJLEvNSMvPSFQwtLc1usUkyHLiSucRyddg_rfu_GffxN71i-hFmyGVfmAsAFciVYsgAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAB6BAhMEAI",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Last+Man+Standing+1996&stick=H4sIAAAAAAAAAOOQUeLUz9U3sMgyM6o0Eq7Mz8rMTcpXSExJLChJLMnMzyuOkog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjGCtRhZVGYZQNtiYU4xcYHHzkjQLcyjHxNA4JbcMqirNMt4o_RejcCSmbQ0sjItYxXwSi0sUfBPzFIJLEvNSMvPSFQwtLc1usUkyHLiSucRyddg_rfu_GffxN71i-hFmyGVfmAsAFciVYsgAAAA"
-                },
-                {
-                    "name": "Sukiyaki Western Django",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLGV46Qvces5mFffEN6jOS15X7rvssw4gwsocBqw&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=Sukiyaki+Western+Django&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDIvSbMwNxKuzM_KzE3KV0hMSSwoSSzJzM8rjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4ycYL0WVRmGULZFlplR5SlGJDOhHBND45TcMqiqNMt4o_RfjMKRmLY1sDAuYhUPLs3OrEzMzlQITy0uSS3KU3DJSsxLz7_FJslw4ErmEsvVYf-07v9m3Mff9IrpR5ghl31hLgAmns4cygAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAF6BAhMEAM",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sukiyaki+Western+Django&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDIvSbMwNxKuzM_KzE3KV0hMSSwoSSzJzM8rjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4ycYL0WVRmGULZFlplR5SlGJDOhHBND45TcMqiqNMt4o_RfjMKRmLY1sDAuYhUPLs3OrEzMzlQITy0uSS3KU3DJSsxLz7_FJslw4ErmEsvVYf-07v9m3Mff9IrpR5ghl31hLgAmns4cygAAAA"
-                },
-                {
-                    "name": "Inferno",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnFGktt1BSq_Sco94dU9gcQpQ8wjE5j92YF0gmnw&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=Inferno+1999&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDE0TsktMxKuzM_KzE3KV0hMSSwoSSzJzM8rjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4ycIL1GFlUZhlC2RZaZUeUpRrCZRuYlaRbmUA7EAqiqNMt4o_RfjMKRmLY1sDAuYuXxzEtLLcrLVzC0tLS8xSbJcOBK5hLL1WH_tO7_ZtzH3_SK6UeYIZd9YS4AVm-dhb8AAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAJ6BAhMEAQ",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inferno+1999&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDE0TsktMxKuzM_KzE3KV0hMSSwoSSzJzM8rjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4ycIL1GFlUZhlC2RZaZUeUpRrCZRuYlaRbmUA7EAqiqNMt4o_RfjMKRmLY1sDAuYuXxzEtLLcrLVzC0tLS8xSbJcOBK5hLL1WH_tO7_ZtzH3_SK6UeYIZd9YS4AVm-dhb8AAAA"
-                },
-                {
-                    "name": "Omega Doom",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkfAMjSFJ70xh-rjr0GEKUAzIRKgoGZ_F8y2FzCQ&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=Omega+Doom&stick=H4sIAAAAAAAAAOOQUeLUz9U3SLOMN0o3Eq7Mz8rMTcpXSExJLChJLMnMzyuOkog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjGCtRhZVGYZQtkWWmVHlKUYusLh5SZqFOZRjYmicklsGVQW27BejcCSmbQ0sjItYufxzU9MTFVzy83NvsUkyHLiSucRyddg_rfu_GffxN71i-hFmyGVfmAsAToTaK7wAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAN6BAhMEAU",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Omega+Doom&stick=H4sIAAAAAAAAAOOQUeLUz9U3SLOMN0o3Eq7Mz8rMTcpXSExJLChJLMnMzyuOkog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjGCtRhZVGYZQtkWWmVHlKUYusLh5SZqFOZRjYmicklsGVQW27BejcCSmbQ0sjItYufxzU9MTFVzy83NvsUkyHLiSucRyddg_rfu_GffxN71i-hFmyGVfmAsAToTaK7wAAAA"
-                },
-                {
-                    "name": "A Fistful of Dollars",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr4I9aFo6SOv3cORlio489htwPnZdLIa9iKBgphA&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=A+Fistful+of+Dollars&stick=H4sIAAAAAAAAAOOQUeLUz9U3MLKoyjA0Eq7Mz8rMTcpXSExJLChJLMnMzyuOkog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjAitULZFlplR5SlGLrC4eUmahTmUY2JonJJbBlWVZhlvlP6LUTgS07YGFsZFrCKOCm6ZxSVppTkK-WkKLvk5OYlFxbfYJBkOXMlcYrk67J_W_d-M-_ibXjH9CDPksi_MBQD781YexgAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAR6BAhMEAY",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=A+Fistful+of+Dollars&stick=H4sIAAAAAAAAAOOQUeLUz9U3MLKoyjA0Eq7Mz8rMTcpXSExJLChJLMnMzyuOkog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjAitULZFlplR5SlGLrC4eUmahTmUY2JonJJbBlWVZhlvlP6LUTgS07YGFsZFrCKOCm6ZxSVppTkK-WkKLvk5OYlFxbfYJBkOXMlcYrk67J_W_d-M-_ibXjH9CDPksi_MBQD781YexgAAAA"
-                }
-            ],
-            "see_more_link": "https://www.google.com/search?sca_esv=571184275&q=Yojimbo+adaptations&stick=H4sIAAAAAAAAAOOQMRKuzM_KzE3KV0hMSSwoSSzJzM8rjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4yc-rn6BkYWVRmGULZFlplR5SlGLrC4eUmahTmUY2JonJJbBlWVZhlvlP6LUTgS07YGFsZFrNgkbrFJMhy4krnEcnXYP637vxn38Te9YvoRZshlX5gLALg8A-S6AAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q4qYDegQITBAH",
-            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Yojimbo+adaptations&stick=H4sIAAAAAAAAAOOQMRKuzM_KzE3KV0hMSSwoSSzJzM8rjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4yc-rn6BkYWVRmGULZFlplR5SlGLrC4eUmahTmUY2JonJJbBlWVZhlvlP6LUTgS07YGFsZFrNgkbrFJMhy4krnEcnXYP637vxn38Te9YvoRZshlX5gLALg8A-S6AAAA"
-        },
-        {
-            "title": "Seven Samurai adaptations",
-            "items": [
-                {
-                    "name": "Samurai 7",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSJl-z7ZJyis7s30tipnBmFcYDKHmYOMlr0E7wnQ&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=Samurai+7&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDHIyC03kixOLUvNUyhOzC0tSsxUSExJLChJLMnMzyuOkog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjAgDTjFygNjmRSVppxh59dP1DQ2TzLONS9JKjGHKkorTMk4xcoHY6Tk5xQXxUIn0MvO0kl-MksFgFwRjuqCBhXERKydMwvwWmyTDgSuZSyabe6187CB_5uVNNpbaAImz1da_MwFV4ZQe1QAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAB6BAhOEAI",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Samurai+7&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDHIyC03kixOLUvNUyhOzC0tSsxUSExJLChJLMnMzyuOkog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjAgDTjFygNjmRSVppxh59dP1DQ2TzLONS9JKjGHKkorTMk4xcoHY6Tk5xQXxUIn0MvO0kl-MksFgFwRjuqCBhXERKydMwvwWmyTDgSuZSyabe6187CB_5uVNNpbaAImz1da_MwFV4ZQe1QAAAA"
-                },
-                {
-                    "name": "The Magnificent Seven",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4uk6ZU3tVXVur4Ew-SDFff60nGhAXa47PGrboIg&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=The+Magnificent+Seven+1960&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC8qSTOSLE4tS81TKE7MLS1KzFRITEksKEksyczPK46SiDy8JSszL-nwFoWi1JzEktQUhdz8sszU4lOMnCD9JgYZueWnGOFmnWLk1U_XNzRMMs82LkkrMYYpSypOyzjFyAVip-fkFBfEQyXSy8zTSn4xSgaDXRCM6YIGFsZFrFIhGakKvonpeZlpmcmpeSUKEOWGlmYGt9gkGQ5cyVwy2dxr5WMH-TMvb7Kx1AZInK22_p0JACDrk0XlAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAF6BAhOEAM",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Magnificent+Seven+1960&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC8qSTOSLE4tS81TKE7MLS1KzFRITEksKEksyczPK46SiDy8JSszL-nwFoWi1JzEktQUhdz8sszU4lOMnCD9JgYZueWnGOFmnWLk1U_XNzRMMs82LkkrMYYpSypOyzjFyAVip-fkFBfEQyXSy8zTSn4xSgaDXRCM6YIGFsZFrFIhGakKvonpeZlpmcmpeSUKEOWGlmYGt9gkGQ5cyVwy2dxr5WMH-TMvb7Kx1AZInK22_p0JACDrk0XlAAAA"
-                },
-                {
-                    "name": "The Magnificent Seven",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlPxReBrnWJnc7nyiwtS1wMUgYNPLbwxAhv_A7gg&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=The+Magnificent+Seven+2016&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwyzzYuSSsxNpIsTi1LzVMoTswtLUrMVEhMSSwoSSzJzM8rjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4yc-rn6BiYGGbnlpxg5QGzzopK0U4yoZsOUJRWnZZxi5AKx03NyigvioRLpZeZpJb8YJYPBLgjGdEEDC-MiVqmQjFQF38T0vMy0zOTUvBIFiHIjA0OzW2ySDAeuZC6ZbO618rGD_JmXN9lYagMkzlZb_84EAL560v3qAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAJ6BAhOEAQ",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Magnificent+Seven+2016&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwyzzYuSSsxNpIsTi1LzVMoTswtLUrMVEhMSSwoSSzJzM8rjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4yc-rn6BiYGGbnlpxg5QGzzopK0U4yoZsOUJRWnZZxi5AKx03NyigvioRLpZeZpJb8YJYPBLgjGdEEDC-MiVqmQjFQF38T0vMy0zOTUvBIFiHIjA0OzW2ySDAeuZC6ZbO618rGD_JmXN9lYagMkzlZb_84EAL560v3qAAAA"
-                },
-                {
-                    "name": "Battle Beyond the Stars",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPN2UvAzIy6AGnEBdQxdw-lw-SKTspRVmb48vheA&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=Battle+Beyond+the+Stars&stick=H4sIAAAAAAAAAOOQUeLUz9U3MEkqTsswkixOLUvNUyhOzC0tSsxUSExJLChJLMnMzyuOkog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjBADDDJyy08xcoDY5kUlaacYefXT9Q0Nk8yzjUvSSoxhykD2nGLkArHTc3KKC-KhEull5mklvxglg8EuCMZ0QQML4yJWcafEkpKcVAWn1Mr8vBSFkoxUheCSxKLiW2ySDAeuZC6ZbO618rGD_JmXN9lYagMkzlZb_84EAAERCgvjAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAN6BAhOEAU",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Battle+Beyond+the+Stars&stick=H4sIAAAAAAAAAOOQUeLUz9U3MEkqTsswkixOLUvNUyhOzC0tSsxUSExJLChJLMnMzyuOkog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjBADDDJyy08xcoDY5kUlaacYefXT9Q0Nk8yzjUvSSoxhykD2nGLkArHTc3KKC-KhEull5mklvxglg8EuCMZ0QQML4yJWcafEkpKcVAWn1Mr8vBSFkoxUheCSxKLiW2ySDAeuZC6ZbO618rGD_JmXN9lYagMkzlZb_84EAAERCgvjAAAA"
-                },
-                {
-                    "name": "The Seven Magnificent Gladiators",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqX9rWWtrs82b2zIEVbjBtmESFocxN-9O4PmC3_w&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=The+Seven+Magnificent+Gladiators&stick=H4sIAAAAAAAAAOOQUeLSz9U3SM_JKS6IN5IsTi1LzVMoTswtLUrMVEhMSSwoSSzJzM8rjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4ycIBNMDDJyy08xcoDY5kUlaacYefXT9Q0Nk8yzjUvSSoxhypKK0zJOMSJZCpVILzNPK_nFKBkMdkEwpgsaWBgXsSqEZKQqQJT4JqbnZaZlJqfmlSi45ySmZCaW5BcV32KTZDhwJXPJZHOvlY8d5M-8vMnGUhsgcbba-ncmAIyHY9rtAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAR6BAhOEAY",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Seven+Magnificent+Gladiators&stick=H4sIAAAAAAAAAOOQUeLSz9U3SM_JKS6IN5IsTi1LzVMoTswtLUrMVEhMSSwoSSzJzM8rjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4ycIBNMDDJyy08xcoDY5kUlaacYefXT9Q0Nk8yzjUvSSoxhypKK0zJOMSJZCpVILzNPK_nFKBkMdkEwpgsaWBgXsSqEZKQqQJT4JqbnZaZlJqfmlSi45ySmZCaW5BcV32KTZDhwJXPJZHOvlY8d5M-8vMnGUhsgcbba-ncmAIyHY9rtAAAA"
-                },
-                {
-                    "name": "The Magnificent Seven",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0UmM3q-vrTf0i3okqBAnulsrpd0ng1TqJ2HWoww&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=The+Magnificent+Seven+(TV+series)&stick=H4sIAAAAAAAAAOOQUeLUz9U3SC8zTysxkixOLUvNUyhOzC0tSsxUSExJLChJLMnMzyuOkog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjGADTAwycstPMXKA2OZFJWmnGHn10_UNDZPMs41L0kqMYcqSitMyTjFyge3MySkuiIdKgB3wi1EyGOyCYEwXNLAwLmJVDMlIVfBNTM_LTMtMTs0rUYAo1wgJUyhOLQK6RvMWmyTDgSuZSyabe6187CB_5uVNNpbaAImz1da_MwEPS8vY7QAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAV6BAhOEAc",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Magnificent+Seven+%28TV+series%29&stick=H4sIAAAAAAAAAOOQUeLUz9U3SC8zTysxkixOLUvNUyhOzC0tSsxUSExJLChJLMnMzyuOkog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjGADTAwycstPMXKA2OZFJWmnGHn10_UNDZPMs41L0kqMYcqSitMyTjFyge3MySkuiIdKgB3wi1EyGOyCYEwXNLAwLmJVDMlIVfBNTM_LTMtMTs0rUYAo1wgJUyhOLQK6RvMWmyTDgSuZSyabe6187CB_5uVNNpbaAImz1da_MwEPS8vY7QAAAA"
-                }
-            ],
-            "see_more_link": "https://www.google.com/search?sca_esv=571184275&q=Seven+Samurai+adaptations&stick=H4sIAAAAAAAAAOOQMZIsTi1LzVMoTswtLUrMVEhMSSwoSSzJzM8rjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4yc-rn6BiYGGbnlpxg5QGzzopK0U4y8-un6hoZJ5tnGJWklxjBlScVpGacYuUDs9Jyc4oJ4qER6mXlayS9GyWCwC4IxXdDAwriIFbf0LTZJhgNXMpdMNvda-dhB_szLm2wstQESZ6utf2cCAD6WfJvaAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q4qYDegQIThAI",
-            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Seven+Samurai+adaptations&stick=H4sIAAAAAAAAAOOQMZIsTi1LzVMoTswtLUrMVEhMSSwoSSzJzM8rjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4yc-rn6BiYGGbnlpxg5QGzzopK0U4y8-un6hoZJ5tnGJWklxjBlScVpGacYuUDs9Jyc4oJ4qER6mXlayS9GyWCwC4IxXdDAwriIFbf0LTZJhgNXMpdMNvda-dhB_szLm2wstQESZ6utf2cCAD6WfJvaAAAA"
-        }
-    ],
     "related_questions": [
         {
-            "question": "What films are based on the seven samurai?",
-            "snippet": "Battle Beyond the Stars (1980) is an American science fiction film directed by Jimmy T. Murakami and produced by Roger Corman. The film, intended as a \"Magnificent Seven in outer space\", is based on the plots of The Magnificent Seven and Seven Samurai.",
-            "title": "Seven Samurai - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Seven_Samurai#:~:text=Battle%20Beyond%20the%20Stars%20(1980,Magnificent%20Seven%20and%20Seven%20Samurai.",
-            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Seven_Samurai",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHnaZh8MlFfYAg6uq0PGrCqI63UGHWJ3_H43HQaX8p&s",
-            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVIyWXpObTV2WXpaVU1Xb3pObHBRUXpGaFNIQnNlWEpoWTJWbk1saGhlVE5YUmtZeWJqSmtaRjlwVGtkbU5EZHNaRFZ2Wlcxa1ZXcElha3d5VTNaUWRWQklORmhmRWhkT1NtZG1XbVJ0U1VKWkxYVnhkSE5RZW1aSGVEaEJOQm9pUVVwM2F5MDRZekU1ZUUwdFdtdzJjMlV4VlhCMVozbFBOVlpRZWtKU2VVOTNadyIsImZjdiI6IjMiLCJlaSI6Ik5KZ2ZaZG1JQlktdXF0c1B6Zkd4OEE0IiwicWMiOiJDaGg1dzdScWFXNWl3N1FnY21Wc1lYUmxaQ0J0YjNacFpYTVFBSDF3N2RzLSIsInF1ZXN0aW9uIjoiV2hhdCBmaWxtcyBhcmUgYmFzZWQgb24gdGhlIHNldmVuIHNhbXVyYWk/IiwibGsiOiJHaWwzYUdGMElHWnBiRzF6SUdGeVpTQmlZWE5sWkNCdmJpQjBhR1VnYzJWMlpXNGdjMkZ0ZFhKaGFRIiwiYnMiOiJjMDJNc1FvQ01SQkVVYXkyRXFzckYyelVRbTJzZzdVZklCWVdlMmJEclY2eWtPVHVmc2FfOEVjc19SeURJRnBNTVROdkJqYXdPamFVMFVuckUxSmtyQ214UlEyWUc4YkVQUWRNNUx0SVlxcjdHQll3X3d5ODlzSW82Y3M3VjRRbnZZcXYxVlRQQ2V4Zy0wZGE1ZktQVVlNRXZLZ3ZMbXNKc2c0QnJmUmkyWnJxTVlNMUxILXpWQ3FMLTV0RXdrTVhOZEZBS01HMUhZY0xtLXAxbm83ZSIsImlkIjoiZmNfMSJ9",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVIyWXpObTV2WXpaVU1Xb3pObHBRUXpGaFNIQnNlWEpoWTJWbk1saGhlVE5YUmtZeWJqSmtaRjlwVGtkbU5EZHNaRFZ2Wlcxa1ZXcElha3d5VTNaUWRWQklORmhmRWhkT1NtZG1XbVJ0U1VKWkxYVnhkSE5RZW1aSGVEaEJOQm9pUVVwM2F5MDRZekU1ZUUwdFdtdzJjMlV4VlhCMVozbFBOVlpRZWtKU2VVOTNadyIsImZjdiI6IjMiLCJlaSI6Ik5KZ2ZaZG1JQlktdXF0c1B6Zkd4OEE0IiwicWMiOiJDaGg1dzdScWFXNWl3N1FnY21Wc1lYUmxaQ0J0YjNacFpYTVFBSDF3N2RzLSIsInF1ZXN0aW9uIjoiV2hhdCBmaWxtcyBhcmUgYmFzZWQgb24gdGhlIHNldmVuIHNhbXVyYWk%2FIiwibGsiOiJHaWwzYUdGMElHWnBiRzF6SUdGeVpTQmlZWE5sWkNCdmJpQjBhR1VnYzJWMlpXNGdjMkZ0ZFhKaGFRIiwiYnMiOiJjMDJNc1FvQ01SQkVVYXkyRXFzckYyelVRbTJzZzdVZklCWVdlMmJEclY2eWtPVHVmc2FfOEVjc19SeURJRnBNTVROdkJqYXdPamFVMFVuckUxSmtyQ214UlEyWUc4YkVQUWRNNUx0SVlxcjdHQll3X3d5ODlzSW82Y3M3VjRRbnZZcXYxVlRQQ2V4Zy0wZGE1ZktQVVlNRXZLZ3ZMbXNKc2c0QnJmUmkyWnJxTVlNMUxILXpWQ3FMLTV0RXdrTVhOZEZBS01HMUhZY0xtLXAxbm83ZSIsImlkIjoiZmNfMSJ9"
+            "question": "What should I watch if I liked Hacksaw Ridge?",
+            "title": "10 War Movies To Watch If You Love Hacksaw Ridge",
+            "date": "Mar 20, 2021",
+            "link": "https://screenrant.com/best-war-movies-like-hacksaw-ridge/",
+            "list": [
+                "American Sniper (2014) ... ",
+                "Darkest Hour (2017) ... ",
+                "Empire Of The Sun (1987) ... ",
+                "Black Hawk Down (2001) ... ",
+                "Dunkirk (2017) ... ",
+                "The Wind Rises (2013) ... ",
+                "Patton (1970) ... ",
+                "The Imitation Game (2014)"
+            ],
+            "displayed_link": "https://screenrant.com \u203a Movies \u203a Movie Lists",
+            "thumbnail": "https://serpapi.com/searches/652143a249ecdbf776bdebb9/images/86cbd96e991992619ce01ad253968bdb560a9d5a47c4fb710febb140d80deb05.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWWJGSldUVUZKT0RGc1RHZzVkemRJZVhwYVdITXpSa3RKYTBRdFZrOWZUbXgwUzJSTVdFMHdaRlpoZVdZd2VraDNhMmxKUWxablNFVTFUV00xY1VWWlRIZFZlR1JYRWhkdk1FMW9XbVZoYmtjdFR6UnhkSE5RWnpaMWRIZEJXUm9pUVVwM2F5MDRaRzAxWlU0eFEwcFRPREJWV1ZOU1NXdEVWVlJ4WWkwd2RHcHZadyIsImZjdiI6IjMiLCJlaSI6Im8wTWhaZWFuRy1PNHF0c1BnNnV0d0FZIiwicWMiOiJDaHhvWVdOcmMyRjNJSEpwWkdkbElISmxiR0YwWldRZ2JXOTJhV1Z6RUFCOURnUjFQZyIsInF1ZXN0aW9uIjoiV2hhdCBzaG91bGQgSSB3YXRjaCBpZiBJIGxpa2VkIEhhY2tzYXcgUmlkZ2U/IiwibGsiOiJHaVozYUdGMElIUnZJSGRoZEdOb0lHbG1JR2tnYkdsclpXUWdhR0ZqYTNOaGR5QnlhV1JuWlEiLCJicyI6ImMxV01MUTdDUUJTRWc4Q3NRcTRobWFBd0ZTQ3dEUVRSS2dnR1NSN3RsdDMwWjhudWF6ZTlBNElMY0VzT1FDc2d3VXdtazI4LXNSYlJXUlBEYTl0V09WSUU0a3pERkVPdFRLbHlKSlNWbmdKT0pyLXBXTDR2WWlOV1c2ZkFXZzFKVFlfYWRrWjUwTlcyUE03WUVYT2xZQXNjU3ROUW9GZy1weUlTeThRRzFPUGx6X29UZksyeGZCM0ZRc3hUajdzekhiSEMzdm9CQUx0V3diTjFmU3dmeFd6eUFRIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWWJGSldUVUZKT0RGc1RHZzVkemRJZVhwYVdITXpSa3RKYTBRdFZrOWZUbXgwUzJSTVdFMHdaRlpoZVdZd2VraDNhMmxKUWxablNFVTFUV00xY1VWWlRIZFZlR1JYRWhkdk1FMW9XbVZoYmtjdFR6UnhkSE5RWnpaMWRIZEJXUm9pUVVwM2F5MDRaRzAxWlU0eFEwcFRPREJWV1ZOU1NXdEVWVlJ4WWkwd2RHcHZadyIsImZjdiI6IjMiLCJlaSI6Im8wTWhaZWFuRy1PNHF0c1BnNnV0d0FZIiwicWMiOiJDaHhvWVdOcmMyRjNJSEpwWkdkbElISmxiR0YwWldRZ2JXOTJhV1Z6RUFCOURnUjFQZyIsInF1ZXN0aW9uIjoiV2hhdCBzaG91bGQgSSB3YXRjaCBpZiBJIGxpa2VkIEhhY2tzYXcgUmlkZ2U%2FIiwibGsiOiJHaVozYUdGMElIUnZJSGRoZEdOb0lHbG1JR2tnYkdsclpXUWdhR0ZqYTNOaGR5QnlhV1JuWlEiLCJicyI6ImMxV01MUTdDUUJTRWc4Q3NRcTRobWFBd0ZTQ3dEUVRSS2dnR1NSN3RsdDMwWjhudWF6ZTlBNElMY0VzT1FDc2d3VXdtazI4LXNSYlJXUlBEYTl0V09WSUU0a3pERkVPdFRLbHlKSlNWbmdKT0pyLXBXTDR2WWlOV1c2ZkFXZzFKVFlfYWRrWjUwTlcyUE03WUVYT2xZQXNjU3ROUW9GZy1weUlTeThRRzFPUGx6X29UZksyeGZCM0ZRc3hUajdzekhiSEMzdm9CQUx0V3diTjFmU3dmeFd6eUFRIiwiaWQiOiJmY18xIn0%3D"
         },
         {
-            "question": "What movie is based off of Yojimbo?",
-            "snippet": "Yojimbo itself would later get an official remake in the form of Last Man Standing. Directed by Walter Hill and featuring Bruce Willis and Christopher Walken, the film listed Yojimbo as inspiration in the credits. Both Kurosawa and Yojimbo have retained some serious fandom clout.",
-            "title": "Last Man Standing",
-            "date": "Apr 14, 2023",
-            "link": "https://movieweb.com/is-yojimbo-a-western/#:~:text=Yojimbo%20itself%20would%20later%20get,retained%20some%20serious%20fandom%20clout.",
-            "displayed_link": "https://movieweb.com \u203a is-yojimbo-a-western",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCFWKM101s2aNxAHX1J0oWJbMUJEFdisS0wG2Yz0qhQ&s",
-            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVIyWXpObTV2WXpaVU1Xb3pObHBRUXpGaFNIQnNlWEpoWTJWbk1saGhlVE5YUmtZeWJqSmtaRjlwVGtkbU5EZHNaRFZ2Wlcxa1ZXcElha3d5VTNaUWRWQklORmhmRWhkT1NtZG1XbVJ0U1VKWkxYVnhkSE5RZW1aSGVEaEJOQm9pUVVwM2F5MDRZekU1ZUUwdFdtdzJjMlV4VlhCMVozbFBOVlpRZWtKU2VVOTNadyIsImZjdiI6IjMiLCJlaSI6Ik5KZ2ZaZG1JQlktdXF0c1B6Zkd4OEE0IiwicWMiOiJDaGg1dzdScWFXNWl3N1FnY21Wc1lYUmxaQ0J0YjNacFpYTVFBSDF3N2RzLSIsInF1ZXN0aW9uIjoiV2hhdCBtb3ZpZSBpcyBiYXNlZCBvZmYgb2YgWW9qaW1ibz8iLCJsayI6IkdpSjNhR0YwSUcxdmRtbGxJR2x6SUdKaGMyVmtJRzltWmlCdlppQjViMnBwYldKdiIsImJzIjoiYzAyTXNRb0NNUkJFVWF5MkVxc3JGMnpVUW0yc2c3VWZJQllXZTJiRHJWNnlrT1R1ZnNhXzhFY3NfUnlESUZwTU1UTnZCamF3T2phVTBVbnJFMUprckNteFJRMllHOGJFUFFkTTVMdElZcXI3R0JZd193eTg5c0lvNmNzN1Y0UW52WXF2MVZUUENleGctMGRhNWZLUFVZTUV2S2d2TG1zSnNnNEJyZlJpMlpycU1ZTTFMSC16VkNxTC01dEV3a01YTmRGQUtNRzFIWWNMbS1wMW5vN2UiLCJpZCI6ImZjXzEifQ==",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVIyWXpObTV2WXpaVU1Xb3pObHBRUXpGaFNIQnNlWEpoWTJWbk1saGhlVE5YUmtZeWJqSmtaRjlwVGtkbU5EZHNaRFZ2Wlcxa1ZXcElha3d5VTNaUWRWQklORmhmRWhkT1NtZG1XbVJ0U1VKWkxYVnhkSE5RZW1aSGVEaEJOQm9pUVVwM2F5MDRZekU1ZUUwdFdtdzJjMlV4VlhCMVozbFBOVlpRZWtKU2VVOTNadyIsImZjdiI6IjMiLCJlaSI6Ik5KZ2ZaZG1JQlktdXF0c1B6Zkd4OEE0IiwicWMiOiJDaGg1dzdScWFXNWl3N1FnY21Wc1lYUmxaQ0J0YjNacFpYTVFBSDF3N2RzLSIsInF1ZXN0aW9uIjoiV2hhdCBtb3ZpZSBpcyBiYXNlZCBvZmYgb2YgWW9qaW1ibz8iLCJsayI6IkdpSjNhR0YwSUcxdmRtbGxJR2x6SUdKaGMyVmtJRzltWmlCdlppQjViMnBwYldKdiIsImJzIjoiYzAyTXNRb0NNUkJFVWF5MkVxc3JGMnpVUW0yc2c3VWZJQllXZTJiRHJWNnlrT1R1ZnNhXzhFY3NfUnlESUZwTU1UTnZCamF3T2phVTBVbnJFMUprckNteFJRMllHOGJFUFFkTTVMdElZcXI3R0JZd193eTg5c0lvNmNzN1Y0UW52WXF2MVZUUENleGctMGRhNWZLUFVZTUV2S2d2TG1zSnNnNEJyZlJpMlpycU1ZTTFMSC16VkNxTC01dEV3a01YTmRGQUtNRzFIWWNMbS1wMW5vN2UiLCJpZCI6ImZjXzEifQ%3D%3D"
+            "question": "Are there any movies about the Battle of Okinawa?",
+            "snippet": "Battle of Okinawa (1971) Told from the Japanese perspective, this war drama captures the events of World War II's Battle of Okinawa - a massive amphibious assault by U.S. troops that left more than 150,000 Japanese civilians dead.",
+            "title": "Most Popular Movies and TV Shows tagged with keyword \"battle-of ...",
+            "link": "https://www.imdb.com/search/keyword/?keywords=battle-of-okinawa",
+            "displayed_link": "https://www.imdb.com \u203a search \u203a keyword",
+            "thumbnail": "https://serpapi.com/searches/652143a249ecdbf776bdebb9/images/86cbd96e991992619ce01ad253968bdb78c6a33ef7f3a3c1605271d32d9056e0.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWWJGSldUVUZKT0RGc1RHZzVkemRJZVhwYVdITXpSa3RKYTBRdFZrOWZUbXgwUzJSTVdFMHdaRlpoZVdZd2VraDNhMmxKUWxablNFVTFUV00xY1VWWlRIZFZlR1JYRWhkdk1FMW9XbVZoYmtjdFR6UnhkSE5RWnpaMWRIZEJXUm9pUVVwM2F5MDRaRzAxWlU0eFEwcFRPREJWV1ZOU1NXdEVWVlJ4WWkwd2RHcHZadyIsImZjdiI6IjMiLCJlaSI6Im8wTWhaZWFuRy1PNHF0c1BnNnV0d0FZIiwicWMiOiJDaHhvWVdOcmMyRjNJSEpwWkdkbElISmxiR0YwWldRZ2JXOTJhV1Z6RUFCOURnUjFQZyIsInF1ZXN0aW9uIjoiQXJlIHRoZXJlIGFueSBtb3ZpZXMgYWJvdXQgdGhlIEJhdHRsZSBvZiBPa2luYXdhPyIsImxrIjoiYzVNeVNDeEtWU2pKU0FXU2lYbVZDcm41WlptcHhRcUpTZm1sSlNCaGhhVEVrcEtjVklYOE5JWDg3TXk4eFBKRUFBIiwiYnMiOiJjMVdNTFE3Q1FCU0VnOENzUXE0aG1hQXdGU0N3RFFUUktnZ0dTUjd0bHQzMFo4bnVhemU5QTRJTGNFc09RQ3Nnd1V3bWsyOC1zUmJSV1JQRGE5dFdPVklFNGt6REZFT3RUS2x5SkpTVm5nSk9Kci1wV0w0dllpTldXNmZBV2cxSlRZX2Fka1o1ME5XMlBNN1lFWE9sWUFzY1N0TlFvRmctcHlJU3k4UUcxT1Bsel9vVGZLMnhmQjNGUXN4VGo3c3pIYkhDM3ZvQkFMdFd3Yk4xZlN3ZnhXenlBUSIsImlkIjoiZmNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWWJGSldUVUZKT0RGc1RHZzVkemRJZVhwYVdITXpSa3RKYTBRdFZrOWZUbXgwUzJSTVdFMHdaRlpoZVdZd2VraDNhMmxKUWxablNFVTFUV00xY1VWWlRIZFZlR1JYRWhkdk1FMW9XbVZoYmtjdFR6UnhkSE5RWnpaMWRIZEJXUm9pUVVwM2F5MDRaRzAxWlU0eFEwcFRPREJWV1ZOU1NXdEVWVlJ4WWkwd2RHcHZadyIsImZjdiI6IjMiLCJlaSI6Im8wTWhaZWFuRy1PNHF0c1BnNnV0d0FZIiwicWMiOiJDaHhvWVdOcmMyRjNJSEpwWkdkbElISmxiR0YwWldRZ2JXOTJhV1Z6RUFCOURnUjFQZyIsInF1ZXN0aW9uIjoiQXJlIHRoZXJlIGFueSBtb3ZpZXMgYWJvdXQgdGhlIEJhdHRsZSBvZiBPa2luYXdhPyIsImxrIjoiYzVNeVNDeEtWU2pKU0FXU2lYbVZDcm41WlptcHhRcUpTZm1sSlNCaGhhVEVrcEtjVklYOE5JWDg3TXk4eFBKRUFBIiwiYnMiOiJjMVdNTFE3Q1FCU0VnOENzUXE0aG1hQXdGU0N3RFFUUktnZ0dTUjd0bHQzMFo4bnVhemU5QTRJTGNFc09RQ3Nnd1V3bWsyOC1zUmJSV1JQRGE5dFdPVklFNGt6REZFT3RUS2x5SkpTVm5nSk9Kci1wV0w0dllpTldXNmZBV2cxSlRZX2Fka1o1ME5XMlBNN1lFWE9sWUFzY1N0TlFvRmctcHlJU3k4UUcxT1Bsel9vVGZLMnhmQjNGUXN4VGo3c3pIYkhDM3ZvQkFMdFd3Yk4xZlN3ZnhXenlBUSIsImlkIjoiZmNfMSJ9"
         },
         {
-            "question": "What movie does a ronin comes to a town divided?",
-            "snippet": "Yojimbo (1961) A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",
-            "title": "Yojimbo - Official Trailer | IMDb",
-            "link": "https://www.imdb.com/video/vi1889518105/#:~:text=Yojimbo%20(1961)&text=A%20crafty%20ronin%20comes%20to,other%20to%20free%20the%20town.",
-            "displayed_link": "https://www.imdb.com \u203a video",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdJV_gFfUq1Qj76AplbQXWCEUrrVRPsg8It8zjKMS_mA&s",
-            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVIyWXpObTV2WXpaVU1Xb3pObHBRUXpGaFNIQnNlWEpoWTJWbk1saGhlVE5YUmtZeWJqSmtaRjlwVGtkbU5EZHNaRFZ2Wlcxa1ZXcElha3d5VTNaUWRWQklORmhmRWhkT1NtZG1XbVJ0U1VKWkxYVnhkSE5RZW1aSGVEaEJOQm9pUVVwM2F5MDRZekU1ZUUwdFdtdzJjMlV4VlhCMVozbFBOVlpRZWtKU2VVOTNadyIsImZjdiI6IjMiLCJlaSI6Ik5KZ2ZaZG1JQlktdXF0c1B6Zkd4OEE0IiwicWMiOiJDaGg1dzdScWFXNWl3N1FnY21Wc1lYUmxaQ0J0YjNacFpYTVFBSDF3N2RzLSIsInF1ZXN0aW9uIjoiV2hhdCBtb3ZpZSBkb2VzIGEgcm9uaW4gY29tZXMgdG8gYSB0b3duIGRpdmlkZWQ/IiwibGsiOiJHaU5oSUhKdmJtbHVJR052YldWeklIUnZJSFJ2ZDI0Z1pHbDJhV1JsWkNCdGIzWnBaUSIsImJzIjoiYzAyTXNRb0NNUkJFVWF5MkVxc3JGMnpVUW0yc2c3VWZJQllXZTJiRHJWNnlrT1R1ZnNhXzhFY3NfUnlESUZwTU1UTnZCamF3T2phVTBVbnJFMUprckNteFJRMllHOGJFUFFkTTVMdElZcXI3R0JZd193eTg5c0lvNmNzN1Y0UW52WXF2MVZUUENleGctMGRhNWZLUFVZTUV2S2d2TG1zSnNnNEJyZlJpMlpycU1ZTTFMSC16VkNxTC01dEV3a01YTmRGQUtNRzFIWWNMbS1wMW5vN2UiLCJpZCI6ImZjXzEifQ==",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVIyWXpObTV2WXpaVU1Xb3pObHBRUXpGaFNIQnNlWEpoWTJWbk1saGhlVE5YUmtZeWJqSmtaRjlwVGtkbU5EZHNaRFZ2Wlcxa1ZXcElha3d5VTNaUWRWQklORmhmRWhkT1NtZG1XbVJ0U1VKWkxYVnhkSE5RZW1aSGVEaEJOQm9pUVVwM2F5MDRZekU1ZUUwdFdtdzJjMlV4VlhCMVozbFBOVlpRZWtKU2VVOTNadyIsImZjdiI6IjMiLCJlaSI6Ik5KZ2ZaZG1JQlktdXF0c1B6Zkd4OEE0IiwicWMiOiJDaGg1dzdScWFXNWl3N1FnY21Wc1lYUmxaQ0J0YjNacFpYTVFBSDF3N2RzLSIsInF1ZXN0aW9uIjoiV2hhdCBtb3ZpZSBkb2VzIGEgcm9uaW4gY29tZXMgdG8gYSB0b3duIGRpdmlkZWQ%2FIiwibGsiOiJHaU5oSUhKdmJtbHVJR052YldWeklIUnZJSFJ2ZDI0Z1pHbDJhV1JsWkNCdGIzWnBaUSIsImJzIjoiYzAyTXNRb0NNUkJFVWF5MkVxc3JGMnpVUW0yc2c3VWZJQllXZTJiRHJWNnlrT1R1ZnNhXzhFY3NfUnlESUZwTU1UTnZCamF3T2phVTBVbnJFMUprckNteFJRMllHOGJFUFFkTTVMdElZcXI3R0JZd193eTg5c0lvNmNzN1Y0UW52WXF2MVZUUENleGctMGRhNWZLUFVZTUV2S2d2TG1zSnNnNEJyZlJpMlpycU1ZTTFMSC16VkNxTC01dEV3a01YTmRGQUtNRzFIWWNMbS1wMW5vN2UiLCJpZCI6ImZjXzEifQ%3D%3D"
+            "question": "How many Hacksaw Ridge movies are there?",
+            "snippet": "There really are two movies to Hacksaw Ridge, just like there are two movies to Stanley Kubrick's classic countercultural war movie Full Metal Jacket. There is the story of what Desmond Doss believed in and the story of what he did in combat.",
+            "title": "Movie Review : Hacksaw Ridge (2016) - Dead End Follies",
+            "date": "Feb 6, 2017",
+            "link": "http://www.deadendfollies.com/blog/movie-review-hacksaw-ridge-2016",
+            "displayed_link": "http://www.deadendfollies.com \u203a blog \u203a movie-review-h...",
+            "thumbnail": "https://serpapi.com/searches/652143a249ecdbf776bdebb9/images/86cbd96e991992619ce01ad253968bdb151481d4b9e1baff4741c7882d598310.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWWJGSldUVUZKT0RGc1RHZzVkemRJZVhwYVdITXpSa3RKYTBRdFZrOWZUbXgwUzJSTVdFMHdaRlpoZVdZd2VraDNhMmxKUWxablNFVTFUV00xY1VWWlRIZFZlR1JYRWhkdk1FMW9XbVZoYmtjdFR6UnhkSE5RWnpaMWRIZEJXUm9pUVVwM2F5MDRaRzAxWlU0eFEwcFRPREJWV1ZOU1NXdEVWVlJ4WWkwd2RHcHZadyIsImZjdiI6IjMiLCJlaSI6Im8wTWhaZWFuRy1PNHF0c1BnNnV0d0FZIiwicWMiOiJDaHhvWVdOcmMyRjNJSEpwWkdkbElISmxiR0YwWldRZ2JXOTJhV1Z6RUFCOURnUjFQZyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgSGFja3NhdyBSaWRnZSBtb3ZpZXMgYXJlIHRoZXJlPyIsImxrIjoiR2lkb2IzY2diV0Z1ZVNCb1lXTnJjMkYzSUhKcFpHZGxJRzF2ZG1sbGN5QmhjbVVnZEdobGNtVSIsImJzIjoiYzFXTUxRN0NRQlNFZzhDc1FxNGhtYUF3RlNDd0RRVFJLZ2dHU1I3dGx0MzBaOG51YXplOUE0SUxjRXNPUUNzZ3dVd21rMjgtc1JiUldSUERhOXRXT1ZJRTRrekRGRU90VEtseUpKU1ZuZ0pPSnItcFdMNHZZaU5XVzZmQVdnMUpUWV9hZGtaNTBOVzJQTTdZRVhPbFlBc2NTdE5Rb0ZnLXB5SVN5OFFHMU9QbHpfb1RmSzJ4ZkIzRlFzeFRqN3N6SGJIQzN2b0JBTHRXd2JOMWZTd2Z4V3p5QVEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWWJGSldUVUZKT0RGc1RHZzVkemRJZVhwYVdITXpSa3RKYTBRdFZrOWZUbXgwUzJSTVdFMHdaRlpoZVdZd2VraDNhMmxKUWxablNFVTFUV00xY1VWWlRIZFZlR1JYRWhkdk1FMW9XbVZoYmtjdFR6UnhkSE5RWnpaMWRIZEJXUm9pUVVwM2F5MDRaRzAxWlU0eFEwcFRPREJWV1ZOU1NXdEVWVlJ4WWkwd2RHcHZadyIsImZjdiI6IjMiLCJlaSI6Im8wTWhaZWFuRy1PNHF0c1BnNnV0d0FZIiwicWMiOiJDaHhvWVdOcmMyRjNJSEpwWkdkbElISmxiR0YwWldRZ2JXOTJhV1Z6RUFCOURnUjFQZyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgSGFja3NhdyBSaWRnZSBtb3ZpZXMgYXJlIHRoZXJlPyIsImxrIjoiR2lkb2IzY2diV0Z1ZVNCb1lXTnJjMkYzSUhKcFpHZGxJRzF2ZG1sbGN5QmhjbVVnZEdobGNtVSIsImJzIjoiYzFXTUxRN0NRQlNFZzhDc1FxNGhtYUF3RlNDd0RRVFJLZ2dHU1I3dGx0MzBaOG51YXplOUE0SUxjRXNPUUNzZ3dVd21rMjgtc1JiUldSUERhOXRXT1ZJRTRrekRGRU90VEtseUpKU1ZuZ0pPSnItcFdMNHZZaU5XVzZmQVdnMUpUWV9hZGtaNTBOVzJQTTdZRVhPbFlBc2NTdE5Rb0ZnLXB5SVN5OFFHMU9QbHpfb1RmSzJ4ZkIzRlFzeFRqN3N6SGJIQzN2b0JBTHRXd2JOMWZTd2Z4V3p5QVEiLCJpZCI6ImZjXzEifQ%3D%3D"
         },
         {
-            "question": "What movies did Akira Kurosawa influence?",
-            "snippet": "What do legendary, iconic films like Star Wars, The Magnificent Seven, and A Fistful of Dollars have in common? They're all films inspired by a Kurosawa original.",
-            "title": "The Kurosawa Connection to Modern Cinema, and Why He's So Influential",
-            "date": "Feb 5, 2023",
-            "link": "https://movieweb.com/kurosawa-connection-to-modern-cinema-influential/#:~:text=What%20do%20legendary%2C%20iconic%20films,inspired%20by%20a%20Kurosawa%20original.",
-            "displayed_link": "https://movieweb.com \u203a kurosawa-connection-to-modern...",
-            "thumbnail": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/700c2877e4e7330b45f3191664d46505730bafac98c073641443c4f2dda17d49.png",
-            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVIyWXpObTV2WXpaVU1Xb3pObHBRUXpGaFNIQnNlWEpoWTJWbk1saGhlVE5YUmtZeWJqSmtaRjlwVGtkbU5EZHNaRFZ2Wlcxa1ZXcElha3d5VTNaUWRWQklORmhmRWhkT1NtZG1XbVJ0U1VKWkxYVnhkSE5RZW1aSGVEaEJOQm9pUVVwM2F5MDRZekU1ZUUwdFdtdzJjMlV4VlhCMVozbFBOVlpRZWtKU2VVOTNadyIsImZjdiI6IjMiLCJlaSI6Ik5KZ2ZaZG1JQlktdXF0c1B6Zkd4OEE0IiwicWMiOiJDaGg1dzdScWFXNWl3N1FnY21Wc1lYUmxaQ0J0YjNacFpYTVFBSDF3N2RzLSIsInF1ZXN0aW9uIjoiV2hhdCBtb3ZpZXMgZGlkIEFraXJhIEt1cm9zYXdhIGluZmx1ZW5jZT8iLCJsayI6IkdpSm1hV3h0Y3lCcGJtWnNkV1Z1WTJWa0lHSjVJR0ZyYVhKaElHdDFjbTl6WVhkaCIsImJzIjoiYzAyTXNRb0NNUkJFVWF5MkVxc3JGMnpVUW0yc2c3VWZJQllXZTJiRHJWNnlrT1R1ZnNhXzhFY3NfUnlESUZwTU1UTnZCamF3T2phVTBVbnJFMUprckNteFJRMllHOGJFUFFkTTVMdElZcXI3R0JZd193eTg5c0lvNmNzN1Y0UW52WXF2MVZUUENleGctMGRhNWZLUFVZTUV2S2d2TG1zSnNnNEJyZlJpMlpycU1ZTTFMSC16VkNxTC01dEV3a01YTmRGQUtNRzFIWWNMbS1wMW5vN2UiLCJpZCI6ImZjXzEifQ==",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVIyWXpObTV2WXpaVU1Xb3pObHBRUXpGaFNIQnNlWEpoWTJWbk1saGhlVE5YUmtZeWJqSmtaRjlwVGtkbU5EZHNaRFZ2Wlcxa1ZXcElha3d5VTNaUWRWQklORmhmRWhkT1NtZG1XbVJ0U1VKWkxYVnhkSE5RZW1aSGVEaEJOQm9pUVVwM2F5MDRZekU1ZUUwdFdtdzJjMlV4VlhCMVozbFBOVlpRZWtKU2VVOTNadyIsImZjdiI6IjMiLCJlaSI6Ik5KZ2ZaZG1JQlktdXF0c1B6Zkd4OEE0IiwicWMiOiJDaGg1dzdScWFXNWl3N1FnY21Wc1lYUmxaQ0J0YjNacFpYTVFBSDF3N2RzLSIsInF1ZXN0aW9uIjoiV2hhdCBtb3ZpZXMgZGlkIEFraXJhIEt1cm9zYXdhIGluZmx1ZW5jZT8iLCJsayI6IkdpSm1hV3h0Y3lCcGJtWnNkV1Z1WTJWa0lHSjVJR0ZyYVhKaElHdDFjbTl6WVhkaCIsImJzIjoiYzAyTXNRb0NNUkJFVWF5MkVxc3JGMnpVUW0yc2c3VWZJQllXZTJiRHJWNnlrT1R1ZnNhXzhFY3NfUnlESUZwTU1UTnZCamF3T2phVTBVbnJFMUprckNteFJRMllHOGJFUFFkTTVMdElZcXI3R0JZd193eTg5c0lvNmNzN1Y0UW52WXF2MVZUUENleGctMGRhNWZLUFVZTUV2S2d2TG1zSnNnNEJyZlJpMlpycU1ZTTFMSC16VkNxTC01dEV3a01YTmRGQUtNRzFIWWNMbS1wMW5vN2UiLCJpZCI6ImZjXzEifQ%3D%3D"
+            "question": "Is private Doss a true story?",
+            "snippet": "The True Story of Desmond Doss from 'Hacksaw Ridge' Hacksaw Ridge is based on the historical accounts of Private Desmond Doss, who walked onto the battlefield of the Maeda escarpment in April 1945, nicknamed \"Hacksaw Ridge\" because of the sheer cliff side, armed with nothing but his Bible and religious faith.",
+            "title": "The True Story Behind 'Hacksaw Ridge' - Collider",
+            "date": "Aug 28, 2023",
+            "link": "https://collider.com/hacksaw-ridge-true-story/",
+            "displayed_link": "https://collider.com \u203a hacksaw-ridge-true-story",
+            "thumbnail": "https://serpapi.com/searches/652143a249ecdbf776bdebb9/images/86cbd96e991992619ce01ad253968bdbcec3625106e72a00676b2adcbfb3a7a5.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWWJGSldUVUZKT0RGc1RHZzVkemRJZVhwYVdITXpSa3RKYTBRdFZrOWZUbXgwUzJSTVdFMHdaRlpoZVdZd2VraDNhMmxKUWxablNFVTFUV00xY1VWWlRIZFZlR1JYRWhkdk1FMW9XbVZoYmtjdFR6UnhkSE5RWnpaMWRIZEJXUm9pUVVwM2F5MDRaRzAxWlU0eFEwcFRPREJWV1ZOU1NXdEVWVlJ4WWkwd2RHcHZadyIsImZjdiI6IjMiLCJlaSI6Im8wTWhaZWFuRy1PNHF0c1BnNnV0d0FZIiwicWMiOiJDaHhvWVdOcmMyRjNJSEpwWkdkbElISmxiR0YwWldRZ2JXOTJhV1Z6RUFCOURnUjFQZyIsInF1ZXN0aW9uIjoiSXMgcHJpdmF0ZSBEb3NzIGEgdHJ1ZSBzdG9yeT8iLCJsayI6IkdoeHBjeUJ3Y21sMllYUmxJR1J2YzNNZ1lTQjBjblZsSUhOMGIzSjUiLCJicyI6ImMxV01MUTdDUUJTRWc4Q3NRcTRobWFBd0ZTQ3dEUVRSS2dnR1NSN3RsdDMwWjhudWF6ZTlBNElMY0VzT1FDc2d3VXdtazI4LXNSYlJXUlBEYTl0V09WSUU0a3pERkVPdFRLbHlKSlNWbmdKT0pyLXBXTDR2WWlOV1c2ZkFXZzFKVFlfYWRrWjUwTlcyUE03WUVYT2xZQXNjU3ROUW9GZy1weUlTeThRRzFPUGx6X29UZksyeGZCM0ZRc3hUajdzekhiSEMzdm9CQUx0V3diTjFmU3dmeFd6eUFRIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWWJGSldUVUZKT0RGc1RHZzVkemRJZVhwYVdITXpSa3RKYTBRdFZrOWZUbXgwUzJSTVdFMHdaRlpoZVdZd2VraDNhMmxKUWxablNFVTFUV00xY1VWWlRIZFZlR1JYRWhkdk1FMW9XbVZoYmtjdFR6UnhkSE5RWnpaMWRIZEJXUm9pUVVwM2F5MDRaRzAxWlU0eFEwcFRPREJWV1ZOU1NXdEVWVlJ4WWkwd2RHcHZadyIsImZjdiI6IjMiLCJlaSI6Im8wTWhaZWFuRy1PNHF0c1BnNnV0d0FZIiwicWMiOiJDaHhvWVdOcmMyRjNJSEpwWkdkbElISmxiR0YwWldRZ2JXOTJhV1Z6RUFCOURnUjFQZyIsInF1ZXN0aW9uIjoiSXMgcHJpdmF0ZSBEb3NzIGEgdHJ1ZSBzdG9yeT8iLCJsayI6IkdoeHBjeUJ3Y21sMllYUmxJR1J2YzNNZ1lTQjBjblZsSUhOMGIzSjUiLCJicyI6ImMxV01MUTdDUUJTRWc4Q3NRcTRobWFBd0ZTQ3dEUVRSS2dnR1NSN3RsdDMwWjhudWF6ZTlBNElMY0VzT1FDc2d3VXdtazI4LXNSYlJXUlBEYTl0V09WSUU0a3pERkVPdFRLbHlKSlNWbmdKT0pyLXBXTDR2WWlOV1c2ZkFXZzFKVFlfYWRrWjUwTlcyUE03WUVYT2xZQXNjU3ROUW9GZy1weUlTeThRRzFPUGx6X29UZksyeGZCM0ZRc3hUajdzekhiSEMzdm9CQUx0V3diTjFmU3dmeFd6eUFRIiwiaWQiOiJmY18xIn0%3D"
         }
     ],
     "organic_results": [
         {
             "position": 1,
-            "title": "Every Movie Based On Akira Kurosawa's Yojimbo",
-            "link": "https://screenrant.com/every-movie-based-on-akira-kurosawas-yojimbo/",
+            "title": "10 War Movies To Watch If You Love Hacksaw Ridge",
+            "link": "https://screenrant.com/best-war-movies-like-hacksaw-ridge/",
             "displayed_link": "https://screenrant.com \u203a Movies \u203a Movie Lists",
-            "favicon": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/33b316b16adb33094d08d523dbc9748c5da5473f6ab740a87558e56279d8d57e.png",
-            "date": "Feb 26, 2023",
-            "snippet": "Every Movie Based On Akira Kurosawa's Yojimbo \u00b7 A Fistful Of Dollars (1964) \u00b7 Django (1966) \u00b7 The Warrior And The Sorceress (1984) \u00b7 Last Man ...",
+            "favicon": "https://serpapi.com/searches/652143a249ecdbf776bdebb9/images/6cbe819590914e4763776247119785cfc832aedd450ac9a645a6ecb79533dd29.png",
+            "date": "Mar 20, 2021",
+            "snippet": "10 War Movies To Watch If You Love Hacksaw Ridge \u00b7 Jarhead (2005) \u00b7 American Sniper (2014) \u00b7 Darkest Hour (2017) \u00b7 Empire Of The Sun (1987) \u00b7 Black ...",
             "snippet_highlighted_words": [
-                "Movie",
-                "Yojimbo"
+                "Movies",
+                "Hacksaw Ridge"
             ],
-            "about_page_link": "https://www.google.com/search?q=About+https://screenrant.com/every-movie-based-on-akira-kurosawas-yojimbo/&tbm=ilp",
-            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fscreenrant.com%2Fevery-movie-based-on-akira-kurosawas-yojimbo%2F",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:5BvrUoUclt4J:https://screenrant.com/every-movie-based-on-akira-kurosawas-yojimbo/&cd=16&hl=en&ct=clnk&gl=us",
+            "about_page_link": "https://www.google.com/search?q=About+https://screenrant.com/best-war-movies-like-hacksaw-ridge/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fscreenrant.com%2Fbest-war-movies-like-hacksaw-ridge%2F",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MEBFCpAcfVMJ:https://screenrant.com/best-war-movies-like-hacksaw-ridge/&cd=11&hl=en&ct=clnk&gl=us",
             "source": "Screen Rant"
         },
         {
             "position": 2,
-            "title": "Yojimbo",
-            "link": "https://en.wikipedia.org/wiki/Yojimbo",
-            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Yojimbo",
-            "favicon": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/33b316b16adb33094d08d523dbc9748c0ce0240574542a1b5fe2210afc90a9f6.png",
-            "snippet": "The film stars Toshiro Mifune, Tatsuya Nakadai, Yoko Tsukasa, Isuzu Yamada, Daisuke Kat\u014d, Takashi Shimura, Kamatari Fujiwara, and Atsushi Watanabe. In the film, ...",
+            "title": "Movies like Hacksaw Ridge",
+            "link": "https://bestsimilar.com/movies/38439-hacksaw-ridge",
+            "displayed_link": "https://bestsimilar.com \u203a movies \u203a 38439-hacksaw-ridge",
+            "favicon": "https://serpapi.com/searches/652143a249ecdbf776bdebb9/images/6cbe819590914e4763776247119785cf42d2bea39666bfd82d3861ca4618ebf5.png",
+            "snippet": "Movies Similar to Hacksaw Ridge: Saving Private Ryan (1998), Fury (2014), Enemy at the Gates (2001), American Sniper (2014), Windtalkers (2002), ...",
             "snippet_highlighted_words": [
-                "film",
-                "film"
+                "Movies Similar",
+                "Hacksaw Ridge"
             ],
-            "sitelinks": {
-                "inline": [
-                    {
-                        "title": "Sanjuro",
-                        "link": "https://en.wikipedia.org/wiki/Sanjuro"
-                    },
-                    {
-                        "title": "Yoko Tsukasa",
-                        "link": "https://en.wikipedia.org/wiki/Yoko_Tsukasa"
-                    },
-                    {
-                        "title": "Izakaya",
-                        "link": "https://en.wikipedia.org/wiki/Izakaya"
-                    },
-                    {
-                        "title": "Atsushi Watanabe (actor, born...",
-                        "link": "https://en.wikipedia.org/wiki/Atsushi_Watanabe_(actor,_born_1898)"
-                    }
-                ]
-            },
-            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Yojimbo&tbm=ilp",
-            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FYojimbo",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Yw5YzJbZnkkJ:https://en.wikipedia.org/wiki/Yojimbo&cd=29&hl=en&ct=clnk&gl=us",
-            "related_pages_link": "https://www.google.com/search?sca_esv=571184275&q=related:https://en.wikipedia.org/wiki/Yojimbo+Y%C3%B4jinb%C3%B4+related+movies",
-            "source": "Wikipedia"
-        },
-        {
-            "position": 3,
-            "title": "Best Movies Like Yojimbo | BestSimilar",
-            "link": "https://bestsimilar.com/movies/26016-the-bodyguard",
-            "displayed_link": "https://bestsimilar.com \u203a movies \u203a 26016-the-bodyguard",
-            "favicon": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/33b316b16adb33094d08d523dbc9748cfeab29774e12201412a1f92e983f3696.png",
-            "snippet": "Some movies like Yojimbo: Sanjuro (1962), The Tale of Zatoichi (1962), Last Man Standing (1996), Ichi (2008), Three Outlaw Samurai (1964). The matching ...",
-            "snippet_highlighted_words": [
-                "movies like Yojimbo"
-            ],
-            "about_page_link": "https://www.google.com/search?q=About+https://bestsimilar.com/movies/26016-the-bodyguard&tbm=ilp",
-            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fbestsimilar.com%2Fmovies%2F26016-the-bodyguard",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:SUaGRfkYCJ4J:https://bestsimilar.com/movies/26016-the-bodyguard&cd=30&hl=en&ct=clnk&gl=us",
+            "about_page_link": "https://www.google.com/search?q=About+https://bestsimilar.com/movies/38439-hacksaw-ridge&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fbestsimilar.com%2Fmovies%2F38439-hacksaw-ridge",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:18pk_RepIygJ:https://bestsimilar.com/movies/38439-hacksaw-ridge&cd=20&hl=en&ct=clnk&gl=us",
             "source": "Find best similar movies"
         },
         {
-            "position": 4,
-            "title": "Yojimbo (1961) - Connections",
-            "link": "https://www.imdb.com/title/tt0055630/movieconnections/",
-            "displayed_link": "https://www.imdb.com \u203a title \u203a movieconnections",
-            "favicon": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/33b316b16adb33094d08d523dbc9748c203eb721da3ed2574391be1687bc4924.png",
-            "snippet": "Remade as ; Last Man Standing (1996) ; Omega Doom (1996) ; Kaze No Yojimbo (TV Series 2001\u20132002) ; Sukiyaki Western Django (2007) ...",
+            "position": 3,
+            "title": "Top 50 Biography, War Movies",
+            "link": "https://www.imdb.com/search/title/?title_type=feature&genres=biography,war&explore=genres&view=advanced",
+            "displayed_link": "https://www.imdb.com \u203a search \u203a title",
+            "favicon": "https://serpapi.com/searches/652143a249ecdbf776bdebb9/images/6cbe819590914e4763776247119785cfa2e582d0cd998a997dd29f8ec443ccc7.png",
+            "snippet": "Top 50 Biography, War Movies \u00b7 1. Golda (2023) \u00b7 2. Napoleon (2023) \u00b7 3. Hacksaw Ridge (2016) \u00b7 4. Lee (2023) \u00b7 5. The Pianist (2002) \u00b7 6. Braveheart (1995) \u00b7 7.",
             "snippet_highlighted_words": [
-                "Yojimbo"
+                "Movies",
+                "Hacksaw Ridge"
             ],
-            "about_page_link": "https://www.google.com/search?q=About+https://www.imdb.com/title/tt0055630/movieconnections/&tbm=ilp",
-            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0055630%2Fmovieconnections%2F",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:bueDm7QSNNsJ:https://www.imdb.com/title/tt0055630/movieconnections/&cd=31&hl=en&ct=clnk&gl=us",
+            "about_page_link": "https://www.google.com/search?q=About+https://www.imdb.com/search/title/?title_type=feature&genres=biography,war&explore=genres&view=advanced&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.imdb.com%2Fsearch%2Ftitle%2F%3Ftitle_type%3Dfeature%26genres%3Dbiography%2Cwar%26explore%3Dgenres%26view%3Dadvanced",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HYzdDkZQETQJ:https://www.imdb.com/search/title/%3Ftitle_type%3Dfeature%26genres%3Dbiography,war%26explore%3Dgenres%26view%3Dadvanced&cd=21&hl=en&ct=clnk&gl=us",
             "source": "IMDb"
+        },
+        {
+            "position": 4,
+            "title": "17 Movies Like Hacksaw Ridge (2016)",
+            "link": "https://agoodmovietowatch.com/movieslike/hacksaw-ridge-2016/",
+            "displayed_link": "https://agoodmovietowatch.com \u203a movieslike \u203a hacksa...",
+            "favicon": "https://serpapi.com/searches/652143a249ecdbf776bdebb9/images/6cbe819590914e4763776247119785cfb660f226899f5ea4580c1b26b2833517.png",
+            "snippet": "17 Movies Like Hacksaw Ridge (2016) \u00b7 1. Captain Fantastic, 2016 \u00b7 2. Hell or High Water, 2016 \u00b7 3. Manchester by the Sea, 2016 \u00b7 4. A Man Called Ove, 2015 \u00b7 5.",
+            "snippet_highlighted_words": [
+                "Movies",
+                "Hacksaw Ridge"
+            ],
+            "about_page_link": "https://www.google.com/search?q=About+https://agoodmovietowatch.com/movieslike/hacksaw-ridge-2016/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fagoodmovietowatch.com%2Fmovieslike%2Fhacksaw-ridge-2016%2F",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:dRUOHZg69yMJ:https://agoodmovietowatch.com/movieslike/hacksaw-ridge-2016/&cd=22&hl=en&ct=clnk&gl=us",
+            "source": "A Good Movie To Watch"
         },
         {
             "position": 5,
-            "title": "Every Movie Based On Akira Kurosawa's Yojimbo",
-            "link": "https://www.imdb.com/news/ni63972543/",
-            "displayed_link": "https://www.imdb.com \u203a news",
-            "favicon": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/33b316b16adb33094d08d523dbc9748c2f76dbaab40a7f794546fb27687cdd6f.png",
-            "snippet": "Besides being considered one of Kurosawa's best films, Yojimbo's legacy grew over the decades, and is considered one of Time's best movies of all time, among ...",
+            "title": "15 Best Anti-War Movies Like 'All Quiet on the Western Front'",
+            "link": "https://collider.com/anti-war-films-to-watch-after-all-quiet-on-the-western-front/",
+            "displayed_link": "https://collider.com \u203a Movie",
+            "favicon": "https://serpapi.com/searches/652143a249ecdbf776bdebb9/images/6cbe819590914e4763776247119785cf3a5e5754966a19623edcff74857dbf35.png",
+            "date": "Mar 14, 2023",
+            "snippet": "From Paths of Glory to American Sniper, these are the best anti-war movies like All Quiet on the Western Front!",
             "snippet_highlighted_words": [
-                "best films",
-                "Yojimbo's",
-                "best movies"
+                "movies"
             ],
-            "about_page_link": "https://www.google.com/search?q=About+https://www.imdb.com/news/ni63972543/&tbm=ilp",
-            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.imdb.com%2Fnews%2Fni63972543%2F",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:gbt6KZ8XSJoJ:https://www.imdb.com/news/ni63972543/&cd=32&hl=en&ct=clnk&gl=us",
-            "source": "IMDb"
+            "about_page_link": "https://www.google.com/search?q=About+https://collider.com/anti-war-films-to-watch-after-all-quiet-on-the-western-front/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcollider.com%2Fanti-war-films-to-watch-after-all-quiet-on-the-western-front%2F",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Sk9NPBC9RU8J:https://collider.com/anti-war-films-to-watch-after-all-quiet-on-the-western-front/&cd=23&hl=en&ct=clnk&gl=us",
+            "source": "Collider"
         },
         {
             "position": 6,
-            "title": "Movies like Yojimbo",
-            "link": "https://tastedive.com/movies/like/Yojimbo",
-            "displayed_link": "https://tastedive.com \u203a movies \u203a like \u203a Yojimbo",
-            "favicon": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/33b316b16adb33094d08d523dbc9748cd26c1df0c9ffd5d7d7476cb481532f81.png",
-            "snippet": "Similar movies \u00b7 Rashomon \u00b7 High and Low \u00b7 Kagemusha \u00b7 The Hidden Fortress \u00b7 I Live in Fear \u00b7 Throne of Blood \u00b7 Seven Samurai \u00b7 Harakiri.",
+            "title": "The Best Dramatic War Movies Like 'Hacksaw Ridge'",
+            "link": "https://www.ranker.com/list/movies-like-hacksaw-ridge/jason-bancroft",
+            "displayed_link": "https://www.ranker.com \u203a list \u203a jason-bancroft",
+            "favicon": "https://serpapi.com/searches/652143a249ecdbf776bdebb9/images/6cbe819590914e4763776247119785cfbaf0ae42bfb3bae23babe33dbdfbdc69.png",
+            "date": "Nov 9, 2022",
+            "snippet": "Saving Private Ryan \u00b7 Dunkirk \u00b7 Unbroken \u00b7 Platoon \u00b7 Flags of Our Fathers \u00b7 1917 \u00b7 Apocalypse Now \u00b7 Full Metal Jacket.",
+            "about_page_link": "https://www.google.com/search?q=About+https://www.ranker.com/list/movies-like-hacksaw-ridge/jason-bancroft&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ranker.com%2Flist%2Fmovies-like-hacksaw-ridge%2Fjason-bancroft",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-0ydMktDb6QJ:https://www.ranker.com/list/movies-like-hacksaw-ridge/jason-bancroft&cd=24&hl=en&ct=clnk&gl=us",
+            "source": "Ranker"
+        },
+        {
+            "position": 7,
+            "title": "Five Movies About World War II Worth Watching",
+            "link": "https://www.cfr.org/blog/five-movies-about-world-war-ii-worth-watching",
+            "displayed_link": "https://www.cfr.org \u203a blog \u203a five-movies-about-world...",
+            "favicon": "https://serpapi.com/searches/652143a249ecdbf776bdebb9/images/6cbe819590914e4763776247119785cf0dd791cd54b27ef9ee28b076e598be67.png",
+            "date": "Aug 14, 2020",
+            "snippet": "Images clockwise from the top left: Mrs. Miniver/TMDB; Schindler's List/Amazon; The Longest Day/Amazon; Hacksaw Ridge/IMDB; Saving Private Ryan/ ...",
             "snippet_highlighted_words": [
-                "Similar movies"
+                "Hacksaw Ridge"
+            ],
+            "about_page_link": "https://www.google.com/search?q=About+https://www.cfr.org/blog/five-movies-about-world-war-ii-worth-watching&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.cfr.org%2Fblog%2Ffive-movies-about-world-war-ii-worth-watching",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Yd2HN_pqRgQJ:https://www.cfr.org/blog/five-movies-about-world-war-ii-worth-watching&cd=25&hl=en&ct=clnk&gl=us",
+            "source": "Council on Foreign Relations"
+        },
+        {
+            "position": 8,
+            "title": "19 Movies Like Hacksaw Ridge (2016)",
+            "link": "https://screench.com/similar/hacksaw-ridge/",
+            "displayed_link": "https://screench.com \u203a similar \u203a hacksaw-ridge",
+            "favicon": "https://serpapi.com/searches/652143a249ecdbf776bdebb9/images/6cbe819590914e4763776247119785cf2f08c8c9b2f449f6d0b9c99472bbfa1f.png",
+            "snippet": "19 Movies Like Hacksaw Ridge (2016) \u00b7 1 Valkyrie (2008) \u2606 7.1 \u00b7 2 Lone Survivor (2013) \u2606 7.5 \u00b7 3 Windtalkers (2002) \u2606 6.1 \u00b7 4 The Wall (2017) \u2606 6.2 \u00b7 5 Fury ( ...",
+            "snippet_highlighted_words": [
+                "Movies",
+                "Hacksaw Ridge"
+            ],
+            "about_page_link": "https://www.google.com/search?q=About+https://screench.com/similar/hacksaw-ridge/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fscreench.com%2Fsimilar%2Fhacksaw-ridge%2F",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-VM8q5r5jIEJ:https://screench.com/similar/hacksaw-ridge/&cd=26&hl=en&ct=clnk&gl=us",
+            "source": "Screench.com"
+        },
+        {
+            "position": 9,
+            "title": "40 Movies Like Hacksaw Ridge To Watch",
+            "link": "https://otakukart.com/430027/40-movies-like-hacksaw-ridge-to-watch/",
+            "displayed_link": "https://otakukart.com \u203a List",
+            "favicon": "https://serpapi.com/searches/652143a249ecdbf776bdebb9/images/6cbe819590914e4763776247119785cf44515cf1ea118646202420a21a804cb6.png",
+            "date": "Feb 27, 2023",
+            "snippet": "40 Movies Like Hacksaw Ridge To Watch \u00b7 1. Jarhead \u00b7 2. Captain Fantastic \u00b7 3. American Sniper \u00b7 4. Hell or High Water \u00b7 5. Darkest Hour \u00b7 6.",
+            "snippet_highlighted_words": [
+                "Movies",
+                "Hacksaw Ridge"
+            ],
+            "about_page_link": "https://www.google.com/search?q=About+https://otakukart.com/430027/40-movies-like-hacksaw-ridge-to-watch/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fotakukart.com%2F430027%2F40-movies-like-hacksaw-ridge-to-watch%2F",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:llu2S0aO9rUJ:https://otakukart.com/430027/40-movies-like-hacksaw-ridge-to-watch/&cd=27&hl=en&ct=clnk&gl=us",
+            "source": "OtakuKart"
+        },
+        {
+            "position": 10,
+            "title": "Movies like Hacksaw Ridge",
+            "link": "https://tastedive.com/movies/like/Hacksaw-Ridge-2016",
+            "displayed_link": "https://tastedive.com \u203a movies \u203a Hacksaw-Ridge-2016",
+            "favicon": "https://serpapi.com/searches/652143a249ecdbf776bdebb9/images/6cbe819590914e4763776247119785cfbfd26e873ff81c82ac6cb6c908226035.png",
+            "snippet": "Similar movies like Hacksaw Ridge include Dunkirk, The Founder, Thank You ... Movies like Hacksaw Ridge. Hacksaw Ridge. 2016Mel Gibson. 4.8/5. The true story of.",
+            "snippet_highlighted_words": [
+                "Similar movies",
+                "Hacksaw Ridge",
+                "Movies",
+                "Hacksaw Ridge",
+                "Hacksaw Ridge"
             ],
             "rich_snippet": {
                 "top": {
                     "detected_extensions": {
                         "rating": 4.8,
-                        "votes": 9972
+                        "votes": 17518
                     },
                     "extensions": [
                         "Rating: 4.8",
-                        "\u200e9,972 votes"
+                        "\u200e17,518 votes"
                     ]
                 }
             },
-            "about_page_link": "https://www.google.com/search?q=About+https://tastedive.com/movies/like/Yojimbo&tbm=ilp",
-            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ftastedive.com%2Fmovies%2Flike%2FYojimbo",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:DGp65DTvUP0J:https://tastedive.com/movies/like/Yojimbo&cd=33&hl=en&ct=clnk&gl=us",
+            "about_page_link": "https://www.google.com/search?q=About+https://tastedive.com/movies/like/Hacksaw-Ridge-2016&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ftastedive.com%2Fmovies%2Flike%2FHacksaw-Ridge-2016",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:7O7-uUPPy5cJ:https://tastedive.com/movies/like/Hacksaw-Ridge-2016&cd=28&hl=en&ct=clnk&gl=us",
             "source": "TasteDive"
-        },
-        {
-            "position": 7,
-            "title": "24 Movies Like Yojimbo",
-            "link": "https://www.taste.io/movies/like/yojimbo-1961-ByHue_Q37G",
-            "displayed_link": "https://www.taste.io \u203a Movies \u203a Yojimbo",
-            "favicon": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/33b316b16adb33094d08d523dbc9748cd04b44a953780b1740e7b1cd9d173abc.png",
-            "snippet": "If you liked Yojimbo (1961), here are 24 movies you might also like: Rashomon (1950), Seven Samurai (1954), Ran (1985)...",
-            "snippet_highlighted_words": [
-                "Yojimbo",
-                "movies",
-                "like"
-            ],
-            "about_page_link": "https://www.google.com/search?q=About+https://www.taste.io/movies/like/yojimbo-1961-ByHue_Q37G&tbm=ilp",
-            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.taste.io%2Fmovies%2Flike%2Fyojimbo-1961-ByHue_Q37G",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:pUnSRZ-C9WsJ:https://www.taste.io/movies/like/yojimbo-1961-ByHue_Q37G&cd=34&hl=en&ct=clnk&gl=us",
-            "source": "Taste.io"
-        },
-        {
-            "position": 8,
-            "title": "Yojimbo | Samurai, Bushido, Kurosawa",
-            "link": "https://www.britannica.com/topic/Yojimbo",
-            "displayed_link": "https://www.britannica.com \u203a ... \u203a Movies",
-            "favicon": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/33b316b16adb33094d08d523dbc9748c3a10f01bf5a3538b74ef2e278c87b487.png",
-            "date": "Sep 2, 2023",
-            "snippet": "It was inspired by Dashiell Hammett's detective novels, including Red Harvest (1929) and The Glass Key (1931), and was patterned after American ...",
-            "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/topic/Yojimbo&tbm=ilp",
-            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.britannica.com%2Ftopic%2FYojimbo",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:E6tUFjfEwcEJ:https://www.britannica.com/topic/Yojimbo&cd=35&hl=en&ct=clnk&gl=us",
-            "source": "Britannica"
-        },
-        {
-            "position": 9,
-            "title": "Get in the Basement with The Cinematic Maniac",
-            "link": "https://www.moviejawn.com/home/2022/9/get-in-the-basement",
-            "displayed_link": "https://www.moviejawn.com \u203a home \u203a get-in-the-base...",
-            "favicon": "https://serpapi.com/searches/651f98335c10599b2377eadc/images/33b316b16adb33094d08d523dbc9748c3ee682056d7db609277fcea3caa3a8a5.jpeg",
-            "date": "Sep 22, 2022",
-            "snippet": "Yojimbo (dir. Akira Kurosawa. Starring Toshiro Mifune. \u00b7 A Fistful of Dollars (dir. Sergio Leone. Starring Clint Eastwood. \u00b7 Last Man Standing ( ...",
-            "snippet_highlighted_words": [
-                "Yojimbo"
-            ],
-            "about_page_link": "https://www.google.com/search?q=About+https://www.moviejawn.com/home/2022/9/get-in-the-basement&tbm=ilp",
-            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.moviejawn.com%2Fhome%2F2022%2F9%2Fget-in-the-basement",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:g2PSDQzBYuQJ:https://www.moviejawn.com/home/2022/9/get-in-the-basement&cd=36&hl=en&ct=clnk&gl=us",
-            "source": "Moviejawn"
         }
     ],
     "related_searches": [
         {
             "block_position": 1,
-            "query": "Kurosawa films",
-            "items": [
-                {
-                    "name": "A Fistful of Dollars",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr4I9aFo6SOv3cORlio489htwPnZdLIa9iKBgphA&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=A+Fistful+of+Dollars&stick=H4sIAAAAAAAAAOOQUeLUz9U3MLKoyjA04ssuLcovTixPVEjLzMktjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4wIXVC2YUlyhgWMbZFTZA5jW-YVlJ9i5ACxzQvNLaDMbKNcM5hoUUkaTHFemaUplG1sapxkCRPPLslO-cXI543ivgYWxkWsIo4KbpnFJWmlOQr5aQou-Tk5iUXFt9gkGQ5cyVzy60TSPj01zgkJOZwmG2ZyfD_MsusSAGHybZnzAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAB6BAhLEAI",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=A+Fistful+of+Dollars&stick=H4sIAAAAAAAAAOOQUeLUz9U3MLKoyjA04ssuLcovTixPVEjLzMktjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4wIXVC2YUlyhgWMbZFTZA5jW-YVlJ9i5ACxzQvNLaDMbKNcM5hoUUkaTHFemaUplG1sapxkCRPPLslO-cXI543ivgYWxkWsIo4KbpnFJWmlOQr5aQou-Tk5iUXFt9gkGQ5cyVzy60TSPj01zgkJOZwmG2ZyfD_MsusSAGHybZnzAAAA"
-                },
-                {
-                    "name": "Yojimbo",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVhGY-HZcoUTJtwftAzWiuIj1o5m9sAxbv6uzj9w&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=Yojimbo&stick=H4sIAAAAAAAAAOOQUeLUz9U3MCxJzrAw4ssuLcovTixPVEjLzMktjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4xgXUYWVRmGUDbYBBjbIqfIHMa2zCsoP8XIAWKbF5pbQJnZRrlmMNGikjSY4rwyS1Mo29jUOMkSJp5dkp3yi5HPG8V9DSyMi1jZI_OzMnOT8m-xSTIcuJK55NeJpH16apwTEnI4TTbM5Ph-mGXXJQADTrlq5gAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAF6BAhLEAM",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Yojimbo&stick=H4sIAAAAAAAAAOOQUeLUz9U3MCxJzrAw4ssuLcovTixPVEjLzMktjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4xgXUYWVRmGUDbYBBjbIqfIHMa2zCsoP8XIAWKbF5pbQJnZRrlmMNGikjSY4rwyS1Mo29jUOMkSJp5dkp3yi5HPG8V9DSyMi1jZI_OzMnOT8m-xSTIcuJK55NeJpH16apwTEnI4TTbM5Ph-mGXXJQADTrlq5gAAAA"
-                },
-                {
-                    "name": "Sanjuro",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ImG7ARaU3ydCsXVgt2A4_iZHBIfvHZQ7k8qOdw&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=Sanjuro&stick=H4sIAAAAAAAAAOOQUeLUz9U3MLTIKTI34ssuLcovTixPVEjLzMktjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4xgXUYWVRmGULZhSXKGBYwNMg3GtswrKD_FyAFimxeaW0CZ2Ua5ZjDRopI0mOK8MktTKNvY1DjJEiaeXZKd8ouRzxvFfQ0sjItY2YMT87KAwrfYJBkOXMlc8utE0j49Nc4JCTmcJhtmcnw_zLLrEgBFhBhT5gAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAJ6BAhLEAQ",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sanjuro&stick=H4sIAAAAAAAAAOOQUeLUz9U3MLTIKTI34ssuLcovTixPVEjLzMktjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4xgXUYWVRmGULZhSXKGBYwNMg3GtswrKD_FyAFimxeaW0CZ2Ua5ZjDRopI0mOK8MktTKNvY1DjJEiaeXZKd8ouRzxvFfQ0sjItY2YMT87KAwrfYJBkOXMlc8utE0j49Nc4JCTmcJhtmcnw_zLLrEgBFhBhT5gAAAA"
-                },
-                {
-                    "name": "Rashomon",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2y8QD9_u4NwLunOnJzud1LnIac_0ugD9b4XosNQ&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=Rashomon&stick=H4sIAAAAAAAAAOOQUeLUz9U3MLTMKyg34ssuLcovTixPVEjLzMktjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4xgXUYWVRmGULZhSXKGBYxtkVNkDmODTD7FyAFimxeaW0CZ2Ua5ZjDRopI0mOK8MktTKNvY1DjJEiaeXZKd8ouRzxvFfQ0sjItYOYISizPyc_PzbrFJMhy4krnk14mkfXpqnBMScjhNNszk-H6YZdclAKcAh5TnAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAN6BAhLEAU",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Rashomon&stick=H4sIAAAAAAAAAOOQUeLUz9U3MLTMKyg34ssuLcovTixPVEjLzMktjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4xgXUYWVRmGULZhSXKGBYxtkVNkDmODTD7FyAFimxeaW0CZ2Ua5ZjDRopI0mOK8MktTKNvY1DjJEiaeXZKd8ouRzxvFfQ0sjItYOYISizPyc_PzbrFJMhy4krnk14mkfXpqnBMScjhNNszk-H6YZdclAKcAh5TnAAAA"
-                },
-                {
-                    "name": "Seven Samurai",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwXRGK3X1fWjnvp4Ju-ux8cNXPA3-wfa-7P05_Rw&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=Seven+Samurai&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC80tzDiyy4tyi9OLE9USMvMyS2Okog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjJwgTUYWVRmGULZhSXKGBYxtkVNkDmNb5hWUn2KEWwJlZhvlmsFEi0rSYIrzyixNoWxjU-MkS5h4dkl2yi9GPm8U9zWwMC5i5Q1OLUvNUwhOzC0tSsy8xSbJcOBK5pJfJ5L26alxTkjI4TTZMJPj-2GWXZcAPO_cm-sAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAR6BAhLEAY",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Seven+Samurai&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC80tzDiyy4tyi9OLE9USMvMyS2Okog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjJwgTUYWVRmGULZhSXKGBYxtkVNkDmNb5hWUn2KEWwJlZhvlmsFEi0rSYIrzyixNoWxjU-MkS5h4dkl2yi9GPm8U9zWwMC5i5Q1OLUvNUwhOzC0tSsy8xSbJcOBK5pJfJ5L26alxTkjI4TTZMJPj-2GWXZcAPO_cm-sAAAA"
-                },
-                {
-                    "name": "Ran",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQan4I693-GvWk0auqlTj5sYXEXLpOFg-wk7O0RSw&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=Ran+(film)&stick=H4sIAAAAAAAAAOOQUeLQz9U3yDbKNTPiyy4tyi9OLE9USMvMyS2Okog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjJwgTUYWVRmGULZhSXKGBYxtkVNkDmNb5hWUn2IEW2JeaG4BZYLsg4kWlaTBFOeVWZpC2camxkmWMPHskuyUX4x83ijua2BhXMTKFZSYp6AB4mveYpNkOHAlc8mvE0n79NQ4JyTkcJpsmMnx_TDLrksAXQxLEugAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAV6BAhLEAc",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Ran+%28film%29&stick=H4sIAAAAAAAAAOOQUeLQz9U3yDbKNTPiyy4tyi9OLE9USMvMyS2Okog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjJwgTUYWVRmGULZhSXKGBYxtkVNkDmNb5hWUn2IEW2JeaG4BZYLsg4kWlaTBFOeVWZpC2camxkmWMPHskuyUX4x83ijua2BhXMTKFZSYp6AB4mveYpNkOHAlc8mvE0n79NQ4JyTkcJpsmMnx_TDLrksAXQxLEugAAAA"
-                }
-            ],
-            "link": "https://www.google.com/search?sca_esv=571184275&q=Kurosawa+films&stick=H4sIAAAAAAAAAOOQMeLLLi3KL04sT1RIy8zJLY6SiDy8JSszL-nwFoWi1JzEktQUhdz8sszU4lOMnPq5-gZGFlUZhlC2YUlyhgWMbZFTZA5jW-YVlJ9i5ACxzQvNLaDMbKNcM5hoUUkaTHFemaUplG1sapxkCRPPLslO-cXI543ivgYWxkWsaGK32CQZDlzJXPLrRNI-PTXOCQk5nCYbZnJ8P8yy6xIAlYkt0uIAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q4qYDegQISxAI",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Kurosawa+films&stick=H4sIAAAAAAAAAOOQMeLLLi3KL04sT1RIy8zJLY6SiDy8JSszL-nwFoWi1JzEktQUhdz8sszU4lOMnPq5-gZGFlUZhlC2YUlyhgWMbZFTZA5jW-YVlJ9i5ACxzQvNLaDMbKNcM5hoUUkaTHFemaUplG1sapxkCRPPLslO-cXI543ivgYWxkWsaGK32CQZDlzJXPLrRNI-PTXOCQk5nCYbZnJ8P8yy6xIAlYkt0uIAAAA"
+            "query": "Hacksaw ridge related movies on netflix",
+            "link": "https://www.google.com/search?sca_esv=571547253&q=Hacksaw+ridge+related+movies+on+netflix&sa=X&ved=2ahUKEwimhdOS7eOBAxVjnGoFHYNVC2gQ1QJ6BAhDEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hacksaw+ridge+related+movies+on+netflix"
         },
         {
             "block_position": 1,
-            "query": "Yojimbo adaptations",
-            "items": [
-                {
-                    "name": "Last Man Standing",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFgoRieGUYkcmRP3e5YS4VTXkAIxsh2N7o4_w84A&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=Last+Man+Standing+1996&stick=H4sIAAAAAAAAAOOQUeLUz9U3sMgyM6o0Eq7Mz8rMTcpXSExJLChJLMnMzyuOkog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjGCtRhZVGYZQNtiYU4xcYHHzkjQLcyjHxNA4JbcMqirNMt4o_RejcCSmbQ0sjItYxXwSi0sUfBPzFIJLEvNSMvPSFQwtLc1usUkyHLiSucRyddg_rfu_GffxN71i-hFmyGVfmAsAFciVYsgAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAB6BAhMEAI",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Last+Man+Standing+1996&stick=H4sIAAAAAAAAAOOQUeLUz9U3sMgyM6o0Eq7Mz8rMTcpXSExJLChJLMnMzyuOkog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjGCtRhZVGYZQNtiYU4xcYHHzkjQLcyjHxNA4JbcMqirNMt4o_RejcCSmbQ0sjItYxXwSi0sUfBPzFIJLEvNSMvPSFQwtLc1usUkyHLiSucRyddg_rfu_GffxN71i-hFmyGVfmAsAFciVYsgAAAA"
-                },
-                {
-                    "name": "Sukiyaki Western Django",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLGV46Qvces5mFffEN6jOS15X7rvssw4gwsocBqw&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=Sukiyaki+Western+Django&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDIvSbMwNxKuzM_KzE3KV0hMSSwoSSzJzM8rjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4ycYL0WVRmGULZFlplR5SlGJDOhHBND45TcMqiqNMt4o_RfjMKRmLY1sDAuYhUPLs3OrEzMzlQITy0uSS3KU3DJSsxLz7_FJslw4ErmEsvVYf-07v9m3Mff9IrpR5ghl31hLgAmns4cygAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAF6BAhMEAM",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sukiyaki+Western+Django&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDIvSbMwNxKuzM_KzE3KV0hMSSwoSSzJzM8rjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4ycYL0WVRmGULZFlplR5SlGJDOhHBND45TcMqiqNMt4o_RfjMKRmLY1sDAuYhUPLs3OrEzMzlQITy0uSS3KU3DJSsxLz7_FJslw4ErmEsvVYf-07v9m3Mff9IrpR5ghl31hLgAmns4cygAAAA"
-                },
-                {
-                    "name": "Inferno",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnFGktt1BSq_Sco94dU9gcQpQ8wjE5j92YF0gmnw&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=Inferno+1999&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDE0TsktMxKuzM_KzE3KV0hMSSwoSSzJzM8rjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4ycIL1GFlUZhlC2RZaZUeUpRrCZRuYlaRbmUA7EAqiqNMt4o_RfjMKRmLY1sDAuYuXxzEtLLcrLVzC0tLS8xSbJcOBK5hLL1WH_tO7_ZtzH3_SK6UeYIZd9YS4AVm-dhb8AAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAJ6BAhMEAQ",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Inferno+1999&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDE0TsktMxKuzM_KzE3KV0hMSSwoSSzJzM8rjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4ycIL1GFlUZhlC2RZaZUeUpRrCZRuYlaRbmUA7EAqiqNMt4o_RfjMKRmLY1sDAuYuXxzEtLLcrLVzC0tLS8xSbJcOBK5hLL1WH_tO7_ZtzH3_SK6UeYIZd9YS4AVm-dhb8AAAA"
-                },
-                {
-                    "name": "Omega Doom",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkfAMjSFJ70xh-rjr0GEKUAzIRKgoGZ_F8y2FzCQ&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=Omega+Doom&stick=H4sIAAAAAAAAAOOQUeLUz9U3SLOMN0o3Eq7Mz8rMTcpXSExJLChJLMnMzyuOkog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjGCtRhZVGYZQtkWWmVHlKUYusLh5SZqFOZRjYmicklsGVQW27BejcCSmbQ0sjItYufxzU9MTFVzy83NvsUkyHLiSucRyddg_rfu_GffxN71i-hFmyGVfmAsAToTaK7wAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAN6BAhMEAU",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Omega+Doom&stick=H4sIAAAAAAAAAOOQUeLUz9U3SLOMN0o3Eq7Mz8rMTcpXSExJLChJLMnMzyuOkog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjGCtRhZVGYZQtkWWmVHlKUYusLh5SZqFOZRjYmicklsGVQW27BejcCSmbQ0sjItYufxzU9MTFVzy83NvsUkyHLiSucRyddg_rfu_GffxN71i-hFmyGVfmAsAToTaK7wAAAA"
-                },
-                {
-                    "name": "A Fistful of Dollars",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr4I9aFo6SOv3cORlio489htwPnZdLIa9iKBgphA&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=A+Fistful+of+Dollars&stick=H4sIAAAAAAAAAOOQUeLUz9U3MLKoyjA0Eq7Mz8rMTcpXSExJLChJLMnMzyuOkog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjAitULZFlplR5SlGLrC4eUmahTmUY2JonJJbBlWVZhlvlP6LUTgS07YGFsZFrCKOCm6ZxSVppTkK-WkKLvk5OYlFxbfYJBkOXMlcYrk67J_W_d-M-_ibXjH9CDPksi_MBQD781YexgAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAR6BAhMEAY",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=A+Fistful+of+Dollars&stick=H4sIAAAAAAAAAOOQUeLUz9U3MLKoyjA0Eq7Mz8rMTcpXSExJLChJLMnMzyuOkog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjAitULZFlplR5SlGLrC4eUmahTmUY2JonJJbBlWVZhlvlP6LUTgS07YGFsZFrCKOCm6ZxSVppTkK-WkKLvk5OYlFxbfYJBkOXMlcYrk67J_W_d-M-_ibXjH9CDPksi_MBQD781YexgAAAA"
-                }
-            ],
-            "link": "https://www.google.com/search?sca_esv=571184275&q=Yojimbo+adaptations&stick=H4sIAAAAAAAAAOOQMRKuzM_KzE3KV0hMSSwoSSzJzM8rjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4yc-rn6BkYWVRmGULZFlplR5SlGLrC4eUmahTmUY2JonJJbBlWVZhlvlP6LUTgS07YGFsZFrNgkbrFJMhy4krnEcnXYP637vxn38Te9YvoRZshlX5gLALg8A-S6AAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q4qYDegQITBAH",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Yojimbo+adaptations&stick=H4sIAAAAAAAAAOOQMRKuzM_KzE3KV0hMSSwoSSzJzM8rjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4yc-rn6BkYWVRmGULZFlplR5SlGLrC4eUmahTmUY2JonJJbBlWVZhlvlP6LUTgS07YGFsZFrNgkbrFJMhy4krnEcnXYP637vxn38Te9YvoRZshlX5gLALg8A-S6AAAA"
+            "query": "Hacksaw ridge related movies list",
+            "link": "https://www.google.com/search?sca_esv=571547253&q=Hacksaw+ridge+related+movies+list&sa=X&ved=2ahUKEwimhdOS7eOBAxVjnGoFHYNVC2gQ1QJ6BAg-EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hacksaw+ridge+related+movies+list"
         },
         {
             "block_position": 1,
-            "query": "Seven Samurai adaptations",
-            "items": [
-                {
-                    "name": "Samurai 7",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSJl-z7ZJyis7s30tipnBmFcYDKHmYOMlr0E7wnQ&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=Samurai+7&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDHIyC03kixOLUvNUyhOzC0tSsxUSExJLChJLMnMzyuOkog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjAgDTjFygNjmRSVppxh59dP1DQ2TzLONS9JKjGHKkorTMk4xcoHY6Tk5xQXxUIn0MvO0kl-MksFgFwRjuqCBhXERKydMwvwWmyTDgSuZSyabe6187CB_5uVNNpbaAImz1da_MwFV4ZQe1QAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAB6BAhOEAI",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Samurai+7&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDHIyC03kixOLUvNUyhOzC0tSsxUSExJLChJLMnMzyuOkog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjAgDTjFygNjmRSVppxh59dP1DQ2TzLONS9JKjGHKkorTMk4xcoHY6Tk5xQXxUIn0MvO0kl-MksFgFwRjuqCBhXERKydMwvwWmyTDgSuZSyabe6187CB_5uVNNpbaAImz1da_MwFV4ZQe1QAAAA"
-                },
-                {
-                    "name": "The Magnificent Seven",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4uk6ZU3tVXVur4Ew-SDFff60nGhAXa47PGrboIg&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=The+Magnificent+Seven+1960&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC8qSTOSLE4tS81TKE7MLS1KzFRITEksKEksyczPK46SiDy8JSszL-nwFoWi1JzEktQUhdz8sszU4lOMnCD9JgYZueWnGOFmnWLk1U_XNzRMMs82LkkrMYYpSypOyzjFyAVip-fkFBfEQyXSy8zTSn4xSgaDXRCM6YIGFsZFrFIhGakKvonpeZlpmcmpeSUKEOWGlmYGt9gkGQ5cyVwy2dxr5WMH-TMvb7Kx1AZInK22_p0JACDrk0XlAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAF6BAhOEAM",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Magnificent+Seven+1960&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC8qSTOSLE4tS81TKE7MLS1KzFRITEksKEksyczPK46SiDy8JSszL-nwFoWi1JzEktQUhdz8sszU4lOMnCD9JgYZueWnGOFmnWLk1U_XNzRMMs82LkkrMYYpSypOyzjFyAVip-fkFBfEQyXSy8zTSn4xSgaDXRCM6YIGFsZFrFIhGakKvonpeZlpmcmpeSUKEOWGlmYGt9gkGQ5cyVwy2dxr5WMH-TMvb7Kx1AZInK22_p0JACDrk0XlAAAA"
-                },
-                {
-                    "name": "The Magnificent Seven",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlPxReBrnWJnc7nyiwtS1wMUgYNPLbwxAhv_A7gg&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=The+Magnificent+Seven+2016&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwyzzYuSSsxNpIsTi1LzVMoTswtLUrMVEhMSSwoSSzJzM8rjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4yc-rn6BiYGGbnlpxg5QGzzopK0U4yoZsOUJRWnZZxi5AKx03NyigvioRLpZeZpJb8YJYPBLgjGdEEDC-MiVqmQjFQF38T0vMy0zOTUvBIFiHIjA0OzW2ySDAeuZC6ZbO618rGD_JmXN9lYagMkzlZb_84EAL560v3qAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAJ6BAhOEAQ",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Magnificent+Seven+2016&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwyzzYuSSsxNpIsTi1LzVMoTswtLUrMVEhMSSwoSSzJzM8rjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4yc-rn6BiYGGbnlpxg5QGzzopK0U4yoZsOUJRWnZZxi5AKx03NyigvioRLpZeZpJb8YJYPBLgjGdEEDC-MiVqmQjFQF38T0vMy0zOTUvBIFiHIjA0OzW2ySDAeuZC6ZbO618rGD_JmXN9lYagMkzlZb_84EAL560v3qAAAA"
-                },
-                {
-                    "name": "Battle Beyond the Stars",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPN2UvAzIy6AGnEBdQxdw-lw-SKTspRVmb48vheA&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=Battle+Beyond+the+Stars&stick=H4sIAAAAAAAAAOOQUeLUz9U3MEkqTsswkixOLUvNUyhOzC0tSsxUSExJLChJLMnMzyuOkog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjBADDDJyy08xcoDY5kUlaacYefXT9Q0Nk8yzjUvSSoxhykD2nGLkArHTc3KKC-KhEull5mklvxglg8EuCMZ0QQML4yJWcafEkpKcVAWn1Mr8vBSFkoxUheCSxKLiW2ySDAeuZC6ZbO618rGD_JmXN9lYagMkzlZb_84EAAERCgvjAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAN6BAhOEAU",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Battle+Beyond+the+Stars&stick=H4sIAAAAAAAAAOOQUeLUz9U3MEkqTsswkixOLUvNUyhOzC0tSsxUSExJLChJLMnMzyuOkog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjBADDDJyy08xcoDY5kUlaacYefXT9Q0Nk8yzjUvSSoxhykD2nGLkArHTc3KKC-KhEull5mklvxglg8EuCMZ0QQML4yJWcafEkpKcVAWn1Mr8vBSFkoxUheCSxKLiW2ySDAeuZC6ZbO618rGD_JmXN9lYagMkzlZb_84EAAERCgvjAAAA"
-                },
-                {
-                    "name": "The Seven Magnificent Gladiators",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqX9rWWtrs82b2zIEVbjBtmESFocxN-9O4PmC3_w&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=The+Seven+Magnificent+Gladiators&stick=H4sIAAAAAAAAAOOQUeLSz9U3SM_JKS6IN5IsTi1LzVMoTswtLUrMVEhMSSwoSSzJzM8rjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4ycIBNMDDJyy08xcoDY5kUlaacYefXT9Q0Nk8yzjUvSSoxhypKK0zJOMSJZCpVILzNPK_nFKBkMdkEwpgsaWBgXsSqEZKQqQJT4JqbnZaZlJqfmlSi45ySmZCaW5BcV32KTZDhwJXPJZHOvlY8d5M-8vMnGUhsgcbba-ncmAIyHY9rtAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAR6BAhOEAY",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Seven+Magnificent+Gladiators&stick=H4sIAAAAAAAAAOOQUeLSz9U3SM_JKS6IN5IsTi1LzVMoTswtLUrMVEhMSSwoSSzJzM8rjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4ycIBNMDDJyy08xcoDY5kUlaacYefXT9Q0Nk8yzjUvSSoxhypKK0zJOMSJZCpVILzNPK_nFKBkMdkEwpgsaWBgXsSqEZKQqQJT4JqbnZaZlJqfmlSi45ySmZCaW5BcV32KTZDhwJXPJZHOvlY8d5M-8vMnGUhsgcbba-ncmAIyHY9rtAAAA"
-                },
-                {
-                    "name": "The Magnificent Seven",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0UmM3q-vrTf0i3okqBAnulsrpd0ng1TqJ2HWoww&s=0",
-                    "link": "https://www.google.com/search?sca_esv=571184275&q=The+Magnificent+Seven+(TV+series)&stick=H4sIAAAAAAAAAOOQUeLUz9U3SC8zTysxkixOLUvNUyhOzC0tSsxUSExJLChJLMnMzyuOkog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjGADTAwycstPMXKA2OZFJWmnGHn10_UNDZPMs41L0kqMYcqSitMyTjFyge3MySkuiIdKgB3wi1EyGOyCYEwXNLAwLmJVDMlIVfBNTM_LTMtMTs0rUYAo1wgJUyhOLQK6RvMWmyTDgSuZSyabe6187CB_5uVNNpbaAImz1da_MwEPS8vY7QAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Qs9oBKAV6BAhOEAc",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=The+Magnificent+Seven+%28TV+series%29&stick=H4sIAAAAAAAAAOOQUeLUz9U3SC8zTysxkixOLUvNUyhOzC0tSsxUSExJLChJLMnMzyuOkog8vCUrMy_p8BaFotScxJLUFIXc_LLM1OJTjGADTAwycstPMXKA2OZFJWmnGHn10_UNDZPMs41L0kqMYcqSitMyTjFyge3MySkuiIdKgB3wi1EyGOyCYEwXNLAwLmJVDMlIVfBNTM_LTMtMTs0rUYAo1wgJUyhOLQK6RvMWmyTDgSuZSyabe6187CB_5uVNNpbaAImz1da_MwEPS8vY7QAAAA"
-                }
-            ],
-            "link": "https://www.google.com/search?sca_esv=571184275&q=Seven+Samurai+adaptations&stick=H4sIAAAAAAAAAOOQMZIsTi1LzVMoTswtLUrMVEhMSSwoSSzJzM8rjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4yc-rn6BiYGGbnlpxg5QGzzopK0U4y8-un6hoZJ5tnGJWklxjBlScVpGacYuUDs9Jyc4oJ4qER6mXlayS9GyWCwC4IxXdDAwriIFbf0LTZJhgNXMpdMNvda-dhB_szLm2wstQESZ6utf2cCAD6WfJvaAAAA&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q4qYDegQIThAI",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Seven+Samurai+adaptations&stick=H4sIAAAAAAAAAOOQMZIsTi1LzVMoTswtLUrMVEhMSSwoSSzJzM8rjpKIPLwlKzMv6fAWhaLUnMSS1BSF3PyyzNTiU4yc-rn6BiYGGbnlpxg5QGzzopK0U4y8-un6hoZJ5tnGJWklxjBlScVpGacYuUDs9Jyc4oJ4qER6mXlayS9GyWCwC4IxXdDAwriIFbf0LTZJhgNXMpdMNvda-dhB_szLm2wstQESZ6utf2cCAD6WfJvaAAAA"
+            "query": "movies like hacksaw ridge on netflix",
+            "link": "https://www.google.com/search?sca_esv=571547253&q=Movies+like+Hacksaw+Ridge+on+Netflix&sa=X&ved=2ahUKEwimhdOS7eOBAxVjnGoFHYNVC2gQ1QJ6BAg6EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Movies+like+Hacksaw+Ridge+on+Netflix"
         },
         {
             "block_position": 1,
-            "query": "yojimbo",
-            "link": "https://www.google.com/search?sca_esv=571184275&q=Yojimbo&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q1QJ6BAhTEAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Yojimbo"
+            "query": "movies like hacksaw ridge reddit",
+            "link": "https://www.google.com/search?sca_esv=571547253&q=Movies+like+Hacksaw+Ridge+Reddit&sa=X&ved=2ahUKEwimhdOS7eOBAxVjnGoFHYNVC2gQ1QJ6BAg5EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Movies+like+Hacksaw+Ridge+Reddit"
         },
         {
             "block_position": 1,
-            "query": "best samurai movies",
-            "link": "https://www.google.com/search?sca_esv=571184275&q=Best+samurai+movies&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q1QJ6BAhSEAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+samurai+movies"
+            "query": "all quiet on the western front",
+            "link": "https://www.google.com/search?sca_esv=571547253&q=All+Quiet+on+the+Western+Front&sa=X&ved=2ahUKEwimhdOS7eOBAxVjnGoFHYNVC2gQ1QJ6BAg4EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=All+Quiet+on+the+Western+Front"
         },
         {
             "block_position": 1,
-            "query": "yojimbo western remake",
-            "link": "https://www.google.com/search?sca_esv=571184275&q=Yojimbo+Western+remake&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q1QJ6BAhPEAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Yojimbo+Western+remake"
+            "query": "christian movies like hacksaw ridge",
+            "link": "https://www.google.com/search?sca_esv=571547253&q=Christian+movies+like+Hacksaw+Ridge&sa=X&ved=2ahUKEwimhdOS7eOBAxVjnGoFHYNVC2gQ1QJ6BAg3EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Christian+movies+like+Hacksaw+Ridge"
         },
         {
             "block_position": 1,
-            "query": "yojimbo full movie",
-            "link": "https://www.google.com/search?sca_esv=571184275&q=Yojimbo+full+movie&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q1QJ6BAhREAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Yojimbo+full+movie"
+            "query": "hacksaw ridge full movie",
+            "link": "https://www.google.com/search?sca_esv=571547253&q=Hacksaw+Ridge+full+movie&sa=X&ved=2ahUKEwimhdOS7eOBAxVjnGoFHYNVC2gQ1QJ6BAg1EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hacksaw+Ridge+full+movie"
         },
         {
             "block_position": 1,
-            "query": "yojimbo meaning",
-            "link": "https://www.google.com/search?sca_esv=571184275&q=Yojimbo+meaning&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q1QJ6BAhQEAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Yojimbo+meaning"
-        },
-        {
-            "block_position": 1,
-            "query": "yojimbo sequel",
-            "link": "https://www.google.com/search?sca_esv=571184275&q=Yojimbo+sequel&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q1QJ6BAhWEAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Yojimbo+sequel"
-        },
-        {
-            "block_position": 1,
-            "query": "yojimbo unosuke",
-            "link": "https://www.google.com/search?sca_esv=571184275&q=Yojimbo+Unosuke&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q1QJ6BAhVEAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Yojimbo+Unosuke"
-        },
-        {
-            "block_position": 1,
-            "query": "yojimbo characters",
-            "link": "https://www.google.com/search?sca_esv=571184275&q=Yojimbo+characters&sa=X&ved=2ahUKEwjZ8sLB1eCBAxUPl2oFHc14DO4Q1QJ6BAhUEAE",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Yojimbo+characters"
+            "query": "history war movies bollywood",
+            "link": "https://www.google.com/search?sca_esv=571547253&q=History+War+Movies+Bollywood&sa=X&ved=2ahUKEwimhdOS7eOBAxVjnGoFHYNVC2gQ1QJ6BAgvEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=History+War+Movies+Bollywood"
         }
     ],
     "pagination": {
         "current": 1,
-        "next": "https://www.google.com/search?q=Y%C3%B4jinb%C3%B4+related+movies&oq=Y%C3%B4jinb%C3%B4+related+movies&start=10&sourceid=chrome&ie=UTF-8",
+        "next": "https://www.google.com/search?q=Hacksaw+Ridge+related+movies&oq=Hacksaw+Ridge+related+movies&start=10&sourceid=chrome&ie=UTF-8",
         "other_pages": {
-            "2": "https://www.google.com/search?q=Y%C3%B4jinb%C3%B4+related+movies&oq=Y%C3%B4jinb%C3%B4+related+movies&start=10&sourceid=chrome&ie=UTF-8",
-            "3": "https://www.google.com/search?q=Y%C3%B4jinb%C3%B4+related+movies&oq=Y%C3%B4jinb%C3%B4+related+movies&start=20&sourceid=chrome&ie=UTF-8",
-            "4": "https://www.google.com/search?q=Y%C3%B4jinb%C3%B4+related+movies&oq=Y%C3%B4jinb%C3%B4+related+movies&start=30&sourceid=chrome&ie=UTF-8",
-            "5": "https://www.google.com/search?q=Y%C3%B4jinb%C3%B4+related+movies&oq=Y%C3%B4jinb%C3%B4+related+movies&start=40&sourceid=chrome&ie=UTF-8"
+            "2": "https://www.google.com/search?q=Hacksaw+Ridge+related+movies&oq=Hacksaw+Ridge+related+movies&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=Hacksaw+Ridge+related+movies&oq=Hacksaw+Ridge+related+movies&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=Hacksaw+Ridge+related+movies&oq=Hacksaw+Ridge+related+movies&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=Hacksaw+Ridge+related+movies&oq=Hacksaw+Ridge+related+movies&start=40&sourceid=chrome&ie=UTF-8"
         }
     },
     "serpapi_pagination": {
         "current": 1,
-        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Y%C3%B4jinb%C3%B4+related+movies&start=10",
-        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Y%C3%B4jinb%C3%B4+related+movies&start=10",
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hacksaw+Ridge+related+movies&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hacksaw+Ridge+related+movies&start=10",
         "other_pages": {
-            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Y%C3%B4jinb%C3%B4+related+movies&start=10",
-            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Y%C3%B4jinb%C3%B4+related+movies&start=20",
-            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Y%C3%B4jinb%C3%B4+related+movies&start=30",
-            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Y%C3%B4jinb%C3%B4+related+movies&start=40"
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hacksaw+Ridge+related+movies&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hacksaw+Ridge+related+movies&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hacksaw+Ridge+related+movies&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hacksaw+Ridge+related+movies&start=40"
         }
     }
 }

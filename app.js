@@ -273,18 +273,13 @@ app.get('/', function(req, res){
     res.render('pages/index');
 });
 
-app.post('/', function (req, res, next){
-    //get input
+app.get('/result', function (req, res, next){
     let input = req.body['input'];
-
     if (movieNames.includes(input)) {
-
-        execMovieRec(input);
-        var m = readRcmmndPage();
-
-        //render result
-        res.render('pages/result', {movies: m});
+        //execMovieRec(input);
     }
+    var m = readRcmmndPage();
+    res.render('pages/result', {movies: m});
 });
 
 app.listen(PORT, function (err) {
